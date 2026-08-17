@@ -1,0 +1,170 @@
+[
+  {
+    "slug": "action-continuity-choreography",
+    "kind": "shared",
+    "category": "video",
+    "caseCount": 17,
+    "creatorCount": 14
+  },
+  {
+    "slug": "action-continuity-choreography-by-1lcb8j2",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 3,
+    "creatorCount": 1
+  },
+  {
+    "slug": "animation-style-consistency",
+    "kind": "shared",
+    "category": "video",
+    "caseCount": 40,
+    "creatorCount": 32
+  },
+  {
+    "slug": "animation-style-consistency-by-1diwzmp",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 5,
+    "creatorCount": 1
+  },
+  {
+    "slug": "character-style-consistency",
+    "kind": "shared",
+    "category": "image",
+    "caseCount": 18,
+    "creatorCount": 14
+  },
+  {
+    "slug": "character-style-consistency-by-1ronuwr",
+    "kind": "creator_method",
+    "category": "image",
+    "caseCount": 3,
+    "creatorCount": 1
+  },
+  {
+    "slug": "editorial-portrait-composition",
+    "kind": "shared",
+    "category": "image",
+    "caseCount": 28,
+    "creatorCount": 20
+  },
+  {
+    "slug": "editorial-portrait-composition-by-1f0mjj8",
+    "kind": "creator_method",
+    "category": "image",
+    "caseCount": 4,
+    "creatorCount": 1
+  },
+  {
+    "slug": "editorial-portrait-composition-by-s8wxu9",
+    "kind": "creator_method",
+    "category": "image",
+    "caseCount": 3,
+    "creatorCount": 1
+  },
+  {
+    "slug": "landing-page-information-structure",
+    "kind": "shared",
+    "category": "web",
+    "caseCount": 57,
+    "creatorCount": 40
+  },
+  {
+    "slug": "landing-page-information-structure-by-197q59i",
+    "kind": "creator_method",
+    "category": "web",
+    "caseCount": 10,
+    "creatorCount": 1
+  },
+  {
+    "slug": "landing-page-information-structure-by-1kbs468",
+    "kind": "creator_method",
+    "category": "web",
+    "caseCount": 3,
+    "creatorCount": 1
+  },
+  {
+    "slug": "portfolio-story-architecture",
+    "kind": "shared",
+    "category": "web",
+    "caseCount": 16,
+    "creatorCount": 12
+  },
+  {
+    "slug": "portfolio-story-architecture-by-13qd91c",
+    "kind": "creator_method",
+    "category": "web",
+    "caseCount": 5,
+    "creatorCount": 1
+  },
+  {
+    "slug": "poster-information-hierarchy",
+    "kind": "shared",
+    "category": "image",
+    "caseCount": 19,
+    "creatorCount": 13
+  },
+  {
+    "slug": "poster-information-hierarchy-by-1feqfhp",
+    "kind": "creator_method",
+    "category": "image",
+    "caseCount": 7,
+    "creatorCount": 1
+  },
+  {
+    "slug": "pov-vlog-presence",
+    "kind": "shared",
+    "category": "video",
+    "caseCount": 24,
+    "creatorCount": 21
+  },
+  {
+    "slug": "process-transformation-story",
+    "kind": "shared",
+    "category": "video",
+    "caseCount": 13,
+    "creatorCount": 13
+  },
+  {
+    "slug": "product-ad-shot-design",
+    "kind": "shared",
+    "category": "video",
+    "caseCount": 26,
+    "creatorCount": 19
+  },
+  {
+    "slug": "product-ad-shot-design-by-1ktgmlf",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 5,
+    "creatorCount": 1
+  },
+  {
+    "slug": "product-commerce-conversion-page",
+    "kind": "shared",
+    "category": "web",
+    "caseCount": 22,
+    "creatorCount": 17
+  },
+  {
+    "slug": "product-studio-visual",
+    "kind": "shared",
+    "category": "image",
+    "caseCount": 18,
+    "creatorCount": 17
+  },
+  {
+    "slug": "web-3d-motion-hero",
+    "kind": "shared",
+    "category": "web",
+    "caseCount": 32,
+    "creatorCount": 20
+  },
+  {
+    "slug": "web-3d-motion-hero-by-197q59i",
+    "kind": "creator_method",
+    "category": "web",
+    "caseCount": 11,
+    "creatorCount": 1
+  }
+]
