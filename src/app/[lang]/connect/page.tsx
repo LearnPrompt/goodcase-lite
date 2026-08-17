@@ -162,7 +162,7 @@ export default async function ConnectPage({
               : "Skill 与站点共用公开 API，并使用 LearnPrompt Skill 工坊同款跨 Agent 安装器："}
           </p>
           <div className="mt-4">
-            <CodeBlock>{`npx skills add LearnPrompt/goodcaseai --skill goodcase --global --copy --yes --full-depth`}</CodeBlock>
+            <CodeBlock>{`npx skills add LearnPrompt/goodcase-lite --skill goodcase --global --copy --yes --full-depth`}</CodeBlock>
           </div>
           <p className="mt-4 text-sm leading-7 text-[var(--muted)]">
             {isEnglish

@@ -22,7 +22,7 @@ export function getInstallableSkillPackage(slug: string) {
 }
 
 export function getSkillInstallCommand(slug: string) {
-  return `npx skills add LearnPrompt/goodcaseai --skill ${slug} --global --copy --yes --full-depth`;
+  return `npx skills add LearnPrompt/goodcase-lite --skill ${slug} --global --copy --yes --full-depth`;
 }
 
 export function getSkillDownloadPath(slug: string) {
@@ -30,5 +30,5 @@ export function getSkillDownloadPath(slug: string) {
 }
 
 export function getSkillSourceUrl(slug: string) {
-  return `https://github.com/LearnPrompt/goodcaseai/tree/main/skills/generated/${slug}`;
+  return `https://github.com/LearnPrompt/goodcase-lite/tree/main/skills/generated/${slug}`;
 }

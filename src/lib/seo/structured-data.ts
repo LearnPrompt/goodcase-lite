@@ -76,7 +76,7 @@ export function buildOrganizationSchema(): JsonLdNode {
     url: absoluteUrl("/"),
     logo: absoluteUrl("/goodcase-mark.svg"),
     sameAs: [
-      "https://github.com/LearnPrompt/goodcaseai",
+      "https://github.com/LearnPrompt/goodcase-lite",
       "https://www.learnprompt.pro",
     ],
   };

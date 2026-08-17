@@ -38,7 +38,7 @@ export async function GET(
 - Connect docs: ${connectUrl}
 - Case detail: ${SITE_ORIGIN}/api/public/cases/{slug}?locale=en
 - RSS: ${feedUrl}
-- Agent Skill: https://github.com/LearnPrompt/goodcaseai/tree/main/skills/goodcase
+- Agent Skill: https://github.com/LearnPrompt/goodcase-lite/tree/main/skills/goodcase
 
 ## List query
 
@@ -73,7 +73,7 @@ GET ${SITE_ORIGIN}/api/public/cases?category=image&q=poster&take=5&locale=en
 - 接入文档：${connectUrl}
 - 案例详情：${SITE_ORIGIN}/api/public/cases/{slug}?locale=zh-CN
 - RSS：${feedUrl}
-- Agent Skill：https://github.com/LearnPrompt/goodcaseai/tree/main/skills/goodcase
+- Agent Skill：https://github.com/LearnPrompt/goodcase-lite/tree/main/skills/goodcase
 
 ## 列表查询
 
