@@ -1,7 +1,7 @@
 import type { Locale } from "@/i18n/config";
 import type { CaseCategory } from "@/lib/mock-data";
 // 相对路径 + 显式 .ts 后缀（而不是 "@/i18n/messages" / "@/lib/related-cases"）：
-// 这个文件会被 scripts/review/lib/*.test.mjs 用相对路径直接 import（node --test
+// 这个文件会被 内部测试脚本 用相对路径直接 import（node --test
 // 原生跑 TS，不认 tsconfig 的 "@/*" 路径别名），下面两个是本文件第一批值导入
 // （之前全是 import type，编译期整句被抹掉，不受影响），用别名写法会在测试里
 // 报 ERR_MODULE_NOT_FOUND。同样的坑和修法见 src/lib/creator-card-item.ts。

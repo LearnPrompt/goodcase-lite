@@ -1,6 +1,6 @@
 import type { CreatorCardItem } from "@/components/creator-card";
 import type { CreatorItem } from "@/lib/creators";
-// 相对路径 + 显式 .ts 后缀：这个文件会被 scripts/review/lib/*.test.mjs 用相对路径
+// 相对路径 + 显式 .ts 后缀：这个文件会被 内部测试脚本 用相对路径
 // 直接 import（node --test 原生跑 TS，不认 tsconfig 的 "@/*" 路径别名），
 // 之前这里全是 import type（编译期整句被抹掉，不受影响），这是第一个值导入，
 // 用 "@/lib/case-presentation" 会在测试里报 ERR_MODULE_NOT_FOUND。

@@ -17,8 +17,6 @@ import { absoluteUrl, SITE_HOST } from "@/lib/site";
 
 const SHARED_DISALLOW = [
   "/api/",
-  "/operator",
-  "/en/operator",
   "/auth/",
   "/favorites",
   "/en/favorites",

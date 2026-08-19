@@ -1,6 +1,6 @@
 // 公开 API 的 provenance（溯源）字段。
 //
-// 这个模块被 scripts/review/lib/provenance.test.mjs 用纯 node 直接加载，
+// 这个模块被 内部测试脚本 用纯 node 直接加载，
 // 不能引入任何带 "@/" 别名的依赖。
 //
 // 为什么要在响应里单独开一个 provenance 对象

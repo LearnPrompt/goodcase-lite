@@ -1,6 +1,6 @@
 // 内存滑动窗口限流器：免 key 请求的软限。
 //
-// 这个模块被 scripts/review/lib/rate-limit.test.mjs 用纯 node 直接加载，
+// 这个模块被 内部测试脚本 用纯 node 直接加载，
 // 不能引入任何带 "@/" 别名的依赖，也不能 import server-only。
 //
 // 为什么是内存而不是共享存储

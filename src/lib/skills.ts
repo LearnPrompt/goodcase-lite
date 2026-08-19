@@ -1,6 +1,6 @@
 import type { Locale } from "@/i18n/config";
-// 相对路径 + 显式 .ts 后缀：这个文件会被 scripts/ops/lib/skills.test.mjs 和
-// scripts/skills/generate-installable-skills.mjs 用相对路径直接 import
+// 相对路径 + 显式 .ts 后缀：这个文件会被 内部测试脚本 和
+// 内部管线脚本 用相对路径直接 import
 // （node --test 原生跑 TS，不认 tsconfig 的 "@/*" 路径别名）。之前这里只有
 // import type（编译期整句被抹掉，不受影响），这是第一个值导入，
 // 用 "@/lib/case-presentation" 会在测试里报 ERR_MODULE_NOT_FOUND，

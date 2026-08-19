@@ -1,6 +1,6 @@
 // Agent API 的 key 纯逻辑层：明文格式、哈希、请求头提取、日限额判定。
 //
-// 这个模块被 scripts/review/lib/api-keys.test.mjs 用纯 node 直接加载，
+// 这个模块被 内部测试脚本 用纯 node 直接加载，
 // 所以只允许 import node: 内置模块，不能引入任何带 "@/" 别名的依赖，
 // 也不能 import server-only。API route 和签发脚本共用这里的规则，避免两边漂移。
 

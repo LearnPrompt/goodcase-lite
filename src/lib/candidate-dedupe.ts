@@ -1,4 +1,4 @@
-// 与 scripts/ingest-candidates.mjs 保持一致，改动需同步。
+// 与 内部管线脚本 保持一致，改动需同步。
 import { createHash } from "node:crypto";
 
 export type CandidateCategory = "image" | "video" | "web" | "copy" | "hardware";

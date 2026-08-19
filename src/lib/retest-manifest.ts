@@ -3,10 +3,10 @@ import path from "node:path";
 import type { DailyDigestRetestRecord } from "@/lib/daily-digest";
 
 /**
- * 只读 scripts/retest/retest-manifest.json，早报「今日新复测」栏位的兜底数据源。
+ * 只读 复测清单文件(内部管线产物)，早报「今日新复测」栏位的兜底数据源。
  *
  * 故意拆成独立模块、不挂 "server-only"：这个文件要能被
- * scripts/daily/build-digest.mjs 用相对路径 + 显式 .ts 后缀直接 import
+ * 内部管线脚本 用相对路径 + 显式 .ts 后缀直接 import
  * （node 原生跑 TS，不认 tsconfig 的 "@/*" 路径别名，也解析不了 "server-only"
  * 这个只有 Next 打包器认得的虚拟包——src/lib/retest-source.ts 才是真正挂
  * "server-only" 的入口，那个文件只给 Next 页面 / route 用，不会被这里 import）。

@@ -79,7 +79,7 @@ export async function POST(request: Request) {
       `内容：${message}`,
       `联系方式：${contact || "未填写"}`,
       `来源页面：${page || "未记录"}`,
-      `处理入口：${absoluteUrl("/operator?view=feedback")}`,
+      "处理入口：站点后台反馈队列",
     ],
     createdAt: data.created_at,
   });

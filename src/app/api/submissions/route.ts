@@ -232,9 +232,7 @@ export async function POST(request: NextRequest) {
         `原始链接：${url}`,
         `联系方式：${contact || "未填写"}`,
         `Prompt：${prompt ? "已提供" : "未提供"}`,
-        `审核入口：${absoluteUrl(
-          `/operator?candidate=${encodeURIComponent(inserted.id)}`
-        )}`,
+        `审核入口：${`候选 ID:${inserted.id}`}`,
       ],
       createdAt: inserted.created_at,
     });

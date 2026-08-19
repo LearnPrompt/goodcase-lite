@@ -1,6 +1,6 @@
 // 每日早报的选择逻辑。
 //
-// 这个模块被 scripts/review/lib/daily-digest.test.mjs 和 scripts/daily/build-digest.mjs
+// 这个模块被 内部测试脚本
 // 用纯 node 直接加载，所以不能引入任何运行时依赖：带 "@/" 别名的导入在 node 下解析不了，
 // 带扩展名的相对导入又会被 Next 的打包链拒绝。同 src/lib/stability.ts 的约束。
 //
@@ -55,7 +55,7 @@ export type DailyDigestCandidate = {
 };
 
 /**
- * 一条复测证据。字段名故意和 scripts/retest/retest-manifest.json 里
+ * 一条复测证据。字段名故意和 复测清单文件(内部管线产物) 里
  * records[] 的字段同名（slug / testedAt / retestVotes），读 manifest 时
  * 不需要额外做字段映射。model / verdict 只用来在早报里说一句
  * 「复测了什么、结果怎样」，不参与选择排序。

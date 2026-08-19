@@ -1,4 +1,4 @@
-// 这个模块被 scripts/review/lib/stability.test.mjs 用纯 node 直接加载，
+// 这个模块被 内部测试脚本 用纯 node 直接加载，
 // 不能引入任何带 "@/" 别名的运行时依赖，所以 locale 类型和文案都在本地定义。
 // 同一份文案在 src/i18n/messages.ts 的 stability 组里有一份供组件使用，改动请同步。
 type StabilityLocale = "zh-CN" | "en";

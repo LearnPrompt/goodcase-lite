@@ -10,7 +10,7 @@ import path from "node:path";
  * 缩放参数，Vercel Hobby 每月又只含 5000 次图片转换。因此列表用随仓库发布的
  * 400px 缩略图，详情页仍然走原始外链保证高清与视频可播。
  *
- * 缩略图由 scripts/media/build-thumbnails.mjs 离线生成并提交，
+ * 缩略图由 内部管线脚本 离线生成并提交，
  * 这里只做一次同步读取，找不到就返回 undefined 让调用方回退到原始媒体。
  *
  * width / height 是后加的字段，用来决定卡片走 object-cover 还是 object-contain。

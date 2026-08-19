@@ -3,7 +3,7 @@
  *
  * 拆成独立的纯模块，是因为 case-card.tsx 是 "use client" 组件，node 里没法直接渲染，
  * 这段映射只能靠读源码正则去断言——那不是行为测试，改个换行就红。
- * 这里不引入任何运行时依赖，scripts/review/lib/case-card-search-field.test.mjs
+ * 这里不引入任何运行时依赖，内部测试脚本
  * 用纯 node 直接加载，同 src/lib/stability.ts 的约束。
  */
 export type CaseCardSearchFieldLocale = "zh-CN" | "en";

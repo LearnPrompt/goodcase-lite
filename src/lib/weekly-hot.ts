@@ -1,6 +1,6 @@
 // 首页「本周最热」的选择逻辑。
 //
-// 这个模块被 scripts/review/lib/weekly-hot.test.mjs 用纯 node 直接加载，所以不能引入
+// 这个模块被 内部测试脚本 用纯 node 直接加载，所以不能引入
 // 任何运行时依赖：带 "@/" 别名的导入在 node 下解析不了，带扩展名的相对导入又会被
 // Next 的打包链拒绝。同 src/lib/daily-digest.ts 和 src/lib/stability.ts 的约束。
 //

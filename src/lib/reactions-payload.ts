@@ -1,6 +1,6 @@
 // 反应（点赞 / 催复测投票）的纯逻辑层：输入校验、计数聚合、Supabase 错误分类。
 //
-// 这个模块被 scripts/review/lib/reactions-payload.test.mjs 用纯 node 直接加载，
+// 这个模块被 内部测试脚本 用纯 node 直接加载，
 // 不能引入任何带 "@/" 别名的运行时依赖，也不能 import server-only 的东西。
 // API route 和客户端都从这里取校验规则，避免两边规则漂移。
 

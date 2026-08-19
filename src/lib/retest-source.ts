@@ -2,7 +2,7 @@ import "server-only";
 
 // 相对路径 + 显式 .ts 后缀：见 src/lib/creator-card-item.ts 的同款注释。
 // admin-client.ts 自己也挂 "server-only"，这条链路只给 Next 页面 / route 用；
-// scripts/daily/build-digest.mjs 走的是自己内联的一份 DB 查询（见该文件注释），
+// 内部管线脚本 走的是自己内联的一份 DB 查询（见该文件注释），
 // 不 import 这个模块，就是为了不把 "server-only" 带进纯 node 脚本的解析路径。
 import { getAdminSupabaseClient } from "./supabase/admin-client.ts";
 import {
@@ -16,12 +16,12 @@ import type { DailyDigestRetestRecord } from "@/lib/daily-digest";
 /**
  * 早报「今日新复测」栏位的复测证据源。
  *
- * 优先级：case_retests 表 → scripts/retest/retest-manifest.json（repo 内文件，
+ * 优先级：case_retests 表 → 复测清单文件(内部管线产物)（repo 内文件，
  * 读取逻辑见 src/lib/retest-manifest.ts）。
  * 表已经建了（迁移见 supabase/migrations/20260807010000_case_retests.sql），
  * 但截至这次改动，v1 那批复测记录还没回填进去——查表会成功但返回空集，
  * 这和「表不存在」是两种不同的降级触发条件，都要落到 manifest，
- * 少一个分支这个栏位会长期空着。manifest 是 scripts/retest/run-retest.mjs
+ * 少一个分支这个栏位会长期空着。manifest 是 内部测试脚本
  * 落盘的产物，这个模块只读它，不碰那边的执行逻辑。
  *
  * case_retests 表本身不存投票数（迁移里的字段注释说得很清楚：这张表存的是
