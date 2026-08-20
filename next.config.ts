@@ -54,8 +54,8 @@ const securityHeaders = [
  * 按部署隔离，发布触发 Deploy Hook 出新部署，缓存键随之全部换新，不会留陈内容。
  *
  * 三个页面对所有访客渲染结果相同，不读 cookie、不带鉴权，缓存在共享 CDN 上是安全的。
- * 注意这里必须逐条点名路径：/operator/* 是登录态页面，/api/* 有自己的缓存口径，
- * 任何一条写成 /:path* 的通配都会把它们一起缓存掉。
+ * 注意这里必须逐条点名路径：/api/* 有自己的缓存口径，登录态或个性化页面也
+ * 不能进共享缓存，任何一条写成 /:path* 的通配都会把它们一起缓存掉。
  */
 const CACHEABLE_LIST_PATHS = ["/cases", "/skills", "/creators"];
 
