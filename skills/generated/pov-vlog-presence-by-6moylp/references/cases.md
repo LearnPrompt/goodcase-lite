@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to TechHalla. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to techhalla. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -8,8 +8,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E1 · 90s West Coast Documentary Realism
 
-- Creator: TechHalla
-- Evidence: [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) · [finished media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) · [poster](https://media.goodcase.ai/media/poster/90s-west-coast-documentary-realism.jpg) · [original source](https://x.com/i/status/2086469019146592294)
+- Creator: @techhalla
+- Evidence: [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) · [finished media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) · [poster](https://media.goodcase.ai/media/poster/90s-west-coast-documentary-realism.jpg) · [original source](https://x.com/techhalla/status/2086469019146592294)
 - Summary: A highly detailed, professional multi-section script for generating a 16mm handheld documentary video with realistic West Coast vibes.
 - Prompt excerpt:
 
@@ -17,8 +17,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E2 · 网红奢华别墅探店
 
-- Creator: TechHalla
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-80317051f9f3) · [finished media](https://media.goodcase.ai/media/video/case-80317051f9f3.mp4) · [poster](https://media.goodcase.ai/media/poster/case-80317051f9f3.jpg) · [original source](https://x.com/i/status/2077516915195736088)
+- Creator: @techhalla
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-80317051f9f3) · [finished media](https://media.goodcase.ai/media/video/case-80317051f9f3.mp4) · [poster](https://media.goodcase.ai/media/poster/case-80317051f9f3.jpg) · [original source](https://x.com/techhalla/status/2077516915195736088)
 - Summary: 一份详尽的多镜头视频提示词，模拟 iPhone 16 Pro 拍摄效果，展示一位女性网红介绍现代悬崖别墅的过程，包含具体对话和时间轴转场。
 - Prompt excerpt:
 
@@ -65,8 +65,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 90s West Coast Documentary Realism | TechHalla | [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) | [Media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) | [Original](https://x.com/i/status/2086469019146592294) | E1 |
-| 网红奢华别墅探店 | TechHalla | [GoodCase](https://goodcase.ai/cases/case-80317051f9f3) | [Media](https://media.goodcase.ai/media/video/case-80317051f9f3.mp4) | [Original](https://x.com/i/status/2077516915195736088) | E2 |
+| 90s West Coast Documentary Realism | @techhalla | [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) | [Media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) | [Original](https://x.com/techhalla/status/2086469019146592294) | E1 |
+| 网红奢华别墅探店 | @techhalla | [GoodCase](https://goodcase.ai/cases/case-80317051f9f3) | [Media](https://media.goodcase.ai/media/video/case-80317051f9f3.mp4) | [Original](https://x.com/techhalla/status/2077516915195736088) | E2 |
 | Seedance 2.5 生成马尔代夫骑行纪录片长镜头 | @techhalla | [GoodCase](https://goodcase.ai/cases/seedance-2-5-f3651857750b) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-f3651857750b.mp4) | [Original](https://x.com/techhalla/status/2088099038839316601) | E3 |
 
 ## Derivation boundary

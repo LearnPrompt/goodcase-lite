@@ -55,8 +55,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E4 · 魔幻都市奇幻战斗动画
 
-- Creator: mayv@簡単プロ級プロンプト公開中！
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) · [finished media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) · [poster](https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg) · [original source](https://x.com/i/status/2080976327231107259)
+- Creator: @haruuraeadss
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) · [finished media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) · [poster](https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg) · [original source](https://x.com/haruuraeadss/status/2080976327231107259)
 - Summary: 一个设定在雨中魔幻都市的史诗级高奇幻动漫战斗提示词。包含涉及多个魔法门和针对巨龙的射线攻击等复杂视觉特效，侧重于影院级质量和 3D 卡通渲染美学。
 - Prompt excerpt:
 
@@ -79,8 +79,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E5 · 赛博朋克赛博之刃战斗
 
-- Creator: LUCY
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) · [finished media](https://media.goodcase.ai/media/video/case-1a9a2c659866.mp4) · [poster](https://media.goodcase.ai/media/poster/case-1a9a2c659866.jpg) · [original source](https://x.com/i/status/2080628740955218120)
+- Creator: @luxaios
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) · [finished media](https://media.goodcase.ai/media/video/case-1a9a2c659866.mp4) · [poster](https://media.goodcase.ai/media/poster/case-1a9a2c659866.jpg) · [original source](https://x.com/luxaios/status/2080628740955218120)
 - Summary: 一个为 Seedance 2.0 设计的电影级战斗提示词，主角是一位身处反乌托邦工业城市的银发青年，展现精准的剑术动作和数字粒子特效。
 - Prompt excerpt:
 
@@ -110,8 +110,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E6 · 动画海盗动作序列
 
-- Creator: Shara I Ai Video Creator
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) · [finished media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg) · [original source](https://x.com/i/status/2079565454436426187)
+- Creator: @itsshara_ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) · [finished media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg) · [original source](https://x.com/itsshara_ai/status/2079565454436426187)
 - Summary: 一个风格化的 2D 动画提示词，用于表现暴风雨中大帆船上的高强度海盗战斗序列，包含多个角色视角和快节奏动作。
 - Prompt excerpt:
 
@@ -129,8 +129,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E7 · 凤凰骑士变身序列
 
-- Creator: LudovicCreator
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) · [finished media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg) · [original source](https://x.com/i/status/2081092171428401560)
+- Creator: @LudovicCreator
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) · [finished media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg) · [original source](https://x.com/LudovicCreator/status/2081092171428401560)
 - Summary: 一段详细的魔法变身序列电影级提示词，尽管文中将其归功于其他模型。
 - Prompt excerpt:
 
@@ -138,31 +138,48 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Made  in @LumaLabsAI #LumaCPP
 
-### E8 · 武术对决电影感场景
+### E8 · 屋顶追逐动作短语
 
-- Creator: zayan
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-79df387a127e) · [finished media](https://media.goodcase.ai/media/video/case-79df387a127e.mp4) · [poster](https://media.goodcase.ai/media/poster/case-79df387a127e.jpg) · [original source](https://x.com/i/status/2080905186055467029)
-- Summary: 一个关于在废墟寺庙中进行高强度武术对决的详细电影感提示词，包含写实的战斗机制和动态运镜。
+- Creator: @LANDCASTER_92
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) · [finished media](https://media.goodcase.ai/media/video/case-8f7479c32251.mp4) · [poster](https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg) · [original source](https://x.com/LANDCASTER_92/status/2081432738683314614)
+- Summary: 针对 Seedance 2.0 的详细动作短语，描述了一个角色在聚光灯下于屋顶边缘蹲伏并跃过缝隙的追逐场景。
 - Prompt excerpt:
 
-> Style: Brutal martial arts duel, no weapons, realistic combat, elite warrior level, lightning-fast choreography, readable action, no comedy, no floating, no anime physics, every hit carries weight and momentum.
+> Urban Escape Scene
 >
-> Cinematic Style: ARRI Alexa Mini LF, anamorphic lens, professional action cinematography, dynamic camera language, layered composition, deep composition, high-speed action film pacing, cinematic motion blur, dramatic volumetric lighting, dust, debris, realistic body mechanics.
+> Models ( GPT Image-2 + Seedance 2.0)
 >
-> Shot 1 (0s-2s)
-> Extreme wide shot, ruined stone temple interior, foreground broken pillars framing both fighters on opposite sides of the frame using rule-of-thirds composition. Low-angle push-in. Wind blows through the temple. Both warriors instantly explode into motion and sprint toward each other at full speed.
+> Seedance Prompts 2/3
 >
-> Shot 2 (2s-4s)
-> Tracking side shot. @image1 launches a flying spinning kick. @image2 ducks underneath at the last second. Camera whip-pans with the movement. Dust erupts from the floor. Fast but readable action.
+> MOTION PHRASES:
 >
-> Shot 3 (4s-6s)
-> Dynamic orbit shot. @image2 grabs @image1's leg mid-air, pivots his hips, and throws him across the temple floor. @image1 lands on one hand, uses the momentum to perform a full backflip recovery without stopping. Camera follows continuously.
+> P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
 >
-> Shot 4 (6s-8s)
-> Split lens composition. @image1 sharp in foreground charging forward while @image2 remains equally sharp in the distant background preparing a counterattack. Both collide in a rapid exchange of punches, elbows, knees, and spinning strikes. Camera aggressively pushes through the action.
+> P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
 >
-> Shot 5 (8s-10s)
-> Low-…
+> P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
+>
+> P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
+>
+> P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
+>
+> P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
+>
+> P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
+>
+> P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
+>
+> P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
+>
+> Seedance Prompts 3/3
+>
+> MOTION PHRASES:
+>
+> P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
+>
+> P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
+>
+> P03: Vex cuts into a narrow market alley, threading betw…
 
 ## Evidence index
 
@@ -171,23 +188,23 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5） | 袋鼠帝 | [GoodCase](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a) | [Media](https://media.goodcase.ai/cases/bcf271199025.mp4) | [Original](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-3dcg-battle) | E1 |
 | Seedance 2.5 地下设施超写实动作戏 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-0084e9601557) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-0084e9601557.mp4) | [Original](https://x.com/AiwithElisia/status/2089580979560337437) | E2 |
 | 韩国夏日巷弄里的橙子追逐 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-caefe71f7aab) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-caefe71f7aab.mp4) | [Original](https://x.com/AIwithkhan/status/2093659312212291914) | E3 |
-| 魔幻都市奇幻战斗动画 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/i/status/2080976327231107259) | E4 |
-| 赛博朋克赛博之刃战斗 | LUCY | [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) | [Media](https://media.goodcase.ai/media/video/case-1a9a2c659866.mp4) | [Original](https://x.com/i/status/2080628740955218120) | E5 |
-| 动画海盗动作序列 | Shara I Ai Video Creator | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/i/status/2079565454436426187) | E6 |
-| 凤凰骑士变身序列 | LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/i/status/2081092171428401560) | E7 |
-| 武术对决电影感场景 | zayan | [GoodCase](https://goodcase.ai/cases/case-79df387a127e) | [Media](https://media.goodcase.ai/media/video/case-79df387a127e.mp4) | [Original](https://x.com/i/status/2080905186055467029) | E8 |
-| 屋顶追逐动作短语 | LANDCÄSTER | [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) | [Media](https://media.goodcase.ai/media/video/case-8f7479c32251.mp4) | [Original](https://x.com/i/status/2081432738683314614) | E— |
-| 电影级未来感动漫剑术对决 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) | [Media](https://media.goodcase.ai/media/video/case-a9ab0266f96a.mp4) | [Original](https://x.com/i/status/2081317622927577411) | E— |
-| 废墟之桥上的史诗骑士之战 | Pierrick Chevallier \| IA | [GoodCase](https://goodcase.ai/cases/case-b1405ee458d3) | [Media](https://media.goodcase.ai/media/video/case-b1405ee458d3.mp4) | [Original](https://x.com/i/status/2081031751598535092) | E— |
-| 多元宇宙维度传送门坠落 | Nabab Uddin | [GoodCase](https://goodcase.ai/cases/case-b8e777843103) | [Media](https://media.goodcase.ai/media/video/case-b8e777843103.mp4) | [Original](https://x.com/i/status/2079428121133240602) | E— |
-| 角斗场决斗动作 | Hero Syndicate | [GoodCase](https://goodcase.ai/cases/case-c0cf557563b7) | [Media](https://media.goodcase.ai/media/video/case-c0cf557563b7.mp4) | [Original](https://x.com/i/status/2081137523536109682) | E— |
-| 电影级动漫魔法剑战 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-c32e6c3bb2c5) | [Media](https://media.goodcase.ai/media/video/case-c32e6c3bb2c5.mp4) | [Original](https://x.com/i/status/2080539077603172597) | E— |
-| 传奇骑士堡垒之战 | Pierrick Chevallier \| IA | [GoodCase](https://goodcase.ai/cases/case-c726edc4268d) | [Media](https://media.goodcase.ai/media/video/case-c726edc4268d.mp4) | [Original](https://x.com/i/status/2080306973220725206) | E— |
-| 珠宝精品店武术动作大片 | Mimu \| AI Tools & News | [GoodCase](https://goodcase.ai/cases/case-d0f11d1ff17c) | [Media](https://media.goodcase.ai/cases/829eb48c60a3.mp4) | [Original](https://x.com/i/status/2091215411341930633) | E— |
-| 夜间追逐电影级镜头 | BMX | [GoodCase](https://goodcase.ai/cases/case-d30f8318a084) | [Media](https://media.goodcase.ai/media/video/case-d30f8318a084.mp4) | [Original](https://x.com/i/status/2081091640857702427) | E— |
-| 黑板火柴人空手道对决 | MrDejie | [GoodCase](https://goodcase.ai/cases/case-de248f679b06) | [Media](https://media.goodcase.ai/media/video/case-de248f679b06.mp4) | [Original](https://x.com/i/status/2079463899305476233) | E— |
-| 硬核卡特尔藏身处动作场景 | Aaliyah \| AI | [GoodCase](https://goodcase.ai/cases/case-f6a1af7d22b1) | [Media](https://media.goodcase.ai/cases/396d658b3809.mp4) | [Original](https://x.com/i/status/2095083714120229230) | E— |
-| 武术巷战场景 | KeorUnreal | [GoodCase](https://goodcase.ai/cases/case-f7e7c1862f38) | [Media](https://media.goodcase.ai/media/video/case-f7e7c1862f38.mp4) | [Original](https://x.com/i/status/2081477878349246776) | E— |
+| 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E4 |
+| 赛博朋克赛博之刃战斗 | @luxaios | [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) | [Media](https://media.goodcase.ai/media/video/case-1a9a2c659866.mp4) | [Original](https://x.com/luxaios/status/2080628740955218120) | E5 |
+| 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E6 |
+| 凤凰骑士变身序列 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/LudovicCreator/status/2081092171428401560) | E7 |
+| 屋顶追逐动作短语 | @LANDCASTER_92 | [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) | [Media](https://media.goodcase.ai/media/video/case-8f7479c32251.mp4) | [Original](https://x.com/LANDCASTER_92/status/2081432738683314614) | E8 |
+| 电影级未来感动漫剑术对决 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) | [Media](https://media.goodcase.ai/media/video/case-a9ab0266f96a.mp4) | [Original](https://x.com/haruuraeadss/status/2081317622927577411) | E— |
+| 废墟之桥上的史诗骑士之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-b1405ee458d3) | [Media](https://media.goodcase.ai/media/video/case-b1405ee458d3.mp4) | [Original](https://x.com/CharaspowerAI/status/2081031751598535092) | E— |
+| 多元宇宙维度传送门坠落 | @NababUddin2 | [GoodCase](https://goodcase.ai/cases/case-b8e777843103) | [Media](https://media.goodcase.ai/media/video/case-b8e777843103.mp4) | [Original](https://x.com/NababUddin2/status/2079428121133240602) | E— |
+| 角斗场决斗动作 | @viperstudios4 | [GoodCase](https://goodcase.ai/cases/case-c0cf557563b7) | [Media](https://media.goodcase.ai/media/video/case-c0cf557563b7.mp4) | [Original](https://x.com/viperstudios4/status/2081137523536109682) | E— |
+| 电影级动漫魔法剑战 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-c32e6c3bb2c5) | [Media](https://media.goodcase.ai/media/video/case-c32e6c3bb2c5.mp4) | [Original](https://x.com/haruuraeadss/status/2080539077603172597) | E— |
+| 传奇骑士堡垒之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-c726edc4268d) | [Media](https://media.goodcase.ai/media/video/case-c726edc4268d.mp4) | [Original](https://x.com/CharaspowerAI/status/2080306973220725206) | E— |
+| 珠宝精品店武术动作大片 | @mimu_ai1 | [GoodCase](https://goodcase.ai/cases/case-d0f11d1ff17c) | [Media](https://media.goodcase.ai/cases/829eb48c60a3.mp4) | [Original](https://x.com/mimu_ai1/status/2091215411341930633) | E— |
+| 夜间追逐电影级镜头 | @bmx_ai13 | [GoodCase](https://goodcase.ai/cases/case-d30f8318a084) | [Media](https://media.goodcase.ai/media/video/case-d30f8318a084.mp4) | [Original](https://x.com/bmx_ai13/status/2081091640857702427) | E— |
+| 黑板火柴人空手道对决 | @mrdejie | [GoodCase](https://goodcase.ai/cases/case-de248f679b06) | [Media](https://media.goodcase.ai/media/video/case-de248f679b06.mp4) | [Original](https://x.com/mrdejie/status/2079463899305476233) | E— |
+| 硬核卡特尔藏身处动作场景 | @The_Kremlinn | [GoodCase](https://goodcase.ai/cases/case-f6a1af7d22b1) | [Media](https://media.goodcase.ai/cases/396d658b3809.mp4) | [Original](https://x.com/The_Kremlinn/status/2095083714120229230) | E— |
+| 武术巷战场景 | @KeorUnreal | [GoodCase](https://goodcase.ai/cases/case-f7e7c1862f38) | [Media](https://media.goodcase.ai/media/video/case-f7e7c1862f38.mp4) | [Original](https://x.com/KeorUnreal/status/2081477878349246776) | E— |
+| Cinematic Anime Martial Arts Training Ground | @TechieBySA | [GoodCase](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground) | [Media](https://media.goodcase.ai/media/video/cinematic-anime-martial-arts-training-ground.mp4) | [Original](https://x.com/TechieBySA/status/2081405410464972870) | E— |
 
 ## Derivation boundary
 

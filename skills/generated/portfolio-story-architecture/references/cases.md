@@ -96,8 +96,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E5 · 为客户 AP 打造的代理机构风格网站
 
-- Creator: arda
-- Evidence: [GoodCase](https://goodcase.ai/cases/ap-c081c7d3bae1) · [finished media](https://media.goodcase.ai/media/image/ap-c081c7d3bae1.jpg) · [original source](https://x.com/i/status/1991203658269090295)
+- Creator: @ardadoteth
+- Evidence: [GoodCase](https://goodcase.ai/cases/ap-c081c7d3bae1) · [finished media](https://media.goodcase.ai/media/image/ap-c081c7d3bae1.jpg) · [original source](https://x.com/ardadoteth/status/1991203658269090295)
 - Summary: 一个简单的指令式提示，告诉 Gemini 3 Pro 扮演 makemepulse 工作室的角色，为名为 AP 的客户构建一个网站，并注重精细的执行。
 - Prompt excerpt:
 
@@ -196,7 +196,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 3D Jack Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/3d-jack-portfolio) | [Media](https://media.goodcase.ai/cases/49f8aeaa5fab.mp4) | [Original](https://motionsites.ai/?prompt=3d-jack-portfolio-hero) | E2 |
 | 极简 AI 顾问个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) | [Media](https://media.goodcase.ai/media/video/ai-0f055800c6f5.mp4) | [Original](https://x.com/shushant_l/status/2065041466951712940) | E3 |
 | AI Designer Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-designer-portfolio) | [Media](https://media.goodcase.ai/cases/1095b425fdb4.gif) | [Original](https://motionsites.ai/?prompt=vortex-studio-hero) | E4 |
-| 为客户 AP 打造的代理机构风格网站 | arda | [GoodCase](https://goodcase.ai/cases/ap-c081c7d3bae1) | [Media](https://media.goodcase.ai/media/image/ap-c081c7d3bae1.jpg) | [Original](https://x.com/i/status/1991203658269090295) | E5 |
+| 为客户 AP 打造的代理机构风格网站 | @ardadoteth | [GoodCase](https://goodcase.ai/cases/ap-c081c7d3bae1) | [Media](https://media.goodcase.ai/media/image/ap-c081c7d3bae1.jpg) | [Original](https://x.com/ardadoteth/status/1991203658269090295) | E5 |
 | Bold Studio | MotionSites | [GoodCase](https://goodcase.ai/cases/bold-studio) | [Media](https://media.goodcase.ai/cases/7f31efa5103a.webp) | [Original](https://motionsites.ai/?prompt=bold-studio) | E6 |
 | 早期互联网风个人档案页 | @Kashberg_0 | [GoodCase](https://goodcase.ai/cases/case-7444fd18a8a8) | [Media](https://media.goodcase.ai/media/image/case-7444fd18a8a8.jpg) | [Original](https://x.com/Kashberg_0/status/2065992579502747850) | E7 |
 | 极简个人作品集与数字商店 | @shushant_l | [GoodCase](https://goodcase.ai/cases/case-9d30de23150b) | [Media](https://media.goodcase.ai/media/video/case-9d30de23150b.mp4) | [Original](https://x.com/shushant_l/status/2066868516104601790) | E8 |

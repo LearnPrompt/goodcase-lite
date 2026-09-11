@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 32 published Cases across 23 creators.
+This workflow is derived from 31 published Cases across 22 creators.
 
 ## Operating rule
 
@@ -8,8 +8,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E1 · 3D CG 东方奇幻少女肖像
 
-- Creator: 李岳
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) · [finished media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) · [original source](https://x.com/i/status/2081409414918262965)
+- Creator: @liyue_ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) · [finished media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) · [original source](https://x.com/liyue_ai/status/2081409414918262965)
 - Summary: 一张精细的 3D CG 渲染图，描绘了一位拥有薄荷绿长发的东方奇幻少女，采用高质量 PBR 材质，背景为梦幻花园。
 - Prompt excerpt:
 
@@ -44,8 +44,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E3 · 干净的高调美妆肖像
 
-- Creator: AiPhotoDesigner
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) · [finished media](https://media.goodcase.ai/media/image/case-0511c6f3368b.jpg) · [original source](https://x.com/i/status/2081613584493125717)
+- Creator: @AiPhotoDesigner
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) · [finished media](https://media.goodcase.ai/media/image/case-0511c6f3368b.jpg) · [original source](https://x.com/AiPhotoDesigner/status/2081613584493125717)
 - Summary: 一个用于生成干净、明亮美妆肖像的提示词，描绘了一位在白色房间内、沐浴在柔和自然光下的年轻日本女性。
 - Prompt excerpt:
 
@@ -53,8 +53,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E4 · 咖啡馆里的生动肖像
 
-- Creator: Aatif J
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) · [finished media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) · [original source](https://x.com/i/status/2081492288836981123)
+- Creator: @aatif_j
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) · [finished media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) · [original source](https://x.com/aatif_j/status/2081492288836981123)
 - Summary: 一张温暖而自然的肖像提示词，描绘了一位在温馨质朴的咖啡馆中开怀大笑的年轻男子。
 - Prompt excerpt:
 
@@ -62,8 +62,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E5 · 充满奇趣的动漫生活肖像与涂鸦阴影
 
-- Creator: Taaruk
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) · [original source](https://x.com/i/status/2080197768178720865)
+- Creator: @Taaruk_
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) · [original source](https://x.com/Taaruk_/status/2080197768178720865)
 - Summary: 一个充满创意的动漫生活片段提示词：在黄金时刻的阳光下，女孩和猫咪的影子幻化为俏皮的手绘漫画涂鸦。
 - Prompt excerpt:
 
@@ -71,8 +71,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E6 · 豪华汽车杂志风人像
 
-- Creator: Virena
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) · [finished media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) · [original source](https://x.com/i/status/2081388724076818568)
+- Creator: @vireonixx
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) · [finished media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) · [original source](https://x.com/vireonixx/status/2081388724076818568)
 - Summary: 一份高度详细的提示词，用于创作在黄金时刻置身于豪华汽车内的精致男士时尚杂志大片。
 - Prompt excerpt:
 
@@ -80,8 +80,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E7 · 草莓冰棒与夏日时尚
 
-- Creator: Prompt アトリエ｜AI画像プロンプト
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) · [finished media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) · [original source](https://x.com/i/status/2080445103932649638)
+- Creator: @CyberTotal2026
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) · [finished media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) · [original source](https://x.com/CyberTotal2026/status/2080445103932649638)
 - Summary: 一组充满活力的夏日时尚肖像提示词，描绘了一位女性在蓝天下的花海中手持冰棒的场景。
 - Prompt excerpt:
 
@@ -111,8 +111,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E8 · 高对比度电影感人像
 
-- Creator: Aatif J
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-45ce17868767) · [finished media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) · [original source](https://x.com/i/status/2080212276188152302)
+- Creator: @aatif_j
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-45ce17868767) · [finished media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) · [original source](https://x.com/aatif_j/status/2080212276188152302)
 - Summary: 一个用于黑白面部特写的高细节提示词，强调张力、电影感颗粒效果以及自然的头发动态。
 - Prompt excerpt:
 
@@ -136,26 +136,26 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D CG 东方奇幻少女肖像 | 李岳 | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) | [Original](https://x.com/i/status/2081409414918262965) | E1 |
+| 3D CG 东方奇幻少女肖像 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) | [Original](https://x.com/liyue_ai/status/2081409414918262965) | E1 |
 | 昭和日杂美学人像:90 年代日系杂志胶片感,中英双语提示词 | ✂️奥利oli | [GoodCase](https://goodcase.ai/cases/90-251783eee4c4) | [Media](https://media.goodcase.ai/supabase-legacy/case-posters/dy-note-7658151707444120842-0.jpg) | [Original](https://www.douyin.com/note/7658151707444120842) | E2 |
-| 干净的高调美妆肖像 | AiPhotoDesigner | [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) | [Media](https://media.goodcase.ai/media/image/case-0511c6f3368b.jpg) | [Original](https://x.com/i/status/2081613584493125717) | E3 |
-| 咖啡馆里的生动肖像 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) | [Original](https://x.com/i/status/2081492288836981123) | E4 |
-| 充满奇趣的动漫生活肖像与涂鸦阴影 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/i/status/2080197768178720865) | E5 |
-| 豪华汽车杂志风人像 | Virena | [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) | [Media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) | [Original](https://x.com/i/status/2081388724076818568) | E6 |
-| 草莓冰棒与夏日时尚 | Prompt アトリエ｜AI画像プロンプト | [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) | [Media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) | [Original](https://x.com/i/status/2080445103932649638) | E7 |
-| 高对比度电影感人像 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) | [Original](https://x.com/i/status/2080212276188152302) | E8 |
-| 奢华摄影棚时尚大片 | Johnn | [GoodCase](https://goodcase.ai/cases/case-59c91a376d70) | [Media](https://media.goodcase.ai/media/image/case-59c91a376d70.jpg) | [Original](https://x.com/i/status/2080344542885335240) | E— |
-| 电影感艺术自然人像 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) | [Media](https://media.goodcase.ai/media/image/case-5fe2c52283f0.jpg) | [Original](https://x.com/i/status/2081597935947792465) | E— |
-| 都市自拍超级英雄时尚 | J⭕DIE | [GoodCase](https://goodcase.ai/cases/case-6e1bf0e0e1e1) | [Media](https://media.goodcase.ai/cases/5c0a156c9443.jpg) | [Original](https://x.com/i/status/2091887559060390207) | E— |
-| 情绪感黑色影棚人像 | ToroJushiAi | [GoodCase](https://goodcase.ai/cases/case-73b2a4fe0c1a) | [Media](https://media.goodcase.ai/media/image/case-73b2a4fe0c1a.jpg) | [Original](https://x.com/i/status/2081469606749782500) | E— |
-| 香港街头风格时尚人像 | Anissa | [GoodCase](https://goodcase.ai/cases/case-7daa3577470c) | [Media](https://media.goodcase.ai/media/image/case-7daa3577470c.jpg) | [Original](https://x.com/i/status/2081406707507540340) | E— |
-| 写实风格智能手机厨房人像 | 𝗦𝗮𝗻𝗶𝗮 | [GoodCase](https://goodcase.ai/cases/case-8da08964ae81) | [Media](https://media.goodcase.ai/media/image/case-8da08964ae81.jpg) | [Original](https://x.com/i/status/2081582536929747148) | E— |
+| 干净的高调美妆肖像 | @AiPhotoDesigner | [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) | [Media](https://media.goodcase.ai/media/image/case-0511c6f3368b.jpg) | [Original](https://x.com/AiPhotoDesigner/status/2081613584493125717) | E3 |
+| 咖啡馆里的生动肖像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) | [Original](https://x.com/aatif_j/status/2081492288836981123) | E4 |
+| 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E5 |
+| 豪华汽车杂志风人像 | @vireonixx | [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) | [Media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) | [Original](https://x.com/vireonixx/status/2081388724076818568) | E6 |
+| 草莓冰棒与夏日时尚 | @CyberTotal2026 | [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) | [Media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) | [Original](https://x.com/CyberTotal2026/status/2080445103932649638) | E7 |
+| 高对比度电影感人像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) | [Original](https://x.com/aatif_j/status/2080212276188152302) | E8 |
+| 奢华摄影棚时尚大片 | @john_my07 | [GoodCase](https://goodcase.ai/cases/case-59c91a376d70) | [Media](https://media.goodcase.ai/media/image/case-59c91a376d70.jpg) | [Original](https://x.com/john_my07/status/2080344542885335240) | E— |
+| 电影感艺术自然人像 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) | [Media](https://media.goodcase.ai/media/image/case-5fe2c52283f0.jpg) | [Original](https://x.com/Taaruk_/status/2081597935947792465) | E— |
+| 都市自拍超级英雄时尚 | @Jodie_Noraa | [GoodCase](https://goodcase.ai/cases/case-6e1bf0e0e1e1) | [Media](https://media.goodcase.ai/cases/5c0a156c9443.jpg) | [Original](https://x.com/Jodie_Noraa/status/2091887559060390207) | E— |
+| 情绪感黑色影棚人像 | @ToroJushiAi | [GoodCase](https://goodcase.ai/cases/case-73b2a4fe0c1a) | [Media](https://media.goodcase.ai/media/image/case-73b2a4fe0c1a.jpg) | [Original](https://x.com/ToroJushiAi/status/2081469606749782500) | E— |
+| 香港街头风格时尚人像 | @SimplyAnnisa | [GoodCase](https://goodcase.ai/cases/case-7daa3577470c) | [Media](https://media.goodcase.ai/media/image/case-7daa3577470c.jpg) | [Original](https://x.com/SimplyAnnisa/status/2081406707507540340) | E— |
+| 写实风格智能手机厨房人像 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/case-8da08964ae81) | [Media](https://media.goodcase.ai/media/image/case-8da08964ae81.jpg) | [Original](https://x.com/saniaspeaks_/status/2081582536929747148) | E— |
 | 黑白时尚编辑人像 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-9d64f52eb770) | [Media](https://media.goodcase.ai/media/image/case-9d64f52eb770.jpg) | [Original](https://x.com/ChillaiKalan__/status/2081615969274012153) | E— |
-| 夏日缘侧肖像 | akinonnon@AI | [GoodCase](https://goodcase.ai/cases/case-b2269baeb516) | [Media](https://media.goodcase.ai/media/image/case-b2269baeb516.jpg) | [Original](https://x.com/i/status/2081579986348306817) | E— |
-| 圆形墙面镂空中的影棚肖像 | ΛRMIN | [GoodCase](https://goodcase.ai/cases/case-c69378856fa6) | [Media](https://media.goodcase.ai/media/image/case-c69378856fa6.jpg) | [Original](https://x.com/i/status/2081438772709781579) | E— |
-| 地中海游艇俱乐部时尚大片 | Picts by AI | [GoodCase](https://goodcase.ai/cases/case-d17519ec36a7) | [Media](https://media.goodcase.ai/cases/59227512be80.jpg) | [Original](https://x.com/i/status/2091802189161447609) | E— |
-| 美术编辑肖像插画 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/i/status/2080399938278801700) | E— |
-| 现代电梯中与魏玛犬合影的时尚男士 | Zar⭕on | [GoodCase](https://goodcase.ai/cases/case-daf11fde350e) | [Media](https://media.goodcase.ai/cases/6fdbff0bb30b.jpg) | [Original](https://x.com/i/status/2092156356547473503) | E— |
+| 夏日缘侧肖像 | @akinonnon_kan | [GoodCase](https://goodcase.ai/cases/case-b2269baeb516) | [Media](https://media.goodcase.ai/media/image/case-b2269baeb516.jpg) | [Original](https://x.com/akinonnon_kan/status/2081579986348306817) | E— |
+| 圆形墙面镂空中的影棚肖像 | @Arminn_Ai | [GoodCase](https://goodcase.ai/cases/case-c69378856fa6) | [Media](https://media.goodcase.ai/media/image/case-c69378856fa6.jpg) | [Original](https://x.com/Arminn_Ai/status/2081438772709781579) | E— |
+| 地中海游艇俱乐部时尚大片 | @pictsbyai | [GoodCase](https://goodcase.ai/cases/case-d17519ec36a7) | [Media](https://media.goodcase.ai/cases/59227512be80.jpg) | [Original](https://x.com/pictsbyai/status/2091802189161447609) | E— |
+| 美术编辑肖像插画 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/aatif_j/status/2080399938278801700) | E— |
+| 现代电梯中与魏玛犬合影的时尚男士 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/case-daf11fde350e) | [Media](https://media.goodcase.ai/cases/6fdbff0bb30b.jpg) | [Original](https://x.com/Xaroon_x/status/2092156356547473503) | E— |
 
 ## Derivation boundary
 

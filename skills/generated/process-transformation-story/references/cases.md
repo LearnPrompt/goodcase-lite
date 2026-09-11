@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 19 published Cases across 19 creators.
+This workflow is derived from 20 published Cases across 20 creators.
 
 ## Operating rule
 
@@ -8,8 +8,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E1 · 3D 烘焙动画序列
 
-- Creator: Hania Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) · [finished media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg) · [original source](https://x.com/i/status/2076979039747920309)
+- Creator: @HaniaAi12
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) · [finished media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg) · [original source](https://x.com/HaniaAi12/status/2076979039747920309)
 - Summary: 这是一个为 Seedance 2.0 设计的综合提示词，旨在将视觉故事板转化为一段 10 秒的 3D 动画，展示女孩烘焙纸杯蛋糕的特定时间轴动作。
 - Prompt excerpt:
 
@@ -39,8 +39,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E2 · Bamboo Toy Car Transformation Vlog
 
-- Creator: John
-- Evidence: [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) · [finished media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg) · [original source](https://x.com/i/status/2084644638724395138)
+- Creator: @john87445528
+- Evidence: [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) · [finished media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg) · [original source](https://x.com/john87445528/status/2084644638724395138)
 - Summary: An incredibly detailed action prompt for a 30-second handheld POV video featuring a girl with a bamboo toy that triggers a car transforming into a giant robot.
 - Prompt excerpt:
 
@@ -51,8 +51,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E3 · 电影感酸种面包烘焙延时摄影
 
-- Creator: Caden Flux
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-179a06586ce5) · [finished media](https://media.goodcase.ai/media/video/case-179a06586ce5.mp4) · [poster](https://media.goodcase.ai/media/poster/case-179a06586ce5.jpg) · [original source](https://x.com/i/status/2070862852735594771)
+- Creator: @Caden_Flux
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-179a06586ce5) · [finished media](https://media.goodcase.ai/media/video/case-179a06586ce5.mp4) · [poster](https://media.goodcase.ai/media/poster/case-179a06586ce5.jpg) · [original source](https://x.com/Caden_Flux/status/2070862852735594771)
 - Summary: 一份详细的多镜头视频提示词，用于生成专业的酸种面包烘焙延时摄影，包含揉面、发酵和烘焙的特写镜头，并配有温暖的电影级灯光效果。
 - Prompt excerpt:
 
@@ -84,8 +84,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E4 · 可爱兔兔厨师动漫烹饪
 
-- Creator: Jiade 05
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) · [finished media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) · [poster](https://media.goodcase.ai/media/poster/case-3d49f00e65c0.jpg) · [original source](https://x.com/i/status/2080643134011412961)
+- Creator: @Jiade05
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) · [finished media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) · [poster](https://media.goodcase.ai/media/poster/case-3d49f00e65c0.jpg) · [original source](https://x.com/Jiade05/status/2080643134011412961)
 - Summary: 一段令人愉悦的第一人称视角动漫烹饪视频提示词，包含一只小兔子助手和一位厨师在温馨的粉彩风厨房里制作蓬松欧姆蛋的场景。
 - Prompt excerpt:
 
@@ -118,8 +118,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E5 · 建筑空间改造延时摄影
 
-- Creator: simeon-sanai
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-429309e40d97) · [finished media](https://media.goodcase.ai/media/video/case-429309e40d97.mp4) · [poster](https://media.goodcase.ai/media/poster/case-429309e40d97.jpg) · [original source](https://x.com/i/status/2081371164728041980)
+- Creator: @Naiknelofar788
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-429309e40d97) · [finished media](https://media.goodcase.ai/media/video/case-429309e40d97.mp4) · [poster](https://media.goodcase.ai/media/poster/case-429309e40d97.jpg) · [original source](https://x.com/Naiknelofar788/status/2081371164728041980)
 - Summary: 一段精准的视频提示词，用于制作无缝衔接的建筑改造动画，展示从毛坯混凝土房间到奢华室内空间的蜕变。
 - Prompt excerpt:
 
@@ -140,8 +140,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E6 · 日式动漫风格猪肉卷芦笋烹饪视频
 
-- Creator: タナベ | 動画・音声生成AI解説
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-5c4dcdbf9e99) · [finished media](https://media.goodcase.ai/media/video/case-5c4dcdbf9e99.mp4) · [poster](https://media.goodcase.ai/media/poster/case-5c4dcdbf9e99.jpg) · [original source](https://x.com/i/status/2076508810190225846)
+- Creator: @tanabe_fragm
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-5c4dcdbf9e99) · [finished media](https://media.goodcase.ai/media/video/case-5c4dcdbf9e99.mp4) · [poster](https://media.goodcase.ai/media/poster/case-5c4dcdbf9e99.jpg) · [original source](https://x.com/tanabe_fragm/status/2076508810190225846)
 - Summary: 一份针对猪肉卷芦笋日式动漫风格烹饪视频的高度详细提示词。涵盖了视觉一致性、厨房物理效果及具体的场景序列，以确保动画效果既写实又诱人。
 - Prompt excerpt:
 
@@ -193,8 +193,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E8 · 从蓝图到房屋的延时摄影变换
 
-- Creator: Keskin
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-778d0c927488) · [finished media](https://media.goodcase.ai/media/video/case-778d0c927488.mp4) · [poster](https://media.goodcase.ai/media/poster/case-778d0c927488.jpg) · [original source](https://x.com/i/status/2075669026508853393)
+- Creator: @craftian_keskin
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-778d0c927488) · [finished media](https://media.goodcase.ai/media/video/case-778d0c927488.mp4) · [poster](https://media.goodcase.ai/media/poster/case-778d0c927488.jpg) · [original source](https://x.com/craftian_keskin/status/2075669026508853393)
 - Summary: 一个复杂的建筑延时摄影提示词，将 2D 平面图和外观参考图转换为完全渲染、家具齐全的 3D 房屋，并保持精确的尺寸和布局。
 - Prompt excerpt:
 
@@ -210,24 +210,25 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D 烘焙动画序列 | Hania Ai | [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) | [Media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) | [Original](https://x.com/i/status/2076979039747920309) | E1 |
-| Bamboo Toy Car Transformation Vlog | John | [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) | [Media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) | [Original](https://x.com/i/status/2084644638724395138) | E2 |
-| 电影感酸种面包烘焙延时摄影 | Caden Flux | [GoodCase](https://goodcase.ai/cases/case-179a06586ce5) | [Media](https://media.goodcase.ai/media/video/case-179a06586ce5.mp4) | [Original](https://x.com/i/status/2070862852735594771) | E3 |
-| 可爱兔兔厨师动漫烹饪 | Jiade 05 | [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) | [Media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) | [Original](https://x.com/i/status/2080643134011412961) | E4 |
-| 建筑空间改造延时摄影 | simeon-sanai | [GoodCase](https://goodcase.ai/cases/case-429309e40d97) | [Media](https://media.goodcase.ai/media/video/case-429309e40d97.mp4) | [Original](https://x.com/i/status/2081371164728041980) | E5 |
-| 日式动漫风格猪肉卷芦笋烹饪视频 | タナベ \| 動画・音声生成AI解説 | [GoodCase](https://goodcase.ai/cases/case-5c4dcdbf9e99) | [Media](https://media.goodcase.ai/media/video/case-5c4dcdbf9e99.mp4) | [Original](https://x.com/i/status/2076508810190225846) | E6 |
+| 3D 烘焙动画序列 | @HaniaAi12 | [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) | [Media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) | [Original](https://x.com/HaniaAi12/status/2076979039747920309) | E1 |
+| Bamboo Toy Car Transformation Vlog | @john87445528 | [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) | [Media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) | [Original](https://x.com/john87445528/status/2084644638724395138) | E2 |
+| 电影感酸种面包烘焙延时摄影 | @Caden_Flux | [GoodCase](https://goodcase.ai/cases/case-179a06586ce5) | [Media](https://media.goodcase.ai/media/video/case-179a06586ce5.mp4) | [Original](https://x.com/Caden_Flux/status/2070862852735594771) | E3 |
+| 可爱兔兔厨师动漫烹饪 | @Jiade05 | [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) | [Media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) | [Original](https://x.com/Jiade05/status/2080643134011412961) | E4 |
+| 建筑空间改造延时摄影 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/case-429309e40d97) | [Media](https://media.goodcase.ai/media/video/case-429309e40d97.mp4) | [Original](https://x.com/Naiknelofar788/status/2081371164728041980) | E5 |
+| 日式动漫风格猪肉卷芦笋烹饪视频 | @tanabe_fragm | [GoodCase](https://goodcase.ai/cases/case-5c4dcdbf9e99) | [Media](https://media.goodcase.ai/media/video/case-5c4dcdbf9e99.mp4) | [Original](https://x.com/tanabe_fragm/status/2076508810190225846) | E6 |
 | 韩式烤肉烹饪流程 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-72e571e9353d) | [Media](https://media.goodcase.ai/media/video/case-72e571e9353d.mp4) | [Original](https://x.com/Strength04_X/status/2070471862522695793) | E7 |
-| 从蓝图到房屋的延时摄影变换 | Keskin | [GoodCase](https://goodcase.ai/cases/case-778d0c927488) | [Media](https://media.goodcase.ai/media/video/case-778d0c927488.mp4) | [Original](https://x.com/i/status/2075669026508853393) | E8 |
-| 吉卜力风格森林烹饪动画 | AIReel | [GoodCase](https://goodcase.ai/cases/case-a45446378e2a) | [Media](https://media.goodcase.ai/media/video/case-a45446378e2a.mp4) | [Original](https://x.com/i/status/2079531584869548309) | E— |
-| 日式动画风格麻婆豆腐烹饪过程 | オズ | [GoodCase](https://goodcase.ai/cases/case-ce63bf146d4e) | [Media](https://media.goodcase.ai/media/video/case-ce63bf146d4e.mp4) | [Original](https://x.com/i/status/2078854293818622124) | E— |
-| 手工烘焙坊电影感商业广告 | Aaliya | [GoodCase](https://goodcase.ai/cases/case-f62d402ccdf6) | [Media](https://media.goodcase.ai/cases/78746d0ff2ee.mp4) | [Original](https://x.com/i/status/2090780603872624826) | E— |
-| 吉卜力工作室风格牛角面包烘焙坊 | Ciri | [GoodCase](https://goodcase.ai/cases/case-fecae6e34928) | [Media](https://media.goodcase.ai/media/video/case-fecae6e34928.mp4) | [Original](https://x.com/i/status/2080302214640468225) | E— |
+| 从蓝图到房屋的延时摄影变换 | @craftian_keskin | [GoodCase](https://goodcase.ai/cases/case-778d0c927488) | [Media](https://media.goodcase.ai/media/video/case-778d0c927488.mp4) | [Original](https://x.com/craftian_keskin/status/2075669026508853393) | E8 |
+| 吉卜力风格森林烹饪动画 | @AIReelofficial | [GoodCase](https://goodcase.ai/cases/case-a45446378e2a) | [Media](https://media.goodcase.ai/media/video/case-a45446378e2a.mp4) | [Original](https://x.com/AIReelofficial/status/2079531584869548309) | E— |
+| 日式动画风格麻婆豆腐烹饪过程 | @ozuozuai99 | [GoodCase](https://goodcase.ai/cases/case-ce63bf146d4e) | [Media](https://media.goodcase.ai/media/video/case-ce63bf146d4e.mp4) | [Original](https://x.com/ozuozuai99/status/2078854293818622124) | E— |
+| 手工烘焙坊电影感商业广告 | @AIwithAliya | [GoodCase](https://goodcase.ai/cases/case-f62d402ccdf6) | [Media](https://media.goodcase.ai/cases/78746d0ff2ee.mp4) | [Original](https://x.com/AIwithAliya/status/2090780603872624826) | E— |
+| 吉卜力工作室风格牛角面包烘焙坊 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/case-fecae6e34928) | [Media](https://media.goodcase.ai/media/video/case-fecae6e34928.mp4) | [Original](https://x.com/Ciri_ai/status/2080302214640468225) | E— |
 | Seedance 进阶工作流演示：Prompt 之外的制作全流程 | @ethancole_ai | [GoodCase](https://goodcase.ai/cases/ethancole-ai-seedance-ai-c8e1a1b52569) | [Media](https://media.goodcase.ai/cases/20efbe9c2034.mp4) | [Original](https://x.com/ethancole_ai/status/2089756837474107511) | E— |
-| 动漫风格：制作印度蒸米糕（Idli）的烹饪流程 | Sanskriti Naruka | [GoodCase](https://goodcase.ai/cases/idli-4a8ed49d4ad9) | [Media](https://media.goodcase.ai/media/video/idli-4a8ed49d4ad9.mp4) | [Original](https://x.com/i/status/2074761846444503180) | E— |
+| 动漫风格：制作印度蒸米糕（Idli）的烹饪流程 | @snskritinaruka | [GoodCase](https://goodcase.ai/cases/idli-4a8ed49d4ad9) | [Media](https://media.goodcase.ai/media/video/idli-4a8ed49d4ad9.mp4) | [Original](https://x.com/snskritinaruka/status/2074761846444503180) | E— |
+| iPhone-shot Street Dance Music Video | @applete77191758 | [GoodCase](https://goodcase.ai/cases/iphone-shot-street-dance-music-video) | [Media](https://media.goodcase.ai/cases/f55826cdc6bb.mp4) | [Original](https://x.com/applete77191758/status/2087212818047340844) | E— |
 | 法式牛角包制作过程 | @TechieBySA | [GoodCase](https://goodcase.ai/cases/real-case-07-techiebysa) | [Media](https://media.goodcase.ai/media/video/real-case-07-techiebysa.mp4) | [Original](https://x.com/TechieBySA/status/2053523775702925768) | E— |
 | 空旷平原日出瞬间城市自建 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/real-case-08-ludoviccreator) | [Media](https://goodcase.ai/media/goodcase/LudovicCreator-2055351279170318782-01.mp4) | [Original](https://x.com/LudovicCreator/status/2055351279170318782) | E— |
 | Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程 | @abxxai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-gopro-94a73eef1dbf.mp4) | [Original](https://x.com/abxxai/status/2087189194720657649) | E— |
-| 奶油鸡肉意面烹饪 Vlog | Elsa Ai | [GoodCase](https://goodcase.ai/cases/vlog-5bea56e008fc) | [Media](https://media.goodcase.ai/media/video/vlog-5bea56e008fc.mp4) | [Original](https://x.com/i/status/2091483398972080172) | E— |
+| 奶油鸡肉意面烹饪 Vlog | @ElsaSofia__AI | [GoodCase](https://goodcase.ai/cases/vlog-5bea56e008fc) | [Media](https://media.goodcase.ai/media/video/vlog-5bea56e008fc.mp4) | [Original](https://x.com/ElsaSofia__AI/status/2091483398972080172) | E— |
 | Seedance 2.5 超写实微距延时：种子发芽十秒 | @Yesandyou_ | [GoodCase](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85) | [Media](https://media.goodcase.ai/media/video/yesandyou-seedance-ai-d92a0a788b85.mp4) | [Original](https://x.com/Yesandyou_/status/2088998841395921185) | E— |
 
 ## Derivation boundary

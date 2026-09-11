@@ -8,8 +8,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E1 · 3D CG 东方奇幻少女肖像
 
-- Creator: 李岳
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) · [finished media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) · [original source](https://x.com/i/status/2081409414918262965)
+- Creator: @liyue_ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) · [finished media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) · [original source](https://x.com/liyue_ai/status/2081409414918262965)
 - Summary: 一张精细的 3D CG 渲染图，描绘了一位拥有薄荷绿长发的东方奇幻少女，采用高质量 PBR 材质，背景为梦幻花园。
 - Prompt excerpt:
 
@@ -35,8 +35,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E2 · 3D Character Name Sculpture
 
-- Creator: rui｜∫varts (シュバルツ)
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-character-name-sculpture) · [finished media](https://media.goodcase.ai/media/image/3d-character-name-sculpture.jpg) · [original source](https://x.com/i/status/2085326754806378753)
+- Creator: @varts_works
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-character-name-sculpture) · [finished media](https://media.goodcase.ai/media/image/3d-character-name-sculpture.jpg) · [original source](https://x.com/varts_works/status/2085326754806378753)
 - Summary: A specialized prompt that creates a large 3D text object based on a character's design, incorporating the character into the scene.
 - Prompt excerpt:
 
@@ -133,8 +133,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E3 · 混合 3D 矢量插画风格
 
-- Creator: Zayan
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-de7f41148805) · [finished media](https://media.goodcase.ai/cases/64b6032d791a.jpg) · [original source](https://x.com/i/status/2091492763397411268)
+- Creator: @HustleXR
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-de7f41148805) · [finished media](https://media.goodcase.ai/cases/64b6032d791a.jpg) · [original source](https://x.com/HustleXR/status/2091492763397411268)
 - Summary: 一种独特的风格化提示词，将光泽感 3D 渲染与扁平矢量简洁性相结合，适用于艺术肖像，呈现出鲜艳的色彩和流畅的有机元素。
 - Prompt excerpt:
 
@@ -142,8 +142,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E4 · 通用 AI 角色设定图生成器
 
-- Creator: AIライフハック
-- Evidence: [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) · [finished media](https://media.goodcase.ai/media/image/ai-5054adb51999.jpg) · [original source](https://x.com/i/status/2081581961081246064)
+- Creator: @ai_lifehack55
+- Evidence: [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) · [finished media](https://media.goodcase.ai/media/image/ai-5054adb51999.jpg) · [original source](https://x.com/ai_lifehack55/status/2081581961081246064)
 - Summary: 一套全面的系统提示词，旨在创建高质量、一致性强的角色设定图，包含多角度视图、面部细节及建筑环境参考。
 - Prompt excerpt:
 
@@ -197,8 +197,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E5 · 充满奇趣的动漫生活肖像与涂鸦阴影
 
-- Creator: Taaruk
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) · [original source](https://x.com/i/status/2080197768178720865)
+- Creator: @Taaruk_
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) · [original source](https://x.com/Taaruk_/status/2080197768178720865)
 - Summary: 一个充满创意的动漫生活片段提示词：在黄金时刻的阳光下，女孩和猫咪的影子幻化为俏皮的手绘漫画涂鸦。
 - Prompt excerpt:
 
@@ -206,7 +206,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E6 · 三格人物设定参考图标准化模板
 
-- Creator: John
+- Creator: @johnAGI168
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-265600f07f14) · [finished media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) · [original source](https://x.com/johnAGI168/status/2077766771025530962)
 - Summary: 角色设定参考图案例，将同一粉紫卷发女性拆成正面全身（无头）、背面全身、齐胸大特写三格标准化模板。三格统一18%中灰无缝背景与无阴影正面光，用于锁定角色发型、服装与五官细节。
 - Prompt excerpt:
@@ -222,8 +222,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E7 · 奇幻涂鸦艺术自拍
 
-- Creator: Taaruk
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) · [finished media](https://media.goodcase.ai/media/image/case-346fdb4f9c0f.jpg) · [original source](https://x.com/i/status/2080303309739675712)
+- Creator: @Taaruk_
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) · [finished media](https://media.goodcase.ai/media/image/case-346fdb4f9c0f.jpg) · [original source](https://x.com/Taaruk_/status/2080303309739675712)
 - Summary: 一个将写实低角度自拍与趣味手绘涂鸦艺术及吉卜力工作室美学相结合的创意提示词。
 - Prompt excerpt:
 
@@ -231,8 +231,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E8 · 奇幻动物水岸插画
 
-- Creator: Viki
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-44ce700abede) · [finished media](https://media.goodcase.ai/media/image/case-44ce700abede.jpg) · [original source](https://x.com/i/status/2090182449149977021)
+- Creator: @churvikv
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-44ce700abede) · [finished media](https://media.goodcase.ai/media/image/case-44ce700abede.jpg) · [original source](https://x.com/churvikv/status/2090182449149977021)
 - Summary: 两组用于生成可爱动物（熊和猫）在星空下水边休憩的奇幻提示词，采用柔和的动漫或卡通风格。
 - Prompt excerpt:
 
@@ -242,24 +242,24 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D CG 东方奇幻少女肖像 | 李岳 | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) | [Original](https://x.com/i/status/2081409414918262965) | E1 |
-| 3D Character Name Sculpture | rui｜∫varts (シュバルツ) | [GoodCase](https://goodcase.ai/cases/3d-character-name-sculpture) | [Media](https://media.goodcase.ai/media/image/3d-character-name-sculpture.jpg) | [Original](https://x.com/i/status/2085326754806378753) | E2 |
-| 混合 3D 矢量插画风格 | Zayan | [GoodCase](https://goodcase.ai/cases/3d-de7f41148805) | [Media](https://media.goodcase.ai/cases/64b6032d791a.jpg) | [Original](https://x.com/i/status/2091492763397411268) | E3 |
-| 通用 AI 角色设定图生成器 | AIライフハック | [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) | [Media](https://media.goodcase.ai/media/image/ai-5054adb51999.jpg) | [Original](https://x.com/i/status/2081581961081246064) | E4 |
-| 充满奇趣的动漫生活肖像与涂鸦阴影 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/i/status/2080197768178720865) | E5 |
-| 三格人物设定参考图标准化模板 | John | [GoodCase](https://goodcase.ai/cases/case-265600f07f14) | [Media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) | [Original](https://x.com/johnAGI168/status/2077766771025530962) | E6 |
-| 奇幻涂鸦艺术自拍 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) | [Media](https://media.goodcase.ai/media/image/case-346fdb4f9c0f.jpg) | [Original](https://x.com/i/status/2080303309739675712) | E7 |
-| 奇幻动物水岸插画 | Viki | [GoodCase](https://goodcase.ai/cases/case-44ce700abede) | [Media](https://media.goodcase.ai/media/image/case-44ce700abede.jpg) | [Original](https://x.com/i/status/2090182449149977021) | E8 |
-| 现实与漫画壁画的融合 | Arina Ai | [GoodCase](https://goodcase.ai/cases/case-490a5435c063) | [Media](https://media.goodcase.ai/media/image/case-490a5435c063.jpg) | [Original](https://x.com/i/status/2081179727734456415) | E— |
-| 复古双色调编辑插画 | zayan | [GoodCase](https://goodcase.ai/cases/case-7e29a0c188a4) | [Media](https://media.goodcase.ai/media/image/case-7e29a0c188a4.jpg) | [Original](https://x.com/i/status/2080180351885017314) | E— |
-| 动漫角色设定图生成器 | AIライフハック | [GoodCase](https://goodcase.ai/cases/case-805ea1d189ef) | [Media](https://media.goodcase.ai/media/image/case-805ea1d189ef.jpg) | [Original](https://x.com/i/status/2080494791826268265) | E— |
-| 水彩风格编辑插画海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/i/status/2089893684527730867) | E— |
-| 美术编辑肖像插画 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/i/status/2080399938278801700) | E— |
-| 部落奇幻女战士与猫头鹰肖像 | AqibAi | [GoodCase](https://goodcase.ai/cases/case-dd0e6108eade) | [Media](https://media.goodcase.ai/cases/347112a1d6c6.jpg) | [Original](https://x.com/i/status/2091027228645552456) | E— |
-| Dark Fantasy Battlefield Warrior | WeWant Mars | [GoodCase](https://goodcase.ai/cases/dark-fantasy-battlefield-warrior) | [Media](https://media.goodcase.ai/cases/d39fc1d10414.jpg) | [Original](https://x.com/i/status/2085769307217391725) | E— |
-| Oriental Fantasy Celestial Realm | 李岳 | [GoodCase](https://goodcase.ai/cases/oriental-fantasy-celestial-realm) | [Media](https://media.goodcase.ai/media/image/oriental-fantasy-celestial-realm.jpg) | [Original](https://x.com/i/status/2085608761989714283) | E— |
-| Q 版角色转换 | ChatGPT | [GoodCase](https://goodcase.ai/cases/q-5c9bd23e9454) | [Media](https://media.goodcase.ai/media/image/q-5c9bd23e9454.jpg) | [Original](https://x.com/i/status/2001085961414041936) | E— |
-| 角色身份固定参考图表 | Mr.pinecone | [GoodCase](https://goodcase.ai/cases/youmind-character-identity-reference-chart) | [Media](https://media.goodcase.ai/media/image/youmind-character-identity-reference-chart.jpg) | [Original](https://x.com/Mrpinecone888/status/2082748531736244518) | E— |
+| 3D CG 东方奇幻少女肖像 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) | [Original](https://x.com/liyue_ai/status/2081409414918262965) | E1 |
+| 3D Character Name Sculpture | @varts_works | [GoodCase](https://goodcase.ai/cases/3d-character-name-sculpture) | [Media](https://media.goodcase.ai/media/image/3d-character-name-sculpture.jpg) | [Original](https://x.com/varts_works/status/2085326754806378753) | E2 |
+| 混合 3D 矢量插画风格 | @HustleXR | [GoodCase](https://goodcase.ai/cases/3d-de7f41148805) | [Media](https://media.goodcase.ai/cases/64b6032d791a.jpg) | [Original](https://x.com/HustleXR/status/2091492763397411268) | E3 |
+| 通用 AI 角色设定图生成器 | @ai_lifehack55 | [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) | [Media](https://media.goodcase.ai/media/image/ai-5054adb51999.jpg) | [Original](https://x.com/ai_lifehack55/status/2081581961081246064) | E4 |
+| 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E5 |
+| 三格人物设定参考图标准化模板 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/case-265600f07f14) | [Media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) | [Original](https://x.com/johnAGI168/status/2077766771025530962) | E6 |
+| 奇幻涂鸦艺术自拍 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) | [Media](https://media.goodcase.ai/media/image/case-346fdb4f9c0f.jpg) | [Original](https://x.com/Taaruk_/status/2080303309739675712) | E7 |
+| 奇幻动物水岸插画 | @churvikv | [GoodCase](https://goodcase.ai/cases/case-44ce700abede) | [Media](https://media.goodcase.ai/media/image/case-44ce700abede.jpg) | [Original](https://x.com/churvikv/status/2090182449149977021) | E8 |
+| 现实与漫画壁画的融合 | @Arina_hoqe | [GoodCase](https://goodcase.ai/cases/case-490a5435c063) | [Media](https://media.goodcase.ai/media/image/case-490a5435c063.jpg) | [Original](https://x.com/Arina_hoqe/status/2081179727734456415) | E— |
+| 复古双色调编辑插画 | @HustleXR | [GoodCase](https://goodcase.ai/cases/case-7e29a0c188a4) | [Media](https://media.goodcase.ai/media/image/case-7e29a0c188a4.jpg) | [Original](https://x.com/HustleXR/status/2080180351885017314) | E— |
+| 动漫角色设定图生成器 | @ai_lifehack55 | [GoodCase](https://goodcase.ai/cases/case-805ea1d189ef) | [Media](https://media.goodcase.ai/media/image/case-805ea1d189ef.jpg) | [Original](https://x.com/ai_lifehack55/status/2080494791826268265) | E— |
+| 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E— |
+| 美术编辑肖像插画 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/aatif_j/status/2080399938278801700) | E— |
+| 部落奇幻女战士与猫头鹰肖像 | @Aqib__786Ai | [GoodCase](https://goodcase.ai/cases/case-dd0e6108eade) | [Media](https://media.goodcase.ai/cases/347112a1d6c6.jpg) | [Original](https://x.com/Aqib__786Ai/status/2091027228645552456) | E— |
+| Dark Fantasy Battlefield Warrior | @Madhuribhai | [GoodCase](https://goodcase.ai/cases/dark-fantasy-battlefield-warrior) | [Media](https://media.goodcase.ai/cases/d39fc1d10414.jpg) | [Original](https://x.com/Madhuribhai/status/2085769307217391725) | E— |
+| Oriental Fantasy Celestial Realm | @liyue_ai | [GoodCase](https://goodcase.ai/cases/oriental-fantasy-celestial-realm) | [Media](https://media.goodcase.ai/media/image/oriental-fantasy-celestial-realm.jpg) | [Original](https://x.com/liyue_ai/status/2085608761989714283) | E— |
+| Q 版角色转换 | @ChatGPT | [GoodCase](https://goodcase.ai/cases/q-5c9bd23e9454) | [Media](https://media.goodcase.ai/media/image/q-5c9bd23e9454.jpg) | [Original](https://x.com/ChatGPT/status/2001085961414041936) | E— |
+| 角色身份固定参考图表 | @Mrpinecone888 | [GoodCase](https://goodcase.ai/cases/youmind-character-identity-reference-chart) | [Media](https://media.goodcase.ai/media/image/youmind-character-identity-reference-chart.jpg) | [Original](https://x.com/Mrpinecone888/status/2082748531736244518) | E— |
 
 ## Derivation boundary
 

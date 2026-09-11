@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 64 published Cases across 54 creators.
+This workflow is derived from 62 published Cases across 51 creators.
 
 ## Operating rule
 
@@ -8,8 +8,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E1 · 手绘 2D 日本料理动画
 
-- Creator: riotboy
-- Evidence: [GoodCase](https://goodcase.ai/cases/2d-38a41133eab1) · [finished media](https://media.goodcase.ai/media/video/2d-38a41133eab1.mp4) · [poster](https://media.goodcase.ai/media/poster/2d-38a41133eab1.jpg) · [original source](https://x.com/i/status/2092217560788000816)
+- Creator: @riotboy2024
+- Evidence: [GoodCase](https://goodcase.ai/cases/2d-38a41133eab1) · [finished media](https://media.goodcase.ai/media/video/2d-38a41133eab1.mp4) · [poster](https://media.goodcase.ai/media/poster/2d-38a41133eab1.jpg) · [original source](https://x.com/riotboy2024/status/2092217560788000816)
 - Summary: 此高精细度提示词旨在创作一段 15 秒的动画风格烹饪短片，专注于制作可可巧克力面包的过程。通过对铅笔轮廓、赛璐珞阴影及精确摄像机运动的具体指令，实现手工绘制的审美效果。
 - Prompt excerpt:
 
@@ -37,8 +37,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E2 · 2D Sticker Capybara Kitchen Prank
 
-- Creator: Soran
-- Evidence: [GoodCase](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank) · [finished media](https://media.goodcase.ai/media/video/2d-sticker-capybara-kitchen-prank.mp4) · [poster](https://media.goodcase.ai/media/poster/2d-sticker-capybara-kitchen-prank.jpg) · [original source](https://x.com/i/status/2081386564525953050)
+- Creator: @Soranlan
+- Evidence: [GoodCase](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank) · [finished media](https://media.goodcase.ai/media/video/2d-sticker-capybara-kitchen-prank.mp4) · [poster](https://media.goodcase.ai/media/poster/2d-sticker-capybara-kitchen-prank.jpg) · [original source](https://x.com/Soranlan/status/2081386564525953050)
 - Summary: A mixed-media video prompt for Seedance 2.0 combining a realistic 1st-person kitchen POV with a 2D animated capybara sticker character performing a salt-pouring prank.
 - Prompt excerpt:
 
@@ -46,8 +46,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E3 · 皮克斯风格 3D 咖啡广告
 
-- Creator: Da Mayor - AI Creative Director 🎨💻
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-5cb0f8fdaefb) · [finished media](https://media.goodcase.ai/media/video/3d-5cb0f8fdaefb.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-5cb0f8fdaefb.jpg) · [original source](https://x.com/i/status/2081448072706723933)
+- Creator: @iam_damayor
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-5cb0f8fdaefb) · [finished media](https://media.goodcase.ai/media/video/3d-5cb0f8fdaefb.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-5cb0f8fdaefb.jpg) · [original source](https://x.com/iam_damayor/status/2081448072706723933)
 - Summary: 一份全面的视频提示词，用于制作具有皮克斯美学风格的 3D 咖啡广告，详细说明了从蓝调时刻到黄金时刻的转场，以及角色一致性的提示。
 - Prompt excerpt:
 
@@ -64,8 +64,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E5 · 3D 烘焙动画序列
 
-- Creator: Hania Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) · [finished media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg) · [original source](https://x.com/i/status/2076979039747920309)
+- Creator: @HaniaAi12
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) · [finished media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg) · [original source](https://x.com/HaniaAi12/status/2076979039747920309)
 - Summary: 这是一个为 Seedance 2.0 设计的综合提示词，旨在将视觉故事板转化为一段 10 秒的 3D 动画，展示女孩烘焙纸杯蛋糕的特定时间轴动作。
 - Prompt excerpt:
 
@@ -95,8 +95,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E6 · 90 年代迪士尼风格森林动画
 
-- Creator: Sam Aoteman
-- Evidence: [GoodCase](https://goodcase.ai/cases/90-f704a9d8555b) · [finished media](https://media.goodcase.ai/media/video/90-f704a9d8555b.mp4) · [poster](https://media.goodcase.ai/media/poster/90-f704a9d8555b.jpg) · [original source](https://x.com/i/status/2080638821557731785)
+- Creator: @samaote
+- Evidence: [GoodCase](https://goodcase.ai/cases/90-f704a9d8555b) · [finished media](https://media.goodcase.ai/media/video/90-f704a9d8555b.mp4) · [poster](https://media.goodcase.ai/media/poster/90-f704a9d8555b.jpg) · [original source](https://x.com/samaote/status/2080638821557731785)
 - Summary: 一个多场景视频提示词，用于创作 90 年代迪士尼风格的手绘动画，主角为森林中的浣熊和乌龟。
 - Prompt excerpt:
 
@@ -138,26 +138,26 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 手绘 2D 日本料理动画 | riotboy | [GoodCase](https://goodcase.ai/cases/2d-38a41133eab1) | [Media](https://media.goodcase.ai/media/video/2d-38a41133eab1.mp4) | [Original](https://x.com/i/status/2092217560788000816) | E1 |
-| 2D Sticker Capybara Kitchen Prank | Soran | [GoodCase](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank) | [Media](https://media.goodcase.ai/media/video/2d-sticker-capybara-kitchen-prank.mp4) | [Original](https://x.com/i/status/2081386564525953050) | E2 |
-| 皮克斯风格 3D 咖啡广告 | Da Mayor - AI Creative Director 🎨💻 | [GoodCase](https://goodcase.ai/cases/3d-5cb0f8fdaefb) | [Media](https://media.goodcase.ai/media/video/3d-5cb0f8fdaefb.mp4) | [Original](https://x.com/i/status/2081448072706723933) | E3 |
+| 手绘 2D 日本料理动画 | @riotboy2024 | [GoodCase](https://goodcase.ai/cases/2d-38a41133eab1) | [Media](https://media.goodcase.ai/media/video/2d-38a41133eab1.mp4) | [Original](https://x.com/riotboy2024/status/2092217560788000816) | E1 |
+| 2D Sticker Capybara Kitchen Prank | @Soranlan | [GoodCase](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank) | [Media](https://media.goodcase.ai/media/video/2d-sticker-capybara-kitchen-prank.mp4) | [Original](https://x.com/Soranlan/status/2081386564525953050) | E2 |
+| 皮克斯风格 3D 咖啡广告 | @iam_damayor | [GoodCase](https://goodcase.ai/cases/3d-5cb0f8fdaefb) | [Media](https://media.goodcase.ai/media/video/3d-5cb0f8fdaefb.mp4) | [Original](https://x.com/iam_damayor/status/2081448072706723933) | E3 |
 | 御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5） | 袋鼠帝 | [GoodCase](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a) | [Media](https://media.goodcase.ai/cases/bcf271199025.mp4) | [Original](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-3dcg-battle) | E4 |
-| 3D 烘焙动画序列 | Hania Ai | [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) | [Media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) | [Original](https://x.com/i/status/2076979039747920309) | E5 |
-| 90 年代迪士尼风格森林动画 | Sam Aoteman | [GoodCase](https://goodcase.ai/cases/90-f704a9d8555b) | [Media](https://media.goodcase.ai/media/video/90-f704a9d8555b.mp4) | [Original](https://x.com/i/status/2080638821557731785) | E6 |
+| 3D 烘焙动画序列 | @HaniaAi12 | [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) | [Media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) | [Original](https://x.com/HaniaAi12/status/2076979039747920309) | E5 |
+| 90 年代迪士尼风格森林动画 | @samaote | [GoodCase](https://goodcase.ai/cases/90-f704a9d8555b) | [Media](https://media.goodcase.ai/media/video/90-f704a9d8555b.mp4) | [Original](https://x.com/samaote/status/2080638821557731785) | E6 |
 | 粉彩霓虹少女刺客动画片头 | @AIwithAliya | [GoodCase](https://goodcase.ai/cases/aiwithaliya-minimax-h3-ai-8a417a457e76) | [Media](https://media.goodcase.ai/media/video/aiwithaliya-minimax-h3-ai-8a417a457e76.mp4) | [Original](https://x.com/AIwithAliya/status/2094108309011980339) | E7 |
 | Seedance 吉卜力风治愈料理动画 | @AiwithLariab | [GoodCase](https://goodcase.ai/cases/aiwithlariab-seedance-ai-801301860e89) | [Media](https://media.goodcase.ai/media/video/aiwithlariab-seedance-ai-801301860e89.mp4) | [Original](https://x.com/AiwithLariab/status/2088848553863233935) | E8 |
-| Apartment Arrival Storyboard Animation | Sharon Riley | [GoodCase](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) | [Media](https://media.goodcase.ai/media/video/apartment-arrival-storyboard-animation.mp4) | [Original](https://x.com/i/status/2083912532692001128) | E— |
-| 动漫花卉书签 ASMR | NoorAI | [GoodCase](https://goodcase.ai/cases/asmr-b99180475dc6) | [Media](https://media.goodcase.ai/media/video/asmr-b99180475dc6.mp4) | [Original](https://x.com/i/status/2076415711375970372) | E— |
+| Apartment Arrival Storyboard Animation | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) | [Media](https://media.goodcase.ai/media/video/apartment-arrival-storyboard-animation.mp4) | [Original](https://x.com/Just_sharon7/status/2083912532692001128) | E— |
+| 动漫花卉书签 ASMR | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/asmr-b99180475dc6) | [Media](https://media.goodcase.ai/media/video/asmr-b99180475dc6.mp4) | [Original](https://x.com/noorwithwifi/status/2076415711375970372) | E— |
 | Seedance 双角色 3D 卡通：小蝴蝶的十四秒 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-4a336f514777) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-4a336f514777.mp4) | [Original](https://x.com/ayzalnooor24521/status/2089559741718548578) | E— |
-| 手绘定格动画：暴风雪场景 | Piotr Binkowski | [GoodCase](https://goodcase.ai/cases/case-0287a838e662) | [Media](https://media.goodcase.ai/media/video/case-0287a838e662.mp4) | [Original](https://x.com/i/status/2078515110855753844) | E— |
-| 皮克斯风格美妆日常动画 | Lavinia | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/i/status/2092193228803952975) | E— |
-| 魔幻都市奇幻战斗动画 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/i/status/2080976327231107259) | E— |
-| 富有情感的日语对话动画 | さきすた AI artist | [GoodCase](https://goodcase.ai/cases/case-1f8136a9893a) | [Media](https://media.goodcase.ai/media/video/case-1f8136a9893a.mp4) | [Original](https://x.com/i/status/2088559545174175836) | E— |
-| 硬核科幻动漫剪辑 | PixieVerse | [GoodCase](https://goodcase.ai/cases/case-251215797a14) | [Media](https://media.goodcase.ai/media/video/case-251215797a14.mp4) | [Original](https://x.com/i/status/2081161446671651074) | E— |
-| 动画海盗动作序列 | Shara I Ai Video Creator | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/i/status/2079565454436426187) | E— |
-| 混乱早晨动画短片 | NoorAI | [GoodCase](https://goodcase.ai/cases/case-398be18644ee) | [Media](https://media.goodcase.ai/media/video/case-398be18644ee.mp4) | [Original](https://x.com/i/status/2080354151750668360) | E— |
-| 可爱兔兔厨师动漫烹饪 | Jiade 05 | [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) | [Media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) | [Original](https://x.com/i/status/2080643134011412961) | E— |
-| 定格动画扑克牌艺术短片 | BMX | [GoodCase](https://goodcase.ai/cases/case-50ba683413ff) | [Media](https://media.goodcase.ai/media/video/case-50ba683413ff.mp4) | [Original](https://x.com/i/status/2077208527840391188) | E— |
+| 手绘定格动画：暴风雪场景 | @piotrbinkowski | [GoodCase](https://goodcase.ai/cases/case-0287a838e662) | [Media](https://media.goodcase.ai/media/video/case-0287a838e662.mp4) | [Original](https://x.com/piotrbinkowski/status/2078515110855753844) | E— |
+| 皮克斯风格美妆日常动画 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/laviniavelle/status/2092193228803952975) | E— |
+| 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E— |
+| 富有情感的日语对话动画 | @sakisuta_ | [GoodCase](https://goodcase.ai/cases/case-1f8136a9893a) | [Media](https://media.goodcase.ai/media/video/case-1f8136a9893a.mp4) | [Original](https://x.com/sakisuta_/status/2088559545174175836) | E— |
+| 硬核科幻动漫剪辑 | @itsPixieVerse | [GoodCase](https://goodcase.ai/cases/case-251215797a14) | [Media](https://media.goodcase.ai/media/video/case-251215797a14.mp4) | [Original](https://x.com/itsPixieVerse/status/2081161446671651074) | E— |
+| 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E— |
+| 混乱早晨动画短片 | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/case-398be18644ee) | [Media](https://media.goodcase.ai/media/video/case-398be18644ee.mp4) | [Original](https://x.com/noorwithwifi/status/2080354151750668360) | E— |
+| 可爱兔兔厨师动漫烹饪 | @Jiade05 | [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) | [Media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) | [Original](https://x.com/Jiade05/status/2080643134011412961) | E— |
+| 定格动画扑克牌艺术短片 | @bmx_ai13 | [GoodCase](https://goodcase.ai/cases/case-50ba683413ff) | [Media](https://media.goodcase.ai/media/video/case-50ba683413ff.mp4) | [Original](https://x.com/bmx_ai13/status/2077208527840391188) | E— |
 
 ## Derivation boundary
 

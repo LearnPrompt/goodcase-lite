@@ -319,7 +319,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | AI Workflow Hero | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-workflow-hero) | [Media](https://media.goodcase.ai/cases/9e51fe5b57ba.webp) | [Original](https://motionsites.ai/?prompt=ai-workflow) | E— |
 | Animated Cards | MotionSites | [GoodCase](https://goodcase.ai/cases/animated-cards) | [Media](https://media.goodcase.ai/cases/9cacdc3c42fa.webp) | [Original](https://motionsites.ai/?prompt=animated-cards) | E— |
 | AntiGravity + Gemini 3.1 落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/antigravity-gemini-3-1-5e49aad75b25) | [Media](https://media.goodcase.ai/media/video/antigravity-gemini-3-1-5e49aad75b25.mp4) | [Original](https://x.com/viktoroddy/status/2024832167164133766) | E— |
-| 为客户 AP 打造的代理机构风格网站 | arda | [GoodCase](https://goodcase.ai/cases/ap-c081c7d3bae1) | [Media](https://media.goodcase.ai/media/image/ap-c081c7d3bae1.jpg) | [Original](https://x.com/i/status/1991203658269090295) | E— |
+| 为客户 AP 打造的代理机构风格网站 | @ardadoteth | [GoodCase](https://goodcase.ai/cases/ap-c081c7d3bae1) | [Media](https://media.goodcase.ai/media/image/ap-c081c7d3bae1.jpg) | [Original](https://x.com/ardadoteth/status/1991203658269090295) | E— |
 | Arceage Stats | MotionSites | [GoodCase](https://goodcase.ai/cases/arceage-stats) | [Media](https://media.goodcase.ai/cases/3f7fd8058c9a.webp) | [Original](https://motionsites.ai/?prompt=arceage-stats) | E— |
 
 ## Derivation boundary

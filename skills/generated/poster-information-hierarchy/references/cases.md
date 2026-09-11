@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 33 published Cases across 17 creators.
+This workflow is derived from 33 published Cases across 16 creators.
 
 ## Operating rule
 
@@ -8,8 +8,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E1 · 3D 纸艺微缩海报设计
 
-- Creator: 小小东
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-0c5fb248a5b9) · [finished media](https://media.goodcase.ai/cases/ffe38aa2e70d.jpg) · [original source](https://x.com/i/status/2091470045973262409)
+- Creator: @xiaoxiaodong01
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-0c5fb248a5b9) · [finished media](https://media.goodcase.ai/cases/ffe38aa2e70d.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2091470045973262409)
 - Summary: 一个精致的提示词，用于将上传的照片转换为高端竖版海报，特色在于上半部分为写实摄影，下半部分为风格化的 3D 纸艺微缩场景。
 - Prompt excerpt:
 
@@ -17,8 +17,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E2 · 3D 等轴测厚涂油画海报
 
-- Creator: 小小东
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-5b77438c2dce) · [finished media](https://media.goodcase.ai/media/image/3d-5b77438c2dce.jpg) · [original source](https://x.com/i/status/2091340055138963955)
+- Creator: @xiaoxiaodong01
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-5b77438c2dce) · [finished media](https://media.goodcase.ai/media/image/3d-5b77438c2dce.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2091340055138963955)
 - Summary: 一个美学提示词，通过厚涂油画和调色刀风格，将照片转化为 3D 等轴测微缩景观，在纸面上营造出触感十足的手工质感。
 - Prompt excerpt:
 
@@ -42,8 +42,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E3 · Alcohol Marker Travel Poster Prompt
 
-- Creator: Saul Goodman
-- Evidence: [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) · [finished media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) · [original source](https://x.com/i/status/2086685317822890146)
+- Creator: @Goodmanprotocol
+- Evidence: [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) · [finished media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) · [original source](https://x.com/Goodmanprotocol/status/2086685317822890146)
 - Summary: A comprehensive prompt for generating vertical travel posters with a mid-century alcohol marker aesthetic, featuring customizable city names and landmarks.
 - Prompt excerpt:
 
@@ -84,8 +84,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E4 · Batch Product Poster Proposal Generator
 
-- Creator: Derek Wen｜德里克文
-- Evidence: [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) · [finished media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) · [original source](https://x.com/i/status/2080480065998192970)
+- Creator: @derek_wall90176
+- Evidence: [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) · [finished media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) · [original source](https://x.com/derek_wall90176/status/2080480065998192970)
 - Summary: A professional business prompt designed to generate 8 diverse commercial poster options for a single product, ensuring brand consistency while exploring different themes and angles.
 - Prompt excerpt:
 
@@ -115,8 +115,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E5 · 海盐焦糖拿铁海报
 
-- Creator: 小小东
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) · [finished media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) · [original source](https://x.com/i/status/2078098079992119579)
+- Creator: @xiaoxiaodong01
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) · [finished media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2078098079992119579)
 - Summary: 为一款海盐焦糖冰拿铁制作竖版电商产品海报，呈现晶莹剔透的冰感美学与醒目的促销排版。
 - Prompt excerpt:
 
@@ -140,8 +140,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E7 · 创意涂鸦海报生成器
 
-- Creator: 小小东
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) · [finished media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) · [original source](https://x.com/i/status/2090834371423183135)
+- Creator: @xiaoxiaodong01
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) · [finished media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2090834371423183135)
 - Summary: 一个用于创建风格化海报的提示词，将原始摄影作品与迷人的黑色线条涂鸦角色相结合。它通过将布局拆分为上半部分的摄影图和下半部分的重构涂鸦，处理上传的图像，从而捕捉原始照片的视觉精髓与叙事感。
 - Prompt excerpt:
 
@@ -164,8 +164,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E8 · 格林童话木刻版画海报
 
-- Creator: 小小东
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) · [finished media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) · [original source](https://x.com/i/status/2089987808664719723)
+- Creator: @xiaoxiaodong01
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) · [finished media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2089987808664719723)
 - Summary: 将照片转化为迷人的格林童话风格木刻插画，呈现扁平的叙事视角和丰富的纯手工绘制质感。
 - Prompt excerpt:
 
@@ -185,26 +185,26 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D 纸艺微缩海报设计 | 小小东 | [GoodCase](https://goodcase.ai/cases/3d-0c5fb248a5b9) | [Media](https://media.goodcase.ai/cases/ffe38aa2e70d.jpg) | [Original](https://x.com/i/status/2091470045973262409) | E1 |
-| 3D 等轴测厚涂油画海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/3d-5b77438c2dce) | [Media](https://media.goodcase.ai/media/image/3d-5b77438c2dce.jpg) | [Original](https://x.com/i/status/2091340055138963955) | E2 |
-| Alcohol Marker Travel Poster Prompt | Saul Goodman | [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) | [Media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) | [Original](https://x.com/i/status/2086685317822890146) | E3 |
-| Batch Product Poster Proposal Generator | Derek Wen｜德里克文 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/i/status/2080480065998192970) | E4 |
-| 海盐焦糖拿铁海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) | [Media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) | [Original](https://x.com/i/status/2078098079992119579) | E5 |
+| 3D 纸艺微缩海报设计 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/3d-0c5fb248a5b9) | [Media](https://media.goodcase.ai/cases/ffe38aa2e70d.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091470045973262409) | E1 |
+| 3D 等轴测厚涂油画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/3d-5b77438c2dce) | [Media](https://media.goodcase.ai/media/image/3d-5b77438c2dce.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091340055138963955) | E2 |
+| Alcohol Marker Travel Poster Prompt | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) | [Media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) | [Original](https://x.com/Goodmanprotocol/status/2086685317822890146) | E3 |
+| Batch Product Poster Proposal Generator | @derek_wall90176 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/derek_wall90176/status/2080480065998192970) | E4 |
+| 海盐焦糖拿铁海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) | [Media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078098079992119579) | E5 |
 | 当代平面设计展览海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-33a820efca19) | [Media](https://media.goodcase.ai/cases/1a97078e86d9.jpg) | [Original](https://x.com/ChillaiKalan__/status/2092277085914206655) | E6 |
-| 创意涂鸦海报生成器 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/i/status/2090834371423183135) | E7 |
-| 格林童话木刻版画海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) | [Media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) | [Original](https://x.com/i/status/2089987808664719723) | E8 |
+| 创意涂鸦海报生成器 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090834371423183135) | E7 |
+| 格林童话木刻版画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) | [Media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089987808664719723) | E8 |
 | 贴纸拼贴 / 创意图像合成/钱包/护照夹 | 野猪A6 | [GoodCase](https://goodcase.ai/cases/case-6d72adabab02) | [Media](https://media.goodcase.ai/media/image/case-6d72adabab02.webp) | [Original](https://www.liblib.art/modelinfo/a104e1357d354686a53df93d0b6aabc9) | E— |
-| 几何治愈系艺术海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) | [Media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) | [Original](https://x.com/i/status/2094414873837146267) | E— |
-| 水彩风格编辑插画海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/i/status/2089893684527730867) | E— |
-| 三步拥有幸福人生信息图 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-a29e3e9b3070) | [Media](https://media.goodcase.ai/media/image/case-a29e3e9b3070.jpg) | [Original](https://x.com/i/status/2078869781189677408) | E— |
-| 高端极简矢量旅行海报 | Mahnoor Fatima | [GoodCase](https://goodcase.ai/cases/case-aa3e3c074ac1) | [Media](https://media.goodcase.ai/media/image/case-aa3e3c074ac1.jpg) | [Original](https://x.com/i/status/2091349007922778211) | E— |
-| 几何视窗极简商业海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/i/status/2090960491648815553) | E— |
-| 达芬奇等轴测结构海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-dbb1375c81bd) | [Media](https://media.goodcase.ai/cases/5b189e294391.jpg) | [Original](https://x.com/i/status/2091001986519068891) | E— |
-| 手工撕纸海报风格 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-e1146d469636) | [Media](https://media.goodcase.ai/cases/3b3d8cab4ea9.jpg) | [Original](https://x.com/i/status/2089252321603862547) | E— |
-| 电影感旅行杂志海报 | simeon-sanai | [GoodCase](https://goodcase.ai/cases/case-e435a002bb7d) | [Media](https://media.goodcase.ai/cases/d0308655dad9.jpg) | [Original](https://x.com/i/status/2088475690639261784) | E— |
-| 极简概念线条艺术海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-f0b80272015b) | [Media](https://media.goodcase.ai/cases/64d725084400.jpg) | [Original](https://x.com/i/status/2089959872876228689) | E— |
-| 等轴测微缩模型海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-f707dbeeade9) | [Media](https://media.goodcase.ai/cases/47e23925f21b.jpg) | [Original](https://x.com/i/status/2090447110168822128) | E— |
-| City Aesthetic Morning Poster Collage | 小小东 | [GoodCase](https://goodcase.ai/cases/city-aesthetic-morning-poster-collage) | [Media](https://media.goodcase.ai/media/image/city-aesthetic-morning-poster-collage.jpg) | [Original](https://x.com/i/status/2080377942639603720) | E— |
+| 几何治愈系艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) | [Media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2094414873837146267) | E— |
+| 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E— |
+| 三步拥有幸福人生信息图 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-a29e3e9b3070) | [Media](https://media.goodcase.ai/media/image/case-a29e3e9b3070.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078869781189677408) | E— |
+| 高端极简矢量旅行海报 | @MahnoorAi12 | [GoodCase](https://goodcase.ai/cases/case-aa3e3c074ac1) | [Media](https://media.goodcase.ai/media/image/case-aa3e3c074ac1.jpg) | [Original](https://x.com/MahnoorAi12/status/2091349007922778211) | E— |
+| 几何视窗极简商业海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090960491648815553) | E— |
+| 达芬奇等轴测结构海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-dbb1375c81bd) | [Media](https://media.goodcase.ai/cases/5b189e294391.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091001986519068891) | E— |
+| 手工撕纸海报风格 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-e1146d469636) | [Media](https://media.goodcase.ai/cases/3b3d8cab4ea9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089252321603862547) | E— |
+| 电影感旅行杂志海报 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/case-e435a002bb7d) | [Media](https://media.goodcase.ai/cases/d0308655dad9.jpg) | [Original](https://x.com/Naiknelofar788/status/2088475690639261784) | E— |
+| 极简概念线条艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-f0b80272015b) | [Media](https://media.goodcase.ai/cases/64d725084400.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089959872876228689) | E— |
+| 等轴测微缩模型海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-f707dbeeade9) | [Media](https://media.goodcase.ai/cases/47e23925f21b.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090447110168822128) | E— |
+| City Aesthetic Morning Poster Collage | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/city-aesthetic-morning-poster-collage) | [Media](https://media.goodcase.ai/media/image/city-aesthetic-morning-poster-collage.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2080377942639603720) | E— |
 
 ## Derivation boundary
 

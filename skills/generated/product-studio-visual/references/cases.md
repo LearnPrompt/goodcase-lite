@@ -60,8 +60,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E4 · Arctic Mint Gum 商业摄影
 
-- Creator: 小森映像
-- Evidence: [GoodCase](https://goodcase.ai/cases/arctic-mint-gum-debd6203b36e) · [finished media](https://media.goodcase.ai/media/image/arctic-mint-gum-debd6203b36e.jpg) · [original source](https://x.com/i/status/2081430171371094472)
+- Creator: @komorimedia
+- Evidence: [GoodCase](https://goodcase.ai/cases/arctic-mint-gum-debd6203b36e) · [finished media](https://media.goodcase.ai/media/image/arctic-mint-gum-debd6203b36e.jpg) · [original source](https://x.com/komorimedia/status/2081430171371094472)
 - Summary: 一个专业的广告提示词，用于生成清凉薄荷口香糖的产品拍摄图，包含冰雾、水珠和高级商业灯光效果。
 - Prompt excerpt:
 
@@ -69,8 +69,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E5 · Batch Product Poster Proposal Generator
 
-- Creator: Derek Wen｜德里克文
-- Evidence: [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) · [finished media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) · [original source](https://x.com/i/status/2080480065998192970)
+- Creator: @derek_wall90176
+- Evidence: [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) · [finished media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) · [original source](https://x.com/derek_wall90176/status/2080480065998192970)
 - Summary: A professional business prompt designed to generate 8 diverse commercial poster options for a single product, ensuring brand consistency while exploring different themes and angles.
 - Prompt excerpt:
 
@@ -204,8 +204,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E8 · 悬浮美食商业广告活动
 
-- Creator: Anissa
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) · [finished media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) · [original source](https://x.com/i/status/2077676593284354149)
+- Creator: @SimplyAnnisa
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) · [finished media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) · [original source](https://x.com/SimplyAnnisa/status/2077676593284354149)
 - Summary: 一个专业的商业摄影提示词，用于根据参考图像创作高端悬浮美食广告。
 - Prompt excerpt:
 
@@ -218,21 +218,21 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 8月最新 电商一键换背景工作流，包含F.1重绘，效果更好 | 设计师学Ai | [GoodCase](https://goodcase.ai/cases/8-f-1-9578d4d0451d) | [Media](https://media.goodcase.ai/media/image/8-f-1-9578d4d0451d.gif) | [Original](https://www.liblib.art/modelinfo/28b27d33a478466d9c2dc7abc17baa13) | E1 |
 | AI 直出 Logo 集：mame cafe 手绘涂鸦风咖啡馆品牌标志 | Abu | [GoodCase](https://goodcase.ai/cases/ai-logo-mame-cafe-2b73b3d79947) | [Media](https://media.goodcase.ai/cases/0728f03f462c.webp) | [Original](https://www.douyin.com/note/7677943724332400241?gc=logo-mame-cafe) | E2 |
 | AI 直出 Logo 集：Triple Cat 三只小猫涂鸦风宠物咖啡馆标志 | Abu | [GoodCase](https://goodcase.ai/cases/ai-logo-triple-cat-7eac3df5199d) | [Media](https://media.goodcase.ai/cases/0bc6c6cf72c0.webp) | [Original](https://www.douyin.com/note/7677943724332400241?gc=logo-triple-cat) | E3 |
-| Arctic Mint Gum 商业摄影 | 小森映像 | [GoodCase](https://goodcase.ai/cases/arctic-mint-gum-debd6203b36e) | [Media](https://media.goodcase.ai/media/image/arctic-mint-gum-debd6203b36e.jpg) | [Original](https://x.com/i/status/2081430171371094472) | E4 |
-| Batch Product Poster Proposal Generator | Derek Wen｜德里克文 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/i/status/2080480065998192970) | E5 |
+| Arctic Mint Gum 商业摄影 | @komorimedia | [GoodCase](https://goodcase.ai/cases/arctic-mint-gum-debd6203b36e) | [Media](https://media.goodcase.ai/media/image/arctic-mint-gum-debd6203b36e.jpg) | [Original](https://x.com/komorimedia/status/2081430171371094472) | E4 |
+| Batch Product Poster Proposal Generator | @derek_wall90176 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/derek_wall90176/status/2080480065998192970) | E5 |
 | 高端披萨商业广告分镜脚本 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2485fd339050) | [Media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) | [Original](https://x.com/Strength04_X/status/2094649803682750838) | E6 |
 | 高端零食广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) | [Media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) | [Original](https://x.com/Strength04_X/status/2095782580071411770) | E7 |
-| 悬浮美食商业广告活动 | Anissa | [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) | [Media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) | [Original](https://x.com/i/status/2077676593284354149) | E8 |
-| 极简主义蓝色香水广告 | Shami | [GoodCase](https://goodcase.ai/cases/case-5182e7e62bbb) | [Media](https://media.goodcase.ai/media/image/case-5182e7e62bbb.jpg) | [Original](https://x.com/i/status/2078074982337515555) | E— |
-| 剪贴簿风格韩式美食广告 | Simply Ray | [GoodCase](https://goodcase.ai/cases/case-5a706b064073) | [Media](https://media.goodcase.ai/media/image/case-5a706b064073.jpg) | [Original](https://x.com/i/status/2081580288971337797) | E— |
+| 悬浮美食商业广告活动 | @SimplyAnnisa | [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) | [Media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) | [Original](https://x.com/SimplyAnnisa/status/2077676593284354149) | E8 |
+| 极简主义蓝色香水广告 | @ShamiWeb3 | [GoodCase](https://goodcase.ai/cases/case-5182e7e62bbb) | [Media](https://media.goodcase.ai/media/image/case-5182e7e62bbb.jpg) | [Original](https://x.com/ShamiWeb3/status/2078074982337515555) | E— |
+| 剪贴簿风格韩式美食广告 | @kingofdairyque | [GoodCase](https://goodcase.ai/cases/case-5a706b064073) | [Media](https://media.goodcase.ai/media/image/case-5a706b064073.jpg) | [Original](https://x.com/kingofdairyque/status/2081580288971337797) | E— |
 | 椰子水产品项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) | [Media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) | [Original](https://x.com/Strength04_X/status/2094760813794111843) | E— |
 | 高端意大利面商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) | [Media](https://media.goodcase.ai/cases/714a09d39d81.jpg) | [Original](https://x.com/Strength04_X/status/2095411329461100949) | E— |
 | 高端方便面广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) | [Media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) | [Original](https://x.com/Strength04_X/status/2090019696779387173) | E— |
 | 无需提示词室内电商专用产品一键生图细节无损工作流高清放大 | 北洛 | [GoodCase](https://goodcase.ai/cases/case-9c747054ceeb) | [Media](https://media.goodcase.ai/media/image/case-9c747054ceeb.gif) | [Original](https://www.liblib.art/modelinfo/6b7e46cb84234be5b614d014f6d1a0ed) | E— |
 | 奢华护肤品广告 | @ai__lyra | [GoodCase](https://goodcase.ai/cases/case-9cff1d540398) | [Media](https://media.goodcase.ai/cases/ab36d235045b.jpg) | [Original](https://x.com/ai__lyra/status/2082457952901018006) | E— |
-| 草地山丘上的极简主义产品摄影 | Maddox | [GoodCase](https://goodcase.ai/cases/case-9eb937c02956) | [Media](https://media.goodcase.ai/media/image/case-9eb937c02956.jpg) | [Original](https://x.com/i/status/2077931238674096250) | E— |
-| 几何视窗极简商业海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/i/status/2090960491648815553) | E— |
-| 混合媒体广告模板 | Saul Goodman | [GoodCase](https://goodcase.ai/cases/case-cbfe9176785a) | [Media](https://media.goodcase.ai/media/image/case-cbfe9176785a.jpg) | [Original](https://x.com/i/status/2080163152134836702) | E— |
+| 草地山丘上的极简主义产品摄影 | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/case-9eb937c02956) | [Media](https://media.goodcase.ai/media/image/case-9eb937c02956.jpg) | [Original](https://x.com/Maddox_Digital/status/2077931238674096250) | E— |
+| 几何视窗极简商业海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090960491648815553) | E— |
+| 混合媒体广告模板 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/case-cbfe9176785a) | [Media](https://media.goodcase.ai/media/image/case-cbfe9176785a.jpg) | [Original](https://x.com/Goodmanprotocol/status/2080163152134836702) | E— |
 | 电商高精快速出图（图片可生成任意字体文字） | AI大师工作流 | [GoodCase](https://goodcase.ai/cases/case-dc302e39731e) | [Media](https://media.goodcase.ai/media/image/case-dc302e39731e.webp) | [Original](https://www.liblib.art/modelinfo/e934f3a693c14268a758905a7d20ceb4) | E— |
 | 高端有机蜂蜜商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e2965bc59b6d) | [Media](https://media.goodcase.ai/cases/0754619398ae.jpg) | [Original](https://x.com/Strength04_X/status/2090081415924982038) | E— |
 

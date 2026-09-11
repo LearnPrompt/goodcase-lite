@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 56 published Cases across 40 creators.
+This workflow is derived from 58 published Cases across 36 creators.
 
 ## Operating rule
 
@@ -8,8 +8,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E1 · 皮克斯风格 3D 咖啡广告
 
-- Creator: Da Mayor - AI Creative Director 🎨💻
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-5cb0f8fdaefb) · [finished media](https://media.goodcase.ai/media/video/3d-5cb0f8fdaefb.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-5cb0f8fdaefb.jpg) · [original source](https://x.com/i/status/2081448072706723933)
+- Creator: @iam_damayor
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-5cb0f8fdaefb) · [finished media](https://media.goodcase.ai/media/video/3d-5cb0f8fdaefb.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-5cb0f8fdaefb.jpg) · [original source](https://x.com/iam_damayor/status/2081448072706723933)
 - Summary: 一份全面的视频提示词，用于制作具有皮克斯美学风格的 3D 咖啡广告，详细说明了从蓝调时刻到黄金时刻的转场，以及角色一致性的提示。
 - Prompt excerpt:
 
@@ -48,8 +48,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E4 · 奢华美妆护肤 ASMR
 
-- Creator: Pan
-- Evidence: [GoodCase](https://goodcase.ai/cases/asmr-eb8937adce5b) · [finished media](https://media.goodcase.ai/media/video/asmr-eb8937adce5b.mp4) · [poster](https://media.goodcase.ai/media/poster/asmr-eb8937adce5b.jpg) · [original source](https://x.com/i/status/2080999511195828239)
+- Creator: @sebatheepan
+- Evidence: [GoodCase](https://goodcase.ai/cases/asmr-eb8937adce5b) · [finished media](https://media.goodcase.ai/media/video/asmr-eb8937adce5b.mp4) · [poster](https://media.goodcase.ai/media/poster/asmr-eb8937adce5b.jpg) · [original source](https://x.com/sebatheepan/status/2080999511195828239)
 - Summary: 一个创意提示词，用于生成带有傲娇 ASMR 个性的高维护奢华美妆与护肤流程，呈现复古摄像机拍摄风格。
 - Prompt excerpt:
 
@@ -91,8 +91,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E6 · 皮克斯风格美妆日常动画
 
-- Creator: Lavinia
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) · [finished media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) · [poster](https://media.goodcase.ai/cases/3718d6d34c62.jpg) · [original source](https://x.com/i/status/2092193228803952975)
+- Creator: @laviniavelle
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) · [finished media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) · [poster](https://media.goodcase.ai/cases/3718d6d34c62.jpg) · [original source](https://x.com/laviniavelle/status/2092193228803952975)
 - Summary: 一段详细的 3D 皮克斯风格动画序列，展示了角色在浴室的日常流程，包括吹干头发和流畅的服装切换。
 - Prompt excerpt:
 
@@ -100,8 +100,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E7 · 智能手表产品生活方式广告
 
-- Creator: Smiling Khan
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) · [finished media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) · [poster](https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg) · [original source](https://x.com/i/status/2080519081959276735)
+- Creator: @AIwithkhan
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) · [finished media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) · [poster](https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg) · [original source](https://x.com/AIwithkhan/status/2080519081959276735)
 - Summary: 一份高端智能手表生活方式广告提示词，以一位年轻女性在各种日常场景中的表现为特色，具有极高的制作水准。
 - Prompt excerpt:
 
@@ -117,8 +117,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E8 · 夏季饮品商业电影感短片
 
-- Creator: Synthia
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) · [finished media](https://media.goodcase.ai/media/video/case-1f7a27e4c448.mp4) · [poster](https://media.goodcase.ai/media/poster/case-1f7a27e4c448.jpg) · [original source](https://x.com/i/status/2081383131668701519)
+- Creator: @AIwithSynthia
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) · [finished media](https://media.goodcase.ai/media/video/case-1f7a27e4c448.mp4) · [poster](https://media.goodcase.ai/media/poster/case-1f7a27e4c448.jpg) · [original source](https://x.com/AIwithSynthia/status/2081383131668701519)
 - Summary: 一款专为 Seedance 2.0 设计的高端电影感饮品广告提示词，包含角色参考锁定及充满活力的夏季美学。
 - Prompt excerpt:
 
@@ -133,26 +133,26 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 皮克斯风格 3D 咖啡广告 | Da Mayor - AI Creative Director 🎨💻 | [GoodCase](https://goodcase.ai/cases/3d-5cb0f8fdaefb) | [Media](https://media.goodcase.ai/media/video/3d-5cb0f8fdaefb.mp4) | [Original](https://x.com/i/status/2081448072706723933) | E1 |
+| 皮克斯风格 3D 咖啡广告 | @iam_damayor | [GoodCase](https://goodcase.ai/cases/3d-5cb0f8fdaefb) | [Media](https://media.goodcase.ai/media/video/3d-5cb0f8fdaefb.mp4) | [Original](https://x.com/iam_damayor/status/2081448072706723933) | E1 |
 | 悬浮分层汉堡组装广告 | @aimikoda | [GoodCase](https://goodcase.ai/cases/aimikoda-minimax-h3-ai-c30a47a239f6) | [Media](https://media.goodcase.ai/media/video/aimikoda-minimax-h3-ai-c30a47a239f6.mp4) | [Original](https://x.com/aimikoda/status/2094279178602283013) | E2 |
 | Seedance 参考图角色的墨镜耳机 UGC 短片 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-2ee8c62c7d26) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-2ee8c62c7d26.mp4) | [Original](https://x.com/AIwithkhan/status/2089686478100341051) | E3 |
-| 奢华美妆护肤 ASMR | Pan | [GoodCase](https://goodcase.ai/cases/asmr-eb8937adce5b) | [Media](https://media.goodcase.ai/media/video/asmr-eb8937adce5b.mp4) | [Original](https://x.com/i/status/2080999511195828239) | E4 |
+| 奢华美妆护肤 ASMR | @sebatheepan | [GoodCase](https://goodcase.ai/cases/asmr-eb8937adce5b) | [Media](https://media.goodcase.ai/media/video/asmr-eb8937adce5b.mp4) | [Original](https://x.com/sebatheepan/status/2080999511195828239) | E4 |
 | MiniMax H3 参考图驱动的产品时尚短片 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-ccf8d06fad6f) | [Media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-ccf8d06fad6f.mp4) | [Original](https://x.com/CaliraVal/status/2089221706435248245) | E5 |
-| 皮克斯风格美妆日常动画 | Lavinia | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/i/status/2092193228803952975) | E6 |
-| 智能手表产品生活方式广告 | Smiling Khan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/i/status/2080519081959276735) | E7 |
-| 夏季饮品商业电影感短片 | Synthia | [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) | [Media](https://media.goodcase.ai/media/video/case-1f7a27e4c448.mp4) | [Original](https://x.com/i/status/2081383131668701519) | E8 |
-| 护发精华美妆广告 | Noor | [GoodCase](https://goodcase.ai/cases/case-3484642788b0) | [Media](https://media.goodcase.ai/cases/195c4f5f9843.mp4) | [Original](https://x.com/i/status/2092478694078251087) | E— |
-| 高端洗发水广告项目 | Rosey Watson | [GoodCase](https://goodcase.ai/cases/case-34d77d97a79e) | [Media](https://media.goodcase.ai/cases/643d8f673561.mp4) | [Original](https://x.com/i/status/2090369532435083731) | E— |
-| 写实风格中国辣条商业广告 | Kent Dhani | [GoodCase](https://goodcase.ai/cases/case-571927740e2f) | [Media](https://media.goodcase.ai/media/video/case-571927740e2f.mp4) | [Original](https://x.com/i/status/2080945278392406294) | E— |
-| 高能量健身苏打水广告 | Da Mayor - AI Creative Director 🎨💻 | [GoodCase](https://goodcase.ai/cases/case-723eadafece5) | [Media](https://media.goodcase.ai/media/video/case-723eadafece5.mp4) | [Original](https://x.com/i/status/2081379499262746808) | E— |
-| 触感剪纸风格产品展示 | Safwaan Mujawar | [GoodCase](https://goodcase.ai/cases/case-7aea1313f63b) | [Media](https://media.goodcase.ai/media/video/case-7aea1313f63b.mp4) | [Original](https://x.com/i/status/2073075642996777159) | E— |
-| 可口可乐时尚转场广告 | John | [GoodCase](https://goodcase.ai/cases/case-887d0484c2ce) | [Media](https://media.goodcase.ai/media/video/case-887d0484c2ce.mp4) | [Original](https://x.com/i/status/2079810430252331482) | E— |
-| 写实风格无线耳机广告 | HiAPI | [GoodCase](https://goodcase.ai/cases/case-96017ad7706f) | [Media](https://media.goodcase.ai/media/video/case-96017ad7706f.mp4) | [Original](https://x.com/i/status/2081294040415482322) | E— |
-| “水光肌” 美容精华液广告 | Lavinia | [GoodCase](https://goodcase.ai/cases/case-98ee40004d15) | [Media](https://media.goodcase.ai/cases/fc83139eadfa.mp4) | [Original](https://x.com/i/status/2092417476265144705) | E— |
-| 高端生活方式口红商业广告视频 | Synthia | [GoodCase](https://goodcase.ai/cases/case-9cb44af49d8a) | [Media](https://media.goodcase.ai/media/video/case-9cb44af49d8a.mp4) | [Original](https://x.com/i/status/2081032248179220680) | E— |
-| 韩式护肤美妆广告 | Zyrella | [GoodCase](https://goodcase.ai/cases/case-afb550ec50e4) | [Media](https://media.goodcase.ai/cases/550b67a5b50f.mp4) | [Original](https://x.com/i/status/2093551801899598017) | E— |
-| 无线耳机产品评测 | Saul Goodman | [GoodCase](https://goodcase.ai/cases/case-b157d9c072bc) | [Media](https://media.goodcase.ai/media/video/case-b157d9c072bc.mp4) | [Original](https://x.com/i/status/2078490755958780363) | E— |
-| 高端口红美妆广告 | Synthia | [GoodCase](https://goodcase.ai/cases/case-b723c4e1858e) | [Media](https://media.goodcase.ai/media/video/case-b723c4e1858e.mp4) | [Original](https://x.com/i/status/2077621815598592445) | E— |
+| 皮克斯风格美妆日常动画 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/laviniavelle/status/2092193228803952975) | E6 |
+| 智能手表产品生活方式广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/AIwithkhan/status/2080519081959276735) | E7 |
+| 夏季饮品商业电影感短片 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) | [Media](https://media.goodcase.ai/media/video/case-1f7a27e4c448.mp4) | [Original](https://x.com/AIwithSynthia/status/2081383131668701519) | E8 |
+| 护发精华美妆广告 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/case-3484642788b0) | [Media](https://media.goodcase.ai/cases/195c4f5f9843.mp4) | [Original](https://x.com/noorlewisx/status/2092478694078251087) | E— |
+| 高端洗发水广告项目 | @Rosey_watson | [GoodCase](https://goodcase.ai/cases/case-34d77d97a79e) | [Media](https://media.goodcase.ai/cases/643d8f673561.mp4) | [Original](https://x.com/Rosey_watson/status/2090369532435083731) | E— |
+| 奢华无线耳机产品展示 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-3b061b619d01) | [Media](https://media.goodcase.ai/cases/6d76adba9a18.webm) | [Original](https://x.com/LudovicCreator/status/2082783319075291312) | E— |
+| 写实风格中国辣条商业广告 | @kentdhani | [GoodCase](https://goodcase.ai/cases/case-571927740e2f) | [Media](https://media.goodcase.ai/media/video/case-571927740e2f.mp4) | [Original](https://x.com/kentdhani/status/2080945278392406294) | E— |
+| 沙漠秀场金属礼服时尚广告 | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/case-65e546a006dc) | [Media](https://media.goodcase.ai/cases/79e8be8efcca.webm) | [Original](https://x.com/noorwithwifi/status/2082897758084907132) | E— |
+| 高能量健身苏打水广告 | @iam_damayor | [GoodCase](https://goodcase.ai/cases/case-723eadafece5) | [Media](https://media.goodcase.ai/media/video/case-723eadafece5.mp4) | [Original](https://x.com/iam_damayor/status/2081379499262746808) | E— |
+| 触感剪纸风格产品展示 | @thesocialalpha_ | [GoodCase](https://goodcase.ai/cases/case-7aea1313f63b) | [Media](https://media.goodcase.ai/media/video/case-7aea1313f63b.mp4) | [Original](https://x.com/thesocialalpha_/status/2073075642996777159) | E— |
+| 可口可乐时尚转场广告 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/case-887d0484c2ce) | [Media](https://media.goodcase.ai/media/video/case-887d0484c2ce.mp4) | [Original](https://x.com/johnAGI168/status/2079810430252331482) | E— |
+| 写实风格无线耳机广告 | @hiapi_ai | [GoodCase](https://goodcase.ai/cases/case-96017ad7706f) | [Media](https://media.goodcase.ai/media/video/case-96017ad7706f.mp4) | [Original](https://x.com/hiapi_ai/status/2081294040415482322) | E— |
+| “水光肌” 美容精华液广告 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-98ee40004d15) | [Media](https://media.goodcase.ai/cases/fc83139eadfa.mp4) | [Original](https://x.com/laviniavelle/status/2092417476265144705) | E— |
+| 高端生活方式口红商业广告视频 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-9cb44af49d8a) | [Media](https://media.goodcase.ai/media/video/case-9cb44af49d8a.mp4) | [Original](https://x.com/AIwithSynthia/status/2081032248179220680) | E— |
+| 韩式护肤美妆广告 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/case-afb550ec50e4) | [Media](https://media.goodcase.ai/cases/550b67a5b50f.mp4) | [Original](https://x.com/Zyrellix/status/2093551801899598017) | E— |
 
 ## Derivation boundary
 

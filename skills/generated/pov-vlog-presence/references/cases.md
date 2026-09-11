@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 82 published Cases across 55 creators.
+This workflow is derived from 82 published Cases across 49 creators.
 
 ## Operating rule
 
@@ -8,8 +8,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E1 · 16mm Analog Morning Vlog
 
-- Creator: MAX
-- Evidence: [GoodCase](https://goodcase.ai/cases/16mm-analog-morning-vlog) · [finished media](https://media.goodcase.ai/media/video/16mm-analog-morning-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/16mm-analog-morning-vlog.jpg) · [original source](https://x.com/i/status/2085422370362110168)
+- Creator: @maxxmalist
+- Evidence: [GoodCase](https://goodcase.ai/cases/16mm-analog-morning-vlog) · [finished media](https://media.goodcase.ai/media/video/16mm-analog-morning-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/16mm-analog-morning-vlog.jpg) · [original source](https://x.com/maxxmalist/status/2085422370362110168)
 - Summary: A highly detailed video prompt for Seedance 2.5 mimicking a handheld 16mm analog morning vlog of a woman walking her dog, focusing on realistic imperfections and film texture.
 - Prompt excerpt:
 
@@ -25,8 +25,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E2 · 16mm Handheld Influencer Vlog
 
-- Creator: Alpha Mom
-- Evidence: [GoodCase](https://goodcase.ai/cases/16mm-handheld-influencer-vlog) · [finished media](https://media.goodcase.ai/media/video/16mm-handheld-influencer-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/16mm-handheld-influencer-vlog.jpg) · [original source](https://x.com/i/status/2085350644915765377)
+- Creator: @YourAlphaMom
+- Evidence: [GoodCase](https://goodcase.ai/cases/16mm-handheld-influencer-vlog) · [finished media](https://media.goodcase.ai/media/video/16mm-handheld-influencer-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/16mm-handheld-influencer-vlog.jpg) · [original source](https://x.com/YourAlphaMom/status/2085350644915765377)
 - Summary: A comprehensive prompt designed to mimic the aesthetic of a vintage 16mm handheld camcorder, creating a highly realistic influencer-style vlog.
 - Prompt excerpt:
 
@@ -34,8 +34,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E3 · 复古 16mm 健身有氧 Vlog
 
-- Creator: 𝗦𝗮𝗻𝗶𝗮
-- Evidence: [GoodCase](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310) · [finished media](https://media.goodcase.ai/media/video/16mm-vlog-c8cfec0d8310.mp4) · [poster](https://media.goodcase.ai/media/poster/16mm-vlog-c8cfec0d8310.jpg) · [original source](https://x.com/i/status/2080999754859991152)
+- Creator: @saniaspeaks_
+- Evidence: [GoodCase](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310) · [finished media](https://media.goodcase.ai/media/video/16mm-vlog-c8cfec0d8310.mp4) · [poster](https://media.goodcase.ai/media/poster/16mm-vlog-c8cfec0d8310.jpg) · [original source](https://x.com/saniaspeaks_/status/2080999754859991152)
 - Summary: 一个电影感提示词，用于创作怀旧的 21 世纪初风格健身 Vlog，主角为韩国偶像，强调真实的手持摄像机运镜和低保真录像带质感。
 - Prompt excerpt:
 
@@ -43,8 +43,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E4 · 2000 年代 MiniDV 汉江骑行
 
-- Creator: Zephyra Leigh
-- Evidence: [GoodCase](https://goodcase.ai/cases/2000-minidv-5cceb6310905) · [finished media](https://media.goodcase.ai/media/video/2000-minidv-5cceb6310905.mp4) · [poster](https://media.goodcase.ai/media/poster/2000-minidv-5cceb6310905.jpg) · [original source](https://x.com/i/status/2081195428922708039)
+- Creator: @ZephyraLeigh
+- Evidence: [GoodCase](https://goodcase.ai/cases/2000-minidv-5cceb6310905) · [finished media](https://media.goodcase.ai/media/video/2000-minidv-5cceb6310905.mp4) · [poster](https://media.goodcase.ai/media/poster/2000-minidv-5cceb6310905.jpg) · [original source](https://x.com/ZephyraLeigh/status/2081195428922708039)
 - Summary: 为 Seedance 2.0 设计的综合性多场景提示词，旨在模仿 2004 年怀旧的手持 MiniDV 家庭录像风格。
 - Prompt excerpt:
 
@@ -75,8 +75,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E5 · 90 年代复古 VHS 健身 Vlog
 
-- Creator: serein ｜买美股上币安
-- Evidence: [GoodCase](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606) · [finished media](https://media.goodcase.ai/media/video/90-vhs-vlog-ae90c46cb606.mp4) · [poster](https://media.goodcase.ai/media/poster/90-vhs-vlog-ae90c46cb606.jpg) · [original source](https://x.com/i/status/2081218658618188267)
+- Creator: @you1873118
+- Evidence: [GoodCase](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606) · [finished media](https://media.goodcase.ai/media/video/90-vhs-vlog-ae90c46cb606.mp4) · [poster](https://media.goodcase.ai/media/poster/90-vhs-vlog-ae90c46cb606.jpg) · [original source](https://x.com/you1873118/status/2081218658618188267)
 - Summary: 一份详细的多段式提示词，用于创作具有 80/90 年代怀旧风格的健身 Vlog 视频，包含特定的 VHS 质感、POV 摄像机运镜以及自然的人物表情。
 - Prompt excerpt:
 
@@ -121,8 +121,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E6 · 90s West Coast Documentary Realism
 
-- Creator: TechHalla
-- Evidence: [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) · [finished media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) · [poster](https://media.goodcase.ai/media/poster/90s-west-coast-documentary-realism.jpg) · [original source](https://x.com/i/status/2086469019146592294)
+- Creator: @techhalla
+- Evidence: [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) · [finished media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) · [poster](https://media.goodcase.ai/media/poster/90s-west-coast-documentary-realism.jpg) · [original source](https://x.com/techhalla/status/2086469019146592294)
 - Summary: A highly detailed, professional multi-section script for generating a 16mm handheld documentary video with realistic West Coast vibes.
 - Prompt excerpt:
 
@@ -158,26 +158,26 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 16mm Analog Morning Vlog | MAX | [GoodCase](https://goodcase.ai/cases/16mm-analog-morning-vlog) | [Media](https://media.goodcase.ai/media/video/16mm-analog-morning-vlog.mp4) | [Original](https://x.com/i/status/2085422370362110168) | E1 |
-| 16mm Handheld Influencer Vlog | Alpha Mom | [GoodCase](https://goodcase.ai/cases/16mm-handheld-influencer-vlog) | [Media](https://media.goodcase.ai/media/video/16mm-handheld-influencer-vlog.mp4) | [Original](https://x.com/i/status/2085350644915765377) | E2 |
-| 复古 16mm 健身有氧 Vlog | 𝗦𝗮𝗻𝗶𝗮 | [GoodCase](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310) | [Media](https://media.goodcase.ai/media/video/16mm-vlog-c8cfec0d8310.mp4) | [Original](https://x.com/i/status/2080999754859991152) | E3 |
-| 2000 年代 MiniDV 汉江骑行 | Zephyra Leigh | [GoodCase](https://goodcase.ai/cases/2000-minidv-5cceb6310905) | [Media](https://media.goodcase.ai/media/video/2000-minidv-5cceb6310905.mp4) | [Original](https://x.com/i/status/2081195428922708039) | E4 |
-| 90 年代复古 VHS 健身 Vlog | serein ｜买美股上币安 | [GoodCase](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606) | [Media](https://media.goodcase.ai/media/video/90-vhs-vlog-ae90c46cb606.mp4) | [Original](https://x.com/i/status/2081218658618188267) | E5 |
-| 90s West Coast Documentary Realism | TechHalla | [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) | [Media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) | [Original](https://x.com/i/status/2086469019146592294) | E6 |
+| 16mm Analog Morning Vlog | @maxxmalist | [GoodCase](https://goodcase.ai/cases/16mm-analog-morning-vlog) | [Media](https://media.goodcase.ai/media/video/16mm-analog-morning-vlog.mp4) | [Original](https://x.com/maxxmalist/status/2085422370362110168) | E1 |
+| 16mm Handheld Influencer Vlog | @YourAlphaMom | [GoodCase](https://goodcase.ai/cases/16mm-handheld-influencer-vlog) | [Media](https://media.goodcase.ai/media/video/16mm-handheld-influencer-vlog.mp4) | [Original](https://x.com/YourAlphaMom/status/2085350644915765377) | E2 |
+| 复古 16mm 健身有氧 Vlog | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310) | [Media](https://media.goodcase.ai/media/video/16mm-vlog-c8cfec0d8310.mp4) | [Original](https://x.com/saniaspeaks_/status/2080999754859991152) | E3 |
+| 2000 年代 MiniDV 汉江骑行 | @ZephyraLeigh | [GoodCase](https://goodcase.ai/cases/2000-minidv-5cceb6310905) | [Media](https://media.goodcase.ai/media/video/2000-minidv-5cceb6310905.mp4) | [Original](https://x.com/ZephyraLeigh/status/2081195428922708039) | E4 |
+| 90 年代复古 VHS 健身 Vlog | @you1873118 | [GoodCase](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606) | [Media](https://media.goodcase.ai/media/video/90-vhs-vlog-ae90c46cb606.mp4) | [Original](https://x.com/you1873118/status/2081218658618188267) | E5 |
+| 90s West Coast Documentary Realism | @techhalla | [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) | [Media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) | [Original](https://x.com/techhalla/status/2086469019146592294) | E6 |
 | 日本女孩洗衣晾晒与叠衣日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-minimax-h3-ai-0e37fd4e01e1) | [Media](https://media.goodcase.ai/media/video/aiwithaly-minimax-h3-ai-0e37fd4e01e1.mp4) | [Original](https://x.com/aiwithaly/status/2091749172361978149) | E7 |
 | 韩国女孩的夏日西瓜日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-95054b3a6379.mp4) | [Original](https://x.com/aiwithaly/status/2092464281404965030) | E8 |
 | Seedance 2.0 电影感东亚女性生活方式短片 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-e7e817c4c4b8) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-e7e817c4c4b8.mp4) | [Original](https://x.com/AiwithElisia/status/2088846290130190784) | E— |
 | 韩巷夏日骑行的女孩 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-9a5c5cbd518b.mp4) | [Original](https://x.com/AIwithkhan/status/2091175465037746522) | E— |
 | Seedance 参考图角色的房间自拍短片 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/aiwithsynthia-seedance-ai-8dd82bc7e6f7) | [Media](https://media.goodcase.ai/media/video/aiwithsynthia-seedance-ai-8dd82bc7e6f7.mp4) | [Original](https://x.com/AIwithSynthia/status/2089681501852237971) | E— |
-| Analog Fitness Vlog Gym Diary | Alpha Mom | [GoodCase](https://goodcase.ai/cases/analog-fitness-vlog-gym-diary) | [Media](https://media.goodcase.ai/media/video/analog-fitness-vlog-gym-diary.mp4) | [Original](https://x.com/i/status/2085035378151510274) | E— |
-| 超治愈 ASMR Vlog | Pan | [GoodCase](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923) | [Media](https://media.goodcase.ai/media/video/asmr-vlog-db7f7a2ad923.mp4) | [Original](https://x.com/i/status/2080942778293313949) | E— |
-| Bamboo Toy Car Transformation Vlog | John | [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) | [Media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) | [Original](https://x.com/i/status/2084644638724395138) | E— |
-| 皮克斯风格美妆日常动画 | Lavinia | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/i/status/2092193228803952975) | E— |
-| 智能手表产品生活方式广告 | Smiling Khan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/i/status/2080519081959276735) | E— |
-| 电影感晨间健身日常 | Smiling Khan | [GoodCase](https://goodcase.ai/cases/case-3bdeb046587d) | [Media](https://media.goodcase.ai/media/video/case-3bdeb046587d.mp4) | [Original](https://x.com/i/status/2081222954659234074) | E— |
-| 逼真的小狗睡衣自拍视频 | 고딩경제맨 | [GoodCase](https://goodcase.ai/cases/case-448c27e5bf12) | [Media](https://media.goodcase.ai/media/video/case-448c27e5bf12.mp4) | [Original](https://x.com/i/status/2090631627844280421) | E— |
-| 沐浴后日常视频 | 李岳 | [GoodCase](https://goodcase.ai/cases/case-52df1b20ce74) | [Media](https://media.goodcase.ai/cases/67ced19a36df.mp4) | [Original](https://x.com/i/status/2094773618685403149) | E— |
-| 写实男性网红故事板 | Shore Lyn | [GoodCase](https://goodcase.ai/cases/case-58e736edb65c) | [Media](https://media.goodcase.ai/media/video/case-58e736edb65c.mp4) | [Original](https://x.com/i/status/2079066277650600170) | E— |
+| Analog Fitness Vlog Gym Diary | @YourAlphaMom | [GoodCase](https://goodcase.ai/cases/analog-fitness-vlog-gym-diary) | [Media](https://media.goodcase.ai/media/video/analog-fitness-vlog-gym-diary.mp4) | [Original](https://x.com/YourAlphaMom/status/2085035378151510274) | E— |
+| 超治愈 ASMR Vlog | @sebatheepan | [GoodCase](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923) | [Media](https://media.goodcase.ai/media/video/asmr-vlog-db7f7a2ad923.mp4) | [Original](https://x.com/sebatheepan/status/2080942778293313949) | E— |
+| Bamboo Toy Car Transformation Vlog | @john87445528 | [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) | [Media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) | [Original](https://x.com/john87445528/status/2084644638724395138) | E— |
+| 皮克斯风格美妆日常动画 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/laviniavelle/status/2092193228803952975) | E— |
+| 智能手表产品生活方式广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/AIwithkhan/status/2080519081959276735) | E— |
+| 电影感晨间健身日常 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-3bdeb046587d) | [Media](https://media.goodcase.ai/media/video/case-3bdeb046587d.mp4) | [Original](https://x.com/AIwithkhan/status/2081222954659234074) | E— |
+| 逼真的小狗睡衣自拍视频 | @winneravgwin | [GoodCase](https://goodcase.ai/cases/case-448c27e5bf12) | [Media](https://media.goodcase.ai/media/video/case-448c27e5bf12.mp4) | [Original](https://x.com/winneravgwin/status/2090631627844280421) | E— |
+| 沐浴后日常视频 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/case-52df1b20ce74) | [Media](https://media.goodcase.ai/cases/67ced19a36df.mp4) | [Original](https://x.com/liyue_ai/status/2094773618685403149) | E— |
+| 写实男性网红故事板 | @Shorelyn_ | [GoodCase](https://goodcase.ai/cases/case-58e736edb65c) | [Media](https://media.goodcase.ai/media/video/case-58e736edb65c.mp4) | [Original](https://x.com/Shorelyn_/status/2079066277650600170) | E— |
 
 ## Derivation boundary
 
