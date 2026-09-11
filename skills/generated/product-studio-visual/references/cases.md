@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 18 published Cases across 17 creators.
+This workflow is derived from 29 published Cases across 18 creators.
 
 ## Operating rule
 
@@ -9,8 +9,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · 8月最新 电商一键换背景工作流，包含F.1重绘，效果更好
 
 - Creator: 设计师学Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/8-f-1-9578d4d0451d) · [finished media](https://liblibai-online.liblib.cloud/img/0f3b65f94bf348f5a9b791d07ed82184/df383da82523cab30cc22f525b133fd2caff836ef61a52fe56be218e1b3170dc.gif?x-oss-process=image/resize,w_1000,m_lfit) · [original source](https://www.liblib.art/modelinfo/28b27d33a478466d9c2dc7abc17baa13)
-- Summary: 此工作流可在liblibai上一键使用，插件和模型都已安装好 大模型推荐： majicMIX realistic 麦橘写实或者其他SD1.5的真实风格大模型 lora推荐： 林鹤-物华天宝-电商商业产品建模渲染高级感辅助lora，如果无会员可以使用其他SD1.5的电商风格lora 工作流使用教程正在更新中 工作流使用步骤： 1.在第一个加载图像模块，上传产品图 2.在第二个加载图像模块，上传产品风格参考图 3.加载正确工作流中需要使用的模型，如果不清楚如何调整可以看视频教程（视频教程待更新） 4.点击生成 工作流由【设计师学Ai】整理发布 如果喜欢这个工作流记得点个关注，我的主页还有更多工作流发布 工作流页面；商用需同时核对底模、LoRA、节点和输入素材。 许可：原页未明确，待人工复核
+- Evidence: [GoodCase](https://goodcase.ai/cases/8-f-1-9578d4d0451d) · [finished media](https://media.goodcase.ai/media/image/8-f-1-9578d4d0451d.gif) · [original source](https://www.liblib.art/modelinfo/28b27d33a478466d9c2dc7abc17baa13)
+- Summary: 电商一键换背景工作流，含 F.1 重绘增强，插件和模型在 liblib 上已装好，即开即用。
 - Prompt excerpt:
 
 > 此工作流可在liblibai上一键使用，插件和模型都已安装好
@@ -33,28 +33,44 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 如果喜欢这个工作流记得点个关注，我的主页还有更多工作流发布
 
-### E2 · 光泽感 AI Logo 重设计展示行
+### E2 · AI 直出 Logo 集：mame cafe 手绘涂鸦风咖啡馆品牌标志
 
-- Creator: brian gao
-- Evidence: [GoodCase](https://goodcase.ai/cases/ai-logo-5d038e363717) · [finished media](https://cms-assets.youmind.com/media/1784623742849_kuym8d_HNs3g7Wa4AAsRsA.jpg) · [original source](https://x.com/i/status/2079316848747876823)
-- Summary: 生成一行整洁的横向展示，包含五个光泽感圆角方形 AI 应用 Logo 重设计，适用于概念演示或社交媒体。
+- Creator: Abu
+- Evidence: [GoodCase](https://goodcase.ai/cases/ai-logo-mame-cafe-2b73b3d79947) · [finished media](https://media.goodcase.ai/cases/0728f03f462c.webp) · [original source](https://www.douyin.com/note/7677943724332400241?gc=logo-mame-cafe)
+- Summary: 抖音图文《AI做Logo几乎直出了！附提示词》第 2 张图，日式独立咖啡馆 mame cafe 的儿童涂鸦风手绘 Logo。prompt 印在配图里，人工逐字誊录确认。原文自述“时隔一年重新用 AI 更新 Logo”，可作为 Logo 类 AI 直出效果参考。
 - Prompt excerpt:
 
-> Create a clean logo redesign showcase on a wide white canvas, featuring exactly 5 glossy rounded-square app icons evenly spaced in a single horizontal row, centered vertically with generous empty margins. Use a modern 3D glassmorphism style with soft shadows, subtle reflections, beveled edges, high saturation, and smooth gradient lighting. The five icons from left to right are: 1) a teal-to-mint rounded square containing a white interwoven knot emblem resembling the OpenAI logo, 2) a peach-to-orange rounded square containing a white radial sunburst or asterisk emblem with many tapered rays, 3) a cyan-blue-to-purple rounded square containing a large white four-point sparkle star plus one small sparkle near the upper right, 4) a black rounded square with deep blue highlights at the bottom containing a white lowercase-like geometric “k” mark and one small bright blue dot near the upper right, and 5) a lavender-to-purple rounded square containing a white outlined angular six-point star or badge emblem. Keep the composition minimal, polished, and product-design focused, with no text labels, no watermark, and no extra icons. The overall subject is {argument name="logo redesign theme" default="AI app logo redesigns"}, with {argument name="icon style" default="glossy 3D glassmorphism rounded-square app icons"}, on a {argument name="background color" default="pure white"} background.
+> 日式独立咖啡馆品牌 Logo，儿童涂鸦风格，极简黑白线稿，纯白背景。
+> 主体由三个紧密排列的卡通头像组成，采用圆形、云朵形和不规则圆润轮廓，彼此轻微重叠连接，形成一个整体 Logo 图形。
+> 人物造型极度简化，仅保留点状眼睛、简单微笑嘴巴和少量五官线条，呈现天真、友善、温暖的情绪。三个角色表情略有差异，但风格统一，具有手绘儿童插画的感觉。
+> 线条采用粗细不均匀的黑色手绘笔触，故意保留抖动感、不规整感和随手涂鸦感。整体不要精致，不要专业插画感，要像小朋友用马克笔直接画出来的图案。
+> 其中一个角色可加入简单耳朵、头发或小圆帽元素，增强趣味性，但保持极简。
+> 图形下方搭配手写英文品牌名称，采用随性、歪歪扭扭、不规则的小写字母手写体。字体像铅笔涂写或儿童手写字，具有独立咖啡馆、手作品牌、杂货店 Logo 的气质。
+> 整体构图居中，大量留白，识别度高。
+> 黑白双色，纯黑线稿，纯白背景。
 
-### E3 · Arctic Mint Gum 商业摄影
+### E3 · AI 直出 Logo 集：Triple Cat 三只小猫涂鸦风宠物咖啡馆标志
+
+- Creator: Abu
+- Evidence: [GoodCase](https://goodcase.ai/cases/ai-logo-triple-cat-7eac3df5199d) · [finished media](https://media.goodcase.ai/cases/0bc6c6cf72c0.webp) · [original source](https://www.douyin.com/note/7677943724332400241?gc=logo-triple-cat)
+- Summary: 同一篇抖音图文第 3 张图，Triple Cat 猫咖品牌的三只小猫涂鸦风 Logo。prompt 印在配图里，人工逐字誊录确认。与 mame cafe 同批次，供 Logo 类 AI 直出案例对比参考。
+- Prompt excerpt:
+
+> 一个日式手绘涂鸦风格的三只小猫图形标 Logo。背景为纯净芥末黄（浅卡其黄绿色）纯色平涂；画面中央是三只勾肩搭背站在一起的 Q 版小白猫，圆润笨拙造型，粗重黑色手绘轮廓线，线条带自然抖动和不规则感，内部平涂白色，童趣稚拙的吉祥物画风。中间一只最高大，正面站立，两爪分别搭在左右猫肩上，圆脸有两个黑点眼睛、W 形微笑嘴、左右各三道短胡须、两只三角尖耳；左边一只最小，身体微侧、脑袋歪向中间，同样圆点眼和 W 笑嘴；右边一只白底带三块嫩绿色斑块（头顶、身侧、后腿各一块），张 O 形小嘴作开心惊讶状，一爪抬起搭向中间猫，四肢迈开姿态活泼。三猫紧挨成“好伙伴团伙”构图。轮廓线流畅肯定、色块均匀干净，背景纯净无杂物，无文字、无阴影、无渐变、无装饰，二维平面无透视，识别清晰、可爱怪趣。
+
+### E4 · Arctic Mint Gum 商业摄影
 
 - Creator: 小森映像
-- Evidence: [GoodCase](https://goodcase.ai/cases/arctic-mint-gum-debd6203b36e) · [finished media](https://cms-assets.youmind.com/media/1785143469781_3bap4p_HOK2t88a4AAUVGQ.jpg) · [original source](https://x.com/i/status/2081430171371094472)
+- Evidence: [GoodCase](https://goodcase.ai/cases/arctic-mint-gum-debd6203b36e) · [finished media](https://media.goodcase.ai/media/image/arctic-mint-gum-debd6203b36e.jpg) · [original source](https://x.com/i/status/2081430171371094472)
 - Summary: 一个专业的广告提示词，用于生成清凉薄荷口香糖的产品拍摄图，包含冰雾、水珠和高级商业灯光效果。
 - Prompt excerpt:
 
 > 4:5 premium commercial ad, fictional {argument name="product" default="Arctic Mint Ice Gum"}, hero-hand foreground, {argument name="subject" default="adult non-Black model"}, {argument name="color theme" default="frosty cyan"} backlight, clean infographic layout, no real brand / no watermark.
 
-### E4 · Batch Product Poster Proposal Generator
+### E5 · Batch Product Poster Proposal Generator
 
 - Creator: Derek Wen｜德里克文
-- Evidence: [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) · [finished media](https://cms-assets.youmind.com/media/1784882707415_lh6qhc_HN9ZlBCawAAg6PO.jpg) · [original source](https://x.com/i/status/2080480065998192970)
+- Evidence: [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) · [finished media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) · [original source](https://x.com/i/status/2080480065998192970)
 - Summary: A professional business prompt designed to generate 8 diverse commercial poster options for a single product, ensuring brand consistency while exploring different themes and angles.
 - Prompt excerpt:
 
@@ -82,64 +98,143 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 构图节奏不同
 > 整体完成度高，适合直接用于电商提案或社交媒体展示
 
-### E5 · 阳光下的茶与血橙静物
+### E6 · 高端披萨商业广告分镜脚本
 
-- Creator: Emily
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-3cf13f15be66) · [finished media](https://cms-assets.youmind.com/media/1784710341048_71x7ah_HNwSRzsWsAAX42X.jpg) · [original source](https://x.com/i/status/2079557461581644250)
-- Summary: 一个温暖的编辑风格静物提示词，用于创作包含玻璃茶壶、柑橘、亚麻布和金色晨光的宁静厨房场景。
+- Creator: @Strength04_X
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-2485fd339050) · [finished media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) · [original source](https://x.com/Strength04_X/status/2094649803682750838)
+- Summary: 一份全面的冷冻食品广告宣传活动分镜脚本提示词，包含详细的摄像机角度和专业的食品摄影风格。
 - Prompt excerpt:
 
-> Create a quiet Hearth Hush still-life photograph on a warm beige stone countertop beside a textured plaster wall. The scene is lit by low golden morning sunlight from the upper right, casting a bright triangular patch on the wall and long soft shadows across the counter, with restrained contrast and a calm, airy composition. Show exactly 7 main visible objects: 1 clear round glass teapot with a lid, curved handle, and spout, half-filled with {argument name="tea color" default="deep amber orange tea"} with condensation on the glass; 3 cut blood orange halves grouped to the right with vivid ruby-red pulp and orange rind; 1 small rustic paring knife lying diagonally in front of the fruit with a muted wooden handle; 1 rumpled natural linen cloth in the lower left; and 1 matte ceramic vase in the back left holding a sparse olive branch with small leaves. Use a natural palette of cream, sand, honey, terracotta, amber, and muted olive. Emphasize the hearth field through the glowing tea, luminous citrus flesh, and sunlit reflections on the glass; emphasize the hush field through open negative space on the wall, pale stone texture, soft fabric folds, and stillness. Compose in a vertical 4:5 frame, slightly elevated eye-level angle, realistic editorial food photography, shallow-to-moderate depth of field, delicate surface imperfections, no people, no text, no branding, no extra objects.
+> TITLE: Premium {argument name="product" default="Frozen Pizza"} Product Commercial Storyboard
+>
+> FORMAT:
+> • Single-page premium storyboard
+> • 3:4 Portrait ratio
+> • Cinematic frozen food advertising campaign
+> • 8 completely different product-focused scenes
+> • Product remains the main visual hero
+> • Premium advertising agency presentation
+>
+> HEADER:
+> • Bold editorial typography
+> • Information cards:
+>   - Duration: {argument name="duration" default="20 Seconds"}
+>   - Style: Cinematic Food Commercial
+>   - Product: Frozen Pizza
+>   - Audio: Oven Crackle + Cheese ASMR
+> • Why This Style Works section
+> • Warm cream, tomato red and golden yellow aesthetic
+> • Minimal pizza-themed decorative details
+>
+> STORYBOARD:
+> 1. Frozen pizza box standing upright on a clean kitchen counter, front packaging perfectly visible
+> 2. Pizza being removed from its packaging, showing detailed toppings and cheese
+> 3. Pizza sliding onto a hot oven tray, dramatic close-up of the crust
+> 4. Oven door closing as the pizza begins baking, warm orange oven glow
+> 5. Extreme macro of cheese bubbling and melting across the toppings
+> 6. Freshly baked pizza coming out of the oven with visible steam
+> 7. Pizza cutter slicing through the crispy crust, melted cheese stretching between slices
+> 8. Final hero product shot with the original pizza box beside the finished pizza
+>
+> EVERY PANEL:
+> • Scene number
+> • Duration badge
+> • Camera direction
+> • Visual
+> • Action
+> • Product detail
+>
+> CAMERA:
+> Overhead food photography, extreme macro, slow-motion cheese melt, low-angle crust shot, controlled push-in, steam close-up, cinematic final packshot.
+>
+> STYLE:
+> Ultra-realistic f…
 
-### E6 · 悬浮美食商业广告活动
+### E7 · 高端零食广告项目
+
+- Creator: @Strength04_X
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) · [finished media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) · [original source](https://x.com/Strength04_X/status/2095782580071411770)
+- Summary: 一份针对脆薯条广告的高度详细的项目提示词，包含电影级产品镜头、高端零食美学以及侧重 ASMR 的场景描述。
+- Prompt excerpt:
+
+> Premium {argument name="snack type" default="Crunchy Potato Sticks"} Product Commercial Storyboard
+>
+> FORMAT:
+> • Single-page premium storyboard
+> • 3:4 Portrait ratio
+> • Modern snack food campaign
+> • 8 cinematic product-focused scenes
+> • Product remains the main hero
+> • Premium advertising agency presentation
+>
+> HEADER:
+> • Bold contemporary typography
+> • Information cards:
+>   - Duration: 20 Seconds
+>   - Style: {argument name="commercial style" default="High-End Snack Commercial"}
+>   - Product: Crunchy Potato Sticks
+>   - Audio: Crisp Crunch + Fast ASMR
+> • Why This Style Works section
+> • {argument name="color palette" default="Golden yellow, cream and black"} aesthetic
+> • Minimal geometric snack-inspired accents
+>
+> STORYBOARD:
+> 1. Premium snack tube standing dramatically on a glossy surface
+> 2. Container opening with crunchy potato sticks visible inside
+> 3. Potato sticks cascading out in slow motion
+> 4. Extreme macro revealing ridges, seasoning and crispy surface
+> 5. Seasoning particles floating around the product
+> 6. Several sticks snapping together with tiny crumbs suspended in air
+> 7. Potato sticks arranged in a dramatic circular composition around the package
+> 8. Final hero product shot with the package, overflowing snack sticks and controlled crumb explosion
+>
+> EVERY PANEL:
+> • Scene number
+> • Duration badge
+> • Camera direction
+> • Visual
+> • Action
+> • Product detail
+>
+> CAMERA:
+> High-speed photography, extreme macro, slow-motion product movement, floating crumb capture, low-angle product shot, dramatic push-in, clean hero framing.
+>
+> STYLE:
+> Ultra-realistic snack advertising, incredibly detailed crispy texture, reali…
+
+### E8 · 悬浮美食商业广告活动
 
 - Creator: Anissa
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) · [finished media](https://cms-assets.youmind.com/media/1784277975072_o3jpre_HNVj0jbW0AAZFtU.jpg) · [original source](https://x.com/i/status/2077676593284354149)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) · [finished media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) · [original source](https://x.com/i/status/2077676593284354149)
 - Summary: 一个专业的商业摄影提示词，用于根据参考图像创作高端悬浮美食广告。
 - Prompt excerpt:
 
 > Use the uploaded image as the primary reference and preserve the exact {argument name="subject" default="food or beverage"} with its original appearance, textures, colors, ingredients, and serving style. Create a premium {argument name="aspect ratio" default="4:5"} vertical levitating food campaign where the product floats elegantly above a refined plate or surface with a few subtle floating elements like crumbs, herbs, sauce, steam, or garnish. Use a {argument name="background style" default="clean studio or soft gradient"} background, professional commercial lighting, crisp highlights, realistic shadows, and a modern editorial composition that keeps the product as the clear hero. Add only minimal branding text if provided using elegant sans-serif typography. The final image should be ultra-realistic, appetizing, dynamic, premium, social-media ready, and look like a high-end commercial food advertisement while keeping the uploaded product instantly recognizable.
 
-### E7 · 极简主义蓝色香水广告
-
-- Creator: Shami
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-5182e7e62bbb) · [finished media](https://cms-assets.youmind.com/media/1784363327827_stlzk4_HNbOLFdbEAAa1D2.jpg) · [original source](https://x.com/i/status/2078074982337515555)
-- Summary: 一个专业的极简主义产品广告提示词，展示了一款带有贝壳状瓶盖的天蓝色香水瓶，具有优雅的扭曲效果和花卉背景。
-- Prompt excerpt:
-
-> Minimalist product advertisement featuring [{argument name="product" default="the Vanilla & Blues Eau de Parfum 100ml — a round frosted sky-blue glass bottle filled with pale blue liquid, topped with a twisted seashell-shaped cap in matching light blue and a slim silver collar band, "Vanilla & Blues Eau De Parfum" printed on the rounded face"}] shot from a low upward angle so the bottle looms large and slightly tilted, with its matching blue-and-white floral watercolor box positioned softly out of focus behind it, seen through a vertical corrugated glass panel, with [{argument name="backdrop" default="a pale icy-white studio backdrop with a faint cool blue gradient wash"}] visible behind the object. Use [a palette of powder blue, frosted ice-white, silver, and soft hydrangea lavender-blue], soft directional lighting with a gentle silver rim-light along the cap and glass edge, semi-obscured contours through the corrugated distortion, elongated vertical distortion lines, elegant editorial mood, asymmetrical off-center composition, subtle depth, smooth gradients, polished commercial styling, delicate blue hydrangea petals and fine water droplets suspended mid-air beside the bottle to evoke its [{argument name="scent notes" default="sweet vanilla, soft floral bouquet, and clean powdery musk"}] notes, and the title "[VANILLA & BLUES]" in refined serif typography arched gently above the bottle's shoulder, vertical 4:5.
-
-### E8 · 剪贴簿风格韩式美食广告
-
-- Creator: Simply Ray
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-5a706b064073) · [finished media](https://cms-assets.youmind.com/media/1785143460355_2owo4q_HONCNOpWIAA3vzS.jpg) · [original source](https://x.com/i/status/2081580288971337797)
-- Summary: 一份用于创作时尚剪贴簿风格韩式美食广告海报的综合提示词，支持自定义菜品和价格，旨在呈现温馨且具有美感的视觉效果。
-- Prompt excerpt:
-
-> Create a cute, trendy scrapbook-style Korean food advertisement poster featuring {argument name="menu name" default="[Menu Name]"} as the main focus, with the price {argument name="price" default="[Price]"} displayed prominently beside it as a sticker or torn paper label. If a reference photo is provided, accurately preserve the food's shape, ingredients, colours, plating, and overall identity while enhancing lighting, texture, and realism to make it look more delicious. If no photo is provided, create a realistic version based on the menu name without adding uncertain ingredients. Place the food large in the centre with rich, appetising details such as crispy textures, juicy meat, glossy sauces, and fresh ingredients. Use a warm café aesthetic with a vintage scrapbook collage style, including torn paper, masking tape, sticky notes, handwritten doodles, arrows, stars, hearts, sparkles, checkerboard patterns, and cute food stickers. Add 4–6 Korean exclamation phrases that match the dish. All visible text, including the menu name, price, and decorative phrases, must be written only in Korean. Use warm brown, cream, orange, and green tones with subtle colourful marker accents, and produce the final poster in a vertical 3:4 aspect ratio with safe margins so nothing is cropped.
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 8月最新 电商一键换背景工作流，包含F.1重绘，效果更好 | 设计师学Ai | [GoodCase](https://goodcase.ai/cases/8-f-1-9578d4d0451d) | [Media](https://liblibai-online.liblib.cloud/img/0f3b65f94bf348f5a9b791d07ed82184/df383da82523cab30cc22f525b133fd2caff836ef61a52fe56be218e1b3170dc.gif?x-oss-process=image/resize,w_1000,m_lfit) | [Original](https://www.liblib.art/modelinfo/28b27d33a478466d9c2dc7abc17baa13) | E1 |
-| 光泽感 AI Logo 重设计展示行 | brian gao | [GoodCase](https://goodcase.ai/cases/ai-logo-5d038e363717) | [Media](https://cms-assets.youmind.com/media/1784623742849_kuym8d_HNs3g7Wa4AAsRsA.jpg) | [Original](https://x.com/i/status/2079316848747876823) | E2 |
-| Arctic Mint Gum 商业摄影 | 小森映像 | [GoodCase](https://goodcase.ai/cases/arctic-mint-gum-debd6203b36e) | [Media](https://cms-assets.youmind.com/media/1785143469781_3bap4p_HOK2t88a4AAUVGQ.jpg) | [Original](https://x.com/i/status/2081430171371094472) | E3 |
-| Batch Product Poster Proposal Generator | Derek Wen｜德里克文 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://cms-assets.youmind.com/media/1784882707415_lh6qhc_HN9ZlBCawAAg6PO.jpg) | [Original](https://x.com/i/status/2080480065998192970) | E4 |
-| 阳光下的茶与血橙静物 | Emily | [GoodCase](https://goodcase.ai/cases/case-3cf13f15be66) | [Media](https://cms-assets.youmind.com/media/1784710341048_71x7ah_HNwSRzsWsAAX42X.jpg) | [Original](https://x.com/i/status/2079557461581644250) | E5 |
-| 悬浮美食商业广告活动 | Anissa | [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) | [Media](https://cms-assets.youmind.com/media/1784277975072_o3jpre_HNVj0jbW0AAZFtU.jpg) | [Original](https://x.com/i/status/2077676593284354149) | E6 |
-| 极简主义蓝色香水广告 | Shami | [GoodCase](https://goodcase.ai/cases/case-5182e7e62bbb) | [Media](https://cms-assets.youmind.com/media/1784363327827_stlzk4_HNbOLFdbEAAa1D2.jpg) | [Original](https://x.com/i/status/2078074982337515555) | E7 |
-| 剪贴簿风格韩式美食广告 | Simply Ray | [GoodCase](https://goodcase.ai/cases/case-5a706b064073) | [Media](https://cms-assets.youmind.com/media/1785143460355_2owo4q_HONCNOpWIAA3vzS.jpg) | [Original](https://x.com/i/status/2081580288971337797) | E8 |
-| 无需提示词室内电商专用产品一键生图细节无损工作流高清放大 | 北洛 | [GoodCase](https://goodcase.ai/cases/case-9c747054ceeb) | [Media](https://liblibai-online.liblib.cloud/img/8ca94a5320a54240be77717cd84a73dc/e0f12251ed1bee3ae648a192b628560895465ab8ac61258c50d15a328577cd1e.gif?x-oss-process=image/resize,w_1000,m_lfit) | [Original](https://www.liblib.art/modelinfo/6b7e46cb84234be5b614d014f6d1a0ed) | E— |
-| 草地山丘上的极简主义产品摄影 | Maddox | [GoodCase](https://goodcase.ai/cases/case-9eb937c02956) | [Media](https://cms-assets.youmind.com/media/1784357924408_fhl7zm_HNZLbEkbYAA-sct.jpg) | [Original](https://x.com/i/status/2077931238674096250) | E— |
-| 混合媒体广告模板 | Saul Goodman | [GoodCase](https://goodcase.ai/cases/case-cbfe9176785a) | [Media](https://cms-assets.youmind.com/media/1784882696466_b1zixw_HN45VEWaUAAXrdj.jpg) | [Original](https://x.com/i/status/2080163152134836702) | E— |
-| 电商高精快速出图（图片可生成任意字体文字） | AI大师工作流 | [GoodCase](https://goodcase.ai/cases/case-dc302e39731e) | [Media](https://liblibai-online.liblib.cloud/img/24e05fc45d19404bb88dcc76a0af73cd/f1336fc84a229f1fd1a66ed0b2b0b0ad7b3e1cf1cfb66ff8bcab1c095b8e499a.png?x-oss-process=image/resize,w_1000,m_lfit/format,webp) | [Original](https://www.liblib.art/modelinfo/e934f3a693c14268a758905a7d20ceb4) | E— |
-| 高端太阳镜商业项目 | 𝐌 | [GoodCase](https://goodcase.ai/cases/case-e35328ffea70) | [Media](https://cms-assets.youmind.com/media/1784710333186_uf2qsj_HNwsipHawAAOkaq.jpg) | [Original](https://x.com/i/status/2079586138130657751) | E— |
-| 强制透视奢华产品广告 | Kashberg | [GoodCase](https://goodcase.ai/cases/case-fef0eda18e0c) | [Media](https://cms-assets.youmind.com/media/1784882691989_4j9zz7_HN4nQi2akAAZOrw.jpg) | [Original](https://x.com/i/status/2080143259557581285) | E— |
-| Easy Product Relight | Sun | [GoodCase](https://goodcase.ai/cases/easy-product-relight) | [Media](https://rh-hk-images.xiaoyaoyou.com/c4adc4ffb52fee93387d2e4ee45522f0/2024-12-02/7a3709b9c754caea560c644c87c1a155.jpg?imageMogr2/format/webp/quality/75/ignore-error/1/mini) | [Original](https://www.runninghub.ai/post/1863434480945135618) | E— |
-| 一图万用 电商产品实物拍摄FLUX工作流 | 北洛 | [GoodCase](https://goodcase.ai/cases/flux-07a857c81c71) | [Media](https://liblibai-online.liblib.cloud/img/8ca94a5320a54240be77717cd84a73dc/98c73e5977beac56c8bd03091259cff6cccb40b2c2e3e1350e550e080e82895a.gif?x-oss-process=image/resize,w_1000,m_lfit) | [Original](https://www.liblib.art/modelinfo/f2410b240ac14a27ad8ff581e1833654) | E— |
-| Misty Skincare 产品静物摄影 | KAWAI | [GoodCase](https://goodcase.ai/cases/misty-skincare-74e9c0f63f57) | [Media](https://cms-assets.youmind.com/media/1785055090773_de0cpu_HOET51JaUAEUXFg.jpg) | [Original](https://x.com/i/status/2080967135711678866) | E— |
-| Product poster workflow | 道友请留步 | [GoodCase](https://goodcase.ai/cases/product-poster-workflow) | [Media](https://rh-hk-images.xiaoyaoyou.com/0cb4d58af0b4a9cf8379877d23fa415a/2025-06-02/94edcbe74cfa673409a9c957ec2aa3a2.png?imageMogr2/format/webp/quality/75/ignore-error/1/mini) | [Original](https://www.runninghub.ai/post/1929204278349479937) | E— |
+| 8月最新 电商一键换背景工作流，包含F.1重绘，效果更好 | 设计师学Ai | [GoodCase](https://goodcase.ai/cases/8-f-1-9578d4d0451d) | [Media](https://media.goodcase.ai/media/image/8-f-1-9578d4d0451d.gif) | [Original](https://www.liblib.art/modelinfo/28b27d33a478466d9c2dc7abc17baa13) | E1 |
+| AI 直出 Logo 集：mame cafe 手绘涂鸦风咖啡馆品牌标志 | Abu | [GoodCase](https://goodcase.ai/cases/ai-logo-mame-cafe-2b73b3d79947) | [Media](https://media.goodcase.ai/cases/0728f03f462c.webp) | [Original](https://www.douyin.com/note/7677943724332400241?gc=logo-mame-cafe) | E2 |
+| AI 直出 Logo 集：Triple Cat 三只小猫涂鸦风宠物咖啡馆标志 | Abu | [GoodCase](https://goodcase.ai/cases/ai-logo-triple-cat-7eac3df5199d) | [Media](https://media.goodcase.ai/cases/0bc6c6cf72c0.webp) | [Original](https://www.douyin.com/note/7677943724332400241?gc=logo-triple-cat) | E3 |
+| Arctic Mint Gum 商业摄影 | 小森映像 | [GoodCase](https://goodcase.ai/cases/arctic-mint-gum-debd6203b36e) | [Media](https://media.goodcase.ai/media/image/arctic-mint-gum-debd6203b36e.jpg) | [Original](https://x.com/i/status/2081430171371094472) | E4 |
+| Batch Product Poster Proposal Generator | Derek Wen｜德里克文 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/i/status/2080480065998192970) | E5 |
+| 高端披萨商业广告分镜脚本 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2485fd339050) | [Media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) | [Original](https://x.com/Strength04_X/status/2094649803682750838) | E6 |
+| 高端零食广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) | [Media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) | [Original](https://x.com/Strength04_X/status/2095782580071411770) | E7 |
+| 悬浮美食商业广告活动 | Anissa | [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) | [Media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) | [Original](https://x.com/i/status/2077676593284354149) | E8 |
+| 极简主义蓝色香水广告 | Shami | [GoodCase](https://goodcase.ai/cases/case-5182e7e62bbb) | [Media](https://media.goodcase.ai/media/image/case-5182e7e62bbb.jpg) | [Original](https://x.com/i/status/2078074982337515555) | E— |
+| 剪贴簿风格韩式美食广告 | Simply Ray | [GoodCase](https://goodcase.ai/cases/case-5a706b064073) | [Media](https://media.goodcase.ai/media/image/case-5a706b064073.jpg) | [Original](https://x.com/i/status/2081580288971337797) | E— |
+| 椰子水产品项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) | [Media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) | [Original](https://x.com/Strength04_X/status/2094760813794111843) | E— |
+| 高端意大利面商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) | [Media](https://media.goodcase.ai/cases/714a09d39d81.jpg) | [Original](https://x.com/Strength04_X/status/2095411329461100949) | E— |
+| 高端方便面广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) | [Media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) | [Original](https://x.com/Strength04_X/status/2090019696779387173) | E— |
+| 无需提示词室内电商专用产品一键生图细节无损工作流高清放大 | 北洛 | [GoodCase](https://goodcase.ai/cases/case-9c747054ceeb) | [Media](https://media.goodcase.ai/media/image/case-9c747054ceeb.gif) | [Original](https://www.liblib.art/modelinfo/6b7e46cb84234be5b614d014f6d1a0ed) | E— |
+| 奢华护肤品广告 | @ai__lyra | [GoodCase](https://goodcase.ai/cases/case-9cff1d540398) | [Media](https://media.goodcase.ai/cases/ab36d235045b.jpg) | [Original](https://x.com/ai__lyra/status/2082457952901018006) | E— |
+| 草地山丘上的极简主义产品摄影 | Maddox | [GoodCase](https://goodcase.ai/cases/case-9eb937c02956) | [Media](https://media.goodcase.ai/media/image/case-9eb937c02956.jpg) | [Original](https://x.com/i/status/2077931238674096250) | E— |
+| 几何视窗极简商业海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/i/status/2090960491648815553) | E— |
+| 混合媒体广告模板 | Saul Goodman | [GoodCase](https://goodcase.ai/cases/case-cbfe9176785a) | [Media](https://media.goodcase.ai/media/image/case-cbfe9176785a.jpg) | [Original](https://x.com/i/status/2080163152134836702) | E— |
+| 电商高精快速出图（图片可生成任意字体文字） | AI大师工作流 | [GoodCase](https://goodcase.ai/cases/case-dc302e39731e) | [Media](https://media.goodcase.ai/media/image/case-dc302e39731e.webp) | [Original](https://www.liblib.art/modelinfo/e934f3a693c14268a758905a7d20ceb4) | E— |
+| 高端有机蜂蜜商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e2965bc59b6d) | [Media](https://media.goodcase.ai/cases/0754619398ae.jpg) | [Original](https://x.com/Strength04_X/status/2090081415924982038) | E— |
 
 ## Derivation boundary
 

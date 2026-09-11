@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · 咖啡馆里的生动肖像
 
 - Creator: Aatif J
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) · [finished media](https://cms-assets.youmind.com/media/1785137834183_311iff_HOLyMsjaUAAOAK4.jpg) · [original source](https://x.com/i/status/2081492288836981123)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) · [finished media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) · [original source](https://x.com/i/status/2081492288836981123)
 - Summary: 一张温暖而自然的肖像提示词，描绘了一位在温馨质朴的咖啡馆中开怀大笑的年轻男子。
 - Prompt excerpt:
 
@@ -18,7 +18,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E2 · 高对比度电影感人像
 
 - Creator: Aatif J
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-45ce17868767) · [finished media](https://cms-assets.youmind.com/media/1784877061232_e7z5jl_HN5mCYrbIAAqAfy.jpg) · [original source](https://x.com/i/status/2080212276188152302)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-45ce17868767) · [finished media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) · [original source](https://x.com/i/status/2080212276188152302)
 - Summary: 一个用于黑白面部特写的高细节提示词，强调张力、电影感颗粒效果以及自然的头发动态。
 - Prompt excerpt:
 
@@ -41,7 +41,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E3 · 美术编辑肖像插画
 
 - Creator: Aatif J
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-d489150e5952) · [finished media](https://cms-assets.youmind.com/media/1784882691734_x9dv8h_HN8Qtj1bAAAc4vG.jpg) · [original source](https://x.com/i/status/2080399938278801700)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-d489150e5952) · [finished media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) · [original source](https://x.com/i/status/2080399938278801700)
 - Summary: 一个用于生成融合现实主义、抽象几何素描与美术元素的高级时尚编辑肖像的精美提示词。
 - Prompt excerpt:
 
@@ -53,7 +53,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E4 · Premium Black and White Editorial Poster
 
 - Creator: Aatif J
-- Evidence: [GoodCase](https://goodcase.ai/cases/premium-black-and-white-editorial-poster) · [finished media](https://cms-assets.youmind.com/media/1784882694555_lrr3na_HN8O5ylaQAEBkrn.jpg) · [original source](https://x.com/i/status/2080397946550358078)
+- Evidence: [GoodCase](https://goodcase.ai/cases/premium-black-and-white-editorial-poster) · [finished media](https://media.goodcase.ai/media/image/premium-black-and-white-editorial-poster.jpg) · [original source](https://x.com/i/status/2080397946550358078)
 - Summary: A high-contrast monochrome magazine cover prompt that preserves facial identity from a reference image with bold typography.
 - Prompt excerpt:
 
@@ -63,10 +63,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 咖啡馆里的生动肖像 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://cms-assets.youmind.com/media/1785137834183_311iff_HOLyMsjaUAAOAK4.jpg) | [Original](https://x.com/i/status/2081492288836981123) | E1 |
-| 高对比度电影感人像 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://cms-assets.youmind.com/media/1784877061232_e7z5jl_HN5mCYrbIAAqAfy.jpg) | [Original](https://x.com/i/status/2080212276188152302) | E2 |
-| 美术编辑肖像插画 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://cms-assets.youmind.com/media/1784882691734_x9dv8h_HN8Qtj1bAAAc4vG.jpg) | [Original](https://x.com/i/status/2080399938278801700) | E3 |
-| Premium Black and White Editorial Poster | Aatif J | [GoodCase](https://goodcase.ai/cases/premium-black-and-white-editorial-poster) | [Media](https://cms-assets.youmind.com/media/1784882694555_lrr3na_HN8O5ylaQAEBkrn.jpg) | [Original](https://x.com/i/status/2080397946550358078) | E4 |
+| 咖啡馆里的生动肖像 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) | [Original](https://x.com/i/status/2081492288836981123) | E1 |
+| 高对比度电影感人像 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) | [Original](https://x.com/i/status/2080212276188152302) | E2 |
+| 美术编辑肖像插画 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/i/status/2080399938278801700) | E3 |
+| Premium Black and White Editorial Poster | Aatif J | [GoodCase](https://goodcase.ai/cases/premium-black-and-white-editorial-poster) | [Media](https://media.goodcase.ai/media/image/premium-black-and-white-editorial-poster.jpg) | [Original](https://x.com/i/status/2080397946550358078) | E4 |
 
 ## Derivation boundary
 

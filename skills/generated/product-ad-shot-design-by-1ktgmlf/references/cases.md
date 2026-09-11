@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · 夏季饮品商业电影感短片
 
 - Creator: Synthia
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) · [finished media](https://cms-assets.youmind.com/media/1785136862115_gq33t6_Summer-Beverage-Commercial-Cinematic.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2081383100555423745/img/asxShhwsoKejuRiO.jpg) · [original source](https://x.com/i/status/2081383131668701519)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) · [finished media](https://media.goodcase.ai/media/video/case-1f7a27e4c448.mp4) · [poster](https://media.goodcase.ai/media/poster/case-1f7a27e4c448.jpg) · [original source](https://x.com/i/status/2081383131668701519)
 - Summary: 一款专为 Seedance 2.0 设计的高端电影感饮品广告提示词，包含角色参考锁定及充满活力的夏季美学。
 - Prompt excerpt:
 
@@ -23,7 +23,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E2 · 高端生活方式口红商业广告视频
 
 - Creator: Synthia
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-9cb44af49d8a) · [finished media](https://cms-assets.youmind.com/media/1785049188429_6xjtj5_Premium-Lifestyle-Lipstick-Commercial-Video.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2081032213555195904/img/C9P413broF-rtPcK.jpg) · [original source](https://x.com/i/status/2081032248179220680)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-9cb44af49d8a) · [finished media](https://media.goodcase.ai/media/video/case-9cb44af49d8a.mp4) · [poster](https://media.goodcase.ai/media/poster/case-9cb44af49d8a.jpg) · [original source](https://x.com/i/status/2081032248179220680)
 - Summary: 一份详细的视频生成提示词，用于制作高端口红广告。视频以一位身处豪华公寓的女性为主角，侧重于写实的美容摄影风格及保持角色特征的一致性。
 - Prompt excerpt:
 
@@ -32,7 +32,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E3 · 高端口红美妆广告
 
 - Creator: Synthia
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-b723c4e1858e) · [finished media](https://cms-assets.youmind.com/media/1784272459494_cgrb49_Premium-Lipstick-Beauty-Commercial.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2077621781683425280/img/FiNa-td7KF1CnNBf.jpg) · [original source](https://x.com/i/status/2077621815598592445)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-b723c4e1858e) · [finished media](https://media.goodcase.ai/media/video/case-b723c4e1858e.mp4) · [poster](https://media.goodcase.ai/media/poster/case-b723c4e1858e.jpg) · [original source](https://x.com/i/status/2077621815598592445)
 - Summary: 一个 8 秒的高端 UGC 口红广告项目，包含美妆镜头、产品微距特写以及展现奢华护肤美学的摄影棚灯光效果。
 - Prompt excerpt:
 
@@ -57,7 +57,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E4 · 芒果汁商业广告
 
 - Creator: Synthia
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-cbb9868317f8) · [finished media](https://cms-assets.youmind.com/media/1784963115122_w8uc61_Mango-Juice-Commercial-Advertisement.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2080520913133752320/img/_zTZl6f90y7E3z8E.jpg) · [original source](https://x.com/i/status/2080520939989811413)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-cbb9868317f8) · [finished media](https://media.goodcase.ai/media/video/case-cbb9868317f8.mp4) · [poster](https://media.goodcase.ai/media/poster/case-cbb9868317f8.jpg) · [original source](https://x.com/i/status/2080520939989811413)
 - Summary: 一份全面的提示词，用于制作 20 秒的高端芒果汁商业广告，呈现热带夏季美学、逼真的产品质感以及角色一致性。
 - Prompt excerpt:
 
@@ -76,7 +76,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E5 · 高端热带饮品 UGC 广告
 
 - Creator: Synthia
-- Evidence: [GoodCase](https://goodcase.ai/cases/ugc-34764467dea1) · [finished media](https://cms-assets.youmind.com/media/1784098521906_aucy1z_Premium-Tropical-Beverage-UGC-Commercial.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2076908300046909440/img/qzkrhTpZZ2UhckCq.jpg) · [original source](https://x.com/i/status/2076908363913613653)
+- Evidence: [GoodCase](https://goodcase.ai/cases/ugc-34764467dea1) · [finished media](https://media.goodcase.ai/media/video/ugc-34764467dea1.mp4) · [poster](https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg) · [original source](https://x.com/i/status/2076908363913613653)
 - Summary: 一份详细的多场景视频提示词，用于高端热带饮品广告，展示了一位女性在海滩上的场景，包含电影感手持镜头和微距特写。
 - Prompt excerpt:
 
@@ -96,11 +96,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 夏季饮品商业电影感短片 | Synthia | [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) | [Media](https://cms-assets.youmind.com/media/1785136862115_gq33t6_Summer-Beverage-Commercial-Cinematic.mp4) | [Original](https://x.com/i/status/2081383131668701519) | E1 |
-| 高端生活方式口红商业广告视频 | Synthia | [GoodCase](https://goodcase.ai/cases/case-9cb44af49d8a) | [Media](https://cms-assets.youmind.com/media/1785049188429_6xjtj5_Premium-Lifestyle-Lipstick-Commercial-Video.mp4) | [Original](https://x.com/i/status/2081032248179220680) | E2 |
-| 高端口红美妆广告 | Synthia | [GoodCase](https://goodcase.ai/cases/case-b723c4e1858e) | [Media](https://cms-assets.youmind.com/media/1784272459494_cgrb49_Premium-Lipstick-Beauty-Commercial.mp4) | [Original](https://x.com/i/status/2077621815598592445) | E3 |
-| 芒果汁商业广告 | Synthia | [GoodCase](https://goodcase.ai/cases/case-cbb9868317f8) | [Media](https://cms-assets.youmind.com/media/1784963115122_w8uc61_Mango-Juice-Commercial-Advertisement.mp4) | [Original](https://x.com/i/status/2080520939989811413) | E4 |
-| 高端热带饮品 UGC 广告 | Synthia | [GoodCase](https://goodcase.ai/cases/ugc-34764467dea1) | [Media](https://cms-assets.youmind.com/media/1784098521906_aucy1z_Premium-Tropical-Beverage-UGC-Commercial.mp4) | [Original](https://x.com/i/status/2076908363913613653) | E5 |
+| 夏季饮品商业电影感短片 | Synthia | [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) | [Media](https://media.goodcase.ai/media/video/case-1f7a27e4c448.mp4) | [Original](https://x.com/i/status/2081383131668701519) | E1 |
+| 高端生活方式口红商业广告视频 | Synthia | [GoodCase](https://goodcase.ai/cases/case-9cb44af49d8a) | [Media](https://media.goodcase.ai/media/video/case-9cb44af49d8a.mp4) | [Original](https://x.com/i/status/2081032248179220680) | E2 |
+| 高端口红美妆广告 | Synthia | [GoodCase](https://goodcase.ai/cases/case-b723c4e1858e) | [Media](https://media.goodcase.ai/media/video/case-b723c4e1858e.mp4) | [Original](https://x.com/i/status/2077621815598592445) | E3 |
+| 芒果汁商业广告 | Synthia | [GoodCase](https://goodcase.ai/cases/case-cbb9868317f8) | [Media](https://media.goodcase.ai/media/video/case-cbb9868317f8.mp4) | [Original](https://x.com/i/status/2080520939989811413) | E4 |
+| 高端热带饮品 UGC 广告 | Synthia | [GoodCase](https://goodcase.ai/cases/ugc-34764467dea1) | [Media](https://media.goodcase.ai/media/video/ugc-34764467dea1.mp4) | [Original](https://x.com/i/status/2076908363913613653) | E5 |
 
 ## Derivation boundary
 

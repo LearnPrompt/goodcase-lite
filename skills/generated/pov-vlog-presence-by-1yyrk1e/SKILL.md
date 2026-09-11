@@ -1,9 +1,9 @@
 ---
-name: landing-page-information-structure-by-1kbs468
-description: "Apply an evidence-derived Landing-page information structure workflow observed across published GoodCase examples by sergey_moloman. Use when planning, designing, or implementing a website in this interface pattern, including requests for 网页, 落地页, 作品集, 3D hero, SaaS, ecommerce, or UI structure. This is an unofficial synthesis and must preserve source attribution."
+name: pov-vlog-presence-by-1yyrk1e
+description: "Apply an evidence-derived POV and vlog presence workflow observed across published GoodCase examples by Elsa Ai. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# sergey_moloman · Landing-page information structure
+# Elsa Ai · POV and vlog presence
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 
@@ -11,9 +11,9 @@ Turn the method into an executable, Case-grounded workflow. The Skill is incompl
 
 Ask only for missing inputs:
 
-- Page goal, target audience, offer, and primary action.
-- Content, proof, product assets, and technical stack.
-- Responsive, accessibility, performance, and interaction constraints.
+- Target duration, aspect ratio, model, and delivery platform.
+- Opening frame, ending frame, reference image, source video, or depth/motion guide when available.
+- Character, camera, action, continuity, sound, and special-operation requirements.
 - Preferred anchor Case from `references/cases.md`, or permission to select one.
 
 ## Required evidence gate
@@ -32,25 +32,25 @@ Ask only for missing inputs:
 2. Read `references/cases.md` and select one anchor Case.
 3. Inspect its finished media, summary, and prompt excerpt.
 4. Produce the Preserve / Replace / Avoid reference contract.
-5. Keep one value proposition above the fold.
-6. Order problem, proof, and features.
-7. Make every section lead to one action.
+5. Define the shooter and device.
+6. Write the movement path and incidental detail.
+7. Keep handheld imperfection and environmental texture.
 8. Produce the requested artifact using the output contract below.
 9. Compare it with the anchor Case, then revise material failures once.
 
 ## Output contract
 
 - A reference contract naming one anchor Case, with Preserve, Replace, and Avoid decisions.
-- A page narrative and section hierarchy.
-- A component and interaction specification.
-- Implementation-ready copy or code appropriate to the user request.
-- A responsive, accessibility, and performance verification checklist.
+- A shot-by-shot motion brief.
+- A complete video prompt with timing, camera, action, continuity, and audio constraints.
+- A reference-assets and special-steps checklist.
+- A short verification checklist for motion and continuity.
 
 ## Verification
 
-- The first screen communicates one value proposition and one primary action.
-- Every section advances the same user journey with real content.
-- Responsive behavior, keyboard access, contrast, loading, and motion fallback are checked.
+- Every shot has a subject, action, camera instruction, and duration or sequence position.
+- Reference media and special preprocessing steps are named instead of implied.
+- Continuity risks such as identity drift, limb errors, direction changes, and rhythm breaks are testable.
 - The response names one anchor Case and confirms that its evidence file was read.
 - At least three visible or structural traits in the artifact map back to the Preserve list.
 - No unrelated theme becomes dominant unless the user explicitly requested it.

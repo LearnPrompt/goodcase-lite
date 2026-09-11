@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · GPT-5.6 Robotics CAD 落地页
 
 - Creator: @sergey_moloman
-- Evidence: [GoodCase](https://goodcase.ai/cases/gpt-5-6-robotics-cad-b58143977cd2) · [finished media](https://video.twimg.com/amplify_video/2068316461643468800/vid/avc1/2912x1572/8hR8GkZqe7NYQ92L.mp4?tag=28) · [poster](https://pbs.twimg.com/amplify_video_thumb/2068316461643468800/img/BYL52GF-iyKj8ojN.jpg) · [original source](https://x.com/sergey_moloman/status/2068317283173507498)
+- Evidence: [GoodCase](https://goodcase.ai/cases/gpt-5-6-robotics-cad-b58143977cd2) · [finished media](https://media.goodcase.ai/media/video/gpt-5-6-robotics-cad-b58143977cd2.mp4) · [poster](https://media.goodcase.ai/media/poster/gpt-5-6-robotics-cad-b58143977cd2.jpg) · [original source](https://x.com/sergey_moloman/status/2068317283173507498)
 - Summary: @sergey_moloman 使用 GPT-5.6 Pro完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -39,7 +39,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E2 · Orbital North 太空旅行落地页
 
 - Creator: @sergey_moloman
-- Evidence: [GoodCase](https://goodcase.ai/cases/orbital-north-828df18b809d) · [finished media](https://video.twimg.com/amplify_video/2068300662325358592/vid/avc1/2912x1572/v3riTYqsLqMLYoZb.mp4?tag=28) · [poster](https://pbs.twimg.com/amplify_video_thumb/2068300662325358592/img/R-lAgrZCK6WRkkHG.jpg) · [original source](https://x.com/sergey_moloman/status/2068301911414149526)
+- Evidence: [GoodCase](https://goodcase.ai/cases/orbital-north-828df18b809d) · [finished media](https://media.goodcase.ai/media/video/orbital-north-828df18b809d.mp4) · [poster](https://media.goodcase.ai/media/poster/orbital-north-828df18b809d.jpg) · [original source](https://x.com/sergey_moloman/status/2068301911414149526)
 - Summary: @sergey_moloman 使用 GPT-5.6 Pro · Three.js完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -62,7 +62,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E3 · VEIL/FIELD 数字时装屋落地页
 
 - Creator: @sergey_moloman
-- Evidence: [GoodCase](https://goodcase.ai/cases/veil-field-10e35993547b) · [finished media](https://video.twimg.com/amplify_video/2068314998271774720/vid/avc1/2912x1572/M5D0wKO2zHw3yvTp.mp4?tag=28) · [poster](https://pbs.twimg.com/amplify_video_thumb/2068314998271774720/img/VnokCo8Y2jwdS6vg.jpg) · [original source](https://x.com/sergey_moloman/status/2068317279620943955)
+- Evidence: [GoodCase](https://goodcase.ai/cases/veil-field-10e35993547b) · [finished media](https://media.goodcase.ai/media/video/veil-field-10e35993547b.mp4) · [poster](https://media.goodcase.ai/media/poster/veil-field-10e35993547b.jpg) · [original source](https://x.com/sergey_moloman/status/2068317279620943955)
 - Summary: @sergey_moloman 使用 GPT-5.6 Pro · Three.js完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -90,9 +90,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| GPT-5.6 Robotics CAD 落地页 | @sergey_moloman | [GoodCase](https://goodcase.ai/cases/gpt-5-6-robotics-cad-b58143977cd2) | [Media](https://video.twimg.com/amplify_video/2068316461643468800/vid/avc1/2912x1572/8hR8GkZqe7NYQ92L.mp4?tag=28) | [Original](https://x.com/sergey_moloman/status/2068317283173507498) | E1 |
-| Orbital North 太空旅行落地页 | @sergey_moloman | [GoodCase](https://goodcase.ai/cases/orbital-north-828df18b809d) | [Media](https://video.twimg.com/amplify_video/2068300662325358592/vid/avc1/2912x1572/v3riTYqsLqMLYoZb.mp4?tag=28) | [Original](https://x.com/sergey_moloman/status/2068301911414149526) | E2 |
-| VEIL/FIELD 数字时装屋落地页 | @sergey_moloman | [GoodCase](https://goodcase.ai/cases/veil-field-10e35993547b) | [Media](https://video.twimg.com/amplify_video/2068314998271774720/vid/avc1/2912x1572/M5D0wKO2zHw3yvTp.mp4?tag=28) | [Original](https://x.com/sergey_moloman/status/2068317279620943955) | E3 |
+| GPT-5.6 Robotics CAD 落地页 | @sergey_moloman | [GoodCase](https://goodcase.ai/cases/gpt-5-6-robotics-cad-b58143977cd2) | [Media](https://media.goodcase.ai/media/video/gpt-5-6-robotics-cad-b58143977cd2.mp4) | [Original](https://x.com/sergey_moloman/status/2068317283173507498) | E1 |
+| Orbital North 太空旅行落地页 | @sergey_moloman | [GoodCase](https://goodcase.ai/cases/orbital-north-828df18b809d) | [Media](https://media.goodcase.ai/media/video/orbital-north-828df18b809d.mp4) | [Original](https://x.com/sergey_moloman/status/2068301911414149526) | E2 |
+| VEIL/FIELD 数字时装屋落地页 | @sergey_moloman | [GoodCase](https://goodcase.ai/cases/veil-field-10e35993547b) | [Media](https://media.goodcase.ai/media/video/veil-field-10e35993547b.mp4) | [Original](https://x.com/sergey_moloman/status/2068317279620943955) | E3 |
 
 ## Derivation boundary
 

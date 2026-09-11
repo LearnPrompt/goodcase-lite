@@ -1,9 +1,9 @@
 ---
-name: character-style-consistency-by-1ronuwr
-description: "Apply an evidence-derived Character and style consistency workflow observed across published GoodCase examples by のぞむ＊AIイラスト. Use when planning, writing, or refining an AI image prompt in this visual pattern, including requests for 图片提示词, 海报, 肖像, 产品图, or character consistency. This is an unofficial synthesis and must preserve source attribution."
+name: pov-vlog-presence-by-1noa4gp
+description: "Apply an evidence-derived POV and vlog presence workflow observed across published GoodCase examples by aiwithaly. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# のぞむ＊AIイラスト · Character and style consistency
+# aiwithaly · POV and vlog presence
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 
@@ -11,9 +11,9 @@ Turn the method into an executable, Case-grounded workflow. The Skill is incompl
 
 Ask only for missing inputs:
 
-- Intended subject, audience, and use.
-- Target image model, aspect ratio, and output constraints.
-- Required references, brand assets, copy, or identity details.
+- Target duration, aspect ratio, model, and delivery platform.
+- Opening frame, ending frame, reference image, source video, or depth/motion guide when available.
+- Character, camera, action, continuity, sound, and special-operation requirements.
 - Preferred anchor Case from `references/cases.md`, or permission to select one.
 
 ## Required evidence gate
@@ -32,25 +32,25 @@ Ask only for missing inputs:
 2. Read `references/cases.md` and select one anchor Case.
 3. Inspect its finished media, summary, and prompt excerpt.
 4. Produce the Preserve / Replace / Avoid reference contract.
-5. Fix identifying traits.
-6. Add costume, props, and action.
-7. Unify output with style and world constraints.
+5. Define the shooter and device.
+6. Write the movement path and incidental detail.
+7. Keep handheld imperfection and environmental texture.
 8. Produce the requested artifact using the output contract below.
 9. Compare it with the anchor Case, then revise material failures once.
 
 ## Output contract
 
 - A reference contract naming one anchor Case, with Preserve, Replace, and Avoid decisions.
-- A one-paragraph creative brief.
-- A complete generation prompt with composition, subject, lighting, material, and style constraints.
-- Negative constraints or likely failure modes.
-- A short verification checklist.
+- A shot-by-shot motion brief.
+- A complete video prompt with timing, camera, action, continuity, and audio constraints.
+- A reference-assets and special-steps checklist.
+- A short verification checklist for motion and continuity.
 
 ## Verification
 
-- The prompt names one primary subject and a readable composition.
-- Required text, identity, material, and aspect-ratio constraints are explicit.
-- The verification checklist can be judged from the generated image.
+- Every shot has a subject, action, camera instruction, and duration or sequence position.
+- Reference media and special preprocessing steps are named instead of implied.
+- Continuity risks such as identity drift, limb errors, direction changes, and rhythm breaks are testable.
 - The response names one anchor Case and confirms that its evidence file was read.
 - At least three visible or structural traits in the artifact map back to the Preserve list.
 - No unrelated theme becomes dominant unless the user explicitly requested it.

@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · 魔幻都市奇幻战斗动画
 
 - Creator: mayv@簡単プロ級プロンプト公開中！
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) · [finished media](https://cms-assets.youmind.com/media/1785049217777_wnhhok_Magic-City-Fantasy-Battle-Animation.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2080976313041780736/img/AsrBL93Dtkv5Oj1r.jpg) · [original source](https://x.com/i/status/2080976327231107259)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) · [finished media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) · [poster](https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg) · [original source](https://x.com/i/status/2080976327231107259)
 - Summary: 一个设定在雨中魔幻都市的史诗级高奇幻动漫战斗提示词。包含涉及多个魔法门和针对巨龙的射线攻击等复杂视觉特效，侧重于影院级质量和 3D 卡通渲染美学。
 - Prompt excerpt:
 
@@ -33,7 +33,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E2 · 电影级未来感动漫剑术对决
 
 - Creator: mayv@簡単プロ級プロンプト公開中！
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) · [finished media](https://cms-assets.youmind.com/media/1785136880977_27eqqf_Cinematic-Futuristic-Anime-Sword-Fight.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2081317555625746432/img/P5vDa1huuX9bOtq3.jpg) · [original source](https://x.com/i/status/2081317622927577411)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) · [finished media](https://media.goodcase.ai/media/video/case-a9ab0266f96a.mp4) · [poster](https://media.goodcase.ai/media/poster/case-a9ab0266f96a.jpg) · [original source](https://x.com/i/status/2081317622927577411)
 - Summary: 一个针对未来城市背景的极度详尽动漫战斗提示词，涵盖了镜头角度、角色一致性以及节奏感十足的战斗编排。
 - Prompt excerpt:
 
@@ -42,7 +42,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E3 · 电影级动漫魔法剑战
 
 - Creator: mayv@簡単プロ級プロンプト公開中！
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-c32e6c3bb2c5) · [finished media](https://cms-assets.youmind.com/media/1784963147254_e3sw4a_Cinematic-Anime-Magic-Sword-Battle.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2080539062210015232/img/MhXHNsaB6_m6e_br.jpg) · [original source](https://x.com/i/status/2080539077603172597)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-c32e6c3bb2c5) · [finished media](https://media.goodcase.ai/media/video/case-c32e6c3bb2c5.mp4) · [poster](https://media.goodcase.ai/media/poster/case-c32e6c3bb2c5.jpg) · [original source](https://x.com/i/status/2080539077603172597)
 - Summary: 一个高细节的电影级动画提示词，用于高强度的 3D 卡通/赛璐珞风格动作 RPG 剑术对决，包含浮游剑和精准的角色互动。
 - Prompt excerpt:
 
@@ -63,7 +63,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > キャラクターAの固有色を攻撃側のキーライト、浮遊刀のオーラ、斬撃残光へ使用する。キャラクターBの固有色を防御光、反撃残光、補助光へ使用する。両者の色は混ぜず、明確に識別できる状態を保つ。
 >
 > 【画風固定】
-> 細く繊細な色付き輪郭線。顔、髪、衣装、武器に明快な二段から三段のセルシェーディング and 透明感のある中間影。瞳は多層ハイライト、髪は繊細な束感、衣装は刺繍、レース、装甲、鎖、宝石、金具など、参照画像に存在するディテールを高密度に描く。
+> 細く繊細な色付き輪郭線。顔、髪、衣装、武器に明快な二段から三段のセルシェーディングと透明感のある中間影。瞳は多層ハイライト、髪は繊細な束感、衣装は刺繍、レース、装甲、鎖、宝石、金具など、参照画像に存在するディテールを高密度に描く。
 >
 > 布、革、金属、宝石、ガラス、床を異なる反射率と粗さで描き分ける。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、プラスチックCG、低密度背景、半写実、実写、くすんだ色、画風混合にしない。参照画像の画風はコピーせず、高密度3Dトゥーン／セルルックへ統一する。
 >
@@ -74,15 +74,15 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 浮遊刀は刀身、鍔、柄が接続された完全な一本の刀。攻撃時のみ明確な飛翔軌道で動き、接触または回避後はAの周囲へ戻る。増殖、消失、融合、変形、余分な刀の追加を行わない。切っ先や刀身だけを独立回転させない。手持ち刀は柄だけを握り、刀身を手で掴まない。
 >
 > 【浮遊刀エフェクト】
-> 四本の浮遊刀はキャラクターAの固有色を中心とした薄い炎状、霧状、粒子状、電光状のオーラを纏う。表現形式はAの世界観に合わせるが、必ず刀身へ密着させる。移動方向へ短い尾を引き、巨大な独立レーザーや別個の光線にしない。斬撃残光は刀…
+> 四本の浮遊刀はキャラクターAの固有色を中心とした薄い炎状、霧状、粒子状、電光状のオーラを纏う。表現形式はAの世界観に合わせるが、必ず刀身へ密着させる。移動方向へ短い尾を引き、巨大な独立レーザーや別個の光線にしない。斬撃残光は刀の掃引面…
 
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 魔幻都市奇幻战斗动画 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://cms-assets.youmind.com/media/1785049217777_wnhhok_Magic-City-Fantasy-Battle-Animation.mp4) | [Original](https://x.com/i/status/2080976327231107259) | E1 |
-| 电影级未来感动漫剑术对决 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) | [Media](https://cms-assets.youmind.com/media/1785136880977_27eqqf_Cinematic-Futuristic-Anime-Sword-Fight.mp4) | [Original](https://x.com/i/status/2081317622927577411) | E2 |
-| 电影级动漫魔法剑战 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-c32e6c3bb2c5) | [Media](https://cms-assets.youmind.com/media/1784963147254_e3sw4a_Cinematic-Anime-Magic-Sword-Battle.mp4) | [Original](https://x.com/i/status/2080539077603172597) | E3 |
+| 魔幻都市奇幻战斗动画 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/i/status/2080976327231107259) | E1 |
+| 电影级未来感动漫剑术对决 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) | [Media](https://media.goodcase.ai/media/video/case-a9ab0266f96a.mp4) | [Original](https://x.com/i/status/2081317622927577411) | E2 |
+| 电影级动漫魔法剑战 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-c32e6c3bb2c5) | [Media](https://media.goodcase.ai/media/video/case-c32e6c3bb2c5.mp4) | [Original](https://x.com/i/status/2080539077603172597) | E3 |
 
 ## Derivation boundary
 

@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · AntiGravity + Gemini 3.1 落地页
 
 - Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/antigravity-gemini-3-1-5e49aad75b25) · [finished media](https://video.twimg.com/amplify_video/2024831377322160128/vid/avc1/2354x1720/XnHdS5oKAr0D6Lpn.mp4?tag=21) · [poster](https://pbs.twimg.com/amplify_video_thumb/2024831377322160128/img/tL5r3ZGkPZiF3Wwd.jpg) · [original source](https://x.com/viktoroddy/status/2024832167164133766)
+- Evidence: [GoodCase](https://goodcase.ai/cases/antigravity-gemini-3-1-5e49aad75b25) · [finished media](https://media.goodcase.ai/media/video/antigravity-gemini-3-1-5e49aad75b25.mp4) · [poster](https://media.goodcase.ai/media/poster/antigravity-gemini-3-1-5e49aad75b25.jpg) · [original source](https://x.com/viktoroddy/status/2024832167164133766)
 - Summary: @viktoroddy 使用 AntiGravity · Gemini 3.1 Pro完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -60,7 +60,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E2 · ChatGPT Image 设计转 React Native 网站
 
 - Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/chatgpt-image-react-native-3042b25ce192) · [finished media](https://video.twimg.com/amplify_video/2059293319994458113/vid/avc1/1902x1350/h9ABBWI075C9Pp83.mp4?tag=27) · [poster](https://pbs.twimg.com/amplify_video_thumb/2059293319994458113/img/rFxlPRkHO5m-zMYy.jpg) · [original source](https://x.com/viktoroddy/status/2059294558299766837)
+- Evidence: [GoodCase](https://goodcase.ai/cases/chatgpt-image-react-native-3042b25ce192) · [finished media](https://media.goodcase.ai/media/video/chatgpt-image-react-native-3042b25ce192.mp4) · [poster](https://media.goodcase.ai/media/poster/chatgpt-image-react-native-3042b25ce192.jpg) · [original source](https://x.com/viktoroddy/status/2059294558299766837)
 - Summary: @viktoroddy 使用 ChatGPT Image 2.0 · Claude Opus 4.6完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -135,7 +135,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E3 · Claude 自动生成单页动效站
 
 - Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/claude-53a17a454214) · [finished media](https://video.twimg.com/ext_tw_video/2040894830901858304/pu/vid/avc1/720x1272/a_aUMCoAo2TC-1Io.mp4?tag=12) · [poster](https://pbs.twimg.com/ext_tw_video_thumb/2040894830901858304/pu/img/8CvDfSYjdpzFuUrl.jpg) · [original source](https://x.com/viktoroddy/status/2040894867153338643)
+- Evidence: [GoodCase](https://goodcase.ai/cases/claude-53a17a454214) · [finished media](https://media.goodcase.ai/media/video/claude-53a17a454214.mp4) · [poster](https://media.goodcase.ai/media/poster/claude-53a17a454214.jpg) · [original source](https://x.com/viktoroddy/status/2040894867153338643)
 - Summary: @viktoroddy 使用 Claude完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -193,7 +193,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E4 · Claude + Fable：Aethera Fintech 落地页
 
 - Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/claude-fable-aethera-fintech-42f59ca99541) · [finished media](https://video.twimg.com/amplify_video/2077365692027060224/vid/avc1/2972x2160/6rwwwebHlulfYW9W.mp4?tag=28) · [poster](https://pbs.twimg.com/amplify_video_thumb/2077365692027060224/img/1aEX0t3Qp5zPc6Hc.jpg) · [original source](https://x.com/viktoroddy/status/2077366050828751274)
+- Evidence: [GoodCase](https://goodcase.ai/cases/claude-fable-aethera-fintech-42f59ca99541) · [finished media](https://media.goodcase.ai/media/video/claude-fable-aethera-fintech-42f59ca99541.mp4) · [poster](https://media.goodcase.ai/media/poster/claude-fable-aethera-fintech-42f59ca99541.jpg) · [original source](https://x.com/viktoroddy/status/2077366050828751274)
 - Summary: @viktoroddy 使用 Claude · Fable完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -226,7 +226,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E5 · Claude + Nano Banana + Kling 动画网站
 
 - Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/claude-nano-banana-kling-37787d8ec68d) · [finished media](https://video.twimg.com/amplify_video/2042188295376179200/vid/avc1/1526x1728/uT80dVqvhGdiDYq5.mp4?tag=21) · [poster](https://pbs.twimg.com/amplify_video_thumb/2042188295376179200/img/JsuJb2i3z6d2ju58.jpg) · [original source](https://x.com/viktoroddy/status/2042188738818957631)
+- Evidence: [GoodCase](https://goodcase.ai/cases/claude-nano-banana-kling-37787d8ec68d) · [finished media](https://media.goodcase.ai/media/video/claude-nano-banana-kling-37787d8ec68d.mp4) · [poster](https://media.goodcase.ai/media/poster/claude-nano-banana-kling-37787d8ec68d.jpg) · [original source](https://x.com/viktoroddy/status/2042188738818957631)
 - Summary: @viktoroddy 使用 Claude Code · Nano Banana Pro · Kling完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -274,7 +274,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E6 · Gemini 3.1 一次生成动效网站
 
 - Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/gemini-3-1-65cd001c4cd3) · [finished media](https://video.twimg.com/amplify_video/2026249412696297473/vid/avc1/1440x1080/R9hPUCWRnhz8ybRp.mp4?tag=21) · [poster](https://pbs.twimg.com/amplify_video_thumb/2026249412696297473/img/_XYDn4E2VT1pkj09.jpg) · [original source](https://x.com/viktoroddy/status/2026249809506811965)
+- Evidence: [GoodCase](https://goodcase.ai/cases/gemini-3-1-65cd001c4cd3) · [finished media](https://media.goodcase.ai/media/video/gemini-3-1-65cd001c4cd3.mp4) · [poster](https://media.goodcase.ai/media/poster/gemini-3-1-65cd001c4cd3.jpg) · [original source](https://x.com/viktoroddy/status/2026249809506811965)
 - Summary: @viktoroddy 使用 Gemini 3.1完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -307,7 +307,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E7 · Gemini + AntiGravity 牙科诊所网站
 
 - Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/gemini-antigravity-87b7fea47629) · [finished media](https://video.twimg.com/amplify_video/2070427586120048640/vid/avc1/3256x2160/fce0nXyCO_sMJiTX.mp4?tag=28) · [poster](https://pbs.twimg.com/amplify_video_thumb/2070427586120048640/img/bK8ce29Ow34r9aXx.jpg) · [original source](https://x.com/viktoroddy/status/2070428537790877738)
+- Evidence: [GoodCase](https://goodcase.ai/cases/gemini-antigravity-87b7fea47629) · [finished media](https://media.goodcase.ai/media/video/gemini-antigravity-87b7fea47629.mp4) · [poster](https://media.goodcase.ai/media/poster/gemini-antigravity-87b7fea47629.jpg) · [original source](https://x.com/viktoroddy/status/2070428537790877738)
 - Summary: @viktoroddy 使用 Gemini · AntiGravity · React完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -379,15 +379,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > const featureBars = ['Advanced Dentistry', 'High Quality Equipment', 'Friendly Staff'];
 >
 > const services = [
-> { name: 'Dental\nVeneers', num: '01', active: true },
-> { name: 'Dental\nCrowns', num: '02', active: false },
-> { name: 'Teeth\nWhitening', num: '03', active: false },
-> { name: 'Dental\nImplants…
+> { name: 'Dental
+> Veneers', num: '01', active: true },
+> { name: 'Dental
+> Crowns', num: '02', active: false },
+> { name: 'Teeth
+> Whitening', num: '03', active: false },
+> { name: 'Dental
+> Implants', n…
 
 ### E8 · Gemini vs Claude：Velorah 电动房车落地页
 
 - Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/gemini-vs-claude-velorah-1f09726b10d6) · [finished media](https://video.twimg.com/amplify_video/2038563844654804992/vid/avc1/1384x1680/2UZzyXPTOiq1X1JR.mp4?tag=21) · [poster](https://pbs.twimg.com/amplify_video_thumb/2038563844654804992/img/ALrYr9fi-uBaZWKp.jpg) · [original source](https://x.com/viktoroddy/status/2038564207101436210)
+- Evidence: [GoodCase](https://goodcase.ai/cases/gemini-vs-claude-velorah-1f09726b10d6) · [finished media](https://media.goodcase.ai/media/video/gemini-vs-claude-velorah-1f09726b10d6.mp4) · [poster](https://media.goodcase.ai/media/poster/gemini-vs-claude-velorah-1f09726b10d6.jpg) · [original source](https://x.com/viktoroddy/status/2038564207101436210)
 - Summary: @viktoroddy 使用 Gemini · Claude完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -437,16 +441,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| AntiGravity + Gemini 3.1 落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/antigravity-gemini-3-1-5e49aad75b25) | [Media](https://video.twimg.com/amplify_video/2024831377322160128/vid/avc1/2354x1720/XnHdS5oKAr0D6Lpn.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2024832167164133766) | E1 |
-| ChatGPT Image 设计转 React Native 网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/chatgpt-image-react-native-3042b25ce192) | [Media](https://video.twimg.com/amplify_video/2059293319994458113/vid/avc1/1902x1350/h9ABBWI075C9Pp83.mp4?tag=27) | [Original](https://x.com/viktoroddy/status/2059294558299766837) | E2 |
-| Claude 自动生成单页动效站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-53a17a454214) | [Media](https://video.twimg.com/ext_tw_video/2040894830901858304/pu/vid/avc1/720x1272/a_aUMCoAo2TC-1Io.mp4?tag=12) | [Original](https://x.com/viktoroddy/status/2040894867153338643) | E3 |
-| Claude + Fable：Aethera Fintech 落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-fable-aethera-fintech-42f59ca99541) | [Media](https://video.twimg.com/amplify_video/2077365692027060224/vid/avc1/2972x2160/6rwwwebHlulfYW9W.mp4?tag=28) | [Original](https://x.com/viktoroddy/status/2077366050828751274) | E4 |
-| Claude + Nano Banana + Kling 动画网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-nano-banana-kling-37787d8ec68d) | [Media](https://video.twimg.com/amplify_video/2042188295376179200/vid/avc1/1526x1728/uT80dVqvhGdiDYq5.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2042188738818957631) | E5 |
-| Gemini 3.1 一次生成动效网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/gemini-3-1-65cd001c4cd3) | [Media](https://video.twimg.com/amplify_video/2026249412696297473/vid/avc1/1440x1080/R9hPUCWRnhz8ybRp.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2026249809506811965) | E6 |
-| Gemini + AntiGravity 牙科诊所网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/gemini-antigravity-87b7fea47629) | [Media](https://video.twimg.com/amplify_video/2070427586120048640/vid/avc1/3256x2160/fce0nXyCO_sMJiTX.mp4?tag=28) | [Original](https://x.com/viktoroddy/status/2070428537790877738) | E7 |
-| Gemini vs Claude：Velorah 电动房车落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/gemini-vs-claude-velorah-1f09726b10d6) | [Media](https://video.twimg.com/amplify_video/2038563844654804992/vid/avc1/1384x1680/2UZzyXPTOiq1X1JR.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2038564207101436210) | E8 |
-| Google Stitch 对比 Claude 网页生成 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/google-stitch-claude-9c762b56d629) | [Media](https://video.twimg.com/amplify_video/2036062856282865664/vid/avc1/1388x1676/qg8Ye5QaOA7DIaRM.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2036138516070146225) | E— |
-| Nano Banana + Flow + AntiGravity 动效网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/nano-banana-flow-antigravity-423c21fb568e) | [Media](https://video.twimg.com/amplify_video/2027664570060550145/vid/avc1/1520x1080/-9gPPS697Zzh7MLK.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2027664654252839271) | E— |
+| AntiGravity + Gemini 3.1 落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/antigravity-gemini-3-1-5e49aad75b25) | [Media](https://media.goodcase.ai/media/video/antigravity-gemini-3-1-5e49aad75b25.mp4) | [Original](https://x.com/viktoroddy/status/2024832167164133766) | E1 |
+| ChatGPT Image 设计转 React Native 网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/chatgpt-image-react-native-3042b25ce192) | [Media](https://media.goodcase.ai/media/video/chatgpt-image-react-native-3042b25ce192.mp4) | [Original](https://x.com/viktoroddy/status/2059294558299766837) | E2 |
+| Claude 自动生成单页动效站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-53a17a454214) | [Media](https://media.goodcase.ai/media/video/claude-53a17a454214.mp4) | [Original](https://x.com/viktoroddy/status/2040894867153338643) | E3 |
+| Claude + Fable：Aethera Fintech 落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-fable-aethera-fintech-42f59ca99541) | [Media](https://media.goodcase.ai/media/video/claude-fable-aethera-fintech-42f59ca99541.mp4) | [Original](https://x.com/viktoroddy/status/2077366050828751274) | E4 |
+| Claude + Nano Banana + Kling 动画网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-nano-banana-kling-37787d8ec68d) | [Media](https://media.goodcase.ai/media/video/claude-nano-banana-kling-37787d8ec68d.mp4) | [Original](https://x.com/viktoroddy/status/2042188738818957631) | E5 |
+| Gemini 3.1 一次生成动效网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/gemini-3-1-65cd001c4cd3) | [Media](https://media.goodcase.ai/media/video/gemini-3-1-65cd001c4cd3.mp4) | [Original](https://x.com/viktoroddy/status/2026249809506811965) | E6 |
+| Gemini + AntiGravity 牙科诊所网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/gemini-antigravity-87b7fea47629) | [Media](https://media.goodcase.ai/media/video/gemini-antigravity-87b7fea47629.mp4) | [Original](https://x.com/viktoroddy/status/2070428537790877738) | E7 |
+| Gemini vs Claude：Velorah 电动房车落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/gemini-vs-claude-velorah-1f09726b10d6) | [Media](https://media.goodcase.ai/media/video/gemini-vs-claude-velorah-1f09726b10d6.mp4) | [Original](https://x.com/viktoroddy/status/2038564207101436210) | E8 |
+| Google Stitch 对比 Claude 网页生成 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/google-stitch-claude-9c762b56d629) | [Media](https://media.goodcase.ai/media/video/google-stitch-claude-9c762b56d629.mp4) | [Original](https://x.com/viktoroddy/status/2036138516070146225) | E— |
+| Nano Banana + Flow + AntiGravity 动效网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/nano-banana-flow-antigravity-423c21fb568e) | [Media](https://media.goodcase.ai/media/video/nano-banana-flow-antigravity-423c21fb568e.mp4) | [Original](https://x.com/viktoroddy/status/2027664654252839271) | E— |
 
 ## Derivation boundary
 

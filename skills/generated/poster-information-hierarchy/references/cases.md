@@ -1,15 +1,91 @@
 # Case evidence
 
-This workflow is derived from 19 published Cases across 13 creators.
+This workflow is derived from 33 published Cases across 17 creators.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · Batch Product Poster Proposal Generator
+### E1 · 3D 纸艺微缩海报设计
+
+- Creator: 小小东
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-0c5fb248a5b9) · [finished media](https://media.goodcase.ai/cases/ffe38aa2e70d.jpg) · [original source](https://x.com/i/status/2091470045973262409)
+- Summary: 一个精致的提示词，用于将上传的照片转换为高端竖版海报，特色在于上半部分为写实摄影，下半部分为风格化的 3D 纸艺微缩场景。
+- Prompt excerpt:
+
+> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物和展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为精致的 miniature 3D paper-craft 微缩纸艺场景。不要机械复刻照片，而是将主体及最能强化其身份与环境气质的少量元素，转化为由纸张、卡纸、软陶、木片等材料手工制作的微型模型，自然组织在一条狭长、轻盈的悬浮景观基座上。主体保持一眼可辨，其余元素只作为叙事陪衬，可根据原图加入植物、道路、水面、灯具、交通工具、人物、飞鸟、云朵或其他具有代表性的生活细节，但必须与原始主题真实相关，避免无意义堆砌。构图以一个核心主体 + 一条横向微缩景观带 + 大面积留白为基础，根据主体的体量、方向与空间关系调整高低、前后、疏密和左右重心，使场景像一件被精心陈列的微型艺术装置。通过尺度变化、层叠遮挡、小型前景与背景元素建立纵深，主体承担主要视觉重量，辅助模型保持更小尺度和更低视觉权重，整体居中但不过度对称，保持轻盈、精致和安静的视觉节奏。整体继续采用柔和、通透、略微去饱和的高级配色：以浅粉蓝、雾蓝、天空蓝和空气感冷调蓝建立主要氛围，以象牙白、奶油白、浅米色、柔和灰绿、鼠尾草绿和建筑中性色保持平衡，仅使用少量 dusty rose 或 muted blush 作为细节点缀。颜色柔和但干净，避免灰脏、过度泛黄或糖果色，让不同纸层通过轻微色差自然形成空间关系。材质强调真实手工触感，可见纸纤维、折边、切口、层叠厚度、轻微毛边和细小制作误差；使用柔和自然漫射光与细腻阴影表现微缩模型的真实体积和层次，具有 macro photography 般的近距离质感。背景保持柔和白色或极浅色纸面，大面积干净留白，使整个下半部分像一张被精心拍摄的高级手工旅行明信片。文字同样融入微缩纸艺语言。从照片的地点、主体身份、主题或情绪中提炼一个简短英文标题，不限定必须是城市名称。标题采用小型、精致、略带手写感的字形，优先放置在景观带下方的留白区域，也可根据主体关系轻微弯曲、沿基座排列或与微缩场景形成空间呼应；保持极少、优雅、克制，不加入大段说明，让文字像作品签名而不是商业标题。整体呈现 miniature diorama、handcrafted paper art、whimsical 3D illustration、premium travel postcard 的高级视觉气质：轻盈、温柔、精致、可触摸、有生活感，同时保持清晰的设计秩序与大量呼吸空间。无论原图是人物、动物、植物、建筑、器物、交通工具或自然景观，都应保持真实摄影与微缩手工世界之间清晰而巧妙的视觉对应，避免塑料3D、玩具感、儿童手工感、复杂堆积、过度可爱和电商展示感。
+
+### E2 · 3D 等轴测厚涂油画海报
+
+- Creator: 小小东
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-5b77438c2dce) · [finished media](https://media.goodcase.ai/media/image/3d-5b77438c2dce.jpg) · [original source](https://x.com/i/status/2091340055138963955)
+- Summary: 一个美学提示词，通过厚涂油画和调色刀风格，将照片转化为 3D 等轴测微缩景观，在纸面上营造出触感十足的手工质感。
+- Prompt excerpt:
+
+> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
+>
+> 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
+>
+> 下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，以 **isometric / 轴测式3D空间逻辑**重构为精致的厚涂微景观。主体不是平面插画，而是具有明确体积、结构、前后关系和稳定落点的立体微缩实体；保留原物最关键的身份特征，可适度整理视角与比例，使其在统一轴测空间中更加完整、清晰、有雕塑感。
+>
+> 主体坐落在一块由厚涂颜料形成的**主题色域**之上。色块不是普通矩形背景，而应根据原图内容转化为水面、地面、道路、草地、光带、岸线、影子或其他与主题相关的空间切片，并沿 isometric 透视方向自然延伸。主体必须与色块发生真实空间关系，可出现落地、嵌入、穿越、延伸、倒影、波纹、投影或局部越界，使二维厚涂笔触与三维主体巧妙连接。
+>
+> 构图依据主体的体量、朝向和运动方向自适应安排，以**斜向轴测、稳定重心、前后纵深和大面积留白**建立专业空间秩序。主体通常位于色块的关键节点而非机械居中，色块承担视线引导和透视延伸；必要时可加入一组低权重的云、太阳、植物、波纹或抽象自然意象，与主体形成前后层次，但不建立第二视觉中心。
+>
+> 绘画语言采用**立体微缩模型 × 厚涂油画 × 真实纸面**的融合方式。主体细节精致、体积清晰，周围环境则保留明显的刮刀痕迹、厚颜料堆积、起伏边缘和手工笔触；云、水、地面和光线可以具有近似浮雕般的油彩厚度，使画面产生“真实模型立在尚未干透的油画颜料上”的触觉错觉。
+>
+> 配色从上方照片中提取**最明亮、最鲜活、最能代表主体精气神的颜色**重新调制，提高明度、纯净度和生命力，以大量清洁暖白作为呼吸空间，搭配清透主色和少量阳光般的暖色点睛。整体明亮、治愈、鲜活而高级，避免灰脏、低沉、莫兰迪化、荧光感和廉价糖果色。
+>
+> 文字少量介入，从照片的主体、地点、情绪或象征意义中提炼简短标题，并搭配极少量副文、编号或微型注释。排版保持细致、克制，可顺应轴测方向、厚涂色块边缘或留白区域排列，与空间透视形成巧妙呼应，而不是独立贴在画面上的标题。
+>
+> 整体呈现 **isometric 立体主体 × 厚涂色域 × 明亮治愈配色 × 真实纸张 × 大面积留白** 的视觉关系。无论主体是建筑、人物、动物、植物、器物、交通工具或自然景观，都应让三维主体真实“站立、生长或存在”于厚涂色块构成的空间中，避免平面贴图、普通插画、塑料CG、玩具模型感和模板化微景观。
+
+### E3 · Alcohol Marker Travel Poster Prompt
+
+- Creator: Saul Goodman
+- Evidence: [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) · [finished media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) · [original source](https://x.com/i/status/2086685317822890146)
+- Summary: A comprehensive prompt for generating vertical travel posters with a mid-century alcohol marker aesthetic, featuring customizable city names and landmarks.
+- Prompt excerpt:
+
+> [DESTINATION] = {argument name="city name" default="[CITY NAME]"}
+> [LANDMARK] = {argument name="primary landmark" default="[PRIMARY LANDMARK]"}
+>
+> Create a vertical 4:5 alcohol-marker travel poster of [LANDMARK] in [DESTINATION], viewed from a low pedestrian viewpoint. Make it feel like an affectionate, imperfect travel memory, not a photorealistic rendering, postcard, map, landmark collage, or cinematic panorama.
+>
+> TYPOGRAPHY
+>
+> Keep the top 14–16% open warm ivory paper.
+>
+> At the top center, write exactly:
+>
+> “[CITY NAME]” — large, bold black marker capitals.
+>
+> Below it:
+>
+> “[SHORT TRAVEL PHRASE]” — smaller vermilion-red handwritten marker lettering.
+>
+> Keep both lines highly legible and separate from the landmark. No additional text.
+>
+> SCENE
+>
+> Place [LANDMARK] prominently in the upper-center, preserving its most recognizable silhouette and defining features while simplifying unnecessary detail.
+>
+> Reduce surrounding architecture to 2–3 broad building masses. Add one simple local vehicle, a few tiny pedestrians, and a young female traveler walking across the lower-center foreground while looking upward.
+>
+> Dress her in a vivid vermilion-red coat over cream clothing, with natural warm-peach skin tones. Make her warm colors contrast against the cool slate-blue and pale blue-gray architecture.
+>
+> DEPTH & MARKER STYLE
+>
+> Foreground: saturated colors, 2–3 overlapping marker passes, visible chisel-tip strokes, darker shadow overlaps, and thick broken black contours.
+>
+> Midground: medium-density slate-blue / blue-gray marker strokes, 1–2 passes, moderately thick broken outlines.
+>
+> Background: progressively…
+
+### E4 · Batch Product Poster Proposal Generator
 
 - Creator: Derek Wen｜德里克文
-- Evidence: [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) · [finished media](https://cms-assets.youmind.com/media/1784882707415_lh6qhc_HN9ZlBCawAAg6PO.jpg) · [original source](https://x.com/i/status/2080480065998192970)
+- Evidence: [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) · [finished media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) · [original source](https://x.com/i/status/2080480065998192970)
 - Summary: A professional business prompt designed to generate 8 diverse commercial poster options for a single product, ensuring brand consistency while exploring different themes and angles.
 - Prompt excerpt:
 
@@ -37,142 +113,98 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 构图节奏不同
 > 整体完成度高，适合直接用于电商提案或社交媒体展示
 
-### E2 · 海盐焦糖拿铁海报
+### E5 · 海盐焦糖拿铁海报
 
 - Creator: 小小东
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) · [finished media](https://cms-assets.youmind.com/media/1784363355944_3par9e_HNbjLZVbcAAuu5c.jpg) · [original source](https://x.com/i/status/2078098079992119579)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) · [finished media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) · [original source](https://x.com/i/status/2078098079992119579)
 - Summary: 为一款海盐焦糖冰拿铁制作竖版电商产品海报，呈现晶莹剔透的冰感美学与醒目的促销排版。
 - Prompt excerpt:
 
-> Goal: Create a premium vertical e-commerce beverage poster for an iced caramel sea-salt latte / dessert drink, with a cool crystalline summer aesthetic and bold Chinese typography.
+> 围绕任意主题对象展开强促销海报式视觉：画面先由大面积高明度冷感纯净背景建立清凉、洁净、即时优惠的情绪，上半部保留充足留白并用三层文字形成阅读阶梯，最上方是轻量短句，中心是极粗几何无衬线大标题，字面宽阔、笔画低对比、内部负形方正，第一行用高亮浅色压出清洁感，第二行改用同色系深值高饱和色形成重锚；主题核心信息进入圆角胶囊条，胶囊从深到浅横向发光扩散，文字保持明亮高对比。下半部让主题对象以近距离主形体从冷色环境中升起，尺度大、边缘清晰、表面带水珠、透明或反光高光，周围布置由主题派生的晶体化附着物和碎块，前景碎块更大并有轻微遮挡，中景围绕主体制造深度，背景碎块降低清晰度并被冷色空气压淡。色彩按主题派生但维持角色秩序：明亮洁净冷调背景占多数，深值高饱和信息色承接主标题，白色或近白色承担轻文案与高光，主题对象使用互补或暖深色作为视觉重心，透明高亮附着物承担闪点；整体避免浑浊渐变，保持广告级锐度、清爽光照和高可读性。底部以一条深色横向基座收束画面，放置小号宽字距品牌或署名，形成从轻句、巨字、优惠条、主题对象到底部署名的垂直阅读路径。
 >
-> Canvas: Vertical 3:4 poster, high-resolution commercial product photography style. Use an icy pale-blue background with bright daylight, sparkling highlights, water droplets, and flying ice fragments. The composition should feel refreshing, cold, glossy, and high-end.
 >
-> Layout: Place the main product glass in the lower-right half, tilted slightly to the right and cropped close for impact. Surround it with large transparent blue ice cubes in the foreground and background, including exactly 5 prominent ice blocks: one large block at bottom left, one large block at bottom right, one medium block behind the cup on the right, one medium block behind the cup on the left, and one small floating cube near the left side. Add small ice shards and droplets scattered through the air. Reserve the upper-left area for typography. Add a black bottom footer bar occupying about 7% of the canvas height.
->
-> Subject details: The drink is a clear cylindrical glass filled with dark coffee at the bottom, milk and cream swirling above, topped with thick white foam. Golden caramel sauce drips down the foam and glass. Add amber sugar crystals on top of the foam and around the ice; show exactly 9 clearly visible amber crystal chunks on the foam and rim area. The glass surface has condensation beads and cold mist. Use strong macro product lighting, crisp reflections, and shallow depth of field.
->
-> Text content: At the very top-l…
+> ——————
+> 主题方向: 蜜桃雪融慕斯蛋糕+新鲜果肉切面+冰晶挂霜
+> 使用场景: 线下门店夏季促销海报
+> 色彩基调: 冰川浅蓝+极光银白+蜜桃渐变粉+高通透冷光
+> 视觉焦点: 正中心巨型主体+对称悬浮碎冰+顶部紧凑排版+竖版 3:4
 
-### E3 · 深色系中国行业语录海报
+### E6 · 当代平面设计展览海报
+
+- Creator: @ChillaiKalan__
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-33a820efca19) · [finished media](https://media.goodcase.ai/cases/1a97078e86d9.jpg) · [original source](https://x.com/ChillaiKalan__/status/2092277085914206655)
+- Summary: 一份高度结构化、专业的提示词，用于生成具有大胆形状、极简纹理和特定构图规则的当代平面设计展览海报。
+- Prompt excerpt:
+
+> Create an original contemporary graphic design exhibition poster. The poster should feel suitable for an international contemporary graphic design exhibition. Think like a graphic designer, not a portrait painter. The graphic design is the artwork. The illustration exists to support the design. REQUIRED ELEMENTS A recognizable character. Wearing sunglasses. One dominant {argument name="graphic design element" default="graphic design element"}. If a reference image is provided, preserve the person's recognizable identity. Otherwise, use the same character established throughout the conversation. These are the only required visual elements. Everything else should be freely reinvented for every poster. GRAPHIC DESIGN ELEMENT The dominant graphic element may be geometric, typographic, architectural, abstract, organic, or entirely original. It may consist of a single bold shape, oversized typography, bands, frames, grids, blocks, lines, curves, cut-outs, negative space, or any other graphic device. Choose the single visual element that creates the strongest overall graphic composition for this specific poster. VISUAL STYLE No lineart. Construct the image entirely from {argument name="art style" default="flat graphic color shapes"}. Large simplified shapes. Minimal details. Visible dry crayon texture. Limited {argument name="color palette" default="color palette"}. Bold negative space. Minimalist editorial poster. Embrace bold simplification. Reduce details whenever possible. Communicate through shape before texture. Design with confidence, not accuracy. GRAPHIC COMPOSITION The c…
+
+### E7 · 创意涂鸦海报生成器
 
 - Creator: 小小东
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-09e0350e33c3) · [finished media](https://cms-assets.youmind.com/media/1784796587256_1a265y_HN0kSXLbwAAFdQN.jpg) · [original source](https://x.com/i/status/2079859332733407315)
-- Summary: 生成一张高级感竖版演讲者或行业评论海报，包含电影质感人像、醒目的中文语录排版以及企业红点缀。
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) · [finished media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) · [original source](https://x.com/i/status/2090834371423183135)
+- Summary: 一个用于创建风格化海报的提示词，将原始摄影作品与迷人的黑色线条涂鸦角色相结合。它通过将布局拆分为上半部分的摄影图和下半部分的重构涂鸦，处理上传的图像，从而捕捉原始照片的视觉精髓与叙事感。
 - Prompt excerpt:
 
-> Goal: Create a vertical Chinese business keynote quote poster featuring a serious industry expert portrait and bold editorial typography.
+> 同样处理：
+> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
 >
-> Canvas: 2:3 vertical poster, dark premium corporate style, black-to-charcoal vignette background with a soft gray halo behind the subject, high contrast, cinematic lighting.
+> 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有生活方式杂志、独立出版物和艺术摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
 >
-> Main subject: One centered East Asian male expert, about 35–45 years old, short black hair, round black eyeglasses, calm serious expression, looking directly at the viewer. He wears a black suit or dark blazer. Pose him leaning forward with both hands clasped under his chin, elbows implied below frame. Use realistic studio portrait photography, sharp facial detail, moody side lighting, shallow depth of field.
+> 下半部分先理解原图真正的**视觉核心与寓意**：判断画面最重要的不是“有什么”，而是“什么最值得被记住”——可能是一个主体、一种动作、一组关系、一处反差、一个情绪瞬间或某种象征意味。再从中提取最具识别性的**主体、轮廓、姿态与叙事线索**，重构为“真实主体 + 黑线涂鸦小人”的趣味编辑海报。不要机械截取原图最大物体，而要保留最能代表照片精神和故事性的视觉锚点，使下半部分既能一眼对应原图，又像对原图进行了一次聪明的二次解读。
 >
-> Layout: The portrait fills the upper two thirds of the poster. Place the text block over the lower half, aligned left, leaving the face unobstructed. Use a large white quotation mark at the lower left above the headline. Add a thin vertical red line along the left side of the main text block and small red accent lines.
+> 真实主体保持材质与身份特征，可适度优化角度、比例、光线和色彩，使核心特征更鲜明；原图中与寓意无关的信息可以舍弃，但支撑主题的关键关系必须保留。围绕主体加入少量极简黑线涂鸦小人，小人的动作、位置和互动方式完全根据原图的形态、语境与潜在寓意自然生成，让他们像在回应、放大或反转照片原本的故事，而不是随意做动作。
 >
-> Text content: Include exactly 1 oversized white opening quotation mark. Include exactly 2 small labels above the headline: a red rectangular label with white Chinese text “行业观察”, followed by a small gray label “专栏”. Include exactly 1 large bold white Chinese headline: “当增长放缓，真正的竞争才开始”. Under it, include exactly 3 insight bullet lines, each with a small white icon and red accent: 1) “需求进入存量时代，增长逻辑全面重构” with an upward chart icon, 2) “从规模扩张转向效率提升，组织能力是关键” with a person icon, 3) “技术与场景深度结合，构建可持续的竞争壁垒” with a target icon. At the bottom left, include…
+> 配色从上方照片中提取最有辨识度和精气神的颜色，可适度提纯、提亮和重新组织。背景以米白、浅色或原图中最舒适的浅色为主，保持大量留白；真实主体承担主要色彩，小人与文字以黑色或深灰细线形成对比，整体干净、轻快、克制。
+>
+> 文字同样从原图的**核心寓意、情绪和视觉关系**中自然生长，不直接说明物体名称，也不套固定文案。将照片最值得被记住的那层意思转化成极短、轻松、聪明、略带幽默或双关的手写文字，让它像小人留下的注释、念头或一句画外音。文字可沿主体轮廓、人物动作或留白节奏自由排布，与小人和主体共同完成叙事，而不是后期贴上的标题。
+>
+> 整体保持**真实主体、核心寓意、微型叙事、稚拙线条和大量留白**之间的平衡。无论原图是人物、动物、植物、食物、建筑、器物、交通工具或自然场景，都应先抓住“这张照片真正讲的是什么”，再决定如何重构，避免只抓物体不抓关系、只做可爱互动没有主题、卡通贴纸感、复杂装饰和模板感。
+>
+> 💣language：{argument name="language" default="english"}
 
-### E4 · 现代肖像拼贴海报
-
-- Creator: Elsa Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-266d5bc01270) · [finished media](https://cms-assets.youmind.com/media/1785143505059_w3ujdi_HOMxFW3a8AASGjG.jpg) · [original source](https://x.com/i/status/2081561764718870732)
-- Summary: 生成一张高级方形生活方式肖像拼贴画，包含五个圆角单色面板和一个重叠的彩色全身主体。
-- Prompt excerpt:
-
-> Create a stylish modern portrait collage featuring {argument name="character description" default="a young woman with long dark hair, fair skin, and an elegant calm expression"}. Use the same person consistently in every panel with identical facial features, hairstyle, skin tone, and identity. Canvas: square 1:1 portrait-collage poster with a clean white background and rounded outer margins. Layout: use exactly 5 rounded rectangular photo panels with soft white borders and a minimal editorial design: 1 wide horizontal panel across the top showing a close-up black-and-white portrait leaning against a tree; 1 large central-left full-body cutout overlapping multiple panels, in color, wearing {argument name="main outfit" default="a dusty rose pink linen button-up shirt with rolled sleeves, beige trousers, sunglasses, and a wristwatch"}, hands in pockets, outlined with a thick soft white sticker-like border; 1 mid-right rounded panel showing a black-and-white seated or three-quarter portrait with sunglasses and one hand under the chin; 1 lower-right rounded panel showing a black-and-white smiling close-up looking upward while wearing sunglasses; 1 bottom-right rounded panel showing a smaller black-and-white full-body walking pose with hands in pockets. Visual style: premium lifestyle photography collage, soft natural daylight, shallow depth of field, blurred outdoor park or tree-lined background, cinematic grayscale panels contrasted with the single color foreground figure, polished magazine aesthetic, realistic skin and hair detail, subtle shadows where the cutout overlaps the…
-
-### E5 · 贴纸拼贴 / 创意图像合成/钱包/护照夹
-
-- Creator: 野猪A6
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-6d72adabab02) · [finished media](https://liblibai-online.liblib.cloud/img/46987de339ac47e0965172f7ccd1b939/a9159b078a820a2928f1deb1a48c5330ed1d2e5e8c9f22ad6d1a000cc292eb86.png?x-oss-process=image/resize,w_1000,m_lfit/format,webp) · [original source](https://www.liblib.art/modelinfo/a104e1357d354686a53df93d0b6aabc9)
-- Summary: 贴纸拼贴 / 创意图像合成/钱包/护照夹 应用简介：工作流是可以把图案无缝融合到指定产品上。专为 电商产品图生成、图案贴图、场景融合 等视觉设计任务而设计。它能够将用户提供的 图案图 智能贴合到 产品图 表面，生成高度真实、符合商业摄影标准的合成图像，适用于商品展示、广告设计、内容创作等多种场景。 1. 智能融合，自然真实 采用 Gemini 3 Pro Image 等先进视觉模型，实现图案与产品表面的自然光影、材质、透视融合，避免“贴图感”。 支持多层图像输入（双图/三图模式），可同时处理多个图案与底色融合。 2. 多种模式，灵活适配 双图模式：图案 + 产品图 三图模式：图案1 + 图案2 + 产品图 单图模式：仅产品图 + 场景描述生成 图像无限裂变：基于单图生成多样化生活场景图 3. 批量生成，高效输出 内置 Repeater 节点，支持一键批量生成多张结果图（默认4张），提升出图效率。 可自由调节输出数量、画质（1K/2K/4K）、比例（1:1等）。 4. 提示词引导，精准控制 提供结构化提示词模板，用户只需微调即可控制：图案融合方式（印刷层/贴纸感/浮雕感）场景描述（机场、咖啡厅、办公场景等）拍摄风格（商业摄影/生活抓拍/高写实） 5. 即插即用，操作简单 已预设节点连接与参数，用户只需：上传图片填写或选择提示词点击生成 内置大量示例图和提示词案例，新手也能快速上手。…
-- Prompt excerpt:
-
-> 贴纸拼贴 / 创意图像合成/钱包/护照夹
-> 应用简介：工作流是可以把图案无缝融合到指定产品上。专为 电商产品图生成、图案贴图、场景融合 等视觉设计任务而设计。它能够将用户提供的 图案图 智能贴合到 产品图 表面，生成高度真实、符合商业摄影标准的合成图像，适用于商品展示、广告设计、内容创作等多种场景。
-> 1. 智能融合，自然真实
-> 采用 Gemini 3 Pro Image 等先进视觉模型，实现图案与产品表面的自然光影、材质、透视融合，避免“贴图感”。
-> 支持多层图像输入（双图/三图模式），可同时处理多个图案与底色融合。
-> 2. 多种模式，灵活适配
-> 双图模式：图案 + 产品图
-> 三图模式：图案1 + 图案2 + 产品图
-> 单图模式：仅产品图 + 场景描述生成
-> 图像无限裂变：基于单图生成多样化生活场景图
-> 3. 批量生成，高效输出
-> 内置 Repeater 节点，支持一键批量生成多张结果图（默认4张），提升出图效率。
-> 可自由调节输出数量、画质（1K/2K/4K）、比例（1:1等）。
-> 4. 提示词引导，精准控制
-> 提供结构化提示词模板，用户只需微调即可控制：图案融合方式（印刷层/贴纸感/浮雕感）场景描述（机场、咖啡厅、办公场景等）拍摄风格（商业摄影/生活抓拍/高写实）
-> 5. 即插即用，操作简单
-> 已预设节点连接与参数，用户只需：上传图片填写或选择提示词点击生成
-> 内置大量示例图和提示词案例，新手也能快速上手。
-> 使用方法：
-> 第一步：上传产品图和图案图。
-> 第二步：填写提示词（可默认
-> 第三步：点击生成。
-> 主页很多优质工作流:****s://****liblib.art/userpage/46987de339ac47e0965172f7ccd1b939/publish/workflow
-> 工作流定制、模型定制、优化、教学、报错解决、一对一陪跑 微信：[已省略]
-> 如果此工作流不是你需要的，请联系作者可定制专属工作流。
-
-### E6 · 文艺南京晨报封面
+### E8 · 格林童话木刻版画海报
 
 - Creator: 小小东
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-7cecc870b0ac) · [finished media](https://cms-assets.youmind.com/media/1785055094393_w7em74_HOCYRGUacAAdnPm.jpg) · [original source](https://x.com/i/status/2080830466966651155)
-- Summary: 一款精致的编辑海报，将醒目的中文杂志排版与南京晨间美食及装饰图案的稚拙蜡笔画风格相结合。
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) · [finished media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) · [original source](https://x.com/i/status/2089987808664719723)
+- Summary: 将照片转化为迷人的格林童话风格木刻插画，呈现扁平的叙事视角和丰富的纯手工绘制质感。
 - Prompt excerpt:
 
-> Create a literary magazine cover style poster about {argument name="city greeting" default="Nanjing, good morning"}. Use a wide horizontal 16:9 canvas with a muted pale olive-green background and lots of quiet negative space. Place the main typographic weight in the upper-right: huge black Chinese calligraphic serif characters reading {argument name="main headline" default="南京,早安"}, thick, elegant, slightly oppressive like inked magazine masthead typography. Directly beneath the headline, add a thin horizontal rule on both sides of a small Chinese subtitle reading “城市清晨问候特辑”, and to the right add italic English text “Good Morning, Nanjing”. On the right-middle, set the date {argument name="date" default="2026.07.25"} in refined black serif numerals, with smaller Chinese text below: “星期六　农历六月十三”, then a tiny centered dash. Below that, create a compact almanac-style information block with a small red sun icon and the label “今日宜忌”, dotted divider lines, and exactly 2 circular badges: one labeled “宜” followed by “散心、看树、尝鲜”, and one labeled “忌” followed by “仓促、发呆过头、错过晨光”. At the bottom-right, add spaced small caps English “CITY MORNING GREETINGS”, a diagonal slash, and a small Chinese quote: “把日子过成诗 / 把清晨过成喜欢的样子”. In the lower-left, depict the theme object as naive crayon drawing rather than realism: exactly 2 illustrated food objects, a decorative handheld fan and a plate of sliced salted duck with orange egg-like centers. The fan should be ornate, rounded, outlined in dark green, filled with childlike swirls, flowers, cloud motifs, yellow, blue, white, and green crayon scribbl…
-
-### E7 · 极简克莱因蓝排版海报
-
-- Creator: EZ
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-7ee476b271e4) · [finished media](https://cms-assets.youmind.com/media/1784623725441_qkb0ve_HNsP7puXUAAEyNQ.jpg) · [original source](https://x.com/i/status/2079273202224685296)
-- Summary: 生成一张极简主义编辑风格的主视觉海报，采用醒目的紧凑型排版、印刷裁切标记，以及黑与克莱因蓝的印刷系统美学。
-- Prompt excerpt:
-
-> Create a minimalist editorial landing-page hero poster on an off-white coated-paper background with subtle dust speckles and scanned paper grain. Center a single vertical rectangular print sheet slightly above the middle of a wide landscape canvas, leaving large empty margins. The sheet has a thin imperfect black ink border with a slightly rough printed texture, plus four small Klein-blue crop/corner registration marks just outside the rectangle, and one small blue circular registration target centered on the top border. Inside the sheet, use stark condensed bold uppercase typography like a printed production document: a tiny tracking-spaced eyebrow at the top reading {argument name="eyebrow text" default="A FILM & AI IMAGE PROMPT WORKBENCH"}, then a large stacked headline in black reading {argument name="main headline" default="SAY THE PICTURE IN YOUR HEAD."} across five tight lines, followed by the final word in vivid Klein blue reading {argument name="accent word" default="CLEARLY."}. Add a tiny tracking-spaced caption beneath the headline reading {argument name="caption text" default="THE PICTURE, PULLED INTO REGISTER."}. At the very bottom center of the canvas, far below the poster, add a thin vertical black line and tiny uppercase text reading {argument name="bottom label" default="SCROLL"}. Use only three colors: warm paper white, black ink, and intense Klein blue. Keep all corners square, no rounded UI elements, no shadows, no gradients, no illustrations, no photos, no extra text.
-
-### E8 · 三步拥有幸福人生信息图
-
-- Creator: 小小东
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-a29e3e9b3070) · [finished media](https://cms-assets.youmind.com/media/1784537338084_4493nb_HNmhBSBaIAAyFp5.jpg) · [original source](https://x.com/i/status/2078869781189677408)
-- Summary: 一张温暖的红橙色手绘风格中文信息图，通过自我关怀、专注和感恩这三个简单的步骤来诠释幸福。
-- Prompt excerpt:
-
-> Goal: Create a clean illustrated Chinese self-improvement infographic titled {argument name="headline text" default="三步拥有幸福人生"}, presenting happiness as three executable small steps like an instruction manual.
+> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%，并确保该表达方式可适配人物、动物、建筑、静物、自然场景等不同主题，而不限于城市题材。
 >
-> Canvas: Wide horizontal 16:9 white background, airy margins, minimalist editorial poster layout. Use a hand-drawn red-orange marker style for all illustrations and large step numbers, with black Chinese body text. Overall feeling: warm, encouraging, simple, practical, like a WeChat article cover illustration.
+> 上半部分保留原始照片，保持主体身份、动作、空间关系、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有杂志摄影与艺术出版物的质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭切或改变主体。
 >
-> Header: Center a large rough handwritten red-orange headline at the top: 「三步拥有幸福人生」, with small decorative red strokes on both sides. Under it, add a small black subtitle: 「像说明书一样，把幸福拆成可执行的小步骤」.
+> 下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为童话版画式手绘图像。不要机械描摹细节，而是将主体压缩为一两个清楚的大体块，以钝拙剪影、略微夸张的比例和少量关键边缘，保留原始对象的身份、动作、功能与情绪。画面从原图内容中提炼出一个大面积低明度或高反差的结构场，作为包裹主体的容器、路径、框架或密度层；背景像故事发生的外壳一样从原图空间与意义中生长出来，形成遮挡、裁切、吞没与局部露出的结构叙事。整体采用平面叙事透视和绘本页面式层级，可使用俯视压缩、侧向移动、正面框架、路径引导、尺度跳跃或边缘裁切组织阅读。
 >
-> Layout: Three equal columns across the lower two-thirds of the canvas, connected visually by red-orange dotted arrows moving left to right. Each column has one doodle illustration above, a thin red divider line, then a step label, huge red step number, bold black title, and three short black lines of explanatory text. Use exactly 3 steps.
+> 配色从上方照片提取，并保持明确的三层关系：大面积暗结构色负责重量与边界，适量浅色或留白负责呼吸，小面积高饱和情绪色负责读图路线与故事信号。最重要的信息仅以少量鲜明色块集中在面部、姿态、路径、器物功能点、环境标识或叙事焦点上，并始终被深色结构或浅色负形压住，让画面鲜艳但不平均。色相可随主题情绪调整，但面积比例与明度秩序保持稳定。
 >
-> Step 1 column, left: Section label 「准备」. Huge red number 「01」 followed by bold title 「先照顾自己」. Body text has exactly 3 lines: 「睡够一点」, 「吃好一点，动一动」, 「把身体和情绪放回正位」. Illustration: a simple smiling person sitting on the floor beside a pillow or bed, holding a steaming mug; include a small smiling sun doodle, a heart speech bubble, and cozy rest/self-care feeling.
+> 线条只在功能、路径、边界、纹理和识别处出现，保持稀疏、手绘、略不准的细线。所有色块保持平面化处理，同时保留干刷、颗粒、飞白、纸纹、喷点和轻微套印错位，呈现丝网印刷与粉蜡笔共同完成的手工质感，避免写实光影、复杂体积、光滑矢量边缘、3D渲染和塑料质感。
 >
-> Step 2 column, center: Section label 「操作」. Huge red number 「02」 followed by bold title 「认真投入」. Body text has exactly 3 lines: 「每天做好一件重要的小事」, 「专注、练习、持续积累」, 「让生活慢慢长出方向感」. Illustratio…
+> 整体构图简洁、低细节、高识别，暗场包裹亮色信号，兼具可爱叙事与厚重版画感。若画面包含文字，可将文字处理为小标识、物体面板或边缘注释，数量精简，服从图形结构；字形圆钝，粗细略不均，密度低，带有自然手写感，使其像画面的一部分而不是后期贴上去的说明。整体参考童话绘本、手工版画、编辑插画与艺术出版物气质，呈现统一、鲜明、可迁移的作者化视觉语言。
 
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| Batch Product Poster Proposal Generator | Derek Wen｜德里克文 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://cms-assets.youmind.com/media/1784882707415_lh6qhc_HN9ZlBCawAAg6PO.jpg) | [Original](https://x.com/i/status/2080480065998192970) | E1 |
-| 海盐焦糖拿铁海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) | [Media](https://cms-assets.youmind.com/media/1784363355944_3par9e_HNbjLZVbcAAuu5c.jpg) | [Original](https://x.com/i/status/2078098079992119579) | E2 |
-| 深色系中国行业语录海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-09e0350e33c3) | [Media](https://cms-assets.youmind.com/media/1784796587256_1a265y_HN0kSXLbwAAFdQN.jpg) | [Original](https://x.com/i/status/2079859332733407315) | E3 |
-| 现代肖像拼贴海报 | Elsa Ai | [GoodCase](https://goodcase.ai/cases/case-266d5bc01270) | [Media](https://cms-assets.youmind.com/media/1785143505059_w3ujdi_HOMxFW3a8AASGjG.jpg) | [Original](https://x.com/i/status/2081561764718870732) | E4 |
-| 贴纸拼贴 / 创意图像合成/钱包/护照夹 | 野猪A6 | [GoodCase](https://goodcase.ai/cases/case-6d72adabab02) | [Media](https://liblibai-online.liblib.cloud/img/46987de339ac47e0965172f7ccd1b939/a9159b078a820a2928f1deb1a48c5330ed1d2e5e8c9f22ad6d1a000cc292eb86.png?x-oss-process=image/resize,w_1000,m_lfit/format,webp) | [Original](https://www.liblib.art/modelinfo/a104e1357d354686a53df93d0b6aabc9) | E5 |
-| 文艺南京晨报封面 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-7cecc870b0ac) | [Media](https://cms-assets.youmind.com/media/1785055094393_w7em74_HOCYRGUacAAdnPm.jpg) | [Original](https://x.com/i/status/2080830466966651155) | E6 |
-| 极简克莱因蓝排版海报 | EZ | [GoodCase](https://goodcase.ai/cases/case-7ee476b271e4) | [Media](https://cms-assets.youmind.com/media/1784623725441_qkb0ve_HNsP7puXUAAEyNQ.jpg) | [Original](https://x.com/i/status/2079273202224685296) | E7 |
-| 三步拥有幸福人生信息图 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-a29e3e9b3070) | [Media](https://cms-assets.youmind.com/media/1784537338084_4493nb_HNmhBSBaIAAyFp5.jpg) | [Original](https://x.com/i/status/2078869781189677408) | E8 |
-| 瑞利散射信息图 | stevibe | [GoodCase](https://goodcase.ai/cases/case-b06bb2e1e674) | [Media](https://cms-assets.youmind.com/media/1784796608708_2c7yxb_HN2ASW1bgAAOsU1.jpg) | [Original](https://x.com/i/status/2079959686737252419) | E— |
-| 校园足球时尚海报 | serein ｜买美股上币安 | [GoodCase](https://goodcase.ai/cases/case-b5b260cc33e2) | [Media](https://cms-assets.youmind.com/media/1785143505517_83s9t4_HOOF5vXbMAAbU_E.jpg) | [Original](https://x.com/i/status/2081654767185719501) | E— |
-| 中文活动海报作品集项目 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-df0d47b01f94) | [Media](https://cms-assets.youmind.com/media/1784623740276_bzl2kf_HNrXKDPbQAAtIpB.jpg) | [Original](https://x.com/i/status/2079212152561537412) | E— |
-| City Aesthetic Morning Poster Collage | 小小东 | [GoodCase](https://goodcase.ai/cases/city-aesthetic-morning-poster-collage) | [Media](https://cms-assets.youmind.com/media/1784882705327_cjw4n7_HN778YxbUAAuGhw.jpg) | [Original](https://x.com/i/status/2080377942639603720) | E— |
-| Golden Autumn Harvest Poster | Isabella | [GoodCase](https://goodcase.ai/cases/golden-autumn-harvest-poster) | [Media](https://rh-hk-images.xiaoyaoyou.com/4e5495bf632f6449b678e9ef0ba3f40f/2024-10-14/e590bb7dfcdf2162203b4afcef9e6140.webp?imageMogr2/format/webp/quality/75/ignore-error/1/mini) | [Original](https://www.runninghub.ai/post/1845725471282753538) | E— |
-| Human Fragments 编辑海报 | lovimg_com | [GoodCase](https://goodcase.ai/cases/human-fragments-d7c48a962c73) | [Media](https://cms-assets.youmind.com/media/1784877061209_scsr9o_HN6nzXybEAACBGB.jpg) | [Original](https://x.com/i/status/2080284587369042155) | E— |
-| Moody 霓虹风格订婚邀请函 | 小小东 | [GoodCase](https://goodcase.ai/cases/moody-neon-engagement-invitation) | [Media](https://cms-assets.youmind.com/media/1784710374610_sjo56w_HNrN0jia8AA2wzU.jpg) | [Original](https://x.com/i/status/2079201673793450362) | E— |
-| Premium Black and White Editorial Poster | Aatif J | [GoodCase](https://goodcase.ai/cases/premium-black-and-white-editorial-poster) | [Media](https://cms-assets.youmind.com/media/1784882694555_lrr3na_HN8O5ylaQAEBkrn.jpg) | [Original](https://x.com/i/status/2080397946550358078) | E— |
-| Product poster workflow | 道友请留步 | [GoodCase](https://goodcase.ai/cases/product-poster-workflow) | [Media](https://rh-hk-images.xiaoyaoyou.com/0cb4d58af0b4a9cf8379877d23fa415a/2025-06-02/94edcbe74cfa673409a9c957ec2aa3a2.png?imageMogr2/format/webp/quality/75/ignore-error/1/mini) | [Original](https://www.runninghub.ai/post/1929204278349479937) | E— |
-| 水彩泼墨风格运动员体育海报 | @chesnyfcb | [GoodCase](https://goodcase.ai/cases/real-case-03-chesnyfcb) | [Media](https://goodcase.ai/media/goodcase/chesnyfcb-2055716498367222213-02.jpg) | [Original](https://x.com/chesny/status/2055716498367222213) | E— |
-| 复古旅行海报拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) | [Media](https://goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) | [Original](https://x.com/Goodmanprotocol/status/2055882758845878709) | E— |
+| 3D 纸艺微缩海报设计 | 小小东 | [GoodCase](https://goodcase.ai/cases/3d-0c5fb248a5b9) | [Media](https://media.goodcase.ai/cases/ffe38aa2e70d.jpg) | [Original](https://x.com/i/status/2091470045973262409) | E1 |
+| 3D 等轴测厚涂油画海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/3d-5b77438c2dce) | [Media](https://media.goodcase.ai/media/image/3d-5b77438c2dce.jpg) | [Original](https://x.com/i/status/2091340055138963955) | E2 |
+| Alcohol Marker Travel Poster Prompt | Saul Goodman | [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) | [Media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) | [Original](https://x.com/i/status/2086685317822890146) | E3 |
+| Batch Product Poster Proposal Generator | Derek Wen｜德里克文 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/i/status/2080480065998192970) | E4 |
+| 海盐焦糖拿铁海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) | [Media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) | [Original](https://x.com/i/status/2078098079992119579) | E5 |
+| 当代平面设计展览海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-33a820efca19) | [Media](https://media.goodcase.ai/cases/1a97078e86d9.jpg) | [Original](https://x.com/ChillaiKalan__/status/2092277085914206655) | E6 |
+| 创意涂鸦海报生成器 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/i/status/2090834371423183135) | E7 |
+| 格林童话木刻版画海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) | [Media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) | [Original](https://x.com/i/status/2089987808664719723) | E8 |
+| 贴纸拼贴 / 创意图像合成/钱包/护照夹 | 野猪A6 | [GoodCase](https://goodcase.ai/cases/case-6d72adabab02) | [Media](https://media.goodcase.ai/media/image/case-6d72adabab02.webp) | [Original](https://www.liblib.art/modelinfo/a104e1357d354686a53df93d0b6aabc9) | E— |
+| 几何治愈系艺术海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) | [Media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) | [Original](https://x.com/i/status/2094414873837146267) | E— |
+| 水彩风格编辑插画海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/i/status/2089893684527730867) | E— |
+| 三步拥有幸福人生信息图 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-a29e3e9b3070) | [Media](https://media.goodcase.ai/media/image/case-a29e3e9b3070.jpg) | [Original](https://x.com/i/status/2078869781189677408) | E— |
+| 高端极简矢量旅行海报 | Mahnoor Fatima | [GoodCase](https://goodcase.ai/cases/case-aa3e3c074ac1) | [Media](https://media.goodcase.ai/media/image/case-aa3e3c074ac1.jpg) | [Original](https://x.com/i/status/2091349007922778211) | E— |
+| 几何视窗极简商业海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/i/status/2090960491648815553) | E— |
+| 达芬奇等轴测结构海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-dbb1375c81bd) | [Media](https://media.goodcase.ai/cases/5b189e294391.jpg) | [Original](https://x.com/i/status/2091001986519068891) | E— |
+| 手工撕纸海报风格 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-e1146d469636) | [Media](https://media.goodcase.ai/cases/3b3d8cab4ea9.jpg) | [Original](https://x.com/i/status/2089252321603862547) | E— |
+| 电影感旅行杂志海报 | simeon-sanai | [GoodCase](https://goodcase.ai/cases/case-e435a002bb7d) | [Media](https://media.goodcase.ai/cases/d0308655dad9.jpg) | [Original](https://x.com/i/status/2088475690639261784) | E— |
+| 极简概念线条艺术海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-f0b80272015b) | [Media](https://media.goodcase.ai/cases/64d725084400.jpg) | [Original](https://x.com/i/status/2089959872876228689) | E— |
+| 等轴测微缩模型海报 | 小小东 | [GoodCase](https://goodcase.ai/cases/case-f707dbeeade9) | [Media](https://media.goodcase.ai/cases/47e23925f21b.jpg) | [Original](https://x.com/i/status/2090447110168822128) | E— |
+| City Aesthetic Morning Poster Collage | 小小东 | [GoodCase](https://goodcase.ai/cases/city-aesthetic-morning-poster-collage) | [Media](https://media.goodcase.ai/media/image/city-aesthetic-morning-poster-collage.jpg) | [Original](https://x.com/i/status/2080377942639603720) | E— |
 
 ## Derivation boundary
 

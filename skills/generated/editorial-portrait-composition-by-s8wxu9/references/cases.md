@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · 充满奇趣的动漫生活肖像与涂鸦阴影
 
 - Creator: Taaruk
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://cms-assets.youmind.com/media/1784882689510_jja3an_HN5Yxd9bwAA2W7s.jpg) · [original source](https://x.com/i/status/2080197768178720865)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) · [original source](https://x.com/i/status/2080197768178720865)
 - Summary: 一个充满创意的动漫生活片段提示词：在黄金时刻的阳光下，女孩和猫咪的影子幻化为俏皮的手绘漫画涂鸦。
 - Prompt excerpt:
 
@@ -18,7 +18,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E2 · 电影感艺术自然人像
 
 - Creator: Taaruk
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) · [finished media](https://cms-assets.youmind.com/media/1785143461940_bay4du_HONSP4QasAAe5Fc.jpg) · [original source](https://x.com/i/status/2081597935947792465)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) · [finished media](https://media.goodcase.ai/media/image/case-5fe2c52283f0.jpg) · [original source](https://x.com/i/status/2081597935947792465)
 - Summary: 一系列用于生成氛围感和诗意人像的提示词，以草地和雾气缭绕的风景为背景，通过胶片风格展现女性的自然美。
 - Prompt excerpt:
 
@@ -34,7 +34,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E3 · Y2K 街头摄影肖像
 
 - Creator: Taaruk
-- Evidence: [GoodCase](https://goodcase.ai/cases/y2k-ce804684d94d) · [finished media](https://cms-assets.youmind.com/media/1785143456596_kczy8q_HOKnygsbQAAdyFP.jpg) · [original source](https://x.com/i/status/2081410514182435158)
+- Evidence: [GoodCase](https://goodcase.ai/cases/y2k-ce804684d94d) · [finished media](https://media.goodcase.ai/media/image/y2k-ce804684d94d.jpg) · [original source](https://x.com/i/status/2081410514182435158)
 - Summary: 一个充满 21 世纪初怀旧感的胶片摄影提示词，旨在捕捉日本街头随性且欢快的瞬间，呈现出傻瓜相机的拍摄质感。
 - Prompt excerpt:
 
@@ -44,9 +44,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 充满奇趣的动漫生活肖像与涂鸦阴影 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://cms-assets.youmind.com/media/1784882689510_jja3an_HN5Yxd9bwAA2W7s.jpg) | [Original](https://x.com/i/status/2080197768178720865) | E1 |
-| 电影感艺术自然人像 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) | [Media](https://cms-assets.youmind.com/media/1785143461940_bay4du_HONSP4QasAAe5Fc.jpg) | [Original](https://x.com/i/status/2081597935947792465) | E2 |
-| Y2K 街头摄影肖像 | Taaruk | [GoodCase](https://goodcase.ai/cases/y2k-ce804684d94d) | [Media](https://cms-assets.youmind.com/media/1785143456596_kczy8q_HOKnygsbQAAdyFP.jpg) | [Original](https://x.com/i/status/2081410514182435158) | E3 |
+| 充满奇趣的动漫生活肖像与涂鸦阴影 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/i/status/2080197768178720865) | E1 |
+| 电影感艺术自然人像 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) | [Media](https://media.goodcase.ai/media/image/case-5fe2c52283f0.jpg) | [Original](https://x.com/i/status/2081597935947792465) | E2 |
+| Y2K 街头摄影肖像 | Taaruk | [GoodCase](https://goodcase.ai/cases/y2k-ce804684d94d) | [Media](https://media.goodcase.ai/media/image/y2k-ce804684d94d.jpg) | [Original](https://x.com/i/status/2081410514182435158) | E3 |
 
 ## Derivation boundary
 
