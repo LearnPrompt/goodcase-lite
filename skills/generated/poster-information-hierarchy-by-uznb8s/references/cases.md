@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 15 published Cases attributed to xiaoxiaodong01. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 17 published Cases attributed to xiaoxiaodong01. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -99,7 +99,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 整体构图简洁、低细节、高识别，暗场包裹亮色信号，兼具可爱叙事与厚重版画感。若画面包含文字，可将文字处理为小标识、物体面板或边缘注释，数量精简，服从图形结构；字形圆钝，粗细略不均，密度低，带有自然手写感，使其像画面的一部分而不是后期贴上去的说明。整体参考童话绘本、手工版画、编辑插画与艺术出版物气质，呈现统一、鲜明、可迁移的作者化视觉语言。
 
-### E6 · 几何治愈系艺术海报
+### E6 · 建筑视角草图海报
+
+- Creator: @xiaoxiaodong01
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-512647ce560a) · [finished media](https://media.goodcase.ai/cases/900ef92b7743.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2096290195792642498)
+- Summary: 一个极具创意的转化提示词，可将照片转换为建筑草图和极简主义设计海报，重点展现空间关系与艺术留白。
+- Prompt excerpt:
+
+> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。下半部分只提取照片中最具识别性的主体、轮廓、结构、姿态与叙事关系，重构为建筑概念透视草图 / 建筑方案表现手绘。不要完整保留场景，不要逐物复制照片；主动删去大部分背景、配景和无关细节，只留下最能代表原始主题的核心形体、空间关系与视觉记忆点。下半部分重新做美术判断。哪怕原图构图差、背景乱、主体小，也要通过删减、重组、裁切、尺度变化和留白，把它救成一张成立的作品，真正赋予模型重新导演画面的权力。画风采用自由徒手透视线稿 + 少量选择性色块。线条松弛、克制、略带重复与停顿感，可保留少量辅助线、延长线、构造线与建筑手绘的几何参考线，形成明确的设计推敲感。色彩只在少数关键部位轻微铺陈，用于强调主体、结构层次、局部阴影或空间重点，其余区域尽量不画。画面必须以大量有意识的留白为核心。主体应更小、更精炼，其余空间大面积留空。留白不是空背景，而是构图的一部分，要与主体、线稿、参考线、阴影和少量色块共同形成呼吸感、空间感与节奏感。主体可偏心、贴边、局部裁切或缩小尺度；宁可少画，也不要填满。可加入少量几何阴影色块强化体量、进深与空间层次，但避免厚重渲染、复杂环境和写实效果图感。背景保持极简，只保留极少量必要的场地暗示。配色从上方照片中提取 2–4 种最具识别度和生命力的颜色，重新整理为更干净、克制、耐看的草图色系。整体可适度提亮、提纯、去灰，以米白、浅灰、暖灰、柔和绿色、淡木色、浅蓝灰等为主，局部保留少量更鲜明但不刺眼的点睛色。避免脏灰、暗沉、过度复古和廉价高饱和感。文字只作极少量编辑性介入，不限制语种。可根据主体、地点、动作或情绪生成少量字词、短句或注记，安静地落在留白区域，与画面形成克制的图文关系。整体呈现建筑概念手绘、自由线稿、几何参考线、少量色块、几何阴影、超大量留白与编辑式排版共同构成的高级视觉效果。避免完整场景保留、逐物复制、复杂背景、满幅上色、写实效果图、粗重描边、卡通感、3D感和模板化表现。
+
+### E7 · 几何治愈系艺术海报
 
 - Creator: @xiaoxiaodong01
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) · [finished media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2094414873837146267)
@@ -108,7 +117,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影 and 原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。 下半部分提取照片主体最具识别度的{argument name="核心要素" default="主体、轮廓、结构、姿态与叙事关系"}，只保留最值得记忆的核心形象与轮廓，重构为{argument name="艺术风格" default="几何化、扁平化"}的艺术表达。不要采用写实插画，也不要复制原图细节，而是用简洁的几何形状、扁平色块、清晰轮廓、细线条与留白，将复杂信息压缩为少量关键视觉元素；必须保留原物最核心的识别特征，使人能够一眼认出它来自上方同一画面。 下半部分的构图应更专业，重视版面秩序、视觉重心、主次层级、正负形关系、留白节奏与图文平衡。主体可保持居中或略作偏移，但整体必须平衡、克制、安静，避免复杂堆积。背景使用米白色或与原图智能匹配的极浅色底，保留大面积留白，让主体像被提炼后的记忆标本安放在干净、理性的版面中。 配色从上方照片中提取最明亮、最鲜活、最有生命力的颜色重新整理，转化为更清透、柔和、治愈的{argument name="配色气质" default="神文主义治愈系"}配色气质。整体提高明度与色彩纯净度，以轻盈、干净、温暖的综合色关系建立氛围，色块鲜明但不刺眼，具有柔和、清新、安静又有生命力的视觉感受。避免灰脏、暗沉、发旧、厚重、荧光色 and 廉价糖果感。 文字可少量介入，加入简洁的标题、编号或微型注释，并与主体 and 留白形成自然的排版关系。文字整体应克制、精致、具有编辑感，像国际设计工作室、建筑海报、艺术展览海报或高端品牌视觉系统中的小型标注，不喧宾夺主，而是帮助建立更高级的图文秩序。 整体风格参考国际设计工作室、建筑海报、艺术展览海报及高端品牌视觉系统，呈现高级、现代、雅致、克制、几何化、扁平化且治愈感强的视觉效果。避免过度滤镜、廉价塑料质感、卡通感、强电脑生成感、模板化效果 and 无意义装饰。
 
-### E7 · 水彩风格编辑插画海报
+### E8 · 水彩风格编辑插画海报
 
 - Creator: @xiaoxiaodong01
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) · [finished media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2089893684527730867)
@@ -127,18 +136,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 整体使用米白或浅色背景与大量留白，上下画面通过相同的主体特征、色彩、姿态和视觉符号形成呼应。整体气质轻松、俏皮、复古、温柔、聪明、时髦、幽默、浪漫、松弛，略带笨拙与古怪自信，像一页被精心保存的旧时尚绘本与现代艺术杂志。
 
-### E8 · 三步拥有幸福人生信息图
-
-- Creator: @xiaoxiaodong01
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-a29e3e9b3070) · [finished media](https://media.goodcase.ai/media/image/case-a29e3e9b3070.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2078869781189677408)
-- Summary: 一张温暖的红橙色手绘风格中文信息图，通过自我关怀、专注和感恩这三个简单的步骤来诠释幸福。
-- Prompt excerpt:
-
-> 围绕任意主题对象组织清晰的步骤说明视觉，画面保持大面积洁净白底，主题内容集中在中上部与中部，底部留给三组短信息说明，整体像手工画出的使用指南而非商业海报。将主题拆成三个并列步骤模块，每个模块上方放一个简化图标场景，下方用一条极细水平线隔开说明文字；三组模块横向均分但不完全机械对齐，中间模块图形最大、动作最丰富，左右模块更稳定，形成从准备、操作到完成的阅读节奏。主题对象用单色粗线描绘，线条选择由主题派生的高饱和暖亮强调色，面积很少但醒目，保持蜡笔或粗马克笔般的轻微抖动、断续颗粒和不均匀边缘；背景高明度、无纹理、无阴影，让线稿像直接印在干净纸面上。局部用近黑色实心块补充重量，只填在主题中最需要强调的内部状态、数量或结果区域，黑色面积低于线稿和留白，不做渐变或写实光影。图标采用儿童图解式抽象，轮廓简化、透视弱、形体带轻微天真感，动作线、点状序列或热气般的重复曲线由主题语义派生，用来连接步骤而不是装饰。文字区采用窄而硬朗的无衬线信息排版，每组包含小标题、醒目的数字或关键词、两到三行短说明；字重跳跃明确，行距紧凑，黑字为主，只允许少量强调语沿用主题强调色。保持安静、明亮、克制的说明书气质，避免照片质感、复杂背景、柔光阴影、厚重纹理和多色插画。
->
-> 主题：三步拥有幸福人生
-> 比例16:9
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -148,11 +145,13 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 海盐焦糖拿铁海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) | [Media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078098079992119579) | E3 |
 | 创意涂鸦海报生成器 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090834371423183135) | E4 |
 | 格林童话木刻版画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) | [Media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089987808664719723) | E5 |
-| 几何治愈系艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) | [Media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2094414873837146267) | E6 |
-| 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E7 |
-| 三步拥有幸福人生信息图 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-a29e3e9b3070) | [Media](https://media.goodcase.ai/media/image/case-a29e3e9b3070.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078869781189677408) | E8 |
+| 建筑视角草图海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-512647ce560a) | [Media](https://media.goodcase.ai/cases/900ef92b7743.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2096290195792642498) | E6 |
+| 几何治愈系艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) | [Media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2094414873837146267) | E7 |
+| 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E8 |
+| 三步拥有幸福人生信息图 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-a29e3e9b3070) | [Media](https://media.goodcase.ai/media/image/case-a29e3e9b3070.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078869781189677408) | E— |
 | 几何视窗极简商业海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090960491648815553) | E— |
 | 达芬奇等轴测结构海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-dbb1375c81bd) | [Media](https://media.goodcase.ai/cases/5b189e294391.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091001986519068891) | E— |
+| 复古粉彩涂鸦拼贴海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-e0a5ca61432d) | [Media](https://media.goodcase.ai/cases/248e7abc7eed.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2095931305540419983) | E— |
 | 手工撕纸海报风格 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-e1146d469636) | [Media](https://media.goodcase.ai/cases/3b3d8cab4ea9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089252321603862547) | E— |
 | 极简概念线条艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-f0b80272015b) | [Media](https://media.goodcase.ai/cases/64d725084400.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089959872876228689) | E— |
 | 等轴测微缩模型海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-f707dbeeade9) | [Media](https://media.goodcase.ai/cases/47e23925f21b.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090447110168822128) | E— |

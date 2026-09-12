@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to nawalsehar. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to nawalsehar. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -46,7 +46,20 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > No teleportation, instant acceleration, floating objects, distorted anatomy, changing clothes or bicycle, exaggerated wind, CGI appearance, or action-movie movement.
 
-### E3 · Seedance：Photorealistic 30-second modern Japanese summer-festival travel vlog featuring…
+### E3 · Seedance：Create a 30-second photorealistic live-action American university romance vlog…
+
+- Creator: @nawalsehar
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49) · [finished media](https://media.goodcase.ai/cases/147c4bd06702.mp4) · [poster](https://media.goodcase.ai/cases/e164d2cec497.jpg) · [original source](https://x.com/nawalsehar/status/2096832969453543579)
+- Summary: Sometimes the best stories begin with a little rain. Created on seedance 2.5 Prompt: Create a 30-second photorealistic live-action American university romance v…
+- Prompt excerpt:
+
+> Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.
+>
+> They escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.
+>
+> Modern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.
+
+### E4 · Seedance：Photorealistic 30-second modern Japanese summer-festival travel vlog featuring…
 
 - Creator: @nawalsehar
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-photorealistic-30-second-modern-japanese-summer-festival-travel-vlog-featuring-a03ea7f9a5ee) · [finished media](https://media.goodcase.ai/media/video/seedance-photorealistic-30-second-modern-japanese-summer-festival-travel-vlog-featuring-a03ea7f9a5ee.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-photorealistic-30-second-modern-japanese-summer-festival-travel-vlog-featuring-a03ea7f9a5ee.jpg) · [original source](https://x.com/nawalsehar/status/2095743606698979637)
@@ -71,7 +84,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | MiniMax H3：Ultra-photorealistic cinematic 15-second Korean lifestyle film following a youn… | @nawalsehar | [GoodCase](https://goodcase.ai/cases/minimax-h3-ultra-photorealistic-cinematic-15-second-korean-lifestyle-film-following-a-youn-091d01a9a2ae) | [Media](https://media.goodcase.ai/media/video/minimax-h3-ultra-photorealistic-cinematic-15-second-korean-lifestyle-film-following-a-youn-091d01a9a2ae.mp4) | [Original](https://x.com/nawalsehar/status/2094653824224940225) | E1 |
 | 韩国夏日骑车购物日常 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-669ce18aacb5) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-669ce18aacb5.mp4) | [Original](https://x.com/nawalsehar/status/2093215704946467157) | E2 |
-| Seedance：Photorealistic 30-second modern Japanese summer-festival travel vlog featuring… | @nawalsehar | [GoodCase](https://goodcase.ai/cases/seedance-photorealistic-30-second-modern-japanese-summer-festival-travel-vlog-featuring-a03ea7f9a5ee) | [Media](https://media.goodcase.ai/media/video/seedance-photorealistic-30-second-modern-japanese-summer-festival-travel-vlog-featuring-a03ea7f9a5ee.mp4) | [Original](https://x.com/nawalsehar/status/2095743606698979637) | E3 |
+| Seedance：Create a 30-second photorealistic live-action American university romance vlog… | @nawalsehar | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49) | [Media](https://media.goodcase.ai/cases/147c4bd06702.mp4) | [Original](https://x.com/nawalsehar/status/2096832969453543579) | E3 |
+| Seedance：Photorealistic 30-second modern Japanese summer-festival travel vlog featuring… | @nawalsehar | [GoodCase](https://goodcase.ai/cases/seedance-photorealistic-30-second-modern-japanese-summer-festival-travel-vlog-featuring-a03ea7f9a5ee) | [Media](https://media.goodcase.ai/media/video/seedance-photorealistic-30-second-modern-japanese-summer-festival-travel-vlog-featuring-a03ea7f9a5ee.mp4) | [Original](https://x.com/nawalsehar/status/2095743606698979637) | E4 |
 
 ## Derivation boundary
 
