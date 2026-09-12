@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 59 published Cases across 37 creators.
+This workflow is derived from 63 published Cases across 38 creators.
 
 ## Operating rule
 
@@ -89,7 +89,20 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Voice & Lip Sync
 > The woman must speak naturally in English throughout…
 
-### E6 · 皮克斯风格美妆日常动画
+### E6 · 大理石楼梯唇彩广告
+
+- Creator: @AIwithSynthia
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-05cc8692de27) · [finished media](https://media.goodcase.ai/cases/b637e0c6f931.webm) · [poster](https://media.goodcase.ai/cases/dfa401edffbd.jpg) · [original source](https://x.com/AIwithSynthia/status/2082845923152150697)
+- Summary: 由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3产品广告提示词。
+- Prompt excerpt:
+
+> Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, pearl necklace, rings, and facial consistency throughout every shot.
+>
+> Create a 15-second ultra-realistic luxury lip gloss commercial. The video opens with a close-up of the woman looking directly into the camera while confidently holding the lip gloss beside her face. She then gracefully walks down an elegant marble staircase as the camera smoothly tracks backward. Cut to her sitting on a luxurious blush-pink velvet sofa, smiling softly while placing the lip gloss on a marble coffee table. Cinematic macro shots showcase the applicator being removed, the glossy texture, and the premium packaging. She applies the lip gloss while looking into a vanity mirror, followed by extreme close-ups of her glossy lips catching soft studio light. Finish with a confident beauty pose holding the lip gloss beside her face, then transition to a premium floating hero shot of the product rotating above a glossy marble surface with warm rose-gold lighting.
+>
+> Ultra-realistic beauty cinematography, luxury cosmetic campaign, smooth gimbal movement, realistic skin textures, macro product photography, shallow depth of field, creamy bokeh, premium color grading, 4K HDR, 16:9, no text, subtitles, logos, or watermarks.
+
+### E7 · 皮克斯风格美妆日常动画
 
 - Creator: @laviniavelle
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) · [finished media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) · [poster](https://media.goodcase.ai/cases/3718d6d34c62.jpg) · [original source](https://x.com/laviniavelle/status/2092193228803952975)
@@ -98,7 +111,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > 3D Pixar-style animation sequence set in a luxurious, modern marble bathroom with warm ambient lighting. A young Asian female character with large expressive eyes undergoes a quick routine: 1. Wrapped in a plush white bath towel, she pulls off a matching head towel, letting her wet, dark hair drop around her shoulders. 2. Side shot as she blows dry her long black hair with a sleek pink hair dryer. Her hair flows smoothly in the breeze. 3. Close-up of fingers running through glossy silky, ultra-straight black hair with realistic sheen and movement. 4 She reaches out toward the screen smoothly transitioning from the bath towel into an elegant white silk slip dress. 5. She turns, opens the wooden bathroom door, steps out and gently closes the door behind her.
 
-### E7 · 智能手表产品生活方式广告
+### E8 · 智能手表产品生活方式广告
 
 - Creator: @AIwithkhan
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) · [finished media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) · [poster](https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg) · [original source](https://x.com/AIwithkhan/status/2080519081959276735)
@@ -115,20 +128,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > The scene transitions to a styl…
 
-### E8 · 夏季饮品商业电影感短片
-
-- Creator: @AIwithSynthia
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) · [finished media](https://media.goodcase.ai/media/video/case-1f7a27e4c448.mp4) · [poster](https://media.goodcase.ai/media/poster/case-1f7a27e4c448.jpg) · [original source](https://x.com/AIwithSynthia/status/2081383131668701519)
-- Summary: 一款专为 Seedance 2.0 设计的高端电影感饮品广告提示词，包含角色参考锁定及充满活力的夏季美学。
-- Prompt excerpt:
-
-> Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, and natural expressions throughout. She wears a white fitted crop top, emerald green pleated mini skirt, white sneakers, silver jewelry, and sunglasses resting on her head. Bright summer afternoon, colorful downtown plaza with murals, fountains, palm trees, and skate park. Premium commercial cinematography, vibrant green-and-white Sprite-inspired color palette, photorealistic 4K HDR, 16:9.
-> The video opens with her smiling confidently at the camera while balancing an ice-cold Sprite can on her palm. She flips the can into the air, catches it effortlessly, and pops it open with a crisp "pssst!" A cinematic macro shot captures sparkling fizz, crushed ice, lime slices, and condensation glistening in the sunlight as she takes a refreshing sip.
-> Instantly energized, she laughs while running through dancing fountains, playfully chases floating bubbles, then joins friends at a skate park where she briefly rides a skateboard and celebrates together. Dynamic handheld tracking shots capture genuine smiles, splashing water, and carefree summer energy.
-> The final hero shot shows her stepping toward the camera, holding the chilled Sprite can close to the lens as the fountain sparkles behind her. She smiles and says,
-> "Stay cool. Stay fresh."
-> Natural ambient audio only: can opening, fizzy bubbles, splashing fountain water, skateboard wheels, footsteps, laughter, birds, gentle breeze, and city ambience. No background music, no subtitles, no logos,…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -138,9 +137,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Seedance 参考图角色的墨镜耳机 UGC 短片 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-2ee8c62c7d26) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-2ee8c62c7d26.mp4) | [Original](https://x.com/AIwithkhan/status/2089686478100341051) | E3 |
 | 奢华美妆护肤 ASMR | @sebatheepan | [GoodCase](https://goodcase.ai/cases/asmr-eb8937adce5b) | [Media](https://media.goodcase.ai/media/video/asmr-eb8937adce5b.mp4) | [Original](https://x.com/sebatheepan/status/2080999511195828239) | E4 |
 | MiniMax H3 参考图驱动的产品时尚短片 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-ccf8d06fad6f) | [Media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-ccf8d06fad6f.mp4) | [Original](https://x.com/CaliraVal/status/2089221706435248245) | E5 |
-| 皮克斯风格美妆日常动画 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/laviniavelle/status/2092193228803952975) | E6 |
-| 智能手表产品生活方式广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/AIwithkhan/status/2080519081959276735) | E7 |
-| 夏季饮品商业电影感短片 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) | [Media](https://media.goodcase.ai/media/video/case-1f7a27e4c448.mp4) | [Original](https://x.com/AIwithSynthia/status/2081383131668701519) | E8 |
+| 大理石楼梯唇彩广告 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-05cc8692de27) | [Media](https://media.goodcase.ai/cases/b637e0c6f931.webm) | [Original](https://x.com/AIwithSynthia/status/2082845923152150697) | E6 |
+| 皮克斯风格美妆日常动画 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/laviniavelle/status/2092193228803952975) | E7 |
+| 智能手表产品生活方式广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/AIwithkhan/status/2080519081959276735) | E8 |
+| 夏季饮品商业电影感短片 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) | [Media](https://media.goodcase.ai/media/video/case-1f7a27e4c448.mp4) | [Original](https://x.com/AIwithSynthia/status/2081383131668701519) | E— |
 | 护发精华美妆广告 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/case-3484642788b0) | [Media](https://media.goodcase.ai/cases/195c4f5f9843.mp4) | [Original](https://x.com/noorlewisx/status/2092478694078251087) | E— |
 | 高端洗发水广告项目 | @Rosey_watson | [GoodCase](https://goodcase.ai/cases/case-34d77d97a79e) | [Media](https://media.goodcase.ai/cases/643d8f673561.mp4) | [Original](https://x.com/Rosey_watson/status/2090369532435083731) | E— |
 | 奢华无线耳机产品展示 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-3b061b619d01) | [Media](https://media.goodcase.ai/cases/6d76adba9a18.webm) | [Original](https://x.com/LudovicCreator/status/2082783319075291312) | E— |
@@ -149,10 +149,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 高能量健身苏打水广告 | @iam_damayor | [GoodCase](https://goodcase.ai/cases/case-723eadafece5) | [Media](https://media.goodcase.ai/media/video/case-723eadafece5.mp4) | [Original](https://x.com/iam_damayor/status/2081379499262746808) | E— |
 | 触感剪纸风格产品展示 | @thesocialalpha_ | [GoodCase](https://goodcase.ai/cases/case-7aea1313f63b) | [Media](https://media.goodcase.ai/media/video/case-7aea1313f63b.mp4) | [Original](https://x.com/thesocialalpha_/status/2073075642996777159) | E— |
 | 可口可乐时尚转场广告 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/case-887d0484c2ce) | [Media](https://media.goodcase.ai/media/video/case-887d0484c2ce.mp4) | [Original](https://x.com/johnAGI168/status/2079810430252331482) | E— |
+| 超高端香水电影级广告 | @SadiaMalik182 | [GoodCase](https://goodcase.ai/cases/case-91461617e987) | [Media](https://media.goodcase.ai/cases/2722820a0df4.webm) | [Original](https://x.com/SadiaMalik182/status/2082776032042783085) | E— |
 | 写实风格无线耳机广告 | @hiapi_ai | [GoodCase](https://goodcase.ai/cases/case-96017ad7706f) | [Media](https://media.goodcase.ai/media/video/case-96017ad7706f.mp4) | [Original](https://x.com/hiapi_ai/status/2081294040415482322) | E— |
 | “水光肌” 美容精华液广告 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-98ee40004d15) | [Media](https://media.goodcase.ai/cases/fc83139eadfa.mp4) | [Original](https://x.com/laviniavelle/status/2092417476265144705) | E— |
-| 高端生活方式口红商业广告视频 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-9cb44af49d8a) | [Media](https://media.goodcase.ai/media/video/case-9cb44af49d8a.mp4) | [Original](https://x.com/AIwithSynthia/status/2081032248179220680) | E— |
-| 韩式护肤美妆广告 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/case-afb550ec50e4) | [Media](https://media.goodcase.ai/cases/550b67a5b50f.mp4) | [Original](https://x.com/Zyrellix/status/2093551801899598017) | E— |
 
 ## Derivation boundary
 
