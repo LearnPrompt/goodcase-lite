@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 32 published Cases across 20 creators.
+This workflow is derived from 163 published Cases across 27 creators.
 
 ## Operating rule
 
@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · 3D 超市包装式创意机构官网
 
 - Creator: @Oluwaphilemon1
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-8bbc2b408223) · [finished media](https://video.twimg.com/amplify_video/2068957430533279746/vid/avc1/720x1280/OFQK-PG8bS8t3VlL.mp4?tag=28) · [poster](https://pbs.twimg.com/amplify_video_thumb/2068957430533279746/img/AhmGPIIBS6yTnvEy.jpg) · [original source](https://x.com/Oluwaphilemon1/status/2068957493561045032)
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-8bbc2b408223) · [finished media](https://media.goodcase.ai/media/video/3d-8bbc2b408223.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-8bbc2b408223.jpg) · [original source](https://x.com/Oluwaphilemon1/status/2068957493561045032)
 - Summary: @Oluwaphilemon1 使用 Claude Fable 5 · Three.js · Blender · GSAP完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -27,10 +27,222 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Save this if you want a portfolio that makes clients feel they are buying something premium 🛒
 
-### E2 · 3D 发票打印机 SaaS 组件
+### E2 · 3D Animated Pin
+
+- Creator: Aceternity UI
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-animated-pin) · [finished media](https://media.goodcase.ai/cases/0b778c9ee5bc.mp4) · [poster](https://media.goodcase.ai/cases/8195c4300c24.webp) · [original source](https://ui.aceternity.com/components/3d-pin)
+- Summary: 复制这段 TSX 组件源码，交给 Cursor、v0、Claude 等 AI 编程工具，说明这是「3D Animated Pin」的 Aceternity UI 组件实现，即可让它接入你的 React 项目，再按需替换文案、配色与触发参数复用。
+- Prompt excerpt:
+
+> // components/ui/3d-pin.tsx
+> "use client";
+> import React, { useState } from "react";
+> import { motion } from "motion/react";
+> import { cn } from "@/lib/utils";
+>
+>
+> export const PinContainer = ({
+>   children,
+>   title,
+>   href,
+>   className,
+>   containerClassName,
+> }: {
+>   children: React.ReactNode;
+>   title?: string;
+>   href?: string;
+>   className?: string;
+>   containerClassName?: string;
+> }) => {
+>   const [transform, setTransform] = useState(
+>     "translate(-50%,-50%) rotateX(0deg)"
+>   );
+>
+>   const onMouseEnter = () => {
+>     setTransform("translate(-50%,-50%) rotateX(40deg) scale(0.8)");
+>   };
+>   const onMouseLeave = () => {
+>     setTransform("translate(-50%,-50%) rotateX(0deg) scale(1)");
+>   };
+>
+>   return (
+>     <a
+>       className={cn(
+>         "relative group/pin z-50  cursor-pointer",
+>         containerClassName
+>       )}
+>       onMouseEnter={onMouseEnter}
+>       onMouseLeave={onMouseLeave}
+>       href={href || "/"}
+>     >
+>       <div
+>         style={{
+>           perspective: "1000px",
+>           transform: "rotateX(70deg) translateZ(0deg)",
+>         }}
+>         className="absolute left-1/2 top-1/2 ml-[0.09375rem] mt-4 -translate-x-1/2 -translate-y-1/2"
+>       >
+>         <div
+>           style={{
+>             transform: transform,
+>           }}
+>           className="absolute left-1/2 p-4 top-1/2  flex justify-start items-start  rounded-2xl  shadow-[0_8px_16px_rgb(0_0_0/0.4)] bg-black border border-white/[0.1] group-hover/pin:border-white/[0.2] transition duration-700 overflow-hidden"
+>         >
+>           <div className={cn(" relative z-50 ", className)}>{children}</div>
+>         </div>
+>       </div>
+>       <PinPerspecti…
+
+### E3 · 3D Globe
+
+- Creator: Aceternity UI
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-globe) · [finished media](https://media.goodcase.ai/cases/c98bbb728b7b.webp) · [original source](https://ui.aceternity.com/components/3d-globe)
+- Summary: 复制这段 TSX 组件源码，交给 Cursor、v0、Claude 等 AI 编程工具，说明这是「3D Globe」的 Aceternity UI 组件实现，即可让它接入你的 React 项目，再按需替换文案、配色与触发参数复用。
+- Prompt excerpt:
+
+> // components/ui/3d-globe.tsx
+> "use client";
+> import React, { useRef, useMemo, useState, useCallback, Suspense } from "react";
+> import { Canvas, useFrame, useThree } from "@react-three/fiber";
+> import { OrbitControls, Html, useTexture } from "@react-three/drei";
+> import * as THREE from "three";
+> import { cn } from "@/lib/utils";
+>
+> // ============================================================================
+> // Types
+> // ============================================================================
+>
+> export interface GlobeMarker {
+>   lat: number;
+>   lng: number;
+>   src: string;
+>   label?: string;
+>   size?: number;
+> }
+>
+> export interface Globe3DConfig {
+>   /** Globe radius */
+>   radius?: number;
+>   /** Globe base color (used as fallback or tint) */
+>   globeColor?: string;
+>   /** URL to the Earth texture map */
+>   textureUrl?: string;
+>   /** URL to the bump/elevation map for terrain */
+>   bumpMapUrl?: string;
+>   /** Whether to show atmosphere glow */
+>   showAtmosphere?: boolean;
+>   /** Atmosphere color */
+>   atmosphereColor?: string;
+>   /** Atmosphere intensity */
+>   atmosphereIntensity?: number;
+>   /** Atmosphere blur/softness (higher = more diffuse, default 3) */
+>   atmosphereBlur?: number;
+>   /** Terrain bump scale (0 = flat, higher = more pronounced) */
+>   bumpScale?: number;
+>   /** Auto rotate speed (0 = disabled) */
+>   autoRotateSpeed?: number;
+>   /** Enable zoom */
+>   enableZoom?: boolean;
+>   /** Enable pan */
+>   enablePan?: boolean;
+>   /** Min zoom distance */
+>   minDistance?: number;
+>   /** Max zoom distance */
+>   maxDistance?: number;
+>   /** Initial rotation */
+>   initialRotation?: { x: number; y: number };
+>   /**…
+
+### E4 · 3D Jack Portfolio
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-jack-portfolio) · [finished media](https://media.goodcase.ai/cases/49f8aeaa5fab.mp4) · [poster](https://media.goodcase.ai/cases/5f968f89c3fe.webp) · [original source](https://motionsites.ai/?prompt=3d-jack-portfolio-hero)
+- Summary: 3D 创作者 Jack 的作品集落地页，React + TypeScript + Framer Motion，#0C0C0C 暗底。
+- Prompt excerpt:
+
+> Build a 3D Creator portfolio landing page for "Jack" using React, TypeScript, Tailwind CSS, Framer Motion, and Lucide React. The page has a dark theme (#0C0C0C background) with the font Kanit (Google Fonts, weights 300-900). The page title is "Jack -- 3D Creator".
+>
+> GLOBAL STYLES
+> Background: #0C0C0C on html, body, #root, and the main wrapper
+> Font family: 'Kanit', sans-serif
+> Global reset: box-sizing border-box, margin 0, padding 0
+> CSS class .hero-heading: gradient text using background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%) with -webkit-background-clip: text and -webkit-text-fill-color: transparent
+> Main wrapper has overflowX: 'clip'
+> SECTION ORDER
+> HeroSection
+> MarqueeSection
+> AboutSection
+> ServicesSection
+> ProjectsSection
+> 1. HERO SECTION
+> Full viewport height (h-screen), flex column layout with overflowX: clip.
+>
+> Navbar: Horizontal nav bar with 4 links -- "About", "Price", "Projects", "Contact" -- evenly spaced with justify-between. Text color #D7E2EA, font-medium, uppercase, tracking-wider. Sizes: text-sm md:text-lg lg:text-[1.4rem]. Padding: px-6 md:px-10 pt-6 md:pt-8. Hover: opacity 70% with 200ms transition.
+>
+> Hero Heading: Massive h1 with text "Hi, i'm jack" (lowercase "i", curly apostrophe via &apos;). Uses the .hero-heading gradient text class. Font-black, uppercase, tracking-tight, leading-none, whitespace-nowrap, w-full. Font sizes: text-[14vw] sm:text-[15vw] md:text-[16vw] lg:text-[17.5vw]. Margin top: mt-6 sm:mt-4 md:-mt-5. Wrapped in overflow-hidden container.
+>
+> Bottom bar: Flexbox justify-between items-end with pb-7 sm:pb-8 md:pb-10:
+>
+> Left: paragraph text "a 3…
+
+### E5 · 3D Marquee
+
+- Creator: Aceternity UI
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-marquee) · [finished media](https://media.goodcase.ai/cases/725a48f190ff.webp) · [original source](https://ui.aceternity.com/components/3d-marquee)
+- Summary: 复制这段 TSX 组件源码，交给 Cursor、v0、Claude 等 AI 编程工具，说明这是「3D Marquee」的 Aceternity UI 组件实现，即可让它接入你的 React 项目，再按需替换文案、配色与触发参数复用。
+- Prompt excerpt:
+
+> // components/ui/3d-marquee.tsx
+> "use client";
+>
+> import { motion } from "motion/react";
+> import { cn } from "@/lib/utils";
+> export const ThreeDMarquee = ({
+>   images,
+>   className,
+> }: {
+>   images: string[];
+>   className?: string;
+> }) => {
+>   // Split the images array into 4 equal parts
+>   const chunkSize = Math.ceil(images.length / 4);
+>   const chunks = Array.from({ length: 4 }, (_, colIndex) => {
+>     const start = colIndex * chunkSize;
+>     return images.slice(start, start + chunkSize);
+>   });
+>   return (
+>     <div
+>       className={cn(
+>         "mx-auto block h-[600px] overflow-hidden rounded-2xl max-sm:h-100",
+>         className,
+>       )}
+>     >
+>       <div className="flex size-full items-center justify-center">
+>         <div className="size-[1720px] shrink-0 scale-50 sm:scale-75 lg:scale-100">
+>           <div
+>             style={{
+>               transform: "rotateX(55deg) rotateY(0deg) rotateZ(-45deg)",
+>             }}
+>             className="relative top-96 right-[50%] grid size-full origin-top-left grid-cols-4 gap-8 transform-3d"
+>           >
+>             {chunks.map((subarray, colIndex) => (
+>               <motion.div
+>                 animate={{ y: colIndex % 2 === 0 ? 100 : -100 }}
+>                 transition={{
+>                   duration: colIndex % 2 === 0 ? 10 : 15,
+>                   repeat: Infinity,
+>                   repeatType: "reverse",
+>                 }}
+>                 key={colIndex + "marquee"}
+>                 className="flex flex-col items-start gap-8"
+>               >
+>                 <GridLineVertical className="-left-4" offset="80px" />
+>                 {subarray.map((image, imageIndex…
+
+### E6 · 3D 发票打印机 SaaS 组件
 
 - Creator: @uxsweta
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-saas-2b0c021f6a2f) · [finished media](https://video.twimg.com/amplify_video/2060939955183255552/vid/avc1/592x858/6sweCr6ovpUy2nei.mp4?tag=27) · [poster](https://pbs.twimg.com/amplify_video_thumb/2060939955183255552/img/HYRb5D2lyULVzDSA.jpg) · [original source](https://x.com/uxsweta/status/2061334430103535727)
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-saas-2b0c021f6a2f) · [finished media](https://media.goodcase.ai/media/video/3d-saas-2b0c021f6a2f.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-saas-2b0c021f6a2f.jpg) · [original source](https://x.com/uxsweta/status/2061334430103535727)
 - Summary: @uxsweta 使用 AI UI Builder完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -81,226 +293,138 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > - It should only appear after clicking the Print Invoice button.
 > - The animation shoul…
 
-### E3 · 宠物食品电影感滚动网页
+### E7 · Agent Wave
 
-- Creator: @johannesasgeir
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-3a2858de4b42) · [finished media](https://video.twimg.com/amplify_video/2076363350171160576/vid/avc1/1920x1080/ZN7c8EmPdjpOXkXk.mp4?tag=28) · [poster](https://pbs.twimg.com/amplify_video_thumb/2076363350171160576/img/8NuQTtVKnVjlrLWF.jpg) · [original source](https://x.com/johannesasgeir/status/2076363513803784208)
-- Summary: @johannesasgeir 使用 Gemini AntiGravity完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/agent-wave) · [finished media](https://media.goodcase.ai/cases/ae8afbd1c466.mp4) · [poster](https://media.goodcase.ai/cases/19e5c9e121d4.webp) · [original source](https://motionsites.ai/?prompt=agent-wave)
+- Summary: 单文件 HTML 复刻 Vesper.ai 单屏落地页，内联 CSS 加一小段 IIFE 处理菜单和动画降级，零框架零依赖，适合学怎么把整页规格压进一个文件。
 - Prompt excerpt:
 
-> I made this $10,000 website with one prompt over the weekend…
+> Recreate this exact single-viewport landing page for **Vesper.ai**. Document title: `Vesper.ai — Operational AI Infrastructure`. `lang="en"`. One HTML file with inline CSS and a small IIFE for the menu + animation fallback. Pure black `#000000`. No extra sections, cards, forms, pricing tables, or footer beyond the three stats. Do **not** add a video, WebGL, Three.js, or Lottie. Do **not** invent a CloudFront URL.
 >
-> Just joking. I made another mock-up webpage for fun using one main prompt and a few smaller prompts to adjust it.
+> Force black immediately so the page can never flash white:
 >
-> It mostly cost me some time and about 1% of my weekly Antigravity credits.
+> - First CSS rule: `html, body { background: #000000 !important; color: #ffffff; }`
+> - Body attribute: `style="background:#000;color:#fff"`
+> - Then again: `html, body { background: #000000; background: var(--bg, #000000); color: #ffffff; color: var(--text, #ffffff); }`
 >
-> I got the idea for the salivating dog swirling up its food from an image I saw, and I decided to turn it into an animated web concept.
+> ---
 >
-> I am going to keep posting random ideas like this because I make something new almost every day.
+> ### Fonts (exact)
 >
-> As usual, I created it with Gemini, Google Flow, and Antigravity.
+> Self-hosted WOFF2s sitting next to `index.html`:
 >
-> At the end, I asked Antigravity to write a reusable prompt for creating a smooth, mouse-scroll-animated website hero section like this again.
->
-> Here is the prompt it gave me ↓
-> ---------------------------------------------------
->
-> I want to build a premium, scroll-driven frame animation (scrollytelling) hero section in vanilla HTML, CSS, and JavaScript.
->
-> The image frames are located in a folder named 'frames' and are numbered sequentially from 'frame_005.jpg' to 'frame_181.jpg' (replace with your specific file names and range).
->
-> Please implement this using the following high-performance frontend mechanics to ensure it is buttery-smooth, responsive, and has zero white flashes on loading/scrolling:
->
-> 1. HTML5 Canvas Cover Sizing & DPI Scaling:
->    - Use an HTML5 `<canvas>` element pinned inside a sticky viewport container (`position: sticky; height: 100vh; top: 0;`).
->    - Dynamically scale the canvas width and height in JS using `window.devicePixelRatio` to keep drawings crisp on high-DPI (Retina) screens.
->    - Implement "cover" scalin…
-
-### E4 · 模糊色块动画落地页
-
-- Creator: @AvalaunchHQ
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-760505450f97) · [finished media](https://video.twimg.com/amplify_video/2019078894532313088/vid/avc1/1242x720/H0dFOuV-q3sD2N_o.mp4?tag=21) · [poster](https://pbs.twimg.com/amplify_video_thumb/2019078894532313088/img/1XqYk1kadiILd42B.jpg) · [original source](https://x.com/AvalaunchHQ/status/2019079758789726628)
-- Summary: @AvalaunchHQ 使用 Nullshot AI完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> Prompt:
->
-> Create 4-5 large blurred blobs (500px+ diameter) that visibly drift across the screen.
->
-> Each blob moves continuously in a circular or figure-8 path, completing a full cycle in 8-12 seconds (not 30s – that's too slow). Blobs should travel at least 200-300px from their center point so the motion is obvious.
->
-> Use bright blue gradients (#3b82f6, #60a5fa, #93c5fd) at 40-60% opacity with 100px blur. The overall effect should look like a slow-motion lava lamp or colored spotlights gently swimming behind the content.
->
-> Movement must be clearly visible, not subtle.
-
-### E5 · Claude 滚动叙事网站
-
-- Creator: @Oluwaphilemon1
-- Evidence: [GoodCase](https://goodcase.ai/cases/claude-426c39387ef4) · [finished media](https://video.twimg.com/amplify_video/2064368735561883648/vid/avc1/720x1280/MejVkIgEqBVZX4zG.mp4?tag=27) · [poster](https://pbs.twimg.com/amplify_video_thumb/2064368735561883648/img/7de6_UjzEYIJGLe1.jpg) · [original source](https://x.com/Oluwaphilemon1/status/2064368803006337114)
-- Summary: @Oluwaphilemon1 使用 Claude · Three.js · GSAP完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> How I built with Claude 👇
->
-> 1. Prompt: "Build a storytelling website where each scroll section reveals a new chapter with fluid color transitions"
->
-> 2. Use Three.js for the painted texture background that reacts to cursor
->
-> 3. Prompt: "Add GSAP ScrollTrigger so each section animates in as a cinematic scene"
->
-> 4. Use Lenis.js for that buttery smooth scroll that premium sites have
-
-### E6 · Claude 自动生成单页动效站
-
-- Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/claude-53a17a454214) · [finished media](https://video.twimg.com/ext_tw_video/2040894830901858304/pu/vid/avc1/720x1272/a_aUMCoAo2TC-1Io.mp4?tag=12) · [poster](https://pbs.twimg.com/ext_tw_video_thumb/2040894830901858304/pu/img/8CvDfSYjdpzFuUrl.jpg) · [original source](https://x.com/viktoroddy/status/2040894867153338643)
-- Summary: @viktoroddy 使用 Claude完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> Access ALL prompts for stunning animated websites in one click:
->
-> Prompt:
->
-> Build a single-page landing site using React + TypeScript + Vite + Tailwind CSS + framer-motion + lucide-react. The entire page has a bg-black background. The font loaded via Google Fonts is Instrument Serif (italic and regular). Import it in index.css:
->
-> @import url('');
-> LIQUID GLASS CSS (in index.css, inside @layer components)
-> Create a reusable .liquid-glass class used on every glass element:
->
-> .liquid-glass {
->  background: rgba(255, 255, 255, 0.01);
->  background-blend-mode: luminosity;
->  backdrop-filter: blur(4px);
->  -webkit-backdrop-filter: blur(4px);
->  border: none;
->  box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.1);
->  position: relative;
->  overflow: hidden;
-> }
->
-> .liquid-glass::before {
->  content: '';
->  position: absolute;
->  inset: 0;
->  border-radius: inherit;
->  padding: 1.4px;
->  background: linear-gradient(
->  180deg,
->  rgba(255, 255, 255, 0.45) 0%,
->  rgba(255, 255, 255, 0.15) 20%,
->  rgba(255, 255, 255, 0) 40%,
->  rgba(255, 255, 255, 0) 60%,
->  rgba(255, 255, 255, 0.15) 80%,
->  rgba(255, 255, 255, 0.45) 100%
->  );
->  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
->  -webkit-mask-composite: xor;
->  mask-composite: exclude;
->  pointer-events: none;
-> }
-> SECTION 1 -- HERO (full-viewport, in Index.tsx)
-> Full-screen (min-h-screen) container with overflow-hidden relative flex flex-col.
->
-> Background video: absolute, covers the entire viewport (absolute inset-0 w-full h-full object-cover object-bottom). URL:
->
->
-> Attributes: muted, autoPlay, playsInline, preload="auto". Starts at opacity: 0.
->
-> Video fade logic (…
-
-### E7 · Claude Code 动画素材库落地页
-
-- Creator: @Nil_phy_dreamer
-- Evidence: [GoodCase](https://goodcase.ai/cases/claude-code-70e93cdbc884) · [finished media](https://video.twimg.com/amplify_video/2038211672742277120/vid/avc1/3820x2160/wNQiJvT5Y7Pyb_7A.mp4?tag=21) · [poster](https://pbs.twimg.com/amplify_video_thumb/2038211672742277120/img/s4k_aY--9h-cOJK_.jpg) · [original source](https://x.com/Nil_phy_dreamer/status/2038213885451194583)
-- Summary: @Nil_phy_dreamer 使用 Claude Code · Sonnet 4.6完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> I am building an animated loader and icon library as my second project. This weekend I tried building a landing page for this. But I made an experiment to build it completely with claude code : Sonnet 4.6
->
-> I am quite happy what it has built at the very first shot.
->
-> Here is the exact prompt I have used
->
-> > I want you to create a landing page for this library.
-> 1.  hero section 2.  features with CTA buttons and any
-> section if u think can be important take all the components for example Heading.tsx paragraph.tsx from components folders
-> Use `max-w-5xl`,
-> Colours : white and black based (use neutral, stone  and white from tailwindcss
->
-> I want to use specifi pattern to use in the landing page to make it a thoughtfl design inspired by tailwindplus homepage
-> Here is the grid patter use it purposefully, with a good taste as a pro design engineer
-> <div class="relative grid min-h-screen grid-cols-[1fr_2.5rem_auto_2.5rem_1fr] grid-rows-[1fr_1px_auto_1px_1fr] bg-white [--pattern-fg:var(--color-gray-950)]/5 dark:bg-gray-950 dark:[--pattern-fg:var(--color-white)]/10">
-> <div class="col-start-3 row-start-3 flex max-w-lg flex-col bg-gray-100 p-2 dark:bg-white/10">
-> <div class="rounded-xl bg-white p-10 text-sm/7 text-gray-700 dark:bg-gray-950 dark:text-gray-300">
-> <img src="/img/logo.svg" class="mb-11.5 h-6 dark:hidden" alt="Tailwind Play" />
-> <img src="/img/logo-dark.svg" class="mb-11.5 h-6 not-dark:hidden" alt="Tailwind Play" />
-> <hr class="my-6 w-full border-(--pattern-fg)" />
-> <p class="mb-3">Want to dig deeper into Tailwind?</p>
-> <p class="font-semibold">
-> <a href="" class="text-gray-950 underline…
-
-### E8 · Claude Mythos：Lithos 地质品牌 Hero
-
-- Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/claude-mythos-lithos-hero-df0603661e88) · [finished media](https://video.twimg.com/amplify_video/2065417644782804992/vid/avc1/2924x2160/OAX73syzQa-_wlAg.mp4?tag=27) · [poster](https://pbs.twimg.com/amplify_video_thumb/2065417644782804992/img/XZjHj3QcKhMDc7gL.jpg) · [original source](https://x.com/viktoroddy/status/2065418614627602509)
-- Summary: @viktoroddy 使用 Claude Mythos完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> ❤️‍🔥Access ALL prompts for stunning animated websites in one click:
-> http://
->
->
-> Build a full-screen, dark-themed hero section for a geology brand called **Lithos**, using **React 18 + TypeScript + Vite + Tailwind CSS** and **lucide-react** for icons. The signature feature is a **cursor-following spotlight that reveals a second image** through a soft circular mask on top of a base image. Match every detail below exactly.
->
-> ### Fonts
-> Add this to the top of `src/index.css`, then `@tailwind base/components/utilities`:
 > ```css
-> @import url('');
-> * { font-family: 'Inter', sans-serif; }
-> .font-playfair { font-family: 'Playfair Display', serif; }
+> @font-face {
+>   font-family: "Inter";
+>   font-style: normal;
+>   font-weight: 100 900;
+>   font-display: swap;
+>   src: url("inter.woff2") format("woff2");
+> }
+> @font-face {
+>   font-family: "Instrument Serif";
+>   font-style: italic;
+>   font-weight: 400;
+>   font-display: swap;
+>   src: url("instrument-serif-italic.woff2") format("woff2");
+> }
 > ```
-> - Body/UI font: **Inter**.
-> - Display/wordmark accent: **Playfair Display, italic**.
 >
-> ### Asset URLs (use these exactly)
-> - Base image (`BG_IMAGE_1`):
->   ``
-> - Reveal image (`BG_IMAGE_2`):
->   ``
+> Stacks:
 >
-> ### Layout & structure
-> Root wrapper: `min-h-screen bg-white tracking-[-0.02em]`, inline `fontFamily: "'Inter', sans-serif"`.
+> - UI / logo / nav / buttons / badge / lede / stats: `"Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif`
+> - **Only** the H1 words `AI agents`: `"Instrument Serif", "Times New Roman", Times, serif`
 >
-> **Section** (`<section>`): `relative w-full overflow-hidden h-screen bg-black`, inline `style={{ height: '100dvh' }}`. Layers, by z-index:
-> 1. **Base image** (`z-10`): `absolute inset-0 bg-center bg-cover bg-no-repeat`, background = `BG_IMAGE_1`.
-> 2. **Reveal layer** (`z-30`): a `RevealLayer` component (see below) showing `BG_IMAGE_2`.
-> 3. **Heading** (`z-50`): `absolute top-[14%] left-0 right-0 flex flex-col items-center text-center px-5 pointer-events-none`. An `<h1>` with `text-white leading-[0.95]` containing two block spans:
->    - Line 1: `block font-playfair italic font-normal text-5xl sm:text-7xl md:text-8xl`, inline `letterSp…
+> If those files are missing, load this exact Google Fonts CSS (Inter variable roman + Instrument Serif italic only):
+>
+> ```
+> https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900&family=In…
+
+### E8 · AI Workflow Hero
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/ai-workflow-hero) · [finished media](https://media.goodcase.ai/cases/9e51fe5b57ba.webp) · [original source](https://motionsites.ai/?prompt=ai-workflow)
+- Summary: AI 工作流产品 hero，React 18 + Tailwind 3.4，明确不用动画库，图标清单点名到具体组件。
+- Prompt excerpt:
+
+> ### Stack
+>
+> - **Vite** + **React 18** + **TypeScript**
+> - **Tailwind CSS 3.4**
+> - **lucide-react** for icons (`LogIn`, `UserPlus`, `Play`, `Sparkles`, `Menu`, `X`)
+> - No Framer Motion -- all animations are CSS `transition-*` classes
+>
+> ---
+>
+> ### Fonts (loaded in `index.html`)
+>
+> ```html
+> <link rel="preconnect" href="https://fonts.googleapis.com" />
+> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+> <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+> <link href="https://db.onlinewebfonts.com/c/6e47ef470dd19698c911332a9b4d1cf4?family=Neue+Haas+Grotesk+Text+Pro" rel="stylesheet" />
+> <link href="https://db.onlinewebfonts.com/c/dec0d9b4e22ca588dc20e1e2e09a59b5?family=Neue+Haas+Grotesk+Display+Pro+55+Roman" rel="stylesheet" />
+> ```
+>
+> Body/root font stack (in `index.css`):
+>
+> ```css
+> html, body, #root {
+>   height: 100%;
+>   margin: 0;
+>   font-family: 'Neue Haas Grotesk Display Pro 55 Roman', 'Neue Haas Grotesk Text Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+>   -webkit-font-smoothing: antialiased;
+> }
+> ```
+>
+> ---
+>
+> ### Video URL (CloudFront)
+>
+> ```
+> https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260511_131941_d136af49-e243-493a-be14-6ff3f24e09e6.mp4
+> ```
+>
+> ---
+>
+> ### Color Palette
+>
+> | Token | Hex |
+> |-------|-----|
+> | Dark green (text, buttons) | `#1f2a1d` |
+> | Medium dark green | `#2d3a2a` |
+> | Button hover | `#2a3827` |
+> | Body text green | `#4b5b47` |
+> | Heading primary | `#336443` |
+> | Heading accent | `#85AB8B` |
+> | Bottom-left text | `#3d5638` |
+> | Bottom-left button bg | `#3d5638`, hover `#2d422…
 
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D 超市包装式创意机构官网 | @Oluwaphilemon1 | [GoodCase](https://goodcase.ai/cases/3d-8bbc2b408223) | [Media](https://video.twimg.com/amplify_video/2068957430533279746/vid/avc1/720x1280/OFQK-PG8bS8t3VlL.mp4?tag=28) | [Original](https://x.com/Oluwaphilemon1/status/2068957493561045032) | E1 |
-| 3D 发票打印机 SaaS 组件 | @uxsweta | [GoodCase](https://goodcase.ai/cases/3d-saas-2b0c021f6a2f) | [Media](https://video.twimg.com/amplify_video/2060939955183255552/vid/avc1/592x858/6sweCr6ovpUy2nei.mp4?tag=27) | [Original](https://x.com/uxsweta/status/2061334430103535727) | E2 |
-| 宠物食品电影感滚动网页 | @johannesasgeir | [GoodCase](https://goodcase.ai/cases/case-3a2858de4b42) | [Media](https://video.twimg.com/amplify_video/2076363350171160576/vid/avc1/1920x1080/ZN7c8EmPdjpOXkXk.mp4?tag=28) | [Original](https://x.com/johannesasgeir/status/2076363513803784208) | E3 |
-| 模糊色块动画落地页 | @AvalaunchHQ | [GoodCase](https://goodcase.ai/cases/case-760505450f97) | [Media](https://video.twimg.com/amplify_video/2019078894532313088/vid/avc1/1242x720/H0dFOuV-q3sD2N_o.mp4?tag=21) | [Original](https://x.com/AvalaunchHQ/status/2019079758789726628) | E4 |
-| Claude 滚动叙事网站 | @Oluwaphilemon1 | [GoodCase](https://goodcase.ai/cases/claude-426c39387ef4) | [Media](https://video.twimg.com/amplify_video/2064368735561883648/vid/avc1/720x1280/MejVkIgEqBVZX4zG.mp4?tag=27) | [Original](https://x.com/Oluwaphilemon1/status/2064368803006337114) | E5 |
-| Claude 自动生成单页动效站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-53a17a454214) | [Media](https://video.twimg.com/ext_tw_video/2040894830901858304/pu/vid/avc1/720x1272/a_aUMCoAo2TC-1Io.mp4?tag=12) | [Original](https://x.com/viktoroddy/status/2040894867153338643) | E6 |
-| Claude Code 动画素材库落地页 | @Nil_phy_dreamer | [GoodCase](https://goodcase.ai/cases/claude-code-70e93cdbc884) | [Media](https://video.twimg.com/amplify_video/2038211672742277120/vid/avc1/3820x2160/wNQiJvT5Y7Pyb_7A.mp4?tag=21) | [Original](https://x.com/Nil_phy_dreamer/status/2038213885451194583) | E7 |
-| Claude Mythos：Lithos 地质品牌 Hero | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-mythos-lithos-hero-df0603661e88) | [Media](https://video.twimg.com/amplify_video/2065417644782804992/vid/avc1/2924x2160/OAX73syzQa-_wlAg.mp4?tag=27) | [Original](https://x.com/viktoroddy/status/2065418614627602509) | E8 |
-| Claude + Nano Banana + Kling 动画网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-nano-banana-kling-37787d8ec68d) | [Media](https://video.twimg.com/amplify_video/2042188295376179200/vid/avc1/1526x1728/uT80dVqvhGdiDYq5.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2042188738818957631) | E— |
-| Codex 中国古寺 3D 交互网站 | @givros | [GoodCase](https://goodcase.ai/cases/codex-3d-f1dbeccd1203) | [Media](https://video.twimg.com/amplify_video/2079945700205350912/vid/avc1/1920x1000/Swf-8KTtH6S6_1WW.mp4?tag=29) | [Original](https://x.com/givros/status/2079946571622326363) | E— |
-| Fable 5 复刻 3D 云基础设施网站 | @ghosstty_ | [GoodCase](https://goodcase.ai/cases/fable-5-3d-a5e10adb776e) | [Media](https://video.twimg.com/amplify_video/2080385770708234240/vid/avc1/1600x1200/YZuuy95ZATAvsE42.mp4?tag=29) | [Original](https://x.com/ghosstty_/status/2080385837955502527) | E— |
-| Fable 与 Opus 同 Prompt 滚动页对比 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/fable-opus-prompt-12601c6e0cf5) | [Media](https://video.twimg.com/amplify_video/2072996449647050754/vid/avc1/1920x762/-VV1YDl19laV5__U.mp4?tag=28) | [Original](https://x.com/viktoroddy/status/2072997540451258848) | E— |
-| 电影感 FIFA 世界杯网站 | @ianiketnagapure | [GoodCase](https://goodcase.ai/cases/fifa-738958125a06) | [Media](https://video.twimg.com/amplify_video/2072378037199613952/vid/avc1/1910x908/xXur20x0CL7ZF9lu.mp4?tag=28) | [Original](https://x.com/ianiketnagapure/status/2072378105117941854) | E— |
-| Gemini 3.1 一次生成动效网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/gemini-3-1-65cd001c4cd3) | [Media](https://video.twimg.com/amplify_video/2026249412696297473/vid/avc1/1440x1080/R9hPUCWRnhz8ybRp.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2026249809506811965) | E— |
-| Gemini 模拟理论交互网站 | @chetaslua | [GoodCase](https://goodcase.ai/cases/gemini-54727989bd6e) | [Media](https://video.twimg.com/amplify_video/1978226475867295744/vid/avc1/1404x822/ZcEtm-qOm5kGL2Lx.mp4?tag=21) | [Original](https://x.com/chetaslua/status/1978226719225004290) | E— |
-| Grok Imagine + Grok Build：Veldara Hero | @viktoroddy | [GoodCase](https://goodcase.ai/cases/grok-imagine-grok-build-veldara-hero-d38c65fbe7af) | [Media](https://video.twimg.com/amplify_video/2067217720110968832/vid/avc1/3044x2160/BYpABSzBrZJU0OwV.mp4?tag=28) | [Original](https://x.com/viktoroddy/status/2067218410350797295) | E— |
-| GTA VI 风格电影感游戏官网 | @MercyDeGreat | [GoodCase](https://goodcase.ai/cases/gta-vi-8d2cc14562a2) | [Media](https://video.twimg.com/amplify_video/2072582894866886656/vid/avc1/1920x1080/qGKhKiPkZRbk6Ln_.mp4?tag=28) | [Original](https://x.com/MercyDeGreat/status/2072583919036232079) | E— |
-| 太空旅行全屏动画 Hero | @viktoroddy | [GoodCase](https://goodcase.ai/cases/hero-28fa1f798ac0) | [Media](https://video.twimg.com/amplify_video/2029971487202103297/vid/avc1/1686x1080/zNWX4UD1yqghfhq3.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2029971732443058437) | E— |
-| HeroUI 电影导演作品集 | @EHuanglu | [GoodCase](https://goodcase.ai/cases/heroui-4d865532ebbb) | [Media](https://video.twimg.com/amplify_video/1927257687470821376/vid/avc1/1280x720/fvf9Cf4SOT_btfjn.mp4?tag=14) | [Original](https://x.com/EHuanglu/status/1927257751480045778) | E— |
-| Hunyuan 加密产品 3D 落地页 | @tussiwe | [GoodCase](https://goodcase.ai/cases/hunyuan-3d-6ca94cd5b80d) | [Media](https://video.twimg.com/amplify_video/2075608807628263424/vid/avc1/1142x720/rL9AlkOlS3tQ2cJ8.mp4?tag=14) | [Original](https://x.com/tussiwe/status/2075608862875623931) | E— |
+| 3D 超市包装式创意机构官网 | @Oluwaphilemon1 | [GoodCase](https://goodcase.ai/cases/3d-8bbc2b408223) | [Media](https://media.goodcase.ai/media/video/3d-8bbc2b408223.mp4) | [Original](https://x.com/Oluwaphilemon1/status/2068957493561045032) | E1 |
+| 3D Animated Pin | Aceternity UI | [GoodCase](https://goodcase.ai/cases/3d-animated-pin) | [Media](https://media.goodcase.ai/cases/0b778c9ee5bc.mp4) | [Original](https://ui.aceternity.com/components/3d-pin) | E2 |
+| 3D Globe | Aceternity UI | [GoodCase](https://goodcase.ai/cases/3d-globe) | [Media](https://media.goodcase.ai/cases/c98bbb728b7b.webp) | [Original](https://ui.aceternity.com/components/3d-globe) | E3 |
+| 3D Jack Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/3d-jack-portfolio) | [Media](https://media.goodcase.ai/cases/49f8aeaa5fab.mp4) | [Original](https://motionsites.ai/?prompt=3d-jack-portfolio-hero) | E4 |
+| 3D Marquee | Aceternity UI | [GoodCase](https://goodcase.ai/cases/3d-marquee) | [Media](https://media.goodcase.ai/cases/725a48f190ff.webp) | [Original](https://ui.aceternity.com/components/3d-marquee) | E5 |
+| 3D 发票打印机 SaaS 组件 | @uxsweta | [GoodCase](https://goodcase.ai/cases/3d-saas-2b0c021f6a2f) | [Media](https://media.goodcase.ai/media/video/3d-saas-2b0c021f6a2f.mp4) | [Original](https://x.com/uxsweta/status/2061334430103535727) | E6 |
+| Agent Wave | MotionSites | [GoodCase](https://goodcase.ai/cases/agent-wave) | [Media](https://media.goodcase.ai/cases/ae8afbd1c466.mp4) | [Original](https://motionsites.ai/?prompt=agent-wave) | E7 |
+| AI Workflow Hero | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-workflow-hero) | [Media](https://media.goodcase.ai/cases/9e51fe5b57ba.webp) | [Original](https://motionsites.ai/?prompt=ai-workflow) | E8 |
+| Animated Cards | MotionSites | [GoodCase](https://goodcase.ai/cases/animated-cards) | [Media](https://media.goodcase.ai/cases/9cacdc3c42fa.webp) | [Original](https://motionsites.ai/?prompt=animated-cards) | E— |
+| Animated Modal | Aceternity UI | [GoodCase](https://goodcase.ai/cases/animated-modal) | [Media](https://media.goodcase.ai/cases/89e7955c1676.webp) | [Original](https://ui.aceternity.com/components/animated-modal) | E— |
+| Animated Tabs | Aceternity UI | [GoodCase](https://goodcase.ai/cases/animated-tabs) | [Media](https://media.goodcase.ai/cases/ee1949cbe51d.mp4) | [Original](https://ui.aceternity.com/components/tabs) | E— |
+| Animated Testimonials | Aceternity UI | [GoodCase](https://goodcase.ai/cases/animated-testimonials) | [Media](https://media.goodcase.ai/cases/92c8376dba8b.webp) | [Original](https://ui.aceternity.com/components/animated-testimonials) | E— |
+| Animated Tooltip | Aceternity UI | [GoodCase](https://goodcase.ai/cases/animated-tooltip) | [Media](https://media.goodcase.ai/cases/b577a1f54d3a.mov) | [Original](https://ui.aceternity.com/components/animated-tooltip) | E— |
+| AntiGravity + Gemini 3.1 落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/antigravity-gemini-3-1-5e49aad75b25) | [Media](https://media.goodcase.ai/media/video/antigravity-gemini-3-1-5e49aad75b25.mp4) | [Original](https://x.com/viktoroddy/status/2024832167164133766) | E— |
+| Apple Cards Carousel | Aceternity UI | [GoodCase](https://goodcase.ai/cases/apple-cards-carousel) | [Media](https://media.goodcase.ai/cases/1a0c96a64741.webp) | [Original](https://ui.aceternity.com/components/apple-cards-carousel) | E— |
+| ASCII Art | Aceternity UI | [GoodCase](https://goodcase.ai/cases/ascii-art) | [Media](https://media.goodcase.ai/cases/cc7e5f4e02f0.webp) | [Original](https://ui.aceternity.com/components/ascii-art) | E— |
+| Aurora Background | Aceternity UI | [GoodCase](https://goodcase.ai/cases/aurora-background) | [Media](https://media.goodcase.ai/cases/f5af773675b0.webp) | [Original](https://ui.aceternity.com/components/aurora-background) | E— |
+| Aurora Onboard | MotionSites | [GoodCase](https://goodcase.ai/cases/aurora-onboard) | [Media](https://media.goodcase.ai/cases/2f00c494a458.png) | [Original](https://motionsites.ai/?prompt=aurora-onboard) | E— |
+| Background Beams | Aceternity UI | [GoodCase](https://goodcase.ai/cases/background-beams) | [Media](https://media.goodcase.ai/cases/6282a2b80eb8.mov) | [Original](https://ui.aceternity.com/components/background-beams) | E— |
+| Background Beams With Collision | Aceternity UI | [GoodCase](https://goodcase.ai/cases/background-beams-with-collision) | [Media](https://media.goodcase.ai/cases/4ad007e64c9e.webp) | [Original](https://ui.aceternity.com/components/background-beams-with-collision) | E— |
 
 ## Derivation boundary
 

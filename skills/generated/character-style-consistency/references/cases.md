@@ -8,8 +8,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E1 · 3D CG 东方奇幻少女肖像
 
-- Creator: 李岳
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) · [finished media](https://cms-assets.youmind.com/media/1785143493732_xu4dij_HOKmtpTaYAAP1_0.jpg) · [original source](https://x.com/i/status/2081409414918262965)
+- Creator: @liyue_ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) · [finished media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) · [original source](https://x.com/liyue_ai/status/2081409414918262965)
 - Summary: 一张精细的 3D CG 渲染图，描绘了一位拥有薄荷绿长发的东方奇幻少女，采用高质量 PBR 材质，背景为梦幻花园。
 - Prompt excerpt:
 
@@ -33,25 +33,117 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic soft lighting, PBR materials, subsurface scattering skin…
 
-### E2 · 华丽动漫风方块 8 扑克牌
+### E2 · 3D Character Name Sculpture
 
-- Creator: のぞむ＊AIイラスト
-- Evidence: [GoodCase](https://goodcase.ai/cases/8-ee1aa34a4dfb) · [finished media](https://cms-assets.youmind.com/media/1784882740763_792lpg_HN1SWpsbkAAtS50.jpg) · [original source](https://x.com/i/status/2080158464920388021)
-- Summary: 生成一张奢华的动漫幻想风格扑克牌，主角为优雅的哥特萝莉少女，配以华丽的金色花丝、红宝石装饰及赌场主题细节。
+- Creator: @varts_works
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-character-name-sculpture) · [finished media](https://media.goodcase.ai/media/image/3d-character-name-sculpture.jpg) · [original source](https://x.com/varts_works/status/2085326754806378753)
+- Summary: A specialized prompt that creates a large 3D text object based on a character's design, incorporating the character into the scene.
 - Prompt excerpt:
 
-> Goal: Create an ornate vertical fantasy playing card illustration for the {argument name="card rank and suit" default="8 of diamonds"}, featuring a glamorous anime girl as the central character.
+> 添付した画像を最重要リファレンスとして使用してください。
 >
-> Canvas: Tall portrait playing-card format with rounded cream corners, a thin dark outer stroke, and an elaborate antique gold filigree border. Use a symmetrical card composition with the rank and suit repeated in exactly 2 corners: top-left shows a large red “8” above a red diamond pip, and bottom-right shows a large red diamond pip above a red “8”.
+> アップロードしたキャラクター本人が主役です。
+> 顔・髪型・髪色・瞳・衣装・体型・アクセサリー・画風・年齢感を維持してください。
 >
-> Central subject: A beautiful young anime woman seated diagonally in a luxurious pose, one knee raised in the foreground and one hand resting near her lips. She has {argument name="hair color" default="long ash-brown hair with soft waves"}, warm brown eyes, delicate facial features, glossy skin highlights, and a calm slightly wistful expression. Her hair flows across the card and is decorated with a large deep-red patterned bow, jeweled hair ornaments, and small gold accents.
+> {argument name="名前" default="⭐️"}を巨大な立体オブジェとして制作してください。
 >
-> Outfit and accessories: Dress her in a highly detailed gothic-lolita casino-inspired gown using {argument name="main color palette" default="black, burgundy red, antique gold, cream, and jewel ruby"}. The outfit includes exactly 6 prominent outfit/accessory groups: 1 black-and-gold embroidered corset bodice with red heart jewel accents, 1 layered burgundy-and-black ruffled skirt, 2 translucent lace puff sleeves, 1 ornate choker and necklace cluster, 1 pair of dangling diamond-shaped earrings, and 1 decorative thigh garter with gold chains and rose charms. Add many…
+> ━━━━━━━━━━━━━━━━━━
+> 【文字デザイン】
+> ━━━━━━━━━━━━━━━━━━
+>
+> ・名前全体をひとつの巨大な立体オブジェにする
+> ・フォントはキャラクターの雰囲気に合わせてデザインする
+> ・可愛い・おしゃれ・高級感のある立体造形
+> ・厚みがあり存在感のある3D文字
+> ・ツヤ・ガラス・マット・メタル・キャンディ・クリスタル・ぬいぐるみ・雲・花など、キャラクターに最適な素材を自動選択
+> ・色もキャラクターに合わせて自動決定
+> ・名前が読みやすいこと
+>
+> ━━━━━━━━━━━━━━━━━━
+> 【キャラクター】
+> ━━━━━━━━━━━━━━━━━━
+>
+> キャラクターは文字オブジェの上で自然にポーズを取ってください。
+>
+> ランダムで以下のような可愛いポーズを選択してください。
+>
+> ・寝転ぶ
+> ・座る
+> ・足をぶらぶらさせる
+> ・寝そべる
+> ・ジャンプする
+> ・立つ
+> ・文字に寄りかかる
+> ・ハートを作る
+> ・手を振る
+> ・笑顔でこちらを見る
+>
+> 文字の大きさとキャラクターのサイズ感を自然に合わせる。
+>
+> ━━━━━━━━━━━━━━━━━━
+> 【背景】
+> ━━━━━━━━━━━━━━━━━━
+>
+> 背景もキャラクターの世界観に合わせて自動生成してください。
+>
+> 例
+>
+> ・パステル
+> ・ファンタジー
+> 造形
+> ・宇宙
+> ・花畑
+> ・ネオン
+> ・星空
+> ・ゴシック
+> ・お菓子の国
+> ・氷の世界
+> ・和風
+> ・森
+> ・水中
+> ・雲の上
+>
+> 背景色・光・エフェクト・装飾・小物・空気感もキャラクターに合わせて統一してください。
+>
+> ━━━━━━━━━━━━━━━━━━
+> 【画角】
+> ━━━━━━━━━━━━━━━━━━
+>
+> ・横長（4:3）
+> ・全身が入る
+> ・名前全体が切れない
+> ・キャラクターも文字も中央
+> ・SNSアイコンやプロフィール画像にも使える完成度
+>
+> ━━━━━━━━━━━━━━━━━━
+> 【画質】
+> ━━━━━━━━━━━━━━━━━━
+>
+> 超高品質
+> 超高精細
+> 可愛い
+> SNS映え
+> 美しいライティング
+> 映画レベルのライティング
+> シャープ
+> 鮮やか
+> 細部まで描き込み
+> プロ仕様
+> 文字なし（名前オブジェ以外）
 
-### E3 · 通用 AI 角色设定图生成器
+### E3 · 混合 3D 矢量插画风格
 
-- Creator: AIライフハック
-- Evidence: [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) · [finished media](https://cms-assets.youmind.com/media/1785143482801_328zy8_HONDfUwb0AADUCZ.jpg) · [original source](https://x.com/i/status/2081581961081246064)
+- Creator: @HustleXR
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-de7f41148805) · [finished media](https://media.goodcase.ai/cases/64b6032d791a.jpg) · [original source](https://x.com/HustleXR/status/2091492763397411268)
+- Summary: 一种独特的风格化提示词，将光泽感 3D 渲染与扁平矢量简洁性相结合，适用于艺术肖像，呈现出鲜艳的色彩和流畅的有机元素。
+- Prompt excerpt:
+
+> A sophisticated {argument name="subject" default="hybrid human portrait style"} that seamlessly combines the whimsical, glossy dimensional rendering of a premium 3D fantasy illustration with the clean, elegant simplicity of contemporary flat vector portraiture. Depict the human subject with recognizable anatomy, natural facial proportions, authentic expression, and clearly identifiable features, while transforming the overall appearance into a refined stylized illustration. The face should combine smooth dimensional modeling with simplified graphic planes: softly sculpted skin, subtle volumetric shading, delicate highlights, clean angular shapes, and carefully controlled flat-color regions. Use the visual language of premium digital character illustration: luminous expressive eyes, softly rendered skin, smooth flowing hair with layered strands, polished highlights, gentle depth, tactile surfaces, and subtle painterly transitions. At the same time, simplify the rendering with elegant vector-like shapes, clean silhouettes, controlled linework, minimal visual noise, and clearly defined color planes inspired by modern editorial portrait illustration. Integrate {argument name="artistic elements" default="flowing artistic elements around the human figure, such as fluid paint splashes, soft liquid ribbons, abstract organic shapes"}. These elements should feel energetic and three-dimensional, organically emerging from the portrait rather than appearing as a separate background decoration. Hair should combine clean graphic masses with silky dimensional strands and sweeping flowing s…
+
+### E4 · 通用 AI 角色设定图生成器
+
+- Creator: @ai_lifehack55
+- Evidence: [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) · [finished media](https://media.goodcase.ai/media/image/ai-5054adb51999.jpg) · [original source](https://x.com/ai_lifehack55/status/2081581961081246064)
 - Summary: 一套全面的系统提示词，旨在创建高质量、一致性强的角色设定图，包含多角度视图、面部细节及建筑环境参考。
 - Prompt excerpt:
 
@@ -103,83 +195,71 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 【06 BUILDING REFERENCE】
 > 06領域全体を、建物正面、入口、屋外広場の構造を一つの構図で確認できる、広角の外観画像1点として使用する。服装タイプと配色方向は06へ反映しない。人物の衣装色、04のテーマカラー、シート全体の差し色からも影響を受けない、中立的な建物参照とする。明るい昼の均一な自然光のもと、広い屋外広場から見た、清潔で現代的な建物正面と自動ガラス入口を描く。夜景、夕景、暖色照明、ライトアップ、強い色調演出、ホテル、レストラン、オフィスなど特定用途を強く連想させる演出は加えない。06内部も分割せず、単一画面・単一視点の1枚として構成する。コラージュ、複数ビュー、上下分割、別角度の併記を行わない。一つの連続した外壁、一つの地上階、一つの連続した地面、一つの建物…
 
-### E4 · 奇幻螃蟹 Boss 战 UI
+### E5 · 充满奇趣的动漫生活肖像与涂鸦阴影
 
-- Creator: まろちん
-- Evidence: [GoodCase](https://goodcase.ai/cases/boss-ui-5d60b20d77a4) · [finished media](https://cms-assets.youmind.com/media/1784882741764_38xgkx_HN67aJbbgAE26MV.jpg) · [original source](https://x.com/i/status/2080306424153010492)
-- Summary: 生成一张电影级的 JRPG 战斗画面，展示三名英雄与巨型螃蟹 Boss 的对决，并包含完整的奇幻游戏 UI 覆盖层。
-- Prompt excerpt:
-
-> Goal: Create a dramatic fantasy JRPG / social-mobile-game boss battle screenshot featuring a party fighting a gigantic crab monster casting a beam attack.
->
-> Canvas: Wide 16:9 cinematic game battle screen, high-detail anime-realistic fantasy art, dark blue night palette with vivid cyan magic, orange sparks, explosions, rubble, and strong bloom lighting.
->
-> Scene: A ruined rocky battlefield under a stormy night sky, with broken stone pillars and burning ruins in the background. Floating debris, embers, lightning-like magical energy, and smoke fill the air. The camera is low and slightly behind the heroes, looking toward the enormous boss.
->
-> Boss: A colossal armored crab enemy dominates the upper-right and center of the scene. It has exactly 2 huge raised claws, multiple segmented legs, a hard blue-brown shell, glowing highlights, and an intimidating face. The boss is firing a brilliant cyan-white magical beam from a glowing orb between its claws down toward the heroes, creating a massive impact flare at the center.
->
-> Heroes: Show exactly 3 playable characters in the foreground, all facing the crab boss. 1) KAITO, a dark-haired male swordsman in armor, center-left, bracing with a glowing sword against the beam. 2) RINA, a long dark-haired female mage or support fighter, center-right, holding a staff or wand with green-blue magic. 3) YUNA, a blonde female mage in a flowing blue robe, far left, holding a staff and casting a protective blue barrier around the party. Make the party look strong and heroic, like a premium gacha RPG battle scene.
->
-> User interface: Add a polished fantasy RP…
-
-### E5 · 漫画墙绘前的偶像少女
-
-- Creator: YUI
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-00e70f22ce71) · [finished media](https://cms-assets.youmind.com/media/1785143503721_i9inp6_HOKMdxrb0AAB4JI.jpg) · [original source](https://x.com/i/status/2081380708338295083)
-- Summary: 生成一张可爱的影棚时尚人像，身着白裙的偶像站在一幅俏皮的漫画风格墙绘旁摆姿势。
-- Prompt excerpt:
-
-> Create a vertical full-body fashion portrait in a bright minimalist studio: a petite young Japanese woman named {argument name="character name" default="Yui"} poses playfully in front of a plain off-white wall, wearing a white lace idol-princess mini dress with a flared skirt, floral appliqué shoulder straps, lace hem, sheer veil, delicate white floral tiara, pearl bracelet, drop earrings, and white platform Mary Jane high heels. She stands on a light wooden floor with one leg crossed forward, hips angled, elbows bent and wrists curled like cute cat paws, looking sideways to her left with a soft shy expression. Behind her on the wall is one large black ink manga-style line drawing of a chibi magical-girl version of the same girl, much larger than the real person, wearing a matching frilly dress, veil, tiara, and high heels, with long flowing hair, one leg kicked up, one fist raised, eyes squeezed shut, and mouth open in an energetic happy shout. Add exactly 10 small surrounding doodle elements around the manga drawing: 4 hearts, 2 puffy cloud marks, 2 sparkle stars, and 2 lightning/action marks. Use soft natural sunlight from the right, including a strong diagonal beam of light across the wall and floor, gentle shadows, realistic photography for the woman, crisp hand-drawn black sketch lines for the wall art, cute Japanese idol aesthetic, high detail, clean composition, no extra props, no extra people, and no added text except a tiny subtle watermark reading {argument name="watermark text" default="@yui_ai_model"} near the lower left wall.
-
-### E6 · 充满奇趣的动漫生活肖像与涂鸦阴影
-
-- Creator: Taaruk
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://cms-assets.youmind.com/media/1784882689510_jja3an_HN5Yxd9bwAA2W7s.jpg) · [original source](https://x.com/i/status/2080197768178720865)
+- Creator: @Taaruk_
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) · [original source](https://x.com/Taaruk_/status/2080197768178720865)
 - Summary: 一个充满创意的动漫生活片段提示词：在黄金时刻的阳光下，女孩和猫咪的影子幻化为俏皮的手绘漫画涂鸦。
 - Prompt excerpt:
 
 > Wholesome anime-inspired lifestyle portrait of a {argument name="character" default="cute young woman with a short pastel-pink bob haircut"}, wearing an oversized vintage red plaid flannel shirt, baggy blue jeans, and classic canvas sneakers, interacting with a {argument name="pet" default="fluffy gray-and-white British Shorthair cat wearing a tiny plaid bandana"}. They are bathed in warm golden-hour sunlight against a clean beige wall, creating long, soft shadows. The magical twist: their shadows transform into playful hand-drawn manga doodles—the girl's shadow becomes an adorable chibi anime version of herself striking a joyful pose, while the cat's shadow becomes a funny cartoon cat waving, dancing, or reaching toward her. Pencil-sketch style with expressive line art, motion marks, hearts, stars, butterflies, and playful doodles integrated naturally into the shadows. Cozy slice-of-life aesthetic, {argument name="style" default="Studio Ghibli × modern manga illustration"}, minimalist background, soft cinematic lighting, authentic candid emotion, ultra-detailed fur, natural skin tones, dreamy atmosphere, whimsical storytelling, premium editorial photography, 50mm lens, shallow depth of field, Kodak Portra 400 colors, ultra-photorealistic, 8K, masterpiece.
 
+### E6 · 三格人物设定参考图标准化模板
+
+- Creator: @johnAGI168
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-265600f07f14) · [finished media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) · [original source](https://x.com/johnAGI168/status/2077766771025530962)
+- Summary: 角色设定参考图案例，将同一粉紫卷发女性拆成正面全身（无头）、背面全身、齐胸大特写三格标准化模板。三格统一18%中灰无缝背景与无阴影正面光，用于锁定角色发型、服装与五官细节。
+- Prompt excerpt:
+
+> 一张三格人物设定参考图，构图为一个横向画面，等分为三个并排的竖直分格 (three-panel character reference sheet)，格与格之间是干净纤细的分隔线，同一位人物、同一套造型在三格中完全一致地呈现。
+> 一位青年女性，纤细匀称身形，甜美清纯气质。粉紫色（灰调玫瑰粉紫）长卷发，齐刘海，大波浪卷发长及腰际，发丝柔顺有光泽，左侧头发处一枚黑色缎面蝴蝶结发夹点缀珍珠串。柔和圆润脸型，饱满脸颊，纤细下颌线；杏眼，深棕色瞳孔，眼神清澈温柔；柔和弯眉，小巧鼻梁，饱满花瓣唇。皮肤白皙透亮水润，脸颊淡淡粉色腮红，妆感自然，裸粉润唇。耳部一对小巧珍珠耳饰，颈部一条纤细银链吊坠。（此段身份描述适用于全部三格）
+> 身穿一件黑色天鹅绒吊带短裙，V 字领口缀白色蕾丝花边，细肩带，收身剪裁贴合纤细曲线，裙摆落在大腿中段；下身黑色半透明丝袜，脚踩黑色高跟鞋。（此段造型描述适用于全部三格）
+> 左格 —— 正面全身，无头。人物身体正对镜头，从肩部以下直到鞋子，双臂自然垂放身侧，双手放松张开，重心均匀落在双脚。没有头部、没有头发——没有任何东西高出肩线，胸前与肩上没有头发垂落。颈部从肩膀向上短短升起，在喉咙根部以一条干净、平整、边缘清晰的水平切口收束，如同无头人台模特——利落的雕塑感切边，边缘清晰可见，不模糊、不虚化、不消散、无烟雾、无残影、无透明、无血迹、无解剖细节。切口之上只有空白的中灰背景。此格保留完整头顶空间——肩线上方留有充足的空白，使人物在画面中的比例与位置与正常全身像一致。
+> 中格 —— 背面全身，带头。同一人物从正后方拍摄，站姿笔直，粉紫色长卷发从背后自然垂落及腰，黑色天鹅绒吊带裙的裙背构造、细肩带交叉、裙摆清晰可见，双臂自然垂放身侧，双手放松，重心均匀落在双脚，从头顶到黑色高跟鞋完整入镜，黑色丝袜包裹修长双腿。
+> 右格 —— 齐胸大特写，身份锁定。同一人物从头顶略上方到锁骨、仅露出裙子最上缘的紧凑构图，脸部占据画面大部分，真正的近景特写。身体正对镜头，头部平视，双眼直视镜头，双唇闭合放松，中性克制的温柔神情，极浅的闭唇微笑。粉紫齐刘海、柔和弯眉、纤长睫毛、饱满花瓣唇的唇部质感、黑蝴蝶结珍珠发夹、银链吊坠，在近距离下全部清晰可辨。
+> 三格统一背景：平坦均匀的 18% 中灰无缝背景，单一色值，无渐变无衰减 (flat 18% gray seamless)。无方向无阴影的正面照明，四周补光均匀一致，无主光侧、无阴影侧、无轮廓光、无发光、无边缘光 (shadowless frontal illumination)，背景无任何投影，脚下无接触阴影 (zero cast shadow)，三格光照完全一致。
+> 真实照片级质感 (photorealistic)，皮肤可见细腻均匀毛孔与次表面散射 (subsurface scattering)，发丝根根分明 (strand-level hair)，天鹅绒、蕾丝、丝袜织物纹理清晰 (fabric weave)，轻微胶片颗粒 (theatrical grain)。真实人类，真实相机拍摄，绝非塑料感、绝非渲染、绝非 CGI、无 AI 磨皮、无过度平滑。
+
 ### E7 · 奇幻涂鸦艺术自拍
 
-- Creator: Taaruk
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) · [finished media](https://cms-assets.youmind.com/media/1784882693418_gqoepn_HN64wMuagAA_fDi.jpg) · [original source](https://x.com/i/status/2080303309739675712)
+- Creator: @Taaruk_
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) · [finished media](https://media.goodcase.ai/media/image/case-346fdb4f9c0f.jpg) · [original source](https://x.com/Taaruk_/status/2080303309739675712)
 - Summary: 一个将写实低角度自拍与趣味手绘涂鸦艺术及吉卜力工作室美学相结合的创意提示词。
 - Prompt excerpt:
 
 > Dreamy low-angle selfie portrait of a young woman with long flowing {argument name="hair color" default="chestnut-brown"} hair and soft wispy bangs, wearing a cozy oversized {argument name="sweater color" default="cream"} knit sweater, looking gently into the camera with a calm expression. Captured outdoors beneath a deep {argument name="sky color" default="cobalt-blue"} sky filled with dramatic fluffy cumulus clouds. The scene blends photorealism with whimsical hand-drawn doodle art: the clouds are transformed into playful cartoon illustrations with smiling sun, cute stars, fluffy outlined clouds, tiny hearts, sparkles, and colorful manga-style doodles seamlessly integrated into the sky. Bright natural daylight, soft breeze moving the hair, vibrant yet pastel color palette, joyful and nostalgic aesthetic, Studio Ghibli × modern kawaii illustration, watercolor marker textures mixed with clean black ink outlines, minimal composition, cozy slice-of-life mood, ultra-detailed face, natural lighting, premium editorial illustration, highly detailed, whimsical storytelling, 8K, masterpiece.
 
-### E8 · 现实与漫画壁画的融合
+### E8 · 奇幻动物水岸插画
 
-- Creator: Arina Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-490a5435c063) · [finished media](https://cms-assets.youmind.com/media/1785143491704_5nnp1e_HOHVu7faQAArGhD.jpg) · [original source](https://x.com/i/status/2081179727734456415)
-- Summary: 一个创意提示词，旨在生成一个现实人物与漫画风格壁画中的自己互动的场景，并将一只宠物猫融入两个世界。
+- Creator: @churvikv
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-44ce700abede) · [finished media](https://media.goodcase.ai/media/image/case-44ce700abede.jpg) · [original source](https://x.com/churvikv/status/2090182449149977021)
+- Summary: 两组用于生成可爱动物（熊和猫）在星空下水边休憩的奇幻提示词，采用柔和的动漫或卡通风格。
 - Prompt excerpt:
 
-> Use the attached face reference image as the ONLY facial identity source. Preserve the exact face, facial proportions, eye shape, nose, lips, jawline, skin tone, hairstyle, and overall identity with extremely high accuracy. Do not change the person's identity. Only replace the face with the referenced face while keeping the pose, clothing, composition, and environment exactly as described. Create an ultra-realistic full-body portrait of the {argument name="subject identity" default="subject crouching on the floor beside a gray-and-white cat wearing a small checkered bandana"}. The subject smiles gently while looking at the cat with a warm, affectionate expression. Behind them is a warm cream-colored wall illuminated by soft golden window light. On the wall, create a large hand-drawn manga illustration of the same girl leaning forward and gently touching the cat's paw with one finger. The manga cat should mirror the real cat, standing on its hind legs while reaching out with one paw. The illustration should seamlessly blend into the wall, creating a magical interaction between reality and manga art. The subject wears {argument name="clothing" default="an oversized charcoal-gray zip hoodie over a white T-shirt, loose blue jeans, and beige-and-black casual sneakers"}. The {argument name="manga style" default="manga drawing features elegant black ink line art, pencil sketch textures, expressive anime eyes, soft cross-hatching, flowing hair, realistic proportions, and detailed shading"}. Soft golden-hour sunlight streaming through a window, realistic shadows, cinematic indoor ph…
+> A cute white bear sits alone on the edge of a waterfront at night, gazing across the shimmering water toward a brightly lit modern city skyline with a prominent tower. The sky is filled with stars and wispy clouds, creating a dreamy, serene atmosphere in a soft, anime-inspired art style. A cute white cartoon cat with big blue eyes sits on a wooden dock by a calm lake at twilight, holding a glowing lantern that reflects on the water. The background features lush green trees, lily pads, and a serene sky filled with stars and wispy clouds, creating a peaceful and enchanting mood in a soft, whimsical art style.
 
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D CG 东方奇幻少女肖像 | 李岳 | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://cms-assets.youmind.com/media/1785143493732_xu4dij_HOKmtpTaYAAP1_0.jpg) | [Original](https://x.com/i/status/2081409414918262965) | E1 |
-| 华丽动漫风方块 8 扑克牌 | のぞむ＊AIイラスト | [GoodCase](https://goodcase.ai/cases/8-ee1aa34a4dfb) | [Media](https://cms-assets.youmind.com/media/1784882740763_792lpg_HN1SWpsbkAAtS50.jpg) | [Original](https://x.com/i/status/2080158464920388021) | E2 |
-| 通用 AI 角色设定图生成器 | AIライフハック | [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) | [Media](https://cms-assets.youmind.com/media/1785143482801_328zy8_HONDfUwb0AADUCZ.jpg) | [Original](https://x.com/i/status/2081581961081246064) | E3 |
-| 奇幻螃蟹 Boss 战 UI | まろちん | [GoodCase](https://goodcase.ai/cases/boss-ui-5d60b20d77a4) | [Media](https://cms-assets.youmind.com/media/1784882741764_38xgkx_HN67aJbbgAE26MV.jpg) | [Original](https://x.com/i/status/2080306424153010492) | E4 |
-| 漫画墙绘前的偶像少女 | YUI | [GoodCase](https://goodcase.ai/cases/case-00e70f22ce71) | [Media](https://cms-assets.youmind.com/media/1785143503721_i9inp6_HOKMdxrb0AAB4JI.jpg) | [Original](https://x.com/i/status/2081380708338295083) | E5 |
-| 充满奇趣的动漫生活肖像与涂鸦阴影 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://cms-assets.youmind.com/media/1784882689510_jja3an_HN5Yxd9bwAA2W7s.jpg) | [Original](https://x.com/i/status/2080197768178720865) | E6 |
-| 奇幻涂鸦艺术自拍 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) | [Media](https://cms-assets.youmind.com/media/1784882693418_gqoepn_HN64wMuagAA_fDi.jpg) | [Original](https://x.com/i/status/2080303309739675712) | E7 |
-| 现实与漫画壁画的融合 | Arina Ai | [GoodCase](https://goodcase.ai/cases/case-490a5435c063) | [Media](https://cms-assets.youmind.com/media/1785143491704_5nnp1e_HOHVu7faQAArGhD.jpg) | [Original](https://x.com/i/status/2081179727734456415) | E8 |
-| 月下古筝演奏者漫画 | 🐹🐹 | [GoodCase](https://goodcase.ai/cases/case-5866b8e9bd64) | [Media](https://cms-assets.youmind.com/media/1784796592401_8lyr74_HN14j0MboAABGZ8.jpg) | [Original](https://x.com/i/status/2079951164611907719) | E— |
-| 社论漫画重绘 | Elaina | [GoodCase](https://goodcase.ai/cases/case-7532fa4832f5) | [Media](https://cms-assets.youmind.com/media/1785143526382_6rebps_HOHqeaVacAAVwfw.jpg) | [Original](https://x.com/i/status/2081202322911433189) | E— |
-| 暗黑学院风动漫法律专员 | tane@AI | [GoodCase](https://goodcase.ai/cases/case-790004697caa) | [Media](https://cms-assets.youmind.com/media/1785143507928_2rr2tr_HOMJvowa4AA3Lbe.jpg) | [Original](https://x.com/i/status/2081518177100709973) | E— |
-| 复古双色调编辑插画 | zayan | [GoodCase](https://goodcase.ai/cases/case-7e29a0c188a4) | [Media](https://cms-assets.youmind.com/media/1784877063061_4wjd0y_HN5I9OpXYAAKaFH.jpg) | [Original](https://x.com/i/status/2080180351885017314) | E— |
-| 动漫角色设定图生成器 | AIライフハック | [GoodCase](https://goodcase.ai/cases/case-805ea1d189ef) | [Media](https://cms-assets.youmind.com/media/1784882717384_fc5vp2_HN9m9mfakAEWB4M.jpg) | [Original](https://x.com/i/status/2080494791826268265) | E— |
-| 女性机械浪人角色艺术 | 路飞 🏴‍☠️ AI 研究员🧐 | [GoodCase](https://goodcase.ai/cases/case-af1144a7856f) | [Media](https://cms-assets.youmind.com/media/1785143529504_otf71t_HOHVPo7a4AAdsWi.jpg) | [Original](https://x.com/i/status/2081178980045193476) | E— |
-| 绣球花动漫收藏礼盒 | のぞむ＊AIイラスト | [GoodCase](https://goodcase.ai/cases/case-bfec1b6a724f) | [Media](https://cms-assets.youmind.com/media/1785143518487_6phhzm_HOHcJdcaEAAZW1S.jpg) | [Original](https://x.com/i/status/2081577817503088776) | E— |
-| 动漫风夏季系带针织套装 | のぞむ＊AIイラスト | [GoodCase](https://goodcase.ai/cases/case-c7d91167084f) | [Media](https://cms-assets.youmind.com/media/1785143514833_ri5ejr_HOKPPSZa8AA74xa.jpg) | [Original](https://x.com/i/status/2081639977117458729) | E— |
-| 美术编辑肖像插画 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://cms-assets.youmind.com/media/1784882691734_x9dv8h_HN8Qtj1bAAAc4vG.jpg) | [Original](https://x.com/i/status/2080399938278801700) | E— |
-| Q 版角色转换 | ChatGPT | [GoodCase](https://goodcase.ai/cases/q-5c9bd23e9454) | [Media](https://cms-assets.youmind.com/media/1766035335941_5b0wjd_G8VId0sa4AA67ZN.jpg) | [Original](https://x.com/i/status/2001085961414041936) | E— |
+| 3D CG 东方奇幻少女肖像 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) | [Original](https://x.com/liyue_ai/status/2081409414918262965) | E1 |
+| 3D Character Name Sculpture | @varts_works | [GoodCase](https://goodcase.ai/cases/3d-character-name-sculpture) | [Media](https://media.goodcase.ai/media/image/3d-character-name-sculpture.jpg) | [Original](https://x.com/varts_works/status/2085326754806378753) | E2 |
+| 混合 3D 矢量插画风格 | @HustleXR | [GoodCase](https://goodcase.ai/cases/3d-de7f41148805) | [Media](https://media.goodcase.ai/cases/64b6032d791a.jpg) | [Original](https://x.com/HustleXR/status/2091492763397411268) | E3 |
+| 通用 AI 角色设定图生成器 | @ai_lifehack55 | [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) | [Media](https://media.goodcase.ai/media/image/ai-5054adb51999.jpg) | [Original](https://x.com/ai_lifehack55/status/2081581961081246064) | E4 |
+| 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E5 |
+| 三格人物设定参考图标准化模板 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/case-265600f07f14) | [Media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) | [Original](https://x.com/johnAGI168/status/2077766771025530962) | E6 |
+| 奇幻涂鸦艺术自拍 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) | [Media](https://media.goodcase.ai/media/image/case-346fdb4f9c0f.jpg) | [Original](https://x.com/Taaruk_/status/2080303309739675712) | E7 |
+| 奇幻动物水岸插画 | @churvikv | [GoodCase](https://goodcase.ai/cases/case-44ce700abede) | [Media](https://media.goodcase.ai/media/image/case-44ce700abede.jpg) | [Original](https://x.com/churvikv/status/2090182449149977021) | E8 |
+| 现实与漫画壁画的融合 | @Arina_hoqe | [GoodCase](https://goodcase.ai/cases/case-490a5435c063) | [Media](https://media.goodcase.ai/media/image/case-490a5435c063.jpg) | [Original](https://x.com/Arina_hoqe/status/2081179727734456415) | E— |
+| 复古双色调编辑插画 | @HustleXR | [GoodCase](https://goodcase.ai/cases/case-7e29a0c188a4) | [Media](https://media.goodcase.ai/media/image/case-7e29a0c188a4.jpg) | [Original](https://x.com/HustleXR/status/2080180351885017314) | E— |
+| 动漫角色设定图生成器 | @ai_lifehack55 | [GoodCase](https://goodcase.ai/cases/case-805ea1d189ef) | [Media](https://media.goodcase.ai/media/image/case-805ea1d189ef.jpg) | [Original](https://x.com/ai_lifehack55/status/2080494791826268265) | E— |
+| 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E— |
+| 美术编辑肖像插画 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/aatif_j/status/2080399938278801700) | E— |
+| 部落奇幻女战士与猫头鹰肖像 | @Aqib__786Ai | [GoodCase](https://goodcase.ai/cases/case-dd0e6108eade) | [Media](https://media.goodcase.ai/cases/347112a1d6c6.jpg) | [Original](https://x.com/Aqib__786Ai/status/2091027228645552456) | E— |
+| Dark Fantasy Battlefield Warrior | @Madhuribhai | [GoodCase](https://goodcase.ai/cases/dark-fantasy-battlefield-warrior) | [Media](https://media.goodcase.ai/cases/d39fc1d10414.jpg) | [Original](https://x.com/Madhuribhai/status/2085769307217391725) | E— |
+| Oriental Fantasy Celestial Realm | @liyue_ai | [GoodCase](https://goodcase.ai/cases/oriental-fantasy-celestial-realm) | [Media](https://media.goodcase.ai/media/image/oriental-fantasy-celestial-realm.jpg) | [Original](https://x.com/liyue_ai/status/2085608761989714283) | E— |
+| Q 版角色转换 | @ChatGPT | [GoodCase](https://goodcase.ai/cases/q-5c9bd23e9454) | [Media](https://media.goodcase.ai/media/image/q-5c9bd23e9454.jpg) | [Original](https://x.com/ChatGPT/status/2001085961414041936) | E— |
+| 角色身份固定参考图表 | @Mrpinecone888 | [GoodCase](https://goodcase.ai/cases/youmind-character-identity-reference-chart) | [Media](https://media.goodcase.ai/media/image/youmind-character-identity-reference-chart.jpg) | [Original](https://x.com/Mrpinecone888/status/2082748531736244518) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 28 published Cases across 20 creators.
+This workflow is derived from 31 published Cases across 22 creators.
 
 ## Operating rule
 
@@ -8,8 +8,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E1 · 3D CG 东方奇幻少女肖像
 
-- Creator: 李岳
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) · [finished media](https://cms-assets.youmind.com/media/1785143493732_xu4dij_HOKmtpTaYAAP1_0.jpg) · [original source](https://x.com/i/status/2081409414918262965)
+- Creator: @liyue_ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) · [finished media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) · [original source](https://x.com/liyue_ai/status/2081409414918262965)
 - Summary: 一张精细的 3D CG 渲染图，描绘了一位拥有薄荷绿长发的东方奇幻少女，采用高质量 PBR 材质，背景为梦幻花园。
 - Prompt excerpt:
 
@@ -33,19 +33,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic soft lighting, PBR materials, subsurface scattering skin…
 
-### E2 · 漫画墙绘前的偶像少女
+### E2 · 昭和日杂美学人像:90 年代日系杂志胶片感,中英双语提示词
 
-- Creator: YUI
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-00e70f22ce71) · [finished media](https://cms-assets.youmind.com/media/1785143503721_i9inp6_HOKMdxrb0AAB4JI.jpg) · [original source](https://x.com/i/status/2081380708338295083)
-- Summary: 生成一张可爱的影棚时尚人像，身着白裙的偶像站在一幅俏皮的漫画风格墙绘旁摆姿势。
+- Creator: ✂️奥利oli
+- Evidence: [GoodCase](https://goodcase.ai/cases/90-251783eee4c4) · [finished media](https://media.goodcase.ai/supabase-legacy/case-posters/dy-note-7658151707444120842-0.jpg) · [original source](https://www.douyin.com/note/7658151707444120842)
+- Summary: 9 张「昭和日杂美学」人像组图,每张右侧排中文提示词翻译、底部排完整英文 Midjourney prompt(含 Negative 负面词清单)。90 年代昭和日系青年杂志胶片摄影风:35mm 彩负、浓郁复古暖调、厚重胶片颗粒、高对比。3531 赞 2122 收藏。
 - Prompt excerpt:
 
-> Create a vertical full-body fashion portrait in a bright minimalist studio: a petite young Japanese woman named {argument name="character name" default="Yui"} poses playfully in front of a plain off-white wall, wearing a white lace idol-princess mini dress with a flared skirt, floral appliqué shoulder straps, lace hem, sheer veil, delicate white floral tiara, pearl bracelet, drop earrings, and white platform Mary Jane high heels. She stands on a light wooden floor with one leg crossed forward, hips angled, elbows bent and wrists curled like cute cat paws, looking sideways to her left with a soft shy expression. Behind her on the wall is one large black ink manga-style line drawing of a chibi magical-girl version of the same girl, much larger than the real person, wearing a matching frilly dress, veil, tiara, and high heels, with long flowing hair, one leg kicked up, one fist raised, eyes squeezed shut, and mouth open in an energetic happy shout. Add exactly 10 small surrounding doodle elements around the manga drawing: 4 hearts, 2 puffy cloud marks, 2 sparkle stars, and 2 lightning/action marks. Use soft natural sunlight from the right, including a strong diagonal beam of light across the wall and floor, gentle shadows, realistic photography for the woman, crisp hand-drawn black sketch lines for the wall art, cute Japanese idol aesthetic, high detail, clean composition, no extra props, no extra people, and no added text except a tiny subtle watermark reading {argument name="watermark text" default="@yui_ai_model"} near the lower left wall.
+> Extreme close-up shot, young East Asian girl with messy wet black hair, head tilted sideways against rough concrete wall, eyes softly closed, slightly parted lips under running tap water, clear stream of water pouring straight down from metal faucet onto her face, tiny water droplets covering her skin and hair, glistening dewy skin, lush blurred green foliage background, bright harsh summer natural sunlight, 90s Showa Japanese youth magazine film photography, shot on 35mm color negative film, warm saturated retro color palette, thick natural film grain, sharp focus on facial texture and flowing water, soft shallow depth of field, candid summer refreshing atmosphere, lifelike moist skin texture Negative: heavy makeup, Western facial features, cartoon, CGI, blurry, distorted face, oversaturated neon color, plastic smooth fake skin, ugly facial features, extra limbs, messy broken composition, digital filter
 
 ### E3 · 干净的高调美妆肖像
 
-- Creator: AiPhotoDesigner
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) · [finished media](https://cms-assets.youmind.com/media/1785143481627_bfvb0d_HONghhHXUAAs3X_.jpg) · [original source](https://x.com/i/status/2081613584493125717)
+- Creator: @AiPhotoDesigner
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) · [finished media](https://media.goodcase.ai/media/image/case-0511c6f3368b.jpg) · [original source](https://x.com/AiPhotoDesigner/status/2081613584493125717)
 - Summary: 一个用于生成干净、明亮美妆肖像的提示词，描绘了一位在白色房间内、沐浴在柔和自然光下的年轻日本女性。
 - Prompt excerpt:
 
@@ -53,8 +53,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E4 · 咖啡馆里的生动肖像
 
-- Creator: Aatif J
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) · [finished media](https://cms-assets.youmind.com/media/1785137834183_311iff_HOLyMsjaUAAOAK4.jpg) · [original source](https://x.com/i/status/2081492288836981123)
+- Creator: @aatif_j
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) · [finished media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) · [original source](https://x.com/aatif_j/status/2081492288836981123)
 - Summary: 一张温暖而自然的肖像提示词，描绘了一位在温馨质朴的咖啡馆中开怀大笑的年轻男子。
 - Prompt excerpt:
 
@@ -62,64 +62,100 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 ### E5 · 充满奇趣的动漫生活肖像与涂鸦阴影
 
-- Creator: Taaruk
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://cms-assets.youmind.com/media/1784882689510_jja3an_HN5Yxd9bwAA2W7s.jpg) · [original source](https://x.com/i/status/2080197768178720865)
+- Creator: @Taaruk_
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) · [original source](https://x.com/Taaruk_/status/2080197768178720865)
 - Summary: 一个充满创意的动漫生活片段提示词：在黄金时刻的阳光下，女孩和猫咪的影子幻化为俏皮的手绘漫画涂鸦。
 - Prompt excerpt:
 
 > Wholesome anime-inspired lifestyle portrait of a {argument name="character" default="cute young woman with a short pastel-pink bob haircut"}, wearing an oversized vintage red plaid flannel shirt, baggy blue jeans, and classic canvas sneakers, interacting with a {argument name="pet" default="fluffy gray-and-white British Shorthair cat wearing a tiny plaid bandana"}. They are bathed in warm golden-hour sunlight against a clean beige wall, creating long, soft shadows. The magical twist: their shadows transform into playful hand-drawn manga doodles—the girl's shadow becomes an adorable chibi anime version of herself striking a joyful pose, while the cat's shadow becomes a funny cartoon cat waving, dancing, or reaching toward her. Pencil-sketch style with expressive line art, motion marks, hearts, stars, butterflies, and playful doodles integrated naturally into the shadows. Cozy slice-of-life aesthetic, {argument name="style" default="Studio Ghibli × modern manga illustration"}, minimalist background, soft cinematic lighting, authentic candid emotion, ultra-detailed fur, natural skin tones, dreamy atmosphere, whimsical storytelling, premium editorial photography, 50mm lens, shallow depth of field, Kodak Portra 400 colors, ultra-photorealistic, 8K, masterpiece.
 
-### E6 · 暗黑故障风浪漫美学肖像
+### E6 · 豪华汽车杂志风人像
 
-- Creator: serein ｜买美股上币安
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-201d444122d0) · [finished media](https://cms-assets.youmind.com/media/1784882731241_kz4g8v_HN6sM2TbUAAihBU.jpg) · [original source](https://x.com/i/status/2080289427004526602)
-- Summary: 生成一张充满情绪感的竖版时尚杂志肖像，描绘了一位东亚女性在暗黑复古编辑风格场景中化妆的画面。
-- Prompt excerpt:
-
-> Create a vertical dark retro fashion magazine portrait of {argument name="character description" default="an adult East Asian woman with long straight black hair, wispy bangs, a few loose strands on her cheeks, delicate facial features, realistic skin texture, calm lazy slightly detached eyes"}. She is seated in a dim studio against a mottled charcoal-gray textured backdrop, framed from upper thighs to head, slightly right of center. Style the scene as a moody editorial beauty shoot with cinematic low-key lighting, soft shadows, muted colors, subtle film grain, and a gothic romantic atmosphere. She wears an oversized black blazer slipped off one shoulder over a black lace camisole with thin straps and a short black skirt; show collarbones and one bare shoulder tastefully. Her pose is quiet and composed: one hand holds a deep red lipstick near her parted lips, her gaze looks off to the side rather than into camera, expression neutral and serene. Include exactly 2 assistant hands entering the frame: one hand from the right applying blush to her cheek with a makeup brush, and one hand from the lower left holding an open round compact mirror or powder case in dark red. Add refined magazine typography overlays: large distressed serif title text {argument name="main title" default="GLITCH"} at upper left, widely spaced subtitle {argument name="subtitle" default="ROMANCE"} below it, a small barcode above the title, tiny text at upper right reading {argument name="upper right text" default="digital dissonance in a analog world ///"}, tiny text at lower left reading "when beauty bre…
-
-### E7 · 现代肖像拼贴海报
-
-- Creator: Elsa Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-266d5bc01270) · [finished media](https://cms-assets.youmind.com/media/1785143505059_w3ujdi_HOMxFW3a8AASGjG.jpg) · [original source](https://x.com/i/status/2081561764718870732)
-- Summary: 生成一张高级方形生活方式肖像拼贴画，包含五个圆角单色面板和一个重叠的彩色全身主体。
-- Prompt excerpt:
-
-> Create a stylish modern portrait collage featuring {argument name="character description" default="a young woman with long dark hair, fair skin, and an elegant calm expression"}. Use the same person consistently in every panel with identical facial features, hairstyle, skin tone, and identity. Canvas: square 1:1 portrait-collage poster with a clean white background and rounded outer margins. Layout: use exactly 5 rounded rectangular photo panels with soft white borders and a minimal editorial design: 1 wide horizontal panel across the top showing a close-up black-and-white portrait leaning against a tree; 1 large central-left full-body cutout overlapping multiple panels, in color, wearing {argument name="main outfit" default="a dusty rose pink linen button-up shirt with rolled sleeves, beige trousers, sunglasses, and a wristwatch"}, hands in pockets, outlined with a thick soft white sticker-like border; 1 mid-right rounded panel showing a black-and-white seated or three-quarter portrait with sunglasses and one hand under the chin; 1 lower-right rounded panel showing a black-and-white smiling close-up looking upward while wearing sunglasses; 1 bottom-right rounded panel showing a smaller black-and-white full-body walking pose with hands in pockets. Visual style: premium lifestyle photography collage, soft natural daylight, shallow depth of field, blurred outdoor park or tree-lined background, cinematic grayscale panels contrasted with the single color foreground figure, polished magazine aesthetic, realistic skin and hair detail, subtle shadows where the cutout overlaps the…
-
-### E8 · 豪华汽车杂志风人像
-
-- Creator: Virena
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) · [finished media](https://cms-assets.youmind.com/media/1785137837624_4a70w3_HOKUAXVbkAACDq0.jpg) · [original source](https://x.com/i/status/2081388724076818568)
+- Creator: @vireonixx
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) · [finished media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) · [original source](https://x.com/vireonixx/status/2081388724076818568)
 - Summary: 一份高度详细的提示词，用于创作在黄金时刻置身于豪华汽车内的精致男士时尚杂志大片。
 - Prompt excerpt:
 
 > Create a premium luxury automotive editorial portrait of a stylish {argument name="subject" default="man in his mid-20s"} during a daytime drive. He has an athletic build, fair skin with warm-neutral undertones, an oval face with a sharp angular jawline, well-defined facial features, moderately prominent cheekbones, a straight nose, medium lips, thick groomed eyebrows, and a short, neatly trimmed beard and mustache. His {argument name="hair style" default="dark brown medium-length hair is styled in a voluminous brushed-back side part"} with a smooth texture and a slight natural wave. His expression is calm, focused, and confident as he looks toward the road. Dress him in a {argument name="clothing" default="black leather jacket layered over a light beige zip-up collared sweatshirt"}, styled in a refined quiet luxury aesthetic. He wears black rectangular sunglasses with silver metal temples, and a visible seatbelt completes the authentic driving scene. He is seated in the driver's seat of a modern luxury vehicle, captured in a three-quarter profile with his head turned slightly to the left. His posture is upright, composed, and effortless, while his hands remain outside the frame. The interior features a clean, premium cabin with a headrest, dashboard, side window, and roof liner subtly visible in the background. Illuminate the scene with soft natural golden-hour sunlight entering from the driver's side window, creating warm highlights across his face and clothing while gentle shadows define his facial structure and enhance depth. Use a moderately shallow depth of field to k…
 
+### E7 · 草莓冰棒与夏日时尚
+
+- Creator: @CyberTotal2026
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) · [finished media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) · [original source](https://x.com/CyberTotal2026/status/2080445103932649638)
+- Summary: 一组充满活力的夏日时尚肖像提示词，描绘了一位女性在蓝天下的花海中手持冰棒的场景。
+- Prompt excerpt:
+
+> 主題：
+> {argument name="タイトル" default="花野のひとくち"}
+>
+> 主体：
+> 青空の下に広がる小さな花畑で、{argument name="アイテム" default="ピンク色のアイスキャンディー"}を手にした{argument name="年齢" default="20代女性"}が、画面中央やや左で前かがみになっている全身ファッションポートレート。人物は画面の約7割を占め、右側と上部には広い空の余白を残す。
+>
+> 人物・表情：
+> 自然な女性の印象。腰まで届く艶のある黒髪を下ろし、前髪と顔まわりの細い毛束が頬に軽くかかる。透明感のあるナチュラルメイク、細いアイライン、淡いコーラルチーク、自然な艶のリップ。顔を画面右へ向けながら視線だけをカメラへ戻し、少し気の抜けたような遊び心のある表情。成人らしい端正で健康的なモデル体型。
+>
+> 服装・ポーズ：
+> ピンクと淡いオレンジが混ざる、凹凸感のある軽いニット素材のホルターネックトップ。色落ちしたライトブルーのデニムショートパンツ、白いリブソックス、白いローカットスニーカー、小さなシルバーピアスと細いネックレス。上体を前方へ倒し、腰と膝を自然に曲げる。人物自身の右手でアイスの棒を持ち、口元の手前へ添える。左腕は下へ伸ばし、左手を左膝の近くに軽く置く。片脚に体重を残し、衣服の皺と髪の落下方向に自然な重力を表現する。
+>
+> 背景・光：
+> 前景にはピンクと白のコスモスが大きくぼけて入り、中景に緑の草地と小さな花々、遠景には低くぼけた街並み。背景の約3分の2を明るい青空と大きな白い積雲が占める。画面右上から柔らかな昼光が差し、顔、肩、腕、脚の右側を明るく照らす。左側には淡い影を残し、草花からの緑色の反射光を脚の下部にわずかに入れる。
+>
+> 構図・カメラ：
+> 縦位置3:4。地面に近い低いカメラ位置からの軽い仰角. 24〜28mm相当の広角感で脚から空までを収める。人物の頭部は画面上部中央、足元は下端近くまで入り、身体の斜線が左下から右上へ流れる構成。人物の瞳とアイスに焦点を合わせ、前景の花と遠景の建物は柔らかくぼかす。
+>
+> 質感・スタイル：
+> 明るく清潔感のある夏のファッション写真。自然な肌理を残し、過度な美肌補正を避ける。淡いフィルム粒子、わずかに白く抜けたハイライト、透明感のある青とピンクの色調. 雑誌スナップとコンパクトデジタルカメラ写真の中間のような、軽快で現実感のある仕上がり。
+>
+> ネガティブ：
+> 未成年に見える人物、不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、アイスとの接触不良、不自然な重力、極端な身体変形、下着の露出、光源と矛盾する影、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
+
+### E8 · 高对比度电影感人像
+
+- Creator: @aatif_j
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-45ce17868767) · [finished media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) · [original source](https://x.com/aatif_j/status/2080212276188152302)
+- Summary: 一个用于黑白面部特写的高细节提示词，强调张力、电影感颗粒效果以及自然的头发动态。
+- Prompt excerpt:
+
+> Black and white contrast photo
+>
+> Extremely close-up shot of half of a {argument name="subject" default="girl's"} face
+>
+> She is wearing a {argument name="clothing" default="black turtleneck"}
+>
+> Cinematic effect with added grain.
+>
+> Do not change facial features
+>
+> In the frame only the face up to the eyebrows and the neck
+>
+> Face straight and eyes look into the camera with slight tension
+>
+> Hair loose voluminous and some strands and hairs blowing in the wind
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D CG 东方奇幻少女肖像 | 李岳 | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://cms-assets.youmind.com/media/1785143493732_xu4dij_HOKmtpTaYAAP1_0.jpg) | [Original](https://x.com/i/status/2081409414918262965) | E1 |
-| 漫画墙绘前的偶像少女 | YUI | [GoodCase](https://goodcase.ai/cases/case-00e70f22ce71) | [Media](https://cms-assets.youmind.com/media/1785143503721_i9inp6_HOKMdxrb0AAB4JI.jpg) | [Original](https://x.com/i/status/2081380708338295083) | E2 |
-| 干净的高调美妆肖像 | AiPhotoDesigner | [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) | [Media](https://cms-assets.youmind.com/media/1785143481627_bfvb0d_HONghhHXUAAs3X_.jpg) | [Original](https://x.com/i/status/2081613584493125717) | E3 |
-| 咖啡馆里的生动肖像 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://cms-assets.youmind.com/media/1785137834183_311iff_HOLyMsjaUAAOAK4.jpg) | [Original](https://x.com/i/status/2081492288836981123) | E4 |
-| 充满奇趣的动漫生活肖像与涂鸦阴影 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://cms-assets.youmind.com/media/1784882689510_jja3an_HN5Yxd9bwAA2W7s.jpg) | [Original](https://x.com/i/status/2080197768178720865) | E5 |
-| 暗黑故障风浪漫美学肖像 | serein ｜买美股上币安 | [GoodCase](https://goodcase.ai/cases/case-201d444122d0) | [Media](https://cms-assets.youmind.com/media/1784882731241_kz4g8v_HN6sM2TbUAAihBU.jpg) | [Original](https://x.com/i/status/2080289427004526602) | E6 |
-| 现代肖像拼贴海报 | Elsa Ai | [GoodCase](https://goodcase.ai/cases/case-266d5bc01270) | [Media](https://cms-assets.youmind.com/media/1785143505059_w3ujdi_HOMxFW3a8AASGjG.jpg) | [Original](https://x.com/i/status/2081561764718870732) | E7 |
-| 豪华汽车杂志风人像 | Virena | [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) | [Media](https://cms-assets.youmind.com/media/1785137837624_4a70w3_HOKUAXVbkAACDq0.jpg) | [Original](https://x.com/i/status/2081388724076818568) | E8 |
-| 草莓冰棒与夏日时尚 | Prompt アトリエ｜AI画像プロンプト | [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) | [Media](https://cms-assets.youmind.com/media/1784882714055_s3jssh_HN6VCeia4AAHrYC.jpg) | [Original](https://x.com/i/status/2080445103932649638) | E— |
-| 高对比度电影感人像 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://cms-assets.youmind.com/media/1784877061232_e7z5jl_HN5mCYrbIAAqAfy.jpg) | [Original](https://x.com/i/status/2080212276188152302) | E— |
-| 奢华摄影棚时尚大片 | Johnn | [GoodCase](https://goodcase.ai/cases/case-59c91a376d70) | [Media](https://cms-assets.youmind.com/media/1784882692383_kbyc6u_HN7eTi1akAAco65.jpg) | [Original](https://x.com/i/status/2080344542885335240) | E— |
-| 电影感艺术自然人像 | Taaruk | [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) | [Media](https://cms-assets.youmind.com/media/1785143461940_bay4du_HONSP4QasAAe5Fc.jpg) | [Original](https://x.com/i/status/2081597935947792465) | E— |
-| 情绪感黑色影棚人像 | ToroJushiAi | [GoodCase](https://goodcase.ai/cases/case-73b2a4fe0c1a) | [Media](https://cms-assets.youmind.com/media/1785143487419_4ivcmw_HOKMa6kW8AAmyHx.jpg) | [Original](https://x.com/i/status/2081469606749782500) | E— |
-| 香港街头风格时尚人像 | Anissa | [GoodCase](https://goodcase.ai/cases/case-7daa3577470c) | [Media](https://cms-assets.youmind.com/media/1785137828701_vzbgrv_HOKkWGaXcAEoZnu.jpg) | [Original](https://x.com/i/status/2081406707507540340) | E— |
-| 写实风格智能手机厨房人像 | 𝗦𝗮𝗻𝗶𝗮 | [GoodCase](https://goodcase.ai/cases/case-8da08964ae81) | [Media](https://cms-assets.youmind.com/media/1785143451716_jnlfu2_HONERGPbwAAmYrN.jpg) | [Original](https://x.com/i/status/2081582536929747148) | E— |
-| 黑白时尚编辑人像 | K | [GoodCase](https://goodcase.ai/cases/case-9d64f52eb770) | [Media](https://cms-assets.youmind.com/media/1785143461945_ejxpqh_HONipz-bcAEPwNX.jpg) | [Original](https://x.com/i/status/2081615969274012153) | E— |
-| 夏日缘侧肖像 | akinonnon@AI | [GoodCase](https://goodcase.ai/cases/case-b2269baeb516) | [Media](https://cms-assets.youmind.com/media/1785137840512_rm9ykf_HOM-ncdaMAAK9l0.jpg) | [Original](https://x.com/i/status/2081579986348306817) | E— |
-| 校园足球时尚海报 | serein ｜买美股上币安 | [GoodCase](https://goodcase.ai/cases/case-b5b260cc33e2) | [Media](https://cms-assets.youmind.com/media/1785143505517_83s9t4_HOOF5vXbMAAbU_E.jpg) | [Original](https://x.com/i/status/2081654767185719501) | E— |
-| 圆形墙面镂空中的影棚肖像 | ΛRMIN | [GoodCase](https://goodcase.ai/cases/case-c69378856fa6) | [Media](https://cms-assets.youmind.com/media/1785143450257_p7k1hy_HOLBgM2X0AAEu2W.jpg) | [Original](https://x.com/i/status/2081438772709781579) | E— |
-| 美术编辑肖像插画 | Aatif J | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://cms-assets.youmind.com/media/1784882691734_x9dv8h_HN8Qtj1bAAAc4vG.jpg) | [Original](https://x.com/i/status/2080399938278801700) | E— |
+| 3D CG 东方奇幻少女肖像 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) | [Original](https://x.com/liyue_ai/status/2081409414918262965) | E1 |
+| 昭和日杂美学人像:90 年代日系杂志胶片感,中英双语提示词 | ✂️奥利oli | [GoodCase](https://goodcase.ai/cases/90-251783eee4c4) | [Media](https://media.goodcase.ai/supabase-legacy/case-posters/dy-note-7658151707444120842-0.jpg) | [Original](https://www.douyin.com/note/7658151707444120842) | E2 |
+| 干净的高调美妆肖像 | @AiPhotoDesigner | [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) | [Media](https://media.goodcase.ai/media/image/case-0511c6f3368b.jpg) | [Original](https://x.com/AiPhotoDesigner/status/2081613584493125717) | E3 |
+| 咖啡馆里的生动肖像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) | [Original](https://x.com/aatif_j/status/2081492288836981123) | E4 |
+| 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E5 |
+| 豪华汽车杂志风人像 | @vireonixx | [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) | [Media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) | [Original](https://x.com/vireonixx/status/2081388724076818568) | E6 |
+| 草莓冰棒与夏日时尚 | @CyberTotal2026 | [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) | [Media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) | [Original](https://x.com/CyberTotal2026/status/2080445103932649638) | E7 |
+| 高对比度电影感人像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) | [Original](https://x.com/aatif_j/status/2080212276188152302) | E8 |
+| 奢华摄影棚时尚大片 | @john_my07 | [GoodCase](https://goodcase.ai/cases/case-59c91a376d70) | [Media](https://media.goodcase.ai/media/image/case-59c91a376d70.jpg) | [Original](https://x.com/john_my07/status/2080344542885335240) | E— |
+| 电影感艺术自然人像 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) | [Media](https://media.goodcase.ai/media/image/case-5fe2c52283f0.jpg) | [Original](https://x.com/Taaruk_/status/2081597935947792465) | E— |
+| 都市自拍超级英雄时尚 | @Jodie_Noraa | [GoodCase](https://goodcase.ai/cases/case-6e1bf0e0e1e1) | [Media](https://media.goodcase.ai/cases/5c0a156c9443.jpg) | [Original](https://x.com/Jodie_Noraa/status/2091887559060390207) | E— |
+| 情绪感黑色影棚人像 | @ToroJushiAi | [GoodCase](https://goodcase.ai/cases/case-73b2a4fe0c1a) | [Media](https://media.goodcase.ai/media/image/case-73b2a4fe0c1a.jpg) | [Original](https://x.com/ToroJushiAi/status/2081469606749782500) | E— |
+| 香港街头风格时尚人像 | @SimplyAnnisa | [GoodCase](https://goodcase.ai/cases/case-7daa3577470c) | [Media](https://media.goodcase.ai/media/image/case-7daa3577470c.jpg) | [Original](https://x.com/SimplyAnnisa/status/2081406707507540340) | E— |
+| 写实风格智能手机厨房人像 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/case-8da08964ae81) | [Media](https://media.goodcase.ai/media/image/case-8da08964ae81.jpg) | [Original](https://x.com/saniaspeaks_/status/2081582536929747148) | E— |
+| 黑白时尚编辑人像 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-9d64f52eb770) | [Media](https://media.goodcase.ai/media/image/case-9d64f52eb770.jpg) | [Original](https://x.com/ChillaiKalan__/status/2081615969274012153) | E— |
+| 夏日缘侧肖像 | @akinonnon_kan | [GoodCase](https://goodcase.ai/cases/case-b2269baeb516) | [Media](https://media.goodcase.ai/media/image/case-b2269baeb516.jpg) | [Original](https://x.com/akinonnon_kan/status/2081579986348306817) | E— |
+| 圆形墙面镂空中的影棚肖像 | @Arminn_Ai | [GoodCase](https://goodcase.ai/cases/case-c69378856fa6) | [Media](https://media.goodcase.ai/media/image/case-c69378856fa6.jpg) | [Original](https://x.com/Arminn_Ai/status/2081438772709781579) | E— |
+| 地中海游艇俱乐部时尚大片 | @pictsbyai | [GoodCase](https://goodcase.ai/cases/case-d17519ec36a7) | [Media](https://media.goodcase.ai/cases/59227512be80.jpg) | [Original](https://x.com/pictsbyai/status/2091802189161447609) | E— |
+| 美术编辑肖像插画 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/aatif_j/status/2080399938278801700) | E— |
+| 现代电梯中与魏玛犬合影的时尚男士 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/case-daf11fde350e) | [Media](https://media.goodcase.ai/cases/6fdbff0bb30b.jpg) | [Original](https://x.com/Xaroon_x/status/2092156356547473503) | E— |
 
 ## Derivation boundary
 

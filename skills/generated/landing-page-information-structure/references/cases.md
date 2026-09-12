@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 57 published Cases across 40 creators.
+This workflow is derived from 198 published Cases across 44 creators.
 
 ## Operating rule
 
@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · 3D 超市包装式创意机构官网
 
 - Creator: @Oluwaphilemon1
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-8bbc2b408223) · [finished media](https://video.twimg.com/amplify_video/2068957430533279746/vid/avc1/720x1280/OFQK-PG8bS8t3VlL.mp4?tag=28) · [poster](https://pbs.twimg.com/amplify_video_thumb/2068957430533279746/img/AhmGPIIBS6yTnvEy.jpg) · [original source](https://x.com/Oluwaphilemon1/status/2068957493561045032)
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-8bbc2b408223) · [finished media](https://media.goodcase.ai/media/video/3d-8bbc2b408223.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-8bbc2b408223.jpg) · [original source](https://x.com/Oluwaphilemon1/status/2068957493561045032)
 - Summary: @Oluwaphilemon1 使用 Claude Fable 5 · Three.js · Blender · GSAP完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -27,10 +27,265 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Save this if you want a portfolio that makes clients feel they are buying something premium 🛒
 
-### E2 · 极简 AI 顾问个人作品集
+### E2 · 3D Jack Portfolio
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-jack-portfolio) · [finished media](https://media.goodcase.ai/cases/49f8aeaa5fab.mp4) · [poster](https://media.goodcase.ai/cases/5f968f89c3fe.webp) · [original source](https://motionsites.ai/?prompt=3d-jack-portfolio-hero)
+- Summary: 3D 创作者 Jack 的作品集落地页，React + TypeScript + Framer Motion，#0C0C0C 暗底。
+- Prompt excerpt:
+
+> Build a 3D Creator portfolio landing page for "Jack" using React, TypeScript, Tailwind CSS, Framer Motion, and Lucide React. The page has a dark theme (#0C0C0C background) with the font Kanit (Google Fonts, weights 300-900). The page title is "Jack -- 3D Creator".
+>
+> GLOBAL STYLES
+> Background: #0C0C0C on html, body, #root, and the main wrapper
+> Font family: 'Kanit', sans-serif
+> Global reset: box-sizing border-box, margin 0, padding 0
+> CSS class .hero-heading: gradient text using background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%) with -webkit-background-clip: text and -webkit-text-fill-color: transparent
+> Main wrapper has overflowX: 'clip'
+> SECTION ORDER
+> HeroSection
+> MarqueeSection
+> AboutSection
+> ServicesSection
+> ProjectsSection
+> 1. HERO SECTION
+> Full viewport height (h-screen), flex column layout with overflowX: clip.
+>
+> Navbar: Horizontal nav bar with 4 links -- "About", "Price", "Projects", "Contact" -- evenly spaced with justify-between. Text color #D7E2EA, font-medium, uppercase, tracking-wider. Sizes: text-sm md:text-lg lg:text-[1.4rem]. Padding: px-6 md:px-10 pt-6 md:pt-8. Hover: opacity 70% with 200ms transition.
+>
+> Hero Heading: Massive h1 with text "Hi, i'm jack" (lowercase "i", curly apostrophe via &apos;). Uses the .hero-heading gradient text class. Font-black, uppercase, tracking-tight, leading-none, whitespace-nowrap, w-full. Font sizes: text-[14vw] sm:text-[15vw] md:text-[16vw] lg:text-[17.5vw]. Margin top: mt-6 sm:mt-4 md:-mt-5. Wrapped in overflow-hidden container.
+>
+> Bottom bar: Flexbox justify-between items-end with pb-7 sm:pb-8 md:pb-10:
+>
+> Left: paragraph text "a 3…
+
+### E3 · 404 Planet
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/404-planet) · [finished media](https://media.goodcase.ai/cases/2434b256495a.webp) · [original source](https://motionsites.ai/?prompt=404-planet)
+- Summary: 主机商 NEXOVA 的 404 页，循环视频背景加导航，错误页做出了落地页的完成度。
+- Prompt excerpt:
+
+> Build a full-page 404 error page for a hosting company called "NEXOVA". The entire page is a single viewport-height layout with a looping background video, a navigation bar, a centered hero/404 section, and a multi-column footer. Use React + Tailwind CSS + Lucide React icons. No other UI libraries.
+>
+> ---
+>
+> **FONT**
+>
+> Load "Helvetica Now Var" via this stylesheet in `index.html`:
+> ```
+> <link href="https://db.onlinewebfonts.com/c/e66905e07608167a84e6ad52f638c3c6?family=Helvetica+Now+Var" rel="stylesheet">
+> ```
+> Apply it globally on the root container via inline style:
+> ```
+> fontFamily: '"Helvetica Now Var", Helvetica, Arial, sans-serif'
+> ```
+>
+> ---
+>
+> **BACKGROUND VIDEO**
+>
+> A `<video>` element with `autoPlay muted loop playsInline`, positioned `absolute inset-0 w-full h-full object-cover` behind all content. The video source URL is:
+> ```
+> https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260613_180732_a54afbf6-b30d-470e-861f-669871f09f67.mp4
+> ```
+> This is a cinematic dark-blue Earth-from-space shot.
+>
+> ---
+>
+> **LAYOUT STRUCTURE**
+>
+> The root is `relative min-h-screen flex flex-col`. Inside it:
+> 1. The background `<video>` (absolute, behind everything)
+> 2. A content wrapper `relative z-10 flex flex-col min-h-screen` containing nav, hero, and footer
+>
+> ---
+>
+> **NAVIGATION BAR**
+>
+> - Flex row, `items-center justify-between`, padding `px-6 md:px-12 lg:px-16 py-5`
+> - **Logo (left):** A custom SVG icon (4 quarter-circle leaf shapes forming a circle, white fill, `w-8 h-8`) next to the text "NEXOVA" in `text-white text-xl font-bold tracking-wider`. The exact SVG path is:
+>   ```
+>   M480 240a240 2…
+
+### E4 · ADHD Planner
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/adhd-planner) · [finished media](https://media.goodcase.ai/cases/d90b913e9e18.mp4) · [poster](https://media.goodcase.ai/cases/96c54f15dbe2.webp) · [original source](https://motionsites.ai/?prompt=adhd-planner)
+- Summary: ADHD 友好的日程应用 Drift 落地站，React + Vite + TypeScript + Tailwind，安静低刺激的视觉方向本身就是产品卖点。
+- Prompt excerpt:
+
+> Build a single-page landing site for "Drift" -- a calm, ADHD-friendly planner app. Use React + Vite + TypeScript + Tailwind CSS + lucide-react for icons. No other UI libraries.
+>
+> ### Fonts
+>
+> Import via Google Fonts in `index.css`:
+> - **Inter** (weights 400, 500, 600) -- used as base body font
+> - **Instrument Serif** (italic only) -- used for the italic word "the stress" in the hero heading
+>
+> ```css
+> @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@1&family=Inter:wght@400;500;600&display=swap');
+> ```
+>
+> Body: `font-family: 'Inter', sans-serif;` with antialiased rendering. `overflow-x: clip` on body.
+>
+> ### Color Palette
+>
+> - Hero overlay: `bg-black/20`
+> - About section background: `#F6E4CF`
+> - Dark text / icons in About: `#321C04`
+> - Light cream (button backgrounds in About): `#FFF9F2`
+> - Muted accent (divider, secondary button bg): `#D9C4AA`
+> - Secondary button hover: `#CEBA9E`
+> - Dark button hover: `#1F1003`
+>
+> ### Tailwind Config
+>
+> Add a custom keyframe `fade-in-down` (0%: opacity 0, translateY -8px; 100%: opacity 1, translateY 0) with 0.2s ease-out animation.
+>
+> ---
+>
+> ### SECTION 1: HERO (full viewport height)
+>
+> - Full-screen section (`h-screen`, `overflow-hidden`, `mb-[-25px]` negative bottom margin so the next section overlaps it slightly)
+> - **Background video** (autoPlay, muted, loop, playsInline, object-cover, absolute inset-0):
+>   ```
+>   https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260711_090308_1dd0cea7-f9ba-4db4-8147-c7d746061c9e.mp4
+>   ```
+> - **Semi-transparent overlay**: `absolute inset-0 bg-black/20`
+>
+> #### Navbar (centered floating pi…
+
+### E5 · Aetheris Voyage
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/aetheris-voyage) · [finished media](https://media.goodcase.ai/cases/c836d34ab923.webp) · [original source](https://motionsites.ai/?prompt=aetheris-voyage-hero)
+- Summary: 太空旅行主题的双全屏区块落地页（Hero 加 Capabilities），循环视频背景。
+- Prompt excerpt:
+
+> Build Prompt: Cinematic Space-Travel Landing Page
+> Build a single-page landing site with two full-height sections (Hero + Capabilities), both using looping background videos with custom JS crossfade, a shared liquid-glass design system, and Framer Motion entrance animations.
+>
+> Tech stack (pinned, CDN-only)
+> <script src="https://cdn.tailwindcss.com"></script>
+> <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+> <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+> <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+> <script src="https://unpkg.com/framer-motion@11.11.17/dist/framer-motion.js"></script>
+> <script>window.Motion = window.FramerMotion;</script>
+> Body is bg: #000. Page is a React app mounted on #root, all components are <script type="text/babel"> files exporting via window.X = X.
+>
+> Fonts
+> Google Fonts:
+>
+> family=Instrument+Serif:ital@0;1&family=Barlow:wght@300;400;500;600
+> Tailwind config adds:
+>
+> font-heading → 'Instrument Serif', serif (always italic in use)
+> font-body → 'Barlow', sans-serif
+> Default border radius override: DEFAULT: "9999px" (so bare rounded → pill).
+>
+> Liquid-glass utilities (exact CSS, in a <style> block)
+> Two variants — .liquid-glass (subtle, for nav/chips…
+
+### E6 · Agent Grove
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/agent-grove) · [finished media](https://media.goodcase.ai/cases/e7a7cd9228f6.mp4) · [poster](https://media.goodcase.ai/cases/a0215e7d20b7.webp) · [original source](https://motionsites.ai/?prompt=agent-grove)
+- Summary: AI 运维产品 nexum 的暗色电影感 hero，全出血视频背景加玻璃拟态导航。
+- Prompt excerpt:
+
+> Build a single full-screen (`h-screen w-full overflow-hidden`) hero page for **nexum** — a dark cinematic AI-ops landing hero with a full-bleed background video, glassmorphism nav/cards, and bottom-anchored content. Stack: React + Tailwind + `lucide-react` (`ChevronDown`, `Menu`, `X`). No routing. One section only.
+>
+> ### Fonts (exact)
+> Load from Google Fonts:
+> ```
+> https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Silkscreen:wght@400;700&display=swap
+> ```
+> - Global body: `'Geist', -apple-system, BlinkMacSystemFont, sans-serif` with antialiased smoothing
+> - Stats number `"42,500+"` only: `fontFamily: "'Silkscreen', cursive"`, weight normal, tracking-tight
+> - Everything else is Geist
+>
+> ### Background video (exact URL + behavior)
+> ```
+> https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260803_192301_9231ed6b-c55c-4a48-909c-4ebe11cf2e11.mp4
+> ```
+> - Absolutely positioned `inset-0`, `h-full w-full object-cover`
+> - Attributes: `autoPlay`, `loop`, `muted`, `playsInline`
+> - No overlay gradient; content sits directly over the video at `z-10`
+>
+> ### Page title
+> `Nexum Hero`
+>
+> ### Layout architecture
+> ```
+> <section> full viewport
+>   <video> absolute full-bleed
+>   <div z-10 flex-col h-full>
+>     <nav> top bar
+>     [mobile overlay + slide-in panel]
+>     <main content> mt-auto bottom-anchored
+>       left: headline + email CTA
+>       right: two glass cards
+> ```
+>
+> Content is pinned to the bottom with `mt-auto`. On large screens: `lg:flex-row lg:items-end lg:justify-between`. On mobile/tablet: stacked column.
+>
+> ### Color / responsive text system (critical)
+> Many elements…
+
+### E7 · Agent Wave
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/agent-wave) · [finished media](https://media.goodcase.ai/cases/ae8afbd1c466.mp4) · [poster](https://media.goodcase.ai/cases/19e5c9e121d4.webp) · [original source](https://motionsites.ai/?prompt=agent-wave)
+- Summary: 单文件 HTML 复刻 Vesper.ai 单屏落地页，内联 CSS 加一小段 IIFE 处理菜单和动画降级，零框架零依赖，适合学怎么把整页规格压进一个文件。
+- Prompt excerpt:
+
+> Recreate this exact single-viewport landing page for **Vesper.ai**. Document title: `Vesper.ai — Operational AI Infrastructure`. `lang="en"`. One HTML file with inline CSS and a small IIFE for the menu + animation fallback. Pure black `#000000`. No extra sections, cards, forms, pricing tables, or footer beyond the three stats. Do **not** add a video, WebGL, Three.js, or Lottie. Do **not** invent a CloudFront URL.
+>
+> Force black immediately so the page can never flash white:
+>
+> - First CSS rule: `html, body { background: #000000 !important; color: #ffffff; }`
+> - Body attribute: `style="background:#000;color:#fff"`
+> - Then again: `html, body { background: #000000; background: var(--bg, #000000); color: #ffffff; color: var(--text, #ffffff); }`
+>
+> ---
+>
+> ### Fonts (exact)
+>
+> Self-hosted WOFF2s sitting next to `index.html`:
+>
+> ```css
+> @font-face {
+>   font-family: "Inter";
+>   font-style: normal;
+>   font-weight: 100 900;
+>   font-display: swap;
+>   src: url("inter.woff2") format("woff2");
+> }
+> @font-face {
+>   font-family: "Instrument Serif";
+>   font-style: italic;
+>   font-weight: 400;
+>   font-display: swap;
+>   src: url("instrument-serif-italic.woff2") format("woff2");
+> }
+> ```
+>
+> Stacks:
+>
+> - UI / logo / nav / buttons / badge / lede / stats: `"Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif`
+> - **Only** the H1 words `AI agents`: `"Instrument Serif", "Times New Roman", Times, serif`
+>
+> If those files are missing, load this exact Google Fonts CSS (Inter variable roman + Instrument Serif italic only):
+>
+> ```
+> https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900&family=In…
+
+### E8 · 极简 AI 顾问个人作品集
 
 - Creator: @shushant_l
-- Evidence: [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) · [finished media](https://video.twimg.com/amplify_video/2065041410580205568/vid/avc1/1614x720/7F_fL8-C2LLCpt-B.mp4?tag=14) · [poster](https://pbs.twimg.com/amplify_video_thumb/2065041410580205568/img/zqTS6FctAYgXqWwF.jpg) · [original source](https://x.com/shushant_l/status/2065041466951712940)
+- Evidence: [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) · [finished media](https://media.goodcase.ai/media/video/ai-0f055800c6f5.mp4) · [poster](https://media.goodcase.ai/media/poster/ai-0f055800c6f5.jpg) · [original source](https://x.com/shushant_l/status/2065041466951712940)
 - Summary: @shushant_l 使用 AI Website Builder完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -42,187 +297,30 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > I've built this with Replit, and you can also build with it, or else you can also build it with any other AI model, LLM, and AI tool too.
 
-### E3 · AI 婚纱购物与虚拟试穿网站
-
-- Creator: @AbhinavGirdhar
-- Evidence: [GoodCase](https://goodcase.ai/cases/ai-8a5b6f3e36eb) · [finished media](https://pbs.twimg.com/media/GO6bfYHWsAEcAJN.jpg) · [original source](https://x.com/AbhinavGirdhar/status/1796544545594773725)
-- Summary: @AbhinavGirdhar 使用 AI Website Builder完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> 👗 Create a beautiful website in minutes! 👗
->
-> No more hectic website creation. Simply use this prompt:
->
-> "Design a wedding shopping website to be every bride's dream, offering a curated selection of wedding dresses with detailed photos, virtual try-on options, secure checkout, and expert advice for finding the perfect fit."
->
-> 💍 See the live website here:  💍
->
-> 📲 Ready to design your own? Find the link to the AI website builder in the comments below!
->
-> #PromptShare #AICommunity #AIWebsiteBuilder #AppyPieCollab #AI #ArtificialIntelligence #WebsiteBuilder #PromptChallenge #WebsiteoftheDay
-
-### E4 · AI 摄影工作室预约网站
-
-- Creator: @thetripathi58
-- Evidence: [GoodCase](https://goodcase.ai/cases/ai-fef75f8c9cc8) · [finished media](https://video.twimg.com/amplify_video/1934581815395684352/vid/avc1/1920x1080/zMDXHz2n9EHUhhbB.mp4?tag=21) · [poster](https://pbs.twimg.com/amplify_video_thumb/1934581815395684352/img/OVAlLwHR3O1d649A.jpg) · [original source](https://x.com/thetripathi58/status/1934585075242344853)
-- Summary: @thetripathi58 使用 AI Website Builder完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> Here's how it works:
->
-> 1. Create your website by simply describing it.
->
-> AI editor turns your words into a professional site - no coding needed.
-> Just type, and it builds.
->
-> Prompt: “Create a website for my photography studio with a gallery, pricing, reviews, and a booking form.”
-
-### E5 · AI 编程去模板化 Skill 落地页
-
-- Creator: @arjunkshah21
-- Evidence: [GoodCase](https://goodcase.ai/cases/ai-skill-72791ea78cb6) · [finished media](https://video.twimg.com/amplify_video/2040294688889143296/vid/avc1/2940x1680/yTZ0Ty6ycGAjU74J.mp4?tag=21) · [poster](https://pbs.twimg.com/amplify_video_thumb/2040294688889143296/img/4AePYXWY1_z2PsTr.jpg) · [original source](https://x.com/arjunkshah21/status/2040296305679839279)
-- Summary: @arjunkshah21 使用 AI Coding Agent完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> Vibe coding battle PART 2!
->
-> Prompt I used:
->
-> Design a multi-section, super elegant, beautiful landing page for a skill for AI coding agents like Claude Code and Codex, where it unslopifies AI UI, or basically designs beautiful UI. Show that it integrates with many different types of coding agents. For the actual landing page, make sure it's clean, minimalistic, but still elegant- maximum white space, but it still looks good, doesn't look tacky. And add a feature where I can switch the theme of the website with the click of a button (which would be the letter C on my keyboard) and also make sure to animate it fully. Here is the link to the repo: , reference it for information.
->
-> Competitor 1 (Left Screenshot):
->
-> Competitor 2 (Right Screenshot):
->
-> Results below
-
-### E6 · AntiGravity + Gemini 3.1 落地页
-
-- Creator: @viktoroddy
-- Evidence: [GoodCase](https://goodcase.ai/cases/antigravity-gemini-3-1-5e49aad75b25) · [finished media](https://video.twimg.com/amplify_video/2024831377322160128/vid/avc1/2354x1720/XnHdS5oKAr0D6Lpn.mp4?tag=21) · [poster](https://pbs.twimg.com/amplify_video_thumb/2024831377322160128/img/tL5r3ZGkPZiF3Wwd.jpg) · [original source](https://x.com/viktoroddy/status/2024832167164133766)
-- Summary: @viktoroddy 使用 AntiGravity · Gemini 3.1 Pro完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> Prompt:
->
-> Build a hero section with the following exact specifications:
->
-> Overall Layout:
->
-> Full-width section with background: #000000 (pure black)
-> Overflow hidden
-> Background video playing behind all content (details below)
-> Background Video:
->
-> Source:
-> Autoplay, loop, muted, playsInline
-> Scaled to 120% of the container (width and height both 120%)
-> Horizontally centered, focal point anchored to the bottom
-> Sits behind all content (lowest z-index)
-> Blurred Background Element:
->
-> Absolute positioned, horizontally centered, top offset ~215px
-> Size: 801px wide × 384px tall, fully rounded (pill shape)
-> Color: pure black #000000
-> Blur: 77.5px
-> z-index: 1 (above video, below content)
-> All text and UI content sits at z-index: 2 (above everything)
->
-> Navbar (top):
->
-> Max width: 1440px, centered horizontally
->
-> Horizontal padding: 120px, vertical padding: 16px, height: 102px
->
-> Flexbox row, space-between alignment
->
-> Left side: Logo + nav links with 80px gap between them
->
-> Logo: "LOGOIPSUM" SVG mark, 134px × 25px, white fill
-> Nav links in a row with 10px gap between items
-> Each link: font Manrope, medium weight, 14px size, 22px line-height, white color, padding 10px horizontal / 4px vertical
-> Items: "Home", "Services" (with a 24×24 white chevron-down icon to the right, 3px gap), "Reviews", "Contact us"
-> Right side: Two buttons with 12px gap
->
-> "Sign In" button: white background, 16px horizontal / 8px vertical padding, 8px border-radius, Manrope semibold 14px/22px, color #171717, with a 1px #d4d4d4 border overlay
-> "Get Started" button: background #7b39fc (purple), 16px/8px padding, 8px border-radius, Manrope semibol…
-
-### E7 · 宠物食品电影感滚动网页
-
-- Creator: @johannesasgeir
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-3a2858de4b42) · [finished media](https://video.twimg.com/amplify_video/2076363350171160576/vid/avc1/1920x1080/ZN7c8EmPdjpOXkXk.mp4?tag=28) · [poster](https://pbs.twimg.com/amplify_video_thumb/2076363350171160576/img/8NuQTtVKnVjlrLWF.jpg) · [original source](https://x.com/johannesasgeir/status/2076363513803784208)
-- Summary: @johannesasgeir 使用 Gemini AntiGravity完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> I made this $10,000 website with one prompt over the weekend…
->
-> Just joking. I made another mock-up webpage for fun using one main prompt and a few smaller prompts to adjust it.
->
-> It mostly cost me some time and about 1% of my weekly Antigravity credits.
->
-> I got the idea for the salivating dog swirling up its food from an image I saw, and I decided to turn it into an animated web concept.
->
-> I am going to keep posting random ideas like this because I make something new almost every day.
->
-> As usual, I created it with Gemini, Google Flow, and Antigravity.
->
-> At the end, I asked Antigravity to write a reusable prompt for creating a smooth, mouse-scroll-animated website hero section like this again.
->
-> Here is the prompt it gave me ↓
-> ---------------------------------------------------
->
-> I want to build a premium, scroll-driven frame animation (scrollytelling) hero section in vanilla HTML, CSS, and JavaScript.
->
-> The image frames are located in a folder named 'frames' and are numbered sequentially from 'frame_005.jpg' to 'frame_181.jpg' (replace with your specific file names and range).
->
-> Please implement this using the following high-performance frontend mechanics to ensure it is buttery-smooth, responsive, and has zero white flashes on loading/scrolling:
->
-> 1. HTML5 Canvas Cover Sizing & DPI Scaling:
->    - Use an HTML5 `<canvas>` element pinned inside a sticky viewport container (`position: sticky; height: 100vh; top: 0;`).
->    - Dynamically scale the canvas width and height in JS using `window.devicePixelRatio` to keep drawings crisp on high-DPI (Retina) screens.
->    - Implement "cover" scalin…
-
-### E8 · 模糊色块动画落地页
-
-- Creator: @AvalaunchHQ
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-760505450f97) · [finished media](https://video.twimg.com/amplify_video/2019078894532313088/vid/avc1/1242x720/H0dFOuV-q3sD2N_o.mp4?tag=21) · [poster](https://pbs.twimg.com/amplify_video_thumb/2019078894532313088/img/1XqYk1kadiILd42B.jpg) · [original source](https://x.com/AvalaunchHQ/status/2019079758789726628)
-- Summary: @AvalaunchHQ 使用 Nullshot AI完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
-- Prompt excerpt:
-
-> Prompt:
->
-> Create 4-5 large blurred blobs (500px+ diameter) that visibly drift across the screen.
->
-> Each blob moves continuously in a circular or figure-8 path, completing a full cycle in 8-12 seconds (not 30s – that's too slow). Blobs should travel at least 200-300px from their center point so the motion is obvious.
->
-> Use bright blue gradients (#3b82f6, #60a5fa, #93c5fd) at 40-60% opacity with 100px blur. The overall effect should look like a slow-motion lava lamp or colored spotlights gently swimming behind the content.
->
-> Movement must be clearly visible, not subtle.
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D 超市包装式创意机构官网 | @Oluwaphilemon1 | [GoodCase](https://goodcase.ai/cases/3d-8bbc2b408223) | [Media](https://video.twimg.com/amplify_video/2068957430533279746/vid/avc1/720x1280/OFQK-PG8bS8t3VlL.mp4?tag=28) | [Original](https://x.com/Oluwaphilemon1/status/2068957493561045032) | E1 |
-| 极简 AI 顾问个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) | [Media](https://video.twimg.com/amplify_video/2065041410580205568/vid/avc1/1614x720/7F_fL8-C2LLCpt-B.mp4?tag=14) | [Original](https://x.com/shushant_l/status/2065041466951712940) | E2 |
-| AI 婚纱购物与虚拟试穿网站 | @AbhinavGirdhar | [GoodCase](https://goodcase.ai/cases/ai-8a5b6f3e36eb) | [Media](https://pbs.twimg.com/media/GO6bfYHWsAEcAJN.jpg) | [Original](https://x.com/AbhinavGirdhar/status/1796544545594773725) | E3 |
-| AI 摄影工作室预约网站 | @thetripathi58 | [GoodCase](https://goodcase.ai/cases/ai-fef75f8c9cc8) | [Media](https://video.twimg.com/amplify_video/1934581815395684352/vid/avc1/1920x1080/zMDXHz2n9EHUhhbB.mp4?tag=21) | [Original](https://x.com/thetripathi58/status/1934585075242344853) | E4 |
-| AI 编程去模板化 Skill 落地页 | @arjunkshah21 | [GoodCase](https://goodcase.ai/cases/ai-skill-72791ea78cb6) | [Media](https://video.twimg.com/amplify_video/2040294688889143296/vid/avc1/2940x1680/yTZ0Ty6ycGAjU74J.mp4?tag=21) | [Original](https://x.com/arjunkshah21/status/2040296305679839279) | E5 |
-| AntiGravity + Gemini 3.1 落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/antigravity-gemini-3-1-5e49aad75b25) | [Media](https://video.twimg.com/amplify_video/2024831377322160128/vid/avc1/2354x1720/XnHdS5oKAr0D6Lpn.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2024832167164133766) | E6 |
-| 宠物食品电影感滚动网页 | @johannesasgeir | [GoodCase](https://goodcase.ai/cases/case-3a2858de4b42) | [Media](https://video.twimg.com/amplify_video/2076363350171160576/vid/avc1/1920x1080/ZN7c8EmPdjpOXkXk.mp4?tag=28) | [Original](https://x.com/johannesasgeir/status/2076363513803784208) | E7 |
-| 模糊色块动画落地页 | @AvalaunchHQ | [GoodCase](https://goodcase.ai/cases/case-760505450f97) | [Media](https://video.twimg.com/amplify_video/2019078894532313088/vid/avc1/1242x720/H0dFOuV-q3sD2N_o.mp4?tag=21) | [Original](https://x.com/AvalaunchHQ/status/2019079758789726628) | E8 |
-| 极简个人作品集与数字商店 | @shushant_l | [GoodCase](https://goodcase.ai/cases/case-9d30de23150b) | [Media](https://video.twimg.com/amplify_video/2066868462060978176/vid/avc1/1614x720/BE6dH6L8YAevu2Oa.mp4?tag=14) | [Original](https://x.com/shushant_l/status/2066868516104601790) | E— |
-| 浓缩咖啡订阅服务落地页 | @nikhilbhima | [GoodCase](https://goodcase.ai/cases/case-9fdee4d2d483) | [Media](https://video.twimg.com/amplify_video/2045381789733261312/vid/avc1/3840x2160/YZEsyOqGGykOMe5X.mp4?tag=21) | [Original](https://x.com/nikhilbhima/status/2045381925553201173) | E— |
-| 东京软件机构落地页 | @DevBySami | [GoodCase](https://goodcase.ai/cases/case-de484a8b7721) | [Media](https://video.twimg.com/amplify_video/2075940396140486656/vid/avc1/3840x2052/iWXeF8sM4GSi0Wt_.mp4?tag=28) | [Original](https://x.com/DevBySami/status/2075940477946249515) | E— |
-| ChatGPT Image 个人品牌网站视觉稿 | @Preda2005 | [GoodCase](https://goodcase.ai/cases/chatgpt-image-6b1a9b28c881) | [Media](https://pbs.twimg.com/media/HGiGtkdbUAA_6Z9.jpg) | [Original](https://x.com/Preda2005/status/2047034246758637618) | E— |
-| ChatGPT Image 设计转 React Native 网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/chatgpt-image-react-native-3042b25ce192) | [Media](https://video.twimg.com/amplify_video/2059293319994458113/vid/avc1/1902x1350/h9ABBWI075C9Pp83.mp4?tag=27) | [Original](https://x.com/viktoroddy/status/2059294558299766837) | E— |
-| Claude 滚动叙事网站 | @Oluwaphilemon1 | [GoodCase](https://goodcase.ai/cases/claude-426c39387ef4) | [Media](https://video.twimg.com/amplify_video/2064368735561883648/vid/avc1/720x1280/MejVkIgEqBVZX4zG.mp4?tag=27) | [Original](https://x.com/Oluwaphilemon1/status/2064368803006337114) | E— |
-| Claude 自动生成单页动效站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-53a17a454214) | [Media](https://video.twimg.com/ext_tw_video/2040894830901858304/pu/vid/avc1/720x1272/a_aUMCoAo2TC-1Io.mp4?tag=12) | [Original](https://x.com/viktoroddy/status/2040894867153338643) | E— |
-| Claude Code 动画素材库落地页 | @Nil_phy_dreamer | [GoodCase](https://goodcase.ai/cases/claude-code-70e93cdbc884) | [Media](https://video.twimg.com/amplify_video/2038211672742277120/vid/avc1/3820x2160/wNQiJvT5Y7Pyb_7A.mp4?tag=21) | [Original](https://x.com/Nil_phy_dreamer/status/2038213885451194583) | E— |
-| Claude + Codex + Gemini + OpenClaw 重建落地页 | @elvissun | [GoodCase](https://goodcase.ai/cases/claude-codex-gemini-openclaw-ead01ef05e3a) | [Media](https://video.twimg.com/amplify_video/2054168855497306113/vid/avc1/1736x1080/1aKUtSiHFI-ZcbZi.mp4?tag=27) | [Original](https://x.com/elvissun/status/2054168909452869842) | E— |
-| Claude + Fable：Aethera Fintech 落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-fable-aethera-fintech-42f59ca99541) | [Media](https://video.twimg.com/amplify_video/2077365692027060224/vid/avc1/2972x2160/6rwwwebHlulfYW9W.mp4?tag=28) | [Original](https://x.com/viktoroddy/status/2077366050828751274) | E— |
-| Claude + Nano Banana + Kling 动画网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/claude-nano-banana-kling-37787d8ec68d) | [Media](https://video.twimg.com/amplify_video/2042188295376179200/vid/avc1/1526x1728/uT80dVqvhGdiDYq5.mp4?tag=21) | [Original](https://x.com/viktoroddy/status/2042188738818957631) | E— |
-| Claude Opus 5：Dreamer AI 落地页 | @BuilderGuest | [GoodCase](https://goodcase.ai/cases/claude-opus-5-dreamer-ai-44063b9c81c3) | [Media](https://video.twimg.com/amplify_video/2080978054562598912/vid/avc1/2560x1440/9omPD-lF6LTCRlzd.mp4?tag=29) | [Original](https://x.com/BuilderGuest/status/2080978137467265229) | E— |
+| 3D 超市包装式创意机构官网 | @Oluwaphilemon1 | [GoodCase](https://goodcase.ai/cases/3d-8bbc2b408223) | [Media](https://media.goodcase.ai/media/video/3d-8bbc2b408223.mp4) | [Original](https://x.com/Oluwaphilemon1/status/2068957493561045032) | E1 |
+| 3D Jack Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/3d-jack-portfolio) | [Media](https://media.goodcase.ai/cases/49f8aeaa5fab.mp4) | [Original](https://motionsites.ai/?prompt=3d-jack-portfolio-hero) | E2 |
+| 404 Planet | MotionSites | [GoodCase](https://goodcase.ai/cases/404-planet) | [Media](https://media.goodcase.ai/cases/2434b256495a.webp) | [Original](https://motionsites.ai/?prompt=404-planet) | E3 |
+| ADHD Planner | MotionSites | [GoodCase](https://goodcase.ai/cases/adhd-planner) | [Media](https://media.goodcase.ai/cases/d90b913e9e18.mp4) | [Original](https://motionsites.ai/?prompt=adhd-planner) | E4 |
+| Aetheris Voyage | MotionSites | [GoodCase](https://goodcase.ai/cases/aetheris-voyage) | [Media](https://media.goodcase.ai/cases/c836d34ab923.webp) | [Original](https://motionsites.ai/?prompt=aetheris-voyage-hero) | E5 |
+| Agent Grove | MotionSites | [GoodCase](https://goodcase.ai/cases/agent-grove) | [Media](https://media.goodcase.ai/cases/e7a7cd9228f6.mp4) | [Original](https://motionsites.ai/?prompt=agent-grove) | E6 |
+| Agent Wave | MotionSites | [GoodCase](https://goodcase.ai/cases/agent-wave) | [Media](https://media.goodcase.ai/cases/ae8afbd1c466.mp4) | [Original](https://motionsites.ai/?prompt=agent-wave) | E7 |
+| 极简 AI 顾问个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) | [Media](https://media.goodcase.ai/media/video/ai-0f055800c6f5.mp4) | [Original](https://x.com/shushant_l/status/2065041466951712940) | E8 |
+| AI 婚纱购物与虚拟试穿网站 | @AbhinavGirdhar | [GoodCase](https://goodcase.ai/cases/ai-8a5b6f3e36eb) | [Media](https://media.goodcase.ai/media/image/ai-8a5b6f3e36eb.jpg) | [Original](https://x.com/AbhinavGirdhar/status/1796544545594773725) | E— |
+| AI Designer Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-designer-portfolio) | [Media](https://media.goodcase.ai/cases/1095b425fdb4.gif) | [Original](https://motionsites.ai/?prompt=vortex-studio-hero) | E— |
+| AI 摄影工作室预约网站 | @thetripathi58 | [GoodCase](https://goodcase.ai/cases/ai-fef75f8c9cc8) | [Media](https://media.goodcase.ai/media/video/ai-fef75f8c9cc8.mp4) | [Original](https://x.com/thetripathi58/status/1934585075242344853) | E— |
+| AI Runtime | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-runtime) | [Media](https://media.goodcase.ai/cases/c0b6c909f6be.mp4) | [Original](https://motionsites.ai/?prompt=ai-runtime) | E— |
+| AI 编程去模板化 Skill 落地页 | @arjunkshah21 | [GoodCase](https://goodcase.ai/cases/ai-skill-72791ea78cb6) | [Media](https://media.goodcase.ai/media/video/ai-skill-72791ea78cb6.mp4) | [Original](https://x.com/arjunkshah21/status/2040296305679839279) | E— |
+| AI Trip Planner | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-trip-planner) | [Media](https://media.goodcase.ai/cases/b6882c89602f.mp4) | [Original](https://motionsites.ai/?prompt=ai-trip-planner) | E— |
+| AI Workflow Agents | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-workflow-agents) | [Media](https://media.goodcase.ai/cases/db13a05d0f0c.mp4) | [Original](https://motionsites.ai/?prompt=ai-workflow-agents) | E— |
+| AI Workflow Hero | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-workflow-hero) | [Media](https://media.goodcase.ai/cases/9e51fe5b57ba.webp) | [Original](https://motionsites.ai/?prompt=ai-workflow) | E— |
+| Animated Cards | MotionSites | [GoodCase](https://goodcase.ai/cases/animated-cards) | [Media](https://media.goodcase.ai/cases/9cacdc3c42fa.webp) | [Original](https://motionsites.ai/?prompt=animated-cards) | E— |
+| AntiGravity + Gemini 3.1 落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/antigravity-gemini-3-1-5e49aad75b25) | [Media](https://media.goodcase.ai/media/video/antigravity-gemini-3-1-5e49aad75b25.mp4) | [Original](https://x.com/viktoroddy/status/2024832167164133766) | E— |
+| 为客户 AP 打造的代理机构风格网站 | @ardadoteth | [GoodCase](https://goodcase.ai/cases/ap-c081c7d3bae1) | [Media](https://media.goodcase.ai/media/image/ap-c081c7d3bae1.jpg) | [Original](https://x.com/ardadoteth/status/1991203658269090295) | E— |
+| Arceage Stats | MotionSites | [GoodCase](https://goodcase.ai/cases/arceage-stats) | [Media](https://media.goodcase.ai/cases/3f7fd8058c9a.webp) | [Original](https://motionsites.ai/?prompt=arceage-stats) | E— |
 
 ## Derivation boundary
 

@@ -9,7 +9,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E1 · 极简 AI 顾问个人作品集
 
 - Creator: @shushant_l
-- Evidence: [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) · [finished media](https://video.twimg.com/amplify_video/2065041410580205568/vid/avc1/1614x720/7F_fL8-C2LLCpt-B.mp4?tag=14) · [poster](https://pbs.twimg.com/amplify_video_thumb/2065041410580205568/img/zqTS6FctAYgXqWwF.jpg) · [original source](https://x.com/shushant_l/status/2065041466951712940)
+- Evidence: [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) · [finished media](https://media.goodcase.ai/media/video/ai-0f055800c6f5.mp4) · [poster](https://media.goodcase.ai/media/poster/ai-0f055800c6f5.jpg) · [original source](https://x.com/shushant_l/status/2065041466951712940)
 - Summary: @shushant_l 使用 AI Website Builder完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -24,7 +24,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E2 · 极简个人作品集与数字商店
 
 - Creator: @shushant_l
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-9d30de23150b) · [finished media](https://video.twimg.com/amplify_video/2066868462060978176/vid/avc1/1614x720/BE6dH6L8YAevu2Oa.mp4?tag=14) · [poster](https://pbs.twimg.com/amplify_video_thumb/2066868462060978176/img/Wf-i8PE3qwetZ0Tz.jpg) · [original source](https://x.com/shushant_l/status/2066868516104601790)
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-9d30de23150b) · [finished media](https://media.goodcase.ai/media/video/case-9d30de23150b.mp4) · [poster](https://media.goodcase.ai/media/poster/case-9d30de23150b.jpg) · [original source](https://x.com/shushant_l/status/2066868516104601790)
 - Summary: @shushant_l 使用 AI Website Builder完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -39,7 +39,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E3 · Neo Brutalism 个人作品集
 
 - Creator: @shushant_l
-- Evidence: [GoodCase](https://goodcase.ai/cases/neo-brutalism-57ba09899348) · [finished media](https://video.twimg.com/amplify_video/2064679046638952449/vid/avc1/1504x720/dodk0o954XFlMh4t.mp4?tag=14) · [poster](https://pbs.twimg.com/amplify_video_thumb/2064679046638952449/img/vcc_zEXgb4ag9KAC.jpg) · [original source](https://x.com/shushant_l/status/2064679099571089727)
+- Evidence: [GoodCase](https://goodcase.ai/cases/neo-brutalism-57ba09899348) · [finished media](https://media.goodcase.ai/media/video/neo-brutalism-57ba09899348.mp4) · [poster](https://media.goodcase.ai/media/poster/neo-brutalism-57ba09899348.jpg) · [original source](https://x.com/shushant_l/status/2064679099571089727)
 - Summary: @shushant_l 使用 AI Website Builder完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -54,7 +54,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E4 · Netflix 风格 3D 个人作品集
 
 - Creator: @shushant_l
-- Evidence: [GoodCase](https://goodcase.ai/cases/netflix-3d-24f0ad08356a) · [finished media](https://video.twimg.com/amplify_video/2062867122695675904/vid/avc1/1504x720/q8-_FSd-xsvAi2xH.mp4?tag=14) · [poster](https://pbs.twimg.com/amplify_video_thumb/2062867122695675904/img/9IsS6Syj2StKdEHp.jpg) · [original source](https://x.com/shushant_l/status/2062867179838767405)
+- Evidence: [GoodCase](https://goodcase.ai/cases/netflix-3d-24f0ad08356a) · [finished media](https://media.goodcase.ai/media/video/netflix-3d-24f0ad08356a.mp4) · [poster](https://media.goodcase.ai/media/poster/netflix-3d-24f0ad08356a.jpg) · [original source](https://x.com/shushant_l/status/2062867179838767405)
 - Summary: @shushant_l 使用 AI Website Builder完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -69,7 +69,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 ### E5 · Neumorphism 个人作品集
 
 - Creator: @shushant_l
-- Evidence: [GoodCase](https://goodcase.ai/cases/neumorphism-66a99d4e6a85) · [finished media](https://video.twimg.com/amplify_video/2067215732929384448/vid/avc1/1614x720/rd-kNvTB7yc949p8.mp4?tag=14) · [poster](https://pbs.twimg.com/amplify_video_thumb/2067215732929384448/img/EzZGBc5yQWcs7ewN.jpg) · [original source](https://x.com/shushant_l/status/2067215788654940307)
+- Evidence: [GoodCase](https://goodcase.ai/cases/neumorphism-66a99d4e6a85) · [finished media](https://media.goodcase.ai/media/video/neumorphism-66a99d4e6a85.mp4) · [poster](https://media.goodcase.ai/media/poster/neumorphism-66a99d4e6a85.jpg) · [original source](https://x.com/shushant_l/status/2067215788654940307)
 - Summary: @shushant_l 使用 AI Website Builder完成的网页案例，包含公开结果、完整 Prompt 与原始来源。
 - Prompt excerpt:
 
@@ -85,11 +85,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 极简 AI 顾问个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) | [Media](https://video.twimg.com/amplify_video/2065041410580205568/vid/avc1/1614x720/7F_fL8-C2LLCpt-B.mp4?tag=14) | [Original](https://x.com/shushant_l/status/2065041466951712940) | E1 |
-| 极简个人作品集与数字商店 | @shushant_l | [GoodCase](https://goodcase.ai/cases/case-9d30de23150b) | [Media](https://video.twimg.com/amplify_video/2066868462060978176/vid/avc1/1614x720/BE6dH6L8YAevu2Oa.mp4?tag=14) | [Original](https://x.com/shushant_l/status/2066868516104601790) | E2 |
-| Neo Brutalism 个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/neo-brutalism-57ba09899348) | [Media](https://video.twimg.com/amplify_video/2064679046638952449/vid/avc1/1504x720/dodk0o954XFlMh4t.mp4?tag=14) | [Original](https://x.com/shushant_l/status/2064679099571089727) | E3 |
-| Netflix 风格 3D 个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/netflix-3d-24f0ad08356a) | [Media](https://video.twimg.com/amplify_video/2062867122695675904/vid/avc1/1504x720/q8-_FSd-xsvAi2xH.mp4?tag=14) | [Original](https://x.com/shushant_l/status/2062867179838767405) | E4 |
-| Neumorphism 个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/neumorphism-66a99d4e6a85) | [Media](https://video.twimg.com/amplify_video/2067215732929384448/vid/avc1/1614x720/rd-kNvTB7yc949p8.mp4?tag=14) | [Original](https://x.com/shushant_l/status/2067215788654940307) | E5 |
+| 极简 AI 顾问个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) | [Media](https://media.goodcase.ai/media/video/ai-0f055800c6f5.mp4) | [Original](https://x.com/shushant_l/status/2065041466951712940) | E1 |
+| 极简个人作品集与数字商店 | @shushant_l | [GoodCase](https://goodcase.ai/cases/case-9d30de23150b) | [Media](https://media.goodcase.ai/media/video/case-9d30de23150b.mp4) | [Original](https://x.com/shushant_l/status/2066868516104601790) | E2 |
+| Neo Brutalism 个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/neo-brutalism-57ba09899348) | [Media](https://media.goodcase.ai/media/video/neo-brutalism-57ba09899348.mp4) | [Original](https://x.com/shushant_l/status/2064679099571089727) | E3 |
+| Netflix 风格 3D 个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/netflix-3d-24f0ad08356a) | [Media](https://media.goodcase.ai/media/video/netflix-3d-24f0ad08356a.mp4) | [Original](https://x.com/shushant_l/status/2062867179838767405) | E4 |
+| Neumorphism 个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/neumorphism-66a99d4e6a85) | [Media](https://media.goodcase.ai/media/video/neumorphism-66a99d4e6a85.mp4) | [Original](https://x.com/shushant_l/status/2067215788654940307) | E5 |
 
 ## Derivation boundary
 

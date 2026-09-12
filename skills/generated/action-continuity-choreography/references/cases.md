@@ -1,15 +1,62 @@
 # Case evidence
 
-This workflow is derived from 17 published Cases across 14 creators.
+This workflow is derived from 32 published Cases across 29 creators.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 魔幻都市奇幻战斗动画
+### E1 · 御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5）
 
-- Creator: mayv@簡単プロ級プロンプト公開中！
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) · [finished media](https://cms-assets.youmind.com/media/1785049217777_wnhhok_Magic-City-Fantasy-Battle-Animation.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2080976313041780736/img/AsrBL93Dtkv5Oj1r.jpg) · [original source](https://x.com/i/status/2080976327231107259)
+- Creator: 袋鼠帝
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a) · [finished media](https://media.goodcase.ai/cases/bcf271199025.mp4) · [poster](https://media.goodcase.ai/cases/c5e8fdb6d69a.jpg) · [original source](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-3dcg-battle)
+- Summary: 同一篇横评文章第三个场景：修仙武者御剑战穷奇巨兽，3D CG 高精度建模仙侠特效战斗，参考《灵笼》《凡人修仙传》质感，含分五剑封印、结印施法、雷霆法阵七个分镜与详细配乐时间轴。作者评价 Seedance 2.5 整体表现不错，运镜、特效和大场景达 SOTA 级别，仅巨剑分身处略有穿帮。
+- Prompt excerpt:
+
+> 人设修仙武者：年轻男性，身姿挺拔，气质清冷出尘、仙风道骨；御剑飞行双脚踏着巨剑剑身上，处于战斗施法状态，先后单手结印、双手结印。足下巨剑：宽大厚重，剑身泛寒光，可一分为五，在修仙武者脚下呈扇形展开。巨型妖兽：穷奇外形的庞然巨兽，体型如小山般巨大，四足粗壮、巨爪如柱；处于发狂肆虐状态，四爪先后被锁、挣扎咆哮。场景玄幻仙侠架空世界，一片人迹罕至的荒山野地作为主要空间环境参考，开阔荒原，远处连绵荒山轮廓，偶有碎石与低矮枯木。战斗后期巨兽头顶上空汇聚雷云。画面风格3D CG 高精度建模动画，国漫精品剧集质感；玄幻仙侠题材，写实 CG 建模与毛发皮肤细节，仙术法阵与雷霆特效能量感强烈；宏大战斗场面调度，史诗感。影调开阔荒原大场景、宏大空间纵深；主发光源来自法术能量：巨剑分身寒光、金色法阵明亮金辉自地面向上映照巨兽身型、白紫色雷霆爆裂闪光；雷云汇聚后环境被云层阴影笼罩、明暗对比加剧，法阵金光与雷光交替勾勒妖兽与武者的轮廓；妖兽挣扎时尘土飞扬、暗部细节增多。视觉参考参考国漫《灵笼》《凡人修仙传》CG 剧集视觉质感：高精度角色建模、材质与光影写实、仙术特效的能量流动与光效层次、大场景运镜调度。全局约束无字幕、禁止生成字幕。分镜1，0s-2s，大远景，固定镜头，高机位轻微俯拍，从年轻修仙武者身后拍摄，武者脚踏巨剑剑身御剑悬停在空中位于画面的左上角，镜头视线聚焦下方的荒原野地：一头穷奇外形的巨型妖兽正在荒地上发狂肆虐，挥动巨爪拍碎地面、仰头咆哮，扬起大片尘土碎石；音效：妖兽低沉咆哮、爪击地面的闷响、碎石飞溅声。分镜2，2s-4s，中近景，固定镜头，聚焦悬停空中的武者上半身近景，武者目光一凝，随即抬手单手结印，口唇快速念出咒语「分则能成！」；音效：低沉咒语吟诵声。分镜3，4s-5s，切换武者脚下巨剑特写，固定镜头，脚下的巨剑剑身泛起光纹、嗡鸣震动，随即一分为五，在修仙武者脚下呈扇形展开，巨剑本体仍位于武者脚下；音效：剑身震颤金属嗡鸣。分镜4，5s-8s，大远景→妖兽四只巨爪的局部中景，荷兰角，快速跟拍，镜头紧密跟随四把分身巨剑的飞射轨迹跟拍。四把分身巨剑如流光般疾速飞射而下，分别命中妖兽四只巨爪，击中瞬间化作虚灵形态的灵光锁链缠绕锁紧四爪；妖兽四爪被锁、挣扎甩动却无法挣脱，仰头怒吼；音效：剑气破空声、锁链缠绕铮鸣、妖兽挣扎怒吼、地面震颤闷响。分镜5，8s-10s，特写，固定镜头，聚焦武者胸前结印的双手。高空中的武者双手抬起、十指交叠快速多次结印，法力凝聚的微光在掌间亮起，随即放声暴喝；对白：修仙武者（怒喝）：「雷光咒！」；音效：灵力汇聚的低沉嗡鸣、武者暴喝声、妖兽持续咆哮。分镜6，10s-11s，全景，仰拍后拉。妖兽脚下的地面骤然亮起一个与它身型投影同样巨大的金色法阵，符文旋转展开、金光上涌，将挣扎的妖兽笼罩其中；音效：法阵启动的深沉轰鸣、能量流动的嗡嗡声。分镜7，11s-15s，大远景，仰拍。妖兽头顶上空乌云迅速汇聚，雷云翻滚、电光在云层中窜动，天色骤然压暗；一道巨大白紫色雷霆从乌云中迸发，自天而降击中巨兽身体，法阵金光与雷光同时爆发，妖兽身形被耀眼光芒吞没、剧烈震颤；音效：雷云翻滚闷响、电流滋啦声、雷霆炸裂巨响、轰鸣回响、大地震动。全局配乐：纯音乐 + 无词吟唱0s-2s：琵琶轮指 + 二胡紧张颤音长音，低音提琴拨弦脉冲；旋律短促、小二度游移（不安定感），音量中等、密度低2s-4s：琵琶扫弦 + 古筝十六分音符急奏，堂鼓+小钹进入密集节奏层，弦乐群齐奏推高4s-5s：大鼓滚奏渐密，铜管短促强音（"锁"的动作感），低频持续音垫底；妖兽咆哮处配乐主动让位——音量降、减旋律密度，给咆哮音效留空间5s-8s：只留低频持续音 + 箫孤音。打击乐静默、旋律消失8s-10s：古筝泛音 + 弦乐长音渐强，无词女声"啊——"进入（非歌词）；和声从暗小调切向明亮大三和弦的临时离调…
+
+### E2 · Seedance 2.5 地下设施超写实动作戏
+
+- Creator: @AiwithElisia
+- Evidence: [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-0084e9601557) · [finished media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-0084e9601557.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-0084e9601557.jpg) · [original source](https://x.com/AiwithElisia/status/2089580979560337437)
+- Summary: Made with seedance 2.5 Prompt: Create a cinematic, ultra-realistic action movie scene inside a large underground parking
+- Prompt excerpt:
+
+> Create a cinematic, ultra-realistic action movie scene inside a large underground parking garage at night. A beautiful young woman with long dark brown hair, wearing a black leather jacket, fitted white crop top, black mini skirt, black tights and black ankle boots, walks confidently through the parking area. Several aggressive male attackers suddenly approach her from different directions.
+>
+> She immediately fights them with fast, powerful martial-arts movements. Show realistic hand-to-hand combat, punches, blocks, dodges, kicks and throws. Include a close-up of her punching a male attacker in the face, his head reacting naturally to the impact, followed by dynamic wide shots of her fighting multiple attackers simultaneously.
+>
+> Use parked black and silver cars, concrete pillars, underground parking signs, wet reflective floor and cinematic practical lighting in the background. Add dramatic blue and warm orange lighting, realistic shadows, subtle atmospheric haze and reflections on the cars.
+>
+> Camera style: cinematic Hollywood action film, dynamic handheld camera, smooth tracking shots, low-angle shots, wide establishing shots, medium shots and dramatic close-ups. Add realistic motion blur during fast movements, natural hair movement, realistic clothing physics and convincing fight choreography.
+>
+> The woman should remain visually consistent throughout the entire video, with the same face, hairstyle, outfit and body proportions. The attackers should also remain realistic and consistent.
+>
+> Ultra-realistic human skin, detailed facial expressions, physically accurate movement, realis…
+
+### E3 · 韩国夏日巷弄里的橙子追逐
+
+- Creator: @AIwithkhan
+- Evidence: [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-caefe71f7aab) · [finished media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-caefe71f7aab.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-caefe71f7aab.jpg) · [original source](https://x.com/AIwithkhan/status/2093659312212291914)
+- Summary: Friend from Korea Seedance 2.5 on PolloAI Prompt : Young Korean woman in her early 20s, naturally attractive, realistic
+- Prompt excerpt:
+
+> Young Korean woman in her early 20s, naturally attractive, realistic skin texture, minimal makeup, relaxed personality. Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-pink short top, loose cream pajama-style pants, white sneakers and a simple silver necklace. Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.
+> SECOND WOMAN
+> Another young Korean woman in her early 20s, naturally attractive and casual, with long dark hair loosely tied back. She wears a fitted pastel-yellow short top, light denim shorts, white sneakers and a simple necklace. She has a friendly, natural appearance and must remain visually consistent throughout her appearance.
+> LOCATION
+> A quiet older Korean residential neighborhood during a bright summer afternoon. Narrow concrete lanes, small houses, potted plants, bicycles, old walls, utility poles, overhead wires and a tiny neighborhood grocery shop.
+> CAMERA / VISUAL STYLE
+> Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder. Strong handheld shake, imperfect framing, autofocus hunting, faded colors, soft digital detail, exposure shifts, mild digital noise, occasional motion blur and accidental zooms.
+> No stabilization, drone footage, gimbal movement or polished commercial cinematography.
+> — LEAVING THE SHOP
+> The main woman walks out of a tiny neighborhood grocery shop carrying a reusable shopping bag filled with vegetables, bread and several oranges.
+> She smiles toward the camera and starts wal…
+
+### E4 · 魔幻都市奇幻战斗动画
+
+- Creator: @haruuraeadss
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) · [finished media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) · [poster](https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg) · [original source](https://x.com/haruuraeadss/status/2080976327231107259)
 - Summary: 一个设定在雨中魔幻都市的史诗级高奇幻动漫战斗提示词。包含涉及多个魔法门和针对巨龙的射线攻击等复杂视觉特效，侧重于影院级质量和 3D 卡通渲染美学。
 - Prompt excerpt:
 
@@ -30,10 +77,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 【攻撃展開】
 > 開始時、主人公の掌前に主ゲートが形成される。二層から四層の不完全な同心円ゲートで、各リングは前…
 
-### E2 · 赛博朋克赛博之刃战斗
+### E5 · 赛博朋克赛博之刃战斗
 
-- Creator: LUCY
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) · [finished media](https://cms-assets.youmind.com/media/1784963146660_4j1xoj_Cyberpunk-Cyber-Blade-Combat.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2080623937562787840/img/5V2H-SYnUsNlbXCH.jpg) · [original source](https://x.com/i/status/2080628740955218120)
+- Creator: @luxaios
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) · [finished media](https://media.goodcase.ai/media/video/case-1a9a2c659866.mp4) · [poster](https://media.goodcase.ai/media/poster/case-1a9a2c659866.jpg) · [original source](https://x.com/luxaios/status/2080628740955218120)
 - Summary: 一个为 Seedance 2.0 设计的电影级战斗提示词，主角是一位身处反乌托邦工业城市的银发青年，展现精准的剑术动作和数字粒子特效。
 - Prompt excerpt:
 
@@ -61,10 +108,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Visual style: ultra realistic,…
 
-### E3 · 动画海盗动作序列
+### E6 · 动画海盗动作序列
 
-- Creator: Shara I Ai Video Creator
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) · [finished media](https://cms-assets.youmind.com/media/1784704007578_rq4lh3_Animated-Pirate-Action-Sequence.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2079565430973435904/img/NH4eTEPPXq_iv1Jx.jpg) · [original source](https://x.com/i/status/2079565454436426187)
+- Creator: @itsshara_ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) · [finished media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg) · [original source](https://x.com/itsshara_ai/status/2079565454436426187)
 - Summary: 一个风格化的 2D 动画提示词，用于表现暴风雨中大帆船上的高强度海盗战斗序列，包含多个角色视角和快节奏动作。
 - Prompt excerpt:
 
@@ -80,10 +127,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > (0:04.2–0:05.4) THE QUARTERMASTER draws his knife in one fluid, practiced motion, his scarred fa…
 
-### E4 · 凤凰骑士变身序列
+### E7 · 凤凰骑士变身序列
 
-- Creator: LudovicCreator
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) · [finished media](https://cms-assets.youmind.com/media/1785049181611_6tog9c_Phoenix-Knight-Transformation-Sequence.mp4) · [poster](https://pbs.twimg.com/ext_tw_video_thumb/2081092138427666432/pu/img/fcwE-BLOIFqdE5DM.jpg) · [original source](https://x.com/i/status/2081092171428401560)
+- Creator: @LudovicCreator
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) · [finished media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg) · [original source](https://x.com/LudovicCreator/status/2081092171428401560)
 - Summary: 一段详细的魔法变身序列电影级提示词，尽管文中将其归功于其他模型。
 - Prompt excerpt:
 
@@ -91,84 +138,73 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Made  in @LumaLabsAI #LumaCPP
 
-### E5 · 武术对决电影感场景
+### E8 · 屋顶追逐动作短语
 
-- Creator: zayan
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-79df387a127e) · [finished media](https://cms-assets.youmind.com/media/1785049183413_4hyf2c_Martial-Arts-Duel-Cinematic-Scene.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2080905114790113280/img/0_4DK_-9vA-pvd6m.jpg) · [original source](https://x.com/i/status/2080905186055467029)
-- Summary: 一个关于在废墟寺庙中进行高强度武术对决的详细电影感提示词，包含写实的战斗机制和动态运镜。
-- Prompt excerpt:
-
-> Style: Brutal martial arts duel, no weapons, realistic combat, elite warrior level, lightning-fast choreography, readable action, no comedy, no floating, no anime physics, every hit carries weight and momentum.
->
-> Cinematic Style: ARRI Alexa Mini LF, anamorphic lens, professional action cinematography, dynamic camera language, layered composition, deep composition, high-speed action film pacing, cinematic motion blur, dramatic volumetric lighting, dust, debris, realistic body mechanics.
->
-> Shot 1 (0s-2s)
-> Extreme wide shot, ruined stone temple interior, foreground broken pillars framing both fighters on opposite sides of the frame using rule-of-thirds composition. Low-angle push-in. Wind blows through the temple. Both warriors instantly explode into motion and sprint toward each other at full speed.
->
-> Shot 2 (2s-4s)
-> Tracking side shot. @image1 launches a flying spinning kick. @image2 ducks underneath at the last second. Camera whip-pans with the movement. Dust erupts from the floor. Fast but readable action.
->
-> Shot 3 (4s-6s)
-> Dynamic orbit shot. @image2 grabs @image1's leg mid-air, pivots his hips, and throws him across the temple floor. @image1 lands on one hand, uses the momentum to perform a full backflip recovery without stopping. Camera follows continuously.
->
-> Shot 4 (6s-8s)
-> Split lens composition. @image1 sharp in foreground charging forward while @image2 remains equally sharp in the distant background preparing a counterattack. Both collide in a rapid exchange of punches, elbows, knees, and spinning strikes. Camera aggressively pushes through the action.
->
-> Shot 5 (8s-10s)
-> Low-…
-
-### E6 · 屋顶追逐动作短语
-
-- Creator: LANDCÄSTER
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) · [finished media](https://cms-assets.youmind.com/media/1785136864909_l2z6ko_Rooftop-Chase-Motion-Phrases.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2081430812478648321/img/pwFavlWPVRBG5Iol.jpg) · [original source](https://x.com/i/status/2081432738683314614)
+- Creator: @LANDCASTER_92
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) · [finished media](https://media.goodcase.ai/media/video/case-8f7479c32251.mp4) · [poster](https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg) · [original source](https://x.com/LANDCASTER_92/status/2081432738683314614)
 - Summary: 针对 Seedance 2.0 的详细动作短语，描述了一个角色在聚光灯下于屋顶边缘蹲伏并跃过缝隙的追逐场景。
 - Prompt excerpt:
 
+> Urban Escape Scene
+>
+> Models ( GPT Image-2 + Seedance 2.0)
+>
+> Seedance Prompts 2/3
+>
+> MOTION PHRASES:
+>
 > P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
 >
 > P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
 >
-> P03: Hard landing
-
-### E7 · 电影级未来感动漫剑术对决
-
-- Creator: mayv@簡単プロ級プロンプト公開中！
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) · [finished media](https://cms-assets.youmind.com/media/1785136880977_27eqqf_Cinematic-Futuristic-Anime-Sword-Fight.mp4) · [poster](https://pbs.twimg.com/amplify_video_thumb/2081317555625746432/img/P5vDa1huuX9bOtq3.jpg) · [original source](https://x.com/i/status/2081317622927577411)
-- Summary: 一个针对未来城市背景的极度详尽动漫战斗提示词，涵盖了镜头角度、角色一致性以及节奏感十足的战斗编排。
-- Prompt excerpt:
-
-> 高品質アニメ映像。高密度3Dトゥーン／セルルックによる、近未来学園都市型・映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。@1は冷静で圧倒的な格上、@2は速度と手数で挑む挑戦者。攻撃、弾き、反力による反撃、最大衝突を切れ目なくつなぐ。【参照画像と人物固定】@1参照画像と**@2参照画像を、それぞれ別人として読み取る。参照画像は顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、既存武器意匠の維持だけに使う。参照画像の背景、部屋、家具、文字、分割レイアウト、ポーズ、構図、画角、フレーミングは再現しない。二人は全編でそれぞれ同じ一人、same person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。顔の平均化、特徴混合、髪色交換、衣装交換、武器交換、別人化、クローン化、分身、余計な人物の追加は禁止。参照画像から各人物の主色、補助色、差し色、素材感、装飾モチーフ、世界観を抽出し、以後@1固有色、@2固有色**として使う。色は二人の間で交換しない。背景、小物、発光誘導線、床反射、空気、蒸気、照明、エフェクトは、固定された舞台構造を維持したまま、二人の衣装・装飾・性格・世界観へ調和するよう再設計する。ただし戦闘の流れ、位置関係、接触点、カメラ順序は変更しない。【画風固定】細く繊細な色付き輪郭線。顔、髪、衣装、装備に明快な二段から三段のセルシェーディングと透明感のある中間影。参照画像の固有色を澄んだ高彩度で使い、瞳と髪に多層ハイライト。顔、髪束、刺繍、装飾、金属、宝石、武器装具まで高密度。布、革、金属、宝石、濡れた床、ガラスを異なる反射と粗さで描き分ける。各人物の固有色をキーライトと影色に使い、背景は人物より一段暗く抑える。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、成熟化、滑らかなプラスチックCG、半写実、写実、低密度背景、くすんだ色、画風混合にしない。【舞台・雰囲気】雨上がりの近未来学園都市、夕暮れの濡れた屋上演習場。発光誘導線、床の色付き反射、高層校舎、ガラス壁、都市スカイライン、薄い蒸気。二人以外は無人。建築装飾、床紋様、手すり、照明器具、訓練設備、遠景広告の抽象模様は参照人物のモチーフへ合わせるが、文字、ロゴ、UIは出さない。【カメラ】固定横視点ではなく、@2を追う床すれすれの低い三分の四、@1の胸上の斜め前、@1の肩越し、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを順番に使う。カメラと背景が回り、人物を無意味に回転させない。【武器固定】二人はそれぞれ一本だけの刀を持ち、合計二本。参照画像に武器がある場合は形状、長さ、装飾、配色を維持し、刀剣でない場合はその意匠を継承した一振りの刀として再設計する。全Cutで本数、刀身、鍔、柄、鞘、房飾りの接続を固定する。手は鍔より後ろの柄だけを握る。刀身、鍔、柄を一体の武器として肩、肘、腰、支持脚から動かし、刀身や切っ先だけを回転させない。@1は弾きの瞬間だけ右手で柄を腰近くに保持し、左人差し指を使う。@2は刀を両手で保持する。【動き】Cut 1：直前クリップ末尾の**@1固有色の水平斬撃光がレンズ前を横切る瞬間から開始。光は刀の掃引面に密着した湾曲残光で、独立レーザーではない。光が抜けると、カメラは@2の左後方、床すれすれの低い三分の四位置へ接続する。@2は左足で濡れた床を蹴り、両手の刀で@1の右肩口へ右上から左下の斜め振り下ろしを放つ。水滴、髪、布が加速と逆方向へ遅れてなびく。@2固有色**の刀光がレンズを覆い、次の近距離カットへの遮蔽ワイプになる。Cut 2：@2の刀光が抜け…
-
-### E8 · 废墟之桥上的史诗骑士之战
-
-- Creator: Pierrick Chevallier | IA
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-b1405ee458d3) · [finished media](https://cms-assets.youmind.com/media/1785049183879_xo99hi_Epic-Knight-Battle-on-Ruined-Bridge.mp4) · [poster](https://pbs.twimg.com/ext_tw_video_thumb/2081031721701502976/pu/img/lAMEXKh3KUb961lC.jpg) · [original source](https://x.com/i/status/2081031751598535092)
-- Summary: 一个史诗奇幻战斗场景的电影级视频提示词，讲述了一位久经沙场的骑士在雷雨中，于一座即将坍塌的桥上独自面对敌军的故事。
-- Prompt excerpt:
-
-> A battle-worn knight in blackened plate armor stands alone on a ruined stone bridge above a bottomless canyon as an army of orcs, trolls and armored war beasts charges through a thunderstorm, the knight lowers a massive glowing sword, sprints into the first ranks, cuts through shields, slides beneath a giant’s axe and climbs onto the creature’s back while lightning tears across the sky; the bridge begins collapsing under the weight of the army, forcing the knight to leap between falling sections, drive the sword into the giant’s skull and release a wave of blue magical energy through the ancient stones; begin with an immense ultra-wide aerial view of the bridge and approaching army, descend into a low-angle tracking shot beside the knight, transition into brutal handheld combat, sharp telephoto impacts and brief slow motion during the final leap, cold moonlight mixed with orange fire, rain, sparks, flying rubble and volumetric mist, desperate mythic atmosphere, ending with the bridge exploding into glowing fragments beneath the invading army while the knight lands safely on the opposite cliff, silhouetted against a colossal lightning strike.
+> P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
+>
+> P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
+>
+> P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
+>
+> P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
+>
+> P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
+>
+> P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
+>
+> P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
+>
+> Seedance Prompts 3/3
+>
+> MOTION PHRASES:
+>
+> P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
+>
+> P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
+>
+> P03: Vex cuts into a narrow market alley, threading betw…
 
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 魔幻都市奇幻战斗动画 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://cms-assets.youmind.com/media/1785049217777_wnhhok_Magic-City-Fantasy-Battle-Animation.mp4) | [Original](https://x.com/i/status/2080976327231107259) | E1 |
-| 赛博朋克赛博之刃战斗 | LUCY | [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) | [Media](https://cms-assets.youmind.com/media/1784963146660_4j1xoj_Cyberpunk-Cyber-Blade-Combat.mp4) | [Original](https://x.com/i/status/2080628740955218120) | E2 |
-| 动画海盗动作序列 | Shara I Ai Video Creator | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://cms-assets.youmind.com/media/1784704007578_rq4lh3_Animated-Pirate-Action-Sequence.mp4) | [Original](https://x.com/i/status/2079565454436426187) | E3 |
-| 凤凰骑士变身序列 | LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://cms-assets.youmind.com/media/1785049181611_6tog9c_Phoenix-Knight-Transformation-Sequence.mp4) | [Original](https://x.com/i/status/2081092171428401560) | E4 |
-| 武术对决电影感场景 | zayan | [GoodCase](https://goodcase.ai/cases/case-79df387a127e) | [Media](https://cms-assets.youmind.com/media/1785049183413_4hyf2c_Martial-Arts-Duel-Cinematic-Scene.mp4) | [Original](https://x.com/i/status/2080905186055467029) | E5 |
-| 屋顶追逐动作短语 | LANDCÄSTER | [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) | [Media](https://cms-assets.youmind.com/media/1785136864909_l2z6ko_Rooftop-Chase-Motion-Phrases.mp4) | [Original](https://x.com/i/status/2081432738683314614) | E6 |
-| 电影级未来感动漫剑术对决 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) | [Media](https://cms-assets.youmind.com/media/1785136880977_27eqqf_Cinematic-Futuristic-Anime-Sword-Fight.mp4) | [Original](https://x.com/i/status/2081317622927577411) | E7 |
-| 废墟之桥上的史诗骑士之战 | Pierrick Chevallier \| IA | [GoodCase](https://goodcase.ai/cases/case-b1405ee458d3) | [Media](https://cms-assets.youmind.com/media/1785049183879_xo99hi_Epic-Knight-Battle-on-Ruined-Bridge.mp4) | [Original](https://x.com/i/status/2081031751598535092) | E8 |
-| 多元宇宙维度传送门坠落 | Nabab Uddin | [GoodCase](https://goodcase.ai/cases/case-b8e777843103) | [Media](https://cms-assets.youmind.com/media/1784704027306_bg0uni_Multiverse-Dimensional-Portal-Fall.mp4) | [Original](https://x.com/i/status/2079428121133240602) | E— |
-| 角斗场决斗动作 | Hero Syndicate | [GoodCase](https://goodcase.ai/cases/case-c0cf557563b7) | [Media](https://cms-assets.youmind.com/media/1785049192472_xtdgj0_Gladiator-Arena-Duel-Action.mp4) | [Original](https://x.com/i/status/2081137523536109682) | E— |
-| 电影级动漫魔法剑战 | mayv@簡単プロ級プロンプト公開中！ | [GoodCase](https://goodcase.ai/cases/case-c32e6c3bb2c5) | [Media](https://cms-assets.youmind.com/media/1784963147254_e3sw4a_Cinematic-Anime-Magic-Sword-Battle.mp4) | [Original](https://x.com/i/status/2080539077603172597) | E— |
-| 传奇骑士堡垒之战 | Pierrick Chevallier \| IA | [GoodCase](https://goodcase.ai/cases/case-c726edc4268d) | [Media](https://cms-assets.youmind.com/media/1784876130668_rdmc8k_Legendary-Knight-Fortress-Battle.mp4) | [Original](https://x.com/i/status/2080306973220725206) | E— |
-| 夜间追逐电影级镜头 | BMX | [GoodCase](https://goodcase.ai/cases/case-d30f8318a084) | [Media](https://cms-assets.youmind.com/media/1785049186370_ptnxnj_Night-Pursuit-Cinematic-Chase.mp4) | [Original](https://x.com/i/status/2081091640857702427) | E— |
-| 黑板火柴人空手道对决 | MrDejie | [GoodCase](https://goodcase.ai/cases/case-de248f679b06) | [Media](https://cms-assets.youmind.com/media/1784704041638_b9eufk_Chalkboard-Stick-Figure-Karate-Battle.mp4) | [Original](https://x.com/i/status/2079463899305476233) | E— |
-| 武术巷战场景 | KeorUnreal | [GoodCase](https://goodcase.ai/cases/case-f7e7c1862f38) | [Media](https://cms-assets.youmind.com/media/1785136865023_wnku1n_Martial-Arts-Alley-Fight-Scene.mp4) | [Original](https://x.com/i/status/2081477878349246776) | E— |
-| 梅林元素功夫表演 | @aimikoda | [GoodCase](https://goodcase.ai/cases/real-case-06-aimikoda) | [Media](https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.mp4) | [Original](https://x.com/aimikoda/status/2054460932068200517) | E— |
-| YAML 跑酷电影级序列 | 田中勇道 \| AI画像・動画生成 | [GoodCase](https://goodcase.ai/cases/yaml-629d172a4820) | [Media](https://cms-assets.youmind.com/media/1784790599422_b3yh2j_YAML-Parkour-Cinematic-Sequence.mp4) | [Original](https://x.com/i/status/2079900274064490842) | E— |
+| 御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5） | 袋鼠帝 | [GoodCase](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a) | [Media](https://media.goodcase.ai/cases/bcf271199025.mp4) | [Original](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-3dcg-battle) | E1 |
+| Seedance 2.5 地下设施超写实动作戏 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-0084e9601557) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-0084e9601557.mp4) | [Original](https://x.com/AiwithElisia/status/2089580979560337437) | E2 |
+| 韩国夏日巷弄里的橙子追逐 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-caefe71f7aab) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-caefe71f7aab.mp4) | [Original](https://x.com/AIwithkhan/status/2093659312212291914) | E3 |
+| 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E4 |
+| 赛博朋克赛博之刃战斗 | @luxaios | [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) | [Media](https://media.goodcase.ai/media/video/case-1a9a2c659866.mp4) | [Original](https://x.com/luxaios/status/2080628740955218120) | E5 |
+| 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E6 |
+| 凤凰骑士变身序列 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/LudovicCreator/status/2081092171428401560) | E7 |
+| 屋顶追逐动作短语 | @LANDCASTER_92 | [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) | [Media](https://media.goodcase.ai/media/video/case-8f7479c32251.mp4) | [Original](https://x.com/LANDCASTER_92/status/2081432738683314614) | E8 |
+| 电影级未来感动漫剑术对决 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) | [Media](https://media.goodcase.ai/media/video/case-a9ab0266f96a.mp4) | [Original](https://x.com/haruuraeadss/status/2081317622927577411) | E— |
+| 废墟之桥上的史诗骑士之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-b1405ee458d3) | [Media](https://media.goodcase.ai/media/video/case-b1405ee458d3.mp4) | [Original](https://x.com/CharaspowerAI/status/2081031751598535092) | E— |
+| 多元宇宙维度传送门坠落 | @NababUddin2 | [GoodCase](https://goodcase.ai/cases/case-b8e777843103) | [Media](https://media.goodcase.ai/media/video/case-b8e777843103.mp4) | [Original](https://x.com/NababUddin2/status/2079428121133240602) | E— |
+| 角斗场决斗动作 | @viperstudios4 | [GoodCase](https://goodcase.ai/cases/case-c0cf557563b7) | [Media](https://media.goodcase.ai/media/video/case-c0cf557563b7.mp4) | [Original](https://x.com/viperstudios4/status/2081137523536109682) | E— |
+| 电影级动漫魔法剑战 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-c32e6c3bb2c5) | [Media](https://media.goodcase.ai/media/video/case-c32e6c3bb2c5.mp4) | [Original](https://x.com/haruuraeadss/status/2080539077603172597) | E— |
+| 传奇骑士堡垒之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-c726edc4268d) | [Media](https://media.goodcase.ai/media/video/case-c726edc4268d.mp4) | [Original](https://x.com/CharaspowerAI/status/2080306973220725206) | E— |
+| 珠宝精品店武术动作大片 | @mimu_ai1 | [GoodCase](https://goodcase.ai/cases/case-d0f11d1ff17c) | [Media](https://media.goodcase.ai/cases/829eb48c60a3.mp4) | [Original](https://x.com/mimu_ai1/status/2091215411341930633) | E— |
+| 夜间追逐电影级镜头 | @bmx_ai13 | [GoodCase](https://goodcase.ai/cases/case-d30f8318a084) | [Media](https://media.goodcase.ai/media/video/case-d30f8318a084.mp4) | [Original](https://x.com/bmx_ai13/status/2081091640857702427) | E— |
+| 黑板火柴人空手道对决 | @mrdejie | [GoodCase](https://goodcase.ai/cases/case-de248f679b06) | [Media](https://media.goodcase.ai/media/video/case-de248f679b06.mp4) | [Original](https://x.com/mrdejie/status/2079463899305476233) | E— |
+| 硬核卡特尔藏身处动作场景 | @The_Kremlinn | [GoodCase](https://goodcase.ai/cases/case-f6a1af7d22b1) | [Media](https://media.goodcase.ai/cases/396d658b3809.mp4) | [Original](https://x.com/The_Kremlinn/status/2095083714120229230) | E— |
+| 武术巷战场景 | @KeorUnreal | [GoodCase](https://goodcase.ai/cases/case-f7e7c1862f38) | [Media](https://media.goodcase.ai/media/video/case-f7e7c1862f38.mp4) | [Original](https://x.com/KeorUnreal/status/2081477878349246776) | E— |
+| Cinematic Anime Martial Arts Training Ground | @TechieBySA | [GoodCase](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground) | [Media](https://media.goodcase.ai/media/video/cinematic-anime-martial-arts-training-ground.mp4) | [Original](https://x.com/TechieBySA/status/2081405410464972870) | E— |
 
 ## Derivation boundary
 
