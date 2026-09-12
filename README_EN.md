@@ -41,4 +41,12 @@ A standard Next.js app — one-click deploy on Vercel or any Node.js-capable pla
 
 ## License
 
-MIT
+Code: MIT, see [LICENSE](./LICENSE). Copyright LearnPrompt.
+
+The sample cases, prompts and media bundled with this repository are not covered by MIT: the images and videos under `public/media/goodcase/` (including its `avatars` folder), and the case text in `skills/generated/**/references/cases.md`, remain the property of their original creators and are included only for attribution and reproducibility.
+
+Curation and metadata (categories, tags, scores, retest records, translations and editorial notes) are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); attribute GoodCase.ai.
+
+If you are a creator and do not want your work listed here, or you spot a wrong attribution, leave a note at [goodcase.ai/connect#feedback](https://goodcase.ai/connect#feedback) (pick the "content" type and include the case link) or open an Issue on this repository. We will take the case down or correct it promptly.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to contribute and [SECURITY.md](./SECURITY.md) for reporting vulnerabilities.
