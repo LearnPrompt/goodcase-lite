@@ -3,7 +3,6 @@ import type { NextRequest } from "next/server";
 import { getAdminSupabaseClient } from "@/lib/supabase/admin-client";
 import { buildDedupeKey, normalizeCategory, slugify } from "@/lib/candidate-dedupe";
 import { sendOwnerNotification } from "@/lib/owner-notification";
-import { absoluteUrl } from "@/lib/site";
 import { normalizeLocale, type Locale } from "@/i18n/config";
 // 轻量版：content-locale 判定从内部管线搬进 src/lib，逻辑原样未动。
 import { resolveContentLocale } from "@/lib/content-locale.mjs";

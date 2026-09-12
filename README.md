@@ -41,4 +41,12 @@ curl -s "https://goodcase.ai/api/public/cases?take=3&locale=zh-CN"
 
 ## License
 
-MIT
+代码：MIT，见 [LICENSE](./LICENSE)，版权归 LearnPrompt。
+
+随仓库附带的样例案例、提示词与媒体文件不在 MIT 范围内：`public/media/goodcase/` 目录（含其中的 `avatars` 头像）里的图片与视频，以及 `skills/generated/**/references/cases.md` 中的案例正文，版权仍归各原始创作者所有，这里只是为了标注出处、方便复现而收录。
+
+策展与元数据（案例的分类、标签、评分、复测记录、翻译与说明文字）按 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 开放，署名 GoodCase.ai 即可。
+
+如果你是创作者，不希望作品出现在这里，或者发现出处标错，通过 [goodcase.ai/connect#feedback](https://goodcase.ai/connect#feedback) 留言（选「内容」类型，附案例链接），或在本仓库开一个 Issue，我们会尽快下架或更正。
+
+参与贡献看 [CONTRIBUTING.md](./CONTRIBUTING.md)，安全问题看 [SECURITY.md](./SECURITY.md)。

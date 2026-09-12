@@ -1,7 +1,6 @@
 import { getAdminSupabaseClient } from "@/lib/supabase/admin-client";
 import { sendOwnerNotification } from "@/lib/owner-notification";
 import { readBoundedJsonObject } from "@/lib/request-json";
-import { absoluteUrl } from "@/lib/site";
 import { normalizeLocale, type Locale } from "@/i18n/config";
 
 const KINDS = new Set(["content", "bug", "suggestion", "other"]);
