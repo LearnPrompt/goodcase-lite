@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 62 published Cases across 51 creators.
+This workflow is derived from 66 published Cases across 53 creators.
 
 ## Operating rule
 
@@ -102,7 +102,34 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Classic 1990s Disney-style hand-drawn animation, colorful forest, expressive animal faces, exaggerated physical comedy, smooth cinematic motion, family-friendly humor. Scene 1 — 0–3s: A mischievous raccoon spots a picnic basket hanging from a tree. He stands on a sleepy turtle’s curved shell, stretching upward and saying, “Stay still!” Scene 2 — 3–6s: A tiny butterfly lands on the turtle’s nose. The turtle’s eyes cross, his cheeks puff up, and he desperately tries not to sneeze. The raccoon wobbles above him. Scene 3 — 6–10s: The turtle releases a huge sneeze and pulls into his shell. The shell suddenly rolls forward like a wheel, carrying the terrified raccoon around the pond as he shouts, “Wrong way!” Scene 4 — 10–13s: The shell hits a tree root, launching the raccoon through the air and directly into the hanging picnic basket. Food and fruit explode everywhere. Scene 5 — 13–15s: The raccoon lands face-first in a cream pie. The turtle calmly catches a falling sandwich, takes a bite, and asks, “Did we get it?” The raccoon silently gives him a cream-covered thumbs-up. Fast pacing, clear visual storytelling, natural character motion, playful sound effects, no subtitles, no watermark.
 
-### E7 · 粉彩霓虹少女刺客动画片头
+### E7 · 奶油辫子女孩蛋糕变身动画
+
+- Creator: @AIwithAliya
+- Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaliya-minimax-h3-ai-2e9dc9983c1d) · [finished media](https://media.goodcase.ai/cases/93ec641db3a6.mp4) · [poster](https://media.goodcase.ai/cases/b90f460c798a.jpg) · [original source](https://x.com/AIwithAliya/status/2094705572427993463)
+- Summary: Let me teach you how to make a cake Minimax H3 on @FishCreativeHQ Prompt A 15-second 2D flat motion-graphics commercial
+- Prompt excerpt:
+
+> Let me teach you how to make a cake
+>
+> Minimax H3 on @FishCreativeHQ
+>
+> Prompt
+>
+> A 15-second 2D flat motion-graphics commercial in a clean, minimal kawaii dessert style. Soft warm beige studio background with a faint paper grain. Limited palette: milk-chocolate brown, blush pink, lavender purple, cream white, cherry-blossom pink, pale yellow-green leaves, and glossy black. Smooth, bouncy frosting animation, soft squash-and-stretch, and gentle sparkle pops. No photorealism — bold graphic cake shapes with clean piped-line texture.
+> 0.0–1.0s
+>
+> Tiny pastel frosting flowers (pink, lavender, white) and small chocolate-brown piping dots drift and spin slowly across the empty beige background, each with a tiny white highlight.
+> 1.0–2.0s
+>
+> The pieces gather and stack downward, forming a round cake on a simple white scalloped glass stand. Soft lavender-pink frosting swirls around the sides in even horizontal ridges. A twisted lavender rope of frosting coils around the base.
+> 2.0–3.5s
+>
+> A smooth cream-white disc drops onto the top as the face. Chocolate-brown frosting combs itself into neat bangs, then two long braids grow down the sides with a soft bounce. Small fondant flowers and green leaves tuck themselves into the hair.
+> 3.5–5.5s
+>
+> The finished cake: round kawaii girl face with big glossy black eyes, tiny white sparkles, short eyelashes, round pink blush circles, and a simple curved smile. Purple heart “earrings” sit at the ends of the braids. A crown of piped lavender stars lines the top of the hair. Soft yellow sparkles and tiny frosting petals pop around the cake. The camera eases slight…
+
+### E8 · 粉彩霓虹少女刺客动画片头
 
 - Creator: @AIwithAliya
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaliya-minimax-h3-ai-8a417a457e76) · [finished media](https://media.goodcase.ai/media/video/aiwithaliya-minimax-h3-ai-8a417a457e76.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaliya-minimax-h3-ai-8a417a457e76.jpg) · [original source](https://x.com/AIwithAliya/status/2094108309011980339)
@@ -125,15 +152,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Apply a light VHS/Y2K digicam texture…
 
-### E8 · Seedance 吉卜力风治愈料理动画
-
-- Creator: @AiwithLariab
-- Evidence: [GoodCase](https://goodcase.ai/cases/aiwithlariab-seedance-ai-801301860e89) · [finished media](https://media.goodcase.ai/media/video/aiwithlariab-seedance-ai-801301860e89.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithlariab-seedance-ai-801301860e89.jpg) · [original source](https://x.com/AiwithLariab/status/2088848553863233935)
-- Summary: Made with Seedance 2.0 Prompt: A cozy Studio Ghibli-inspired cinematic cooking animation showing a delicious grilled chi
-- Prompt excerpt:
-
-> A cozy Studio Ghibli-inspired cinematic cooking animation showing a delicious grilled chicken shawarma wrap and refreshing mint-lime soda being prepared step by step. Begin with slicing juicy shawarma meat on a vertical rotisserie, cutting fresh limes, adding ice, mint, and sparkling soda to a chilled glass, then assembling a warm tortilla with grilled chicken, lettuce, tomatoes, onions, purple cabbage, and creamy garlic sauce before rolling it into a perfect wrap. Finish with garnishing the drink with mint and lime, showcasing fizzy bubbles and the final plated meal on a rustic wooden counter in warm golden lighting, with highly detailed food, smooth camera movements, soft depth of field, and a magical hand-painted Ghibli aesthetic.
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -144,8 +162,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5） | 袋鼠帝 | [GoodCase](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a) | [Media](https://media.goodcase.ai/cases/bcf271199025.mp4) | [Original](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-3dcg-battle) | E4 |
 | 3D 烘焙动画序列 | @HaniaAi12 | [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) | [Media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) | [Original](https://x.com/HaniaAi12/status/2076979039747920309) | E5 |
 | 90 年代迪士尼风格森林动画 | @samaote | [GoodCase](https://goodcase.ai/cases/90-f704a9d8555b) | [Media](https://media.goodcase.ai/media/video/90-f704a9d8555b.mp4) | [Original](https://x.com/samaote/status/2080638821557731785) | E6 |
-| 粉彩霓虹少女刺客动画片头 | @AIwithAliya | [GoodCase](https://goodcase.ai/cases/aiwithaliya-minimax-h3-ai-8a417a457e76) | [Media](https://media.goodcase.ai/media/video/aiwithaliya-minimax-h3-ai-8a417a457e76.mp4) | [Original](https://x.com/AIwithAliya/status/2094108309011980339) | E7 |
-| Seedance 吉卜力风治愈料理动画 | @AiwithLariab | [GoodCase](https://goodcase.ai/cases/aiwithlariab-seedance-ai-801301860e89) | [Media](https://media.goodcase.ai/media/video/aiwithlariab-seedance-ai-801301860e89.mp4) | [Original](https://x.com/AiwithLariab/status/2088848553863233935) | E8 |
+| 奶油辫子女孩蛋糕变身动画 | @AIwithAliya | [GoodCase](https://goodcase.ai/cases/aiwithaliya-minimax-h3-ai-2e9dc9983c1d) | [Media](https://media.goodcase.ai/cases/93ec641db3a6.mp4) | [Original](https://x.com/AIwithAliya/status/2094705572427993463) | E7 |
+| 粉彩霓虹少女刺客动画片头 | @AIwithAliya | [GoodCase](https://goodcase.ai/cases/aiwithaliya-minimax-h3-ai-8a417a457e76) | [Media](https://media.goodcase.ai/media/video/aiwithaliya-minimax-h3-ai-8a417a457e76.mp4) | [Original](https://x.com/AIwithAliya/status/2094108309011980339) | E8 |
+| Seedance 吉卜力风治愈料理动画 | @AiwithLariab | [GoodCase](https://goodcase.ai/cases/aiwithlariab-seedance-ai-801301860e89) | [Media](https://media.goodcase.ai/media/video/aiwithlariab-seedance-ai-801301860e89.mp4) | [Original](https://x.com/AiwithLariab/status/2088848553863233935) | E— |
 | Apartment Arrival Storyboard Animation | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) | [Media](https://media.goodcase.ai/media/video/apartment-arrival-storyboard-animation.mp4) | [Original](https://x.com/Just_sharon7/status/2083912532692001128) | E— |
 | 动漫花卉书签 ASMR | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/asmr-b99180475dc6) | [Media](https://media.goodcase.ai/media/video/asmr-b99180475dc6.mp4) | [Original](https://x.com/noorwithwifi/status/2076415711375970372) | E— |
 | Seedance 双角色 3D 卡通：小蝴蝶的十四秒 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-4a336f514777) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-4a336f514777.mp4) | [Original](https://x.com/ayzalnooor24521/status/2089559741718548578) | E— |
@@ -157,7 +176,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E— |
 | 混乱早晨动画短片 | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/case-398be18644ee) | [Media](https://media.goodcase.ai/media/video/case-398be18644ee.mp4) | [Original](https://x.com/noorwithwifi/status/2080354151750668360) | E— |
 | 可爱兔兔厨师动漫烹饪 | @Jiade05 | [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) | [Media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) | [Original](https://x.com/Jiade05/status/2080643134011412961) | E— |
-| 定格动画扑克牌艺术短片 | @bmx_ai13 | [GoodCase](https://goodcase.ai/cases/case-50ba683413ff) | [Media](https://media.goodcase.ai/media/video/case-50ba683413ff.mp4) | [Original](https://x.com/bmx_ai13/status/2077208527840391188) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 33 published Cases across 16 creators.
+This workflow is derived from 37 published Cases across 18 creators.
 
 ## Operating rule
 
@@ -193,18 +193,18 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 当代平面设计展览海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-33a820efca19) | [Media](https://media.goodcase.ai/cases/1a97078e86d9.jpg) | [Original](https://x.com/ChillaiKalan__/status/2092277085914206655) | E6 |
 | 创意涂鸦海报生成器 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090834371423183135) | E7 |
 | 格林童话木刻版画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) | [Media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089987808664719723) | E8 |
+| 建筑视角草图海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-512647ce560a) | [Media](https://media.goodcase.ai/cases/900ef92b7743.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2096290195792642498) | E— |
 | 贴纸拼贴 / 创意图像合成/钱包/护照夹 | 野猪A6 | [GoodCase](https://goodcase.ai/cases/case-6d72adabab02) | [Media](https://media.goodcase.ai/media/image/case-6d72adabab02.webp) | [Original](https://www.liblib.art/modelinfo/a104e1357d354686a53df93d0b6aabc9) | E— |
 | 几何治愈系艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) | [Media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2094414873837146267) | E— |
 | 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E— |
 | 三步拥有幸福人生信息图 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-a29e3e9b3070) | [Media](https://media.goodcase.ai/media/image/case-a29e3e9b3070.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078869781189677408) | E— |
 | 高端极简矢量旅行海报 | @MahnoorAi12 | [GoodCase](https://goodcase.ai/cases/case-aa3e3c074ac1) | [Media](https://media.goodcase.ai/media/image/case-aa3e3c074ac1.jpg) | [Original](https://x.com/MahnoorAi12/status/2091349007922778211) | E— |
 | 几何视窗极简商业海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090960491648815553) | E— |
+| 怀旧东亚旅行海报 | @Kashberg_0 | [GoodCase](https://goodcase.ai/cases/case-bd2940e86fd9) | [Media](https://media.goodcase.ai/cases/1d0709dba1bd.jpg) | [Original](https://x.com/Kashberg_0/status/2092824754944442763) | E— |
+| 复古旅行日志拼贴画 | @aniyaintel | [GoodCase](https://goodcase.ai/cases/case-c11e0f098acf) | [Media](https://media.goodcase.ai/cases/d3d6ab9b14f7.jpg) | [Original](https://x.com/aniyaintel/status/2093658819427741802) | E— |
 | 达芬奇等轴测结构海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-dbb1375c81bd) | [Media](https://media.goodcase.ai/cases/5b189e294391.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091001986519068891) | E— |
+| 复古粉彩涂鸦拼贴海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-e0a5ca61432d) | [Media](https://media.goodcase.ai/cases/248e7abc7eed.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2095931305540419983) | E— |
 | 手工撕纸海报风格 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-e1146d469636) | [Media](https://media.goodcase.ai/cases/3b3d8cab4ea9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089252321603862547) | E— |
-| 电影感旅行杂志海报 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/case-e435a002bb7d) | [Media](https://media.goodcase.ai/cases/d0308655dad9.jpg) | [Original](https://x.com/Naiknelofar788/status/2088475690639261784) | E— |
-| 极简概念线条艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-f0b80272015b) | [Media](https://media.goodcase.ai/cases/64d725084400.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089959872876228689) | E— |
-| 等轴测微缩模型海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-f707dbeeade9) | [Media](https://media.goodcase.ai/cases/47e23925f21b.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090447110168822128) | E— |
-| City Aesthetic Morning Poster Collage | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/city-aesthetic-morning-poster-collage) | [Media](https://media.goodcase.ai/media/image/city-aesthetic-morning-poster-collage.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2080377942639603720) | E— |
 
 ## Derivation boundary
 
