@@ -314,7 +314,7 @@ export const caseItems: CaseItem[] = [
     "promptPreview": "Turn this photo into a funny ugly doodle drawing. Make it look like: a quick sketch using a cheap marker or crayon messy, rough, childlike style bad perspective and awkward proport...",
     "promptFull": "Turn this photo into a funny ugly doodle drawing. Make it look like: a quick sketch using a cheap marker or crayon messy, rough, childlike style bad perspective and awkward proportions slightly exaggerated facial features Add: simple cartoon background (like buildings, trees, street) random sketchy lines and details uneven coloring and visible strokes Style: looks like a lazy drawing, not polished humorous and a bit stupid-looking meme-like, casual, internet style Do NOT: make it realistic",
     "mediaType": "image",
-    "mediaUrl": "/media/goodcase/Xnip2026-05-17_17-34-13.jpg",
+    "mediaUrl": "/media/goodcase/oggii_0-2055125487014564227-01.jpg",
     "likedCount": 2520,
     "remakeCount": 816,
     "stabilityScore": 86,
