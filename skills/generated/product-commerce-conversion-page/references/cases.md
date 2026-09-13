@@ -1,12 +1,56 @@
 # Case evidence
 
-This workflow is derived from 26 published Cases across 18 creators.
+This workflow is derived from 27 published Cases across 19 creators.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 3D 发票打印机 SaaS 组件
+### E1 · 高密度 3D 浏览器森林生成器
+
+- Creator: @LexnLin
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-e0886af73a30) · [finished media](https://media.goodcase.ai/cases/e1df4bba9522.jpg) · [original source](https://x.com/LexnLin/status/2096339853025964380)
+- Summary: 一个复杂的提示词，用于利用 Three.js 风格优化和逼真光照，在浏览器中生成精细的实时 3D 森林环境。
+- Prompt excerpt:
+
+> First search for the "/unlazy" skill, read it fully, and use it throughout the entire task.
+>
+> Treat this as a major visual build lasting at least {argument name="minimum duration" default="5 hours"}. Prefer {argument name="optimal duration" default="8–24 hours"} of meaningful implementation and iteration if the environment allows it. Do not stop after producing one decent-looking scene.
+>
+> Create an extremely detailed real-time {argument name="subject" default="3D forest"} in the browser. Nothing else. No landing page, cards, story, marketing UI, dashboard, or unnecessary text. The forest itself is the entire experience.
+>
+> Push density and visual quality extremely hard.
+>
+> Build massive amounts of detailed grass, varied trees, branches, leaves, bushes, ferns, moss, flowers, weeds, roots, fallen wood, stones, soil, leaf litter, small plants, terrain variation, and tiny environmental details.
+>
+> The forest should feel almost excessively dense. Empty ground should be rare.
+>
+> Focus obsessively on:
+> realistic tree silhouettes,
+> dense grass,
+> natural asset variation,
+> rich colors,
+> lighting,
+> contact shadows,
+> wind,
+> foliage motion,
+> atmospheric depth,
+> fog,
+> sun shafts,
+> particles,
+> terrain,
+> materials,
+> scale,
+> composition,
+> and detail at both close and far distances.
+>
+> Avoid obvious repeating assets, billboard-looking foliage, tiled terrain, floating plants, plastic materials, identical trees, sparse procedural placement, excessive bloom, or a generic Three.js demo appearance.
+>
+> Include smooth free-camera exploration.
+>
+> Repeatedly capture and inspect the scene from many positions. Identify weak vegetation…
+
+### E2 · 3D 发票打印机 SaaS 组件
 
 - Creator: @uxsweta
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-saas-2b0c021f6a2f) · [finished media](https://media.goodcase.ai/media/video/3d-saas-2b0c021f6a2f.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-saas-2b0c021f6a2f.jpg) · [original source](https://x.com/uxsweta/status/2061334430103535727)
@@ -60,7 +104,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > - It should only appear after clicking the Print Invoice button.
 > - The animation shoul…
 
-### E2 · 极简 AI 顾问个人作品集
+### E3 · 极简 AI 顾问个人作品集
 
 - Creator: @shushant_l
 - Evidence: [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) · [finished media](https://media.goodcase.ai/media/video/ai-0f055800c6f5.mp4) · [poster](https://media.goodcase.ai/media/poster/ai-0f055800c6f5.jpg) · [original source](https://x.com/shushant_l/status/2065041466951712940)
@@ -75,7 +119,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > I've built this with Replit, and you can also build with it, or else you can also build it with any other AI model, LLM, and AI tool too.
 
-### E3 · AI 婚纱购物与虚拟试穿网站
+### E4 · AI 婚纱购物与虚拟试穿网站
 
 - Creator: @AbhinavGirdhar
 - Evidence: [GoodCase](https://goodcase.ai/cases/ai-8a5b6f3e36eb) · [finished media](https://media.goodcase.ai/media/image/ai-8a5b6f3e36eb.jpg) · [original source](https://x.com/AbhinavGirdhar/status/1796544545594773725)
@@ -94,7 +138,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > #PromptShare #AICommunity #AIWebsiteBuilder #AppyPieCollab #AI #ArtificialIntelligence #WebsiteBuilder #PromptChallenge #WebsiteoftheDay
 
-### E4 · AI 摄影工作室预约网站
+### E5 · AI 摄影工作室预约网站
 
 - Creator: @thetripathi58
 - Evidence: [GoodCase](https://goodcase.ai/cases/ai-fef75f8c9cc8) · [finished media](https://media.goodcase.ai/media/video/ai-fef75f8c9cc8.mp4) · [poster](https://media.goodcase.ai/media/poster/ai-fef75f8c9cc8.jpg) · [original source](https://x.com/thetripathi58/status/1934585075242344853)
@@ -110,7 +154,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Prompt: “Create a website for my photography studio with a gallery, pricing, reviews, and a booking form.”
 
-### E5 · 极简个人作品集与数字商店
+### E6 · 极简个人作品集与数字商店
 
 - Creator: @shushant_l
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-9d30de23150b) · [finished media](https://media.goodcase.ai/media/video/case-9d30de23150b.mp4) · [poster](https://media.goodcase.ai/media/poster/case-9d30de23150b.jpg) · [original source](https://x.com/shushant_l/status/2066868516104601790)
@@ -125,7 +169,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > I've built this with Lovable, and you can also build with it, or else you can build with any other AI model, LLM, or AI mobile app generation tool.
 
-### E6 · 浓缩咖啡订阅服务落地页
+### E7 · 浓缩咖啡订阅服务落地页
 
 - Creator: @nikhilbhima
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-9fdee4d2d483) · [finished media](https://media.goodcase.ai/media/video/case-9fdee4d2d483.mp4) · [poster](https://media.goodcase.ai/media/poster/case-9fdee4d2d483.jpg) · [original source](https://x.com/nikhilbhima/status/2045381925553201173)
@@ -138,7 +182,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > "Build a landing page for a fictional espresso subscription service. Don't ask me questions. Make every typography, color, and spacing decision yourself. Single HTML file. I want to see your taste."
 
-### E7 · CodeNest Coding Platform
+### E8 · CodeNest Coding Platform
 
 - Creator: MotionSites
 - Evidence: [GoodCase](https://goodcase.ai/cases/codenest-coding-platform) · [finished media](https://media.goodcase.ai/cases/37c2f00731fc.gif) · [poster](https://media.goodcase.ai/cases/5ce086ac7097.png) · [original source](https://motionsites.ai/?prompt=codenest-hero)
@@ -173,77 +217,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Content: '[ 2025 ]' tag (14px), 'Taught by Industry Professionals' headline (18px, using Instrument Serif italic for 'Industry'), and a smal…
 
-### E8 · Digitwist AI Builder
-
-- Creator: MotionSites
-- Evidence: [GoodCase](https://goodcase.ai/cases/digitwist-ai-builder) · [finished media](https://media.goodcase.ai/cases/7ab2104629a9.gif) · [poster](https://media.goodcase.ai/cases/e015fc96008a.png) · [original source](https://motionsites.ai/?prompt=digitwist-hero)
-- Summary: AI 建站工具的暗色 hero，依赖精确到 motion 的版本号，动画库的具体用法是核心看点。
-- Prompt excerpt:
-
-> Create a dark mode hero section for an AI website builder with the following exact specifications:
->
-> ## Technical Setup
->
-> ### Required Packages
-> Install these packages:
-> - `motion` (version 12.23.24 or later) - for animations
-> - `hls.js` (version 1.6.15 or later) - for video streaming
-> - `lucide-react` (version 0.487.0 or later) - for icons
->
-> ### Fonts
-> Import these Google Fonts:
-> ```css
-> @import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&family=Instrument+Serif:ital@0;1&display=swap');
-> ```
->
-> ## Layout Structure
->
-> ### Navbar Component
-> Create a fixed, transparent navbar with:
->
-> **Position & Styling:**
-> - Fixed to top, full width, z-index 50
-> - Background: fully transparent (bg-transparent)
-> - Padding: px-6 py-4
-> - Flexbox layout: items-center justify-between
->
-> **Left Section:**
-> - Sunburst icon (24x24px SVG) in white color
->
-> **Center Section** (hidden on mobile, visible md:flex):
-> - Navigation links: "Products" (with ChevronDown icon), "Customer Stories", "Resources", "Pricing"
-> - Font: Instrument Sans, text-sm, font-medium
-> - Color: text-white/80, hover:text-white
-> - Gap: gap-8
->
-> **Right Section:**
-> - "Book A Demo" link (hidden on small screens, sm:block)
-> - "Get Started" button: white background, black text, rounded-full, px-5 py-2.5, font-semibold
->
-> ### Hero Section Component
->
-> **Container:**
-> - Relative positioning, full width, min-h-screen
-> - Background color: #000000 (pure black)
-> - Text color: white
-> - Overflow hidden
->
-> **Background Video Layer:**
-> - Video URL: https://stream.mux.com/T6oQJQ02cQ6N01TR6iHwZkKFkbepS34dkkIc9iukgy400g.m3u8
-> - Video implement…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D 发票打印机 SaaS 组件 | @uxsweta | [GoodCase](https://goodcase.ai/cases/3d-saas-2b0c021f6a2f) | [Media](https://media.goodcase.ai/media/video/3d-saas-2b0c021f6a2f.mp4) | [Original](https://x.com/uxsweta/status/2061334430103535727) | E1 |
-| 极简 AI 顾问个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) | [Media](https://media.goodcase.ai/media/video/ai-0f055800c6f5.mp4) | [Original](https://x.com/shushant_l/status/2065041466951712940) | E2 |
-| AI 婚纱购物与虚拟试穿网站 | @AbhinavGirdhar | [GoodCase](https://goodcase.ai/cases/ai-8a5b6f3e36eb) | [Media](https://media.goodcase.ai/media/image/ai-8a5b6f3e36eb.jpg) | [Original](https://x.com/AbhinavGirdhar/status/1796544545594773725) | E3 |
-| AI 摄影工作室预约网站 | @thetripathi58 | [GoodCase](https://goodcase.ai/cases/ai-fef75f8c9cc8) | [Media](https://media.goodcase.ai/media/video/ai-fef75f8c9cc8.mp4) | [Original](https://x.com/thetripathi58/status/1934585075242344853) | E4 |
-| 极简个人作品集与数字商店 | @shushant_l | [GoodCase](https://goodcase.ai/cases/case-9d30de23150b) | [Media](https://media.goodcase.ai/media/video/case-9d30de23150b.mp4) | [Original](https://x.com/shushant_l/status/2066868516104601790) | E5 |
-| 浓缩咖啡订阅服务落地页 | @nikhilbhima | [GoodCase](https://goodcase.ai/cases/case-9fdee4d2d483) | [Media](https://media.goodcase.ai/media/video/case-9fdee4d2d483.mp4) | [Original](https://x.com/nikhilbhima/status/2045381925553201173) | E6 |
-| CodeNest Coding Platform | MotionSites | [GoodCase](https://goodcase.ai/cases/codenest-coding-platform) | [Media](https://media.goodcase.ai/cases/37c2f00731fc.gif) | [Original](https://motionsites.ai/?prompt=codenest-hero) | E7 |
-| Digitwist AI Builder | MotionSites | [GoodCase](https://goodcase.ai/cases/digitwist-ai-builder) | [Media](https://media.goodcase.ai/cases/7ab2104629a9.gif) | [Original](https://motionsites.ai/?prompt=digitwist-hero) | E8 |
+| 高密度 3D 浏览器森林生成器 | @LexnLin | [GoodCase](https://goodcase.ai/cases/3d-e0886af73a30) | [Media](https://media.goodcase.ai/cases/e1df4bba9522.jpg) | [Original](https://x.com/LexnLin/status/2096339853025964380) | E1 |
+| 3D 发票打印机 SaaS 组件 | @uxsweta | [GoodCase](https://goodcase.ai/cases/3d-saas-2b0c021f6a2f) | [Media](https://media.goodcase.ai/media/video/3d-saas-2b0c021f6a2f.mp4) | [Original](https://x.com/uxsweta/status/2061334430103535727) | E2 |
+| 极简 AI 顾问个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/ai-0f055800c6f5) | [Media](https://media.goodcase.ai/media/video/ai-0f055800c6f5.mp4) | [Original](https://x.com/shushant_l/status/2065041466951712940) | E3 |
+| AI 婚纱购物与虚拟试穿网站 | @AbhinavGirdhar | [GoodCase](https://goodcase.ai/cases/ai-8a5b6f3e36eb) | [Media](https://media.goodcase.ai/media/image/ai-8a5b6f3e36eb.jpg) | [Original](https://x.com/AbhinavGirdhar/status/1796544545594773725) | E4 |
+| AI 摄影工作室预约网站 | @thetripathi58 | [GoodCase](https://goodcase.ai/cases/ai-fef75f8c9cc8) | [Media](https://media.goodcase.ai/media/video/ai-fef75f8c9cc8.mp4) | [Original](https://x.com/thetripathi58/status/1934585075242344853) | E5 |
+| 极简个人作品集与数字商店 | @shushant_l | [GoodCase](https://goodcase.ai/cases/case-9d30de23150b) | [Media](https://media.goodcase.ai/media/video/case-9d30de23150b.mp4) | [Original](https://x.com/shushant_l/status/2066868516104601790) | E6 |
+| 浓缩咖啡订阅服务落地页 | @nikhilbhima | [GoodCase](https://goodcase.ai/cases/case-9fdee4d2d483) | [Media](https://media.goodcase.ai/media/video/case-9fdee4d2d483.mp4) | [Original](https://x.com/nikhilbhima/status/2045381925553201173) | E7 |
+| CodeNest Coding Platform | MotionSites | [GoodCase](https://goodcase.ai/cases/codenest-coding-platform) | [Media](https://media.goodcase.ai/cases/37c2f00731fc.gif) | [Original](https://motionsites.ai/?prompt=codenest-hero) | E8 |
+| Digitwist AI Builder | MotionSites | [GoodCase](https://goodcase.ai/cases/digitwist-ai-builder) | [Media](https://media.goodcase.ai/cases/7ab2104629a9.gif) | [Original](https://motionsites.ai/?prompt=digitwist-hero) | E— |
 | Galaxyscale 数据库产品多页 Demo | @albysjourney | [GoodCase](https://goodcase.ai/cases/galaxyscale-demo-3f7f2a5a7888) | [Media](https://media.goodcase.ai/media/video/galaxyscale-demo-3f7f2a5a7888.mp4) | [Original](https://x.com/albysjourney/status/2022997925048250658) | E— |
 | Grok 4.3 奶油色电商网站 | @aigoldrushh | [GoodCase](https://goodcase.ai/cases/grok-4-3-f8129253eeb6) | [Media](https://media.goodcase.ai/media/video/grok-4-3-f8129253eeb6.mp4) | [Original](https://x.com/aigoldrushh/status/2046598954943697068) | E— |
 | GTA VI 风格电影感游戏官网 | @MercyDeGreat | [GoodCase](https://goodcase.ai/cases/gta-vi-8d2cc14562a2) | [Media](https://media.goodcase.ai/media/video/gta-vi-8d2cc14562a2.mp4) | [Original](https://x.com/MercyDeGreat/status/2072583919036232079) | E— |
@@ -255,7 +241,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | MiniMax ZARA Cafe 电商网站 | @HeyZaraKhan | [GoodCase](https://goodcase.ai/cases/minimax-zara-cafe-7dbae384ee09) | [Media](https://media.goodcase.ai/media/video/minimax-zara-cafe-7dbae384ee09.mp4) | [Original](https://x.com/HeyZaraKhan/status/2062588457780965724) | E— |
 | Nano Banana 手绘线框转 SaaS 落地页 | @WoCStreet | [GoodCase](https://goodcase.ai/cases/nano-banana-saas-2a600998d9b0) | [Media](https://media.goodcase.ai/media/image/nano-banana-saas-2a600998d9b0.jpg) | [Original](https://x.com/WoCStreet/status/2008084668097446153) | E— |
 | Neo Brutalism 个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/neo-brutalism-57ba09899348) | [Media](https://media.goodcase.ai/media/video/neo-brutalism-57ba09899348.mp4) | [Original](https://x.com/shushant_l/status/2064679099571089727) | E— |
-| Netflix 风格 3D 个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/netflix-3d-24f0ad08356a) | [Media](https://media.goodcase.ai/media/video/netflix-3d-24f0ad08356a.mp4) | [Original](https://x.com/shushant_l/status/2062867179838767405) | E— |
 
 ## Derivation boundary
 

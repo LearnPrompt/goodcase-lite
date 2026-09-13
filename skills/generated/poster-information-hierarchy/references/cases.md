@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 37 published Cases across 18 creators.
+This workflow is derived from 38 published Cases across 18 creators.
 
 ## Operating rule
 
@@ -129,7 +129,34 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 色彩基调: 冰川浅蓝+极光银白+蜜桃渐变粉+高通透冷光
 > 视觉焦点: 正中心巨型主体+对称悬浮碎冰+顶部紧凑排版+竖版 3:4
 
-### E6 · 当代平面设计展览海报
+### E6 · 复古蜡笔艺术海报
+
+- Creator: @xiaoxiaodong01
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-11a17d4d4b4c) · [finished media](https://media.goodcase.ai/cases/9d378892b70a.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2096262813010600335)
+- Summary: 一套用于创作高端治愈系美学海报的综合提示词，采用复古蜡笔与粉彩画风格，通过独特的上下分屏布局，将照片转化为艺术作品。
+- Prompt excerpt:
+
+> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用{argument name="构图比例" default="3:4竖版构图"}，上下两个区域高度严格1:1，各占画面50%。
+>
+> 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+>
+> 下半部分先理解原照片最值得被记住的**核心主题、主体关系、结构走势、情绪与视觉隐喻**，再重构为**{argument name="插画风格" default="复古纸张肌理的粉彩蜡笔涂鸦插画"}**。不要逐物复制照片，也不要把所有内容完整转绘，只保留最能代表原物的轮廓、姿态、方向 and 视觉记忆点，通过删减、概括、轻微夸张 and 重新组合，使人一眼感受到它与上方照片之间的对应关系。
+>
+> 主体使用**粗颗粒粉笔 / 蜡笔式手绘轮廓**：线条略粗、松弛、干涩，带有粉末颗粒、断续掉色、轻微抖动 and 不完全闭合的边缘，笔端自然钝圆。主体内部只加入极少量粉彩色块、简单网格、条纹、圆点或随手涂抹，用最少信息提示结构，不做写实体积 and 完整细节。
+>
+> 周围小元素与主体使用**同一种线条语言**，但进一步压缩为一笔或几笔即可识别的涂鸦符号。星星、花朵、植物、器物、环境线索或抽象符号都应简单、稚拙、开放、不完全闭合，以单线轮廓为主，极少填色。不要画成精致图标、贴纸或独立小插画。
+>
+> 构图保持**小尺度章印与大面积留白**的关系，根据主体自身的方向、比例 and 视觉重心自由安排位置，可偏心、贴边、悬置或局部裁切。主体与极少量涂鸦符号形成松散但明确的视觉群落，其余空间主动留空。**留白本身就是主要构图元素**，通过空与实、聚与散、大小反差 and 不对称关系形成呼吸感、距离感与停顿感；宁可少画，也不要填满。
+>
+> 背景必须使用**极浅、明亮、干净的纸张底色**，例如奶油白、象牙白、浅米白、淡杏白、极浅灰白或根据原图综合色温智能匹配的近白纸色。纸张只保留非常轻微的纤维 and 颗粒，不能偏棕、偏黄、偏灰或显得陈旧。**背景明度必须明显高于主体线条与色块，确保所有蜡笔轮廓、小符号 and 文字清楚可见，不得与背景糊在一起。**
+>
+> 配色从上方照片中提取 **{argument name="配色提取" default="2–4 种最鲜活、最有亲和力、最能代表画面精神的颜色"}**重新调制，转化为明亮柔和的粉彩蜡笔色。可自然形成蜜桃粉、杏橙、奶油黄、薄荷青、天空蓝、淡紫等轻盈色彩；主体线条优先使用比背景更清晰的珊瑚粉、柔蓝、青绿、暖橙、淡紫或奶油深色调，小元素只零星重复这些颜色形成呼应。整体保持**浅背景 + 清晰彩线 + 少量柔和色块**的对比关系，明快、治愈、轻松、有生活感。避免灰暗、脏褐、沉闷莫兰迪化、低对比、荧光色 and 廉价糖果感。
+>
+> 文字少量介入，不限制语种。可从主体、动作、情绪、记忆或隐喻中自由提炼短句或文字片段，使用**轻薄、疏朗、带轻微字距不齐与旧式机械印字误差的打字排版字体**，颜色使用清晰但不刺眼的灰褐、柔黑、深蓝灰或与主体呼应的深色，确保在浅色纸面上有足够可读性。文字自然散落在留白区域，与主体 and 涂鸦形成图文混排，不做固定标题模板。
+>
+> 整体呈现**极浅纸面、粗颗粒蜡笔轮廓、少量粉彩填色、极简涂鸦符号、小尺度主体与大量艺术留白**共同构成的高级治愈视觉。重点是让主体与小元素清楚浮现在浅色纸面上，同时保持松弛、天真、温柔 and 成熟的编辑构图意识。避免深色牛皮纸、暗棕背景、低对比线条、背景与主体糊成一团、精细描边、写实转绘、复杂小图标、背景填满、光滑矢量、3D感 and 商业模板感。
+
+### E7 · 当代平面设计展览海报
 
 - Creator: @ChillaiKalan__
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-33a820efca19) · [finished media](https://media.goodcase.ai/cases/1a97078e86d9.jpg) · [original source](https://x.com/ChillaiKalan__/status/2092277085914206655)
@@ -138,7 +165,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create an original contemporary graphic design exhibition poster. The poster should feel suitable for an international contemporary graphic design exhibition. Think like a graphic designer, not a portrait painter. The graphic design is the artwork. The illustration exists to support the design. REQUIRED ELEMENTS A recognizable character. Wearing sunglasses. One dominant {argument name="graphic design element" default="graphic design element"}. If a reference image is provided, preserve the person's recognizable identity. Otherwise, use the same character established throughout the conversation. These are the only required visual elements. Everything else should be freely reinvented for every poster. GRAPHIC DESIGN ELEMENT The dominant graphic element may be geometric, typographic, architectural, abstract, organic, or entirely original. It may consist of a single bold shape, oversized typography, bands, frames, grids, blocks, lines, curves, cut-outs, negative space, or any other graphic device. Choose the single visual element that creates the strongest overall graphic composition for this specific poster. VISUAL STYLE No lineart. Construct the image entirely from {argument name="art style" default="flat graphic color shapes"}. Large simplified shapes. Minimal details. Visible dry crayon texture. Limited {argument name="color palette" default="color palette"}. Bold negative space. Minimalist editorial poster. Embrace bold simplification. Reduce details whenever possible. Communicate through shape before texture. Design with confidence, not accuracy. GRAPHIC COMPOSITION The c…
 
-### E7 · 创意涂鸦海报生成器
+### E8 · 创意涂鸦海报生成器
 
 - Creator: @xiaoxiaodong01
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) · [finished media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2090834371423183135)
@@ -162,25 +189,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 💣language：{argument name="language" default="english"}
 
-### E8 · 格林童话木刻版画海报
-
-- Creator: @xiaoxiaodong01
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) · [finished media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2089987808664719723)
-- Summary: 将照片转化为迷人的格林童话风格木刻插画，呈现扁平的叙事视角和丰富的纯手工绘制质感。
-- Prompt excerpt:
-
-> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%，并确保该表达方式可适配人物、动物、建筑、静物、自然场景等不同主题，而不限于城市题材。
->
-> 上半部分保留原始照片，保持主体身份、动作、空间关系、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有杂志摄影与艺术出版物的质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭切或改变主体。
->
-> 下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为童话版画式手绘图像。不要机械描摹细节，而是将主体压缩为一两个清楚的大体块，以钝拙剪影、略微夸张的比例和少量关键边缘，保留原始对象的身份、动作、功能与情绪。画面从原图内容中提炼出一个大面积低明度或高反差的结构场，作为包裹主体的容器、路径、框架或密度层；背景像故事发生的外壳一样从原图空间与意义中生长出来，形成遮挡、裁切、吞没与局部露出的结构叙事。整体采用平面叙事透视和绘本页面式层级，可使用俯视压缩、侧向移动、正面框架、路径引导、尺度跳跃或边缘裁切组织阅读。
->
-> 配色从上方照片提取，并保持明确的三层关系：大面积暗结构色负责重量与边界，适量浅色或留白负责呼吸，小面积高饱和情绪色负责读图路线与故事信号。最重要的信息仅以少量鲜明色块集中在面部、姿态、路径、器物功能点、环境标识或叙事焦点上，并始终被深色结构或浅色负形压住，让画面鲜艳但不平均。色相可随主题情绪调整，但面积比例与明度秩序保持稳定。
->
-> 线条只在功能、路径、边界、纹理和识别处出现，保持稀疏、手绘、略不准的细线。所有色块保持平面化处理，同时保留干刷、颗粒、飞白、纸纹、喷点和轻微套印错位，呈现丝网印刷与粉蜡笔共同完成的手工质感，避免写实光影、复杂体积、光滑矢量边缘、3D渲染和塑料质感。
->
-> 整体构图简洁、低细节、高识别，暗场包裹亮色信号，兼具可爱叙事与厚重版画感。若画面包含文字，可将文字处理为小标识、物体面板或边缘注释，数量精简，服从图形结构；字形圆钝，粗细略不均，密度低，带有自然手写感，使其像画面的一部分而不是后期贴上去的说明。整体参考童话绘本、手工版画、编辑插画与艺术出版物气质，呈现统一、鲜明、可迁移的作者化视觉语言。
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -190,9 +198,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Alcohol Marker Travel Poster Prompt | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) | [Media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) | [Original](https://x.com/Goodmanprotocol/status/2086685317822890146) | E3 |
 | Batch Product Poster Proposal Generator | @derek_wall90176 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/derek_wall90176/status/2080480065998192970) | E4 |
 | 海盐焦糖拿铁海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) | [Media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078098079992119579) | E5 |
-| 当代平面设计展览海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-33a820efca19) | [Media](https://media.goodcase.ai/cases/1a97078e86d9.jpg) | [Original](https://x.com/ChillaiKalan__/status/2092277085914206655) | E6 |
-| 创意涂鸦海报生成器 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090834371423183135) | E7 |
-| 格林童话木刻版画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) | [Media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089987808664719723) | E8 |
+| 复古蜡笔艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-11a17d4d4b4c) | [Media](https://media.goodcase.ai/cases/9d378892b70a.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2096262813010600335) | E6 |
+| 当代平面设计展览海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-33a820efca19) | [Media](https://media.goodcase.ai/cases/1a97078e86d9.jpg) | [Original](https://x.com/ChillaiKalan__/status/2092277085914206655) | E7 |
+| 创意涂鸦海报生成器 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090834371423183135) | E8 |
+| 格林童话木刻版画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) | [Media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089987808664719723) | E— |
 | 建筑视角草图海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-512647ce560a) | [Media](https://media.goodcase.ai/cases/900ef92b7743.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2096290195792642498) | E— |
 | 贴纸拼贴 / 创意图像合成/钱包/护照夹 | 野猪A6 | [GoodCase](https://goodcase.ai/cases/case-6d72adabab02) | [Media](https://media.goodcase.ai/media/image/case-6d72adabab02.webp) | [Original](https://www.liblib.art/modelinfo/a104e1357d354686a53df93d0b6aabc9) | E— |
 | 几何治愈系艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) | [Media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2094414873837146267) | E— |
@@ -204,7 +213,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 复古旅行日志拼贴画 | @aniyaintel | [GoodCase](https://goodcase.ai/cases/case-c11e0f098acf) | [Media](https://media.goodcase.ai/cases/d3d6ab9b14f7.jpg) | [Original](https://x.com/aniyaintel/status/2093658819427741802) | E— |
 | 达芬奇等轴测结构海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-dbb1375c81bd) | [Media](https://media.goodcase.ai/cases/5b189e294391.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091001986519068891) | E— |
 | 复古粉彩涂鸦拼贴海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-e0a5ca61432d) | [Media](https://media.goodcase.ai/cases/248e7abc7eed.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2095931305540419983) | E— |
-| 手工撕纸海报风格 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-e1146d469636) | [Media](https://media.goodcase.ai/cases/3b3d8cab4ea9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089252321603862547) | E— |
 
 ## Derivation boundary
 

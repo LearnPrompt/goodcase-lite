@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to Just_sharon7. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Just_sharon7. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -55,7 +55,30 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 6.0–8.5s
 > The drink and splash dissolve into…
 
-### E3 · 电影感巴黎时尚广告大片：五镜头街拍
+### E3 · 柠檬少女LUMI的活力饮品广告
+
+- Creator: @Just_sharon7
+- Evidence: [GoodCase](https://goodcase.ai/cases/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49) · [finished media](https://media.goodcase.ai/media/video/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49.mp4) · [poster](https://media.goodcase.ai/media/poster/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49.jpg) · [original source](https://x.com/Just_sharon7/status/2095516988743225637)
+- Summary: LUMI just turned a lemonade ad into a full-blown visual experience. Minimax H3 on @TapNow_AI Prompt LUMI is an elegant, cheerful anime girl with long, vivid lem…
+- Prompt excerpt:
+
+> LUMI just turned a lemonade ad into a full-blown visual experience.
+>
+> Minimax H3 on @TapNow_AI
+>
+> Prompt
+>
+> LUMI is an elegant, cheerful anime girl with long, vivid lemon-yellow hair with blunt bangs, honey-amber almond eyes with dramatic lashes, soft pink blush, a small mint-green hairpin, dangling lemon-slice earrings, a yellow ruffled off-shoulder top layered over a white halter crop top, and holds a tall glass of sparkling lemonade with ice and lemon slices. Preserve her exact face, proportions, hairstyle, outfit, materials, accessories and colors throughout; never redesign her.
+>
+> This film is 80% bold graphic design in motion and 20% character action: giant kinetic typography, hard-edged citrus shapes, flat color fields, sunburst rays, halftone dots, juice-splash graphics, speed lines and shutter flashes. Palette: lemon yellow, citrus gold, cream white, soft blush pink, mint accent. Style: premium AAA motion-graphics title sequence x citrus lifestyle campaign film. Every graphic element moves fast and snaps hard on the beat.
+>
+> CUT 01 | 0.00–1.00s – Pure graphics: a giant lemon-yellow wordmark "LUMI" slams onto a cream field with a sunburst-ray flash; halftone dots pulse and tiny citrus-slice UI ticks flicker along the frame edges.
+>
+> CUT 02 | 1.00–2.10s – Cream-white field, huge black outline letters "FRESH" drop in and bounce; she twirls into frame holding her lemonade glass aloft, ruffles fluttering, sparkle particles trailing behind her.
+>
+> CUT 03 | 2.10–3.10s – Close shot: she lifts the glass and takes a slow sip, eyes glinting; a fizz of golden bubbles erupts around her as…
+
+### E4 · 电影感巴黎时尚广告大片：五镜头街拍
 
 - Creator: @Just_sharon7
 - Evidence: [GoodCase](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear) · [finished media](https://media.goodcase.ai/media/video/youmind-paris-fashion-campaign-streetwear.mp4) · [poster](https://media.goodcase.ai/media/poster/youmind-paris-fashion-campaign-streetwear.jpg) · [original source](https://x.com/Just_sharon7/status/2083793251132186998)
@@ -83,7 +106,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 阿马尔菲海岸奢华珠宝广告 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/case-e53b614b0f42) | [Media](https://media.goodcase.ai/media/video/case-e53b614b0f42.mp4) | [Original](https://x.com/Just_sharon7/status/2080973878705434901) | E1 |
 | 浓醇巧克力饮料倾倒动画 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-minimax-h3-ai-b900252261a7) | [Media](https://media.goodcase.ai/cases/6f3abe0ed028.mp4) | [Original](https://x.com/Just_sharon7/status/2094667719497187408) | E2 |
-| 电影感巴黎时尚广告大片：五镜头街拍 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear) | [Media](https://media.goodcase.ai/media/video/youmind-paris-fashion-campaign-streetwear.mp4) | [Original](https://x.com/Just_sharon7/status/2083793251132186998) | E3 |
+| 柠檬少女LUMI的活力饮品广告 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49) | [Media](https://media.goodcase.ai/media/video/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49.mp4) | [Original](https://x.com/Just_sharon7/status/2095516988743225637) | E3 |
+| 电影感巴黎时尚广告大片：五镜头街拍 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear) | [Media](https://media.goodcase.ai/media/video/youmind-paris-fashion-campaign-streetwear.mp4) | [Original](https://x.com/Just_sharon7/status/2083793251132186998) | E4 |
 
 ## Derivation boundary
 

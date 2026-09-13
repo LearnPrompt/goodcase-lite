@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 17 published Cases attributed to xiaoxiaodong01. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 18 published Cases attributed to xiaoxiaodong01. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -56,7 +56,34 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 色彩基调: 冰川浅蓝+极光银白+蜜桃渐变粉+高通透冷光
 > 视觉焦点: 正中心巨型主体+对称悬浮碎冰+顶部紧凑排版+竖版 3:4
 
-### E4 · 创意涂鸦海报生成器
+### E4 · 复古蜡笔艺术海报
+
+- Creator: @xiaoxiaodong01
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-11a17d4d4b4c) · [finished media](https://media.goodcase.ai/cases/9d378892b70a.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2096262813010600335)
+- Summary: 一套用于创作高端治愈系美学海报的综合提示词，采用复古蜡笔与粉彩画风格，通过独特的上下分屏布局，将照片转化为艺术作品。
+- Prompt excerpt:
+
+> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用{argument name="构图比例" default="3:4竖版构图"}，上下两个区域高度严格1:1，各占画面50%。
+>
+> 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+>
+> 下半部分先理解原照片最值得被记住的**核心主题、主体关系、结构走势、情绪与视觉隐喻**，再重构为**{argument name="插画风格" default="复古纸张肌理的粉彩蜡笔涂鸦插画"}**。不要逐物复制照片，也不要把所有内容完整转绘，只保留最能代表原物的轮廓、姿态、方向 and 视觉记忆点，通过删减、概括、轻微夸张 and 重新组合，使人一眼感受到它与上方照片之间的对应关系。
+>
+> 主体使用**粗颗粒粉笔 / 蜡笔式手绘轮廓**：线条略粗、松弛、干涩，带有粉末颗粒、断续掉色、轻微抖动 and 不完全闭合的边缘，笔端自然钝圆。主体内部只加入极少量粉彩色块、简单网格、条纹、圆点或随手涂抹，用最少信息提示结构，不做写实体积 and 完整细节。
+>
+> 周围小元素与主体使用**同一种线条语言**，但进一步压缩为一笔或几笔即可识别的涂鸦符号。星星、花朵、植物、器物、环境线索或抽象符号都应简单、稚拙、开放、不完全闭合，以单线轮廓为主，极少填色。不要画成精致图标、贴纸或独立小插画。
+>
+> 构图保持**小尺度章印与大面积留白**的关系，根据主体自身的方向、比例 and 视觉重心自由安排位置，可偏心、贴边、悬置或局部裁切。主体与极少量涂鸦符号形成松散但明确的视觉群落，其余空间主动留空。**留白本身就是主要构图元素**，通过空与实、聚与散、大小反差 and 不对称关系形成呼吸感、距离感与停顿感；宁可少画，也不要填满。
+>
+> 背景必须使用**极浅、明亮、干净的纸张底色**，例如奶油白、象牙白、浅米白、淡杏白、极浅灰白或根据原图综合色温智能匹配的近白纸色。纸张只保留非常轻微的纤维 and 颗粒，不能偏棕、偏黄、偏灰或显得陈旧。**背景明度必须明显高于主体线条与色块，确保所有蜡笔轮廓、小符号 and 文字清楚可见，不得与背景糊在一起。**
+>
+> 配色从上方照片中提取 **{argument name="配色提取" default="2–4 种最鲜活、最有亲和力、最能代表画面精神的颜色"}**重新调制，转化为明亮柔和的粉彩蜡笔色。可自然形成蜜桃粉、杏橙、奶油黄、薄荷青、天空蓝、淡紫等轻盈色彩；主体线条优先使用比背景更清晰的珊瑚粉、柔蓝、青绿、暖橙、淡紫或奶油深色调，小元素只零星重复这些颜色形成呼应。整体保持**浅背景 + 清晰彩线 + 少量柔和色块**的对比关系，明快、治愈、轻松、有生活感。避免灰暗、脏褐、沉闷莫兰迪化、低对比、荧光色 and 廉价糖果感。
+>
+> 文字少量介入，不限制语种。可从主体、动作、情绪、记忆或隐喻中自由提炼短句或文字片段，使用**轻薄、疏朗、带轻微字距不齐与旧式机械印字误差的打字排版字体**，颜色使用清晰但不刺眼的灰褐、柔黑、深蓝灰或与主体呼应的深色，确保在浅色纸面上有足够可读性。文字自然散落在留白区域，与主体 and 涂鸦形成图文混排，不做固定标题模板。
+>
+> 整体呈现**极浅纸面、粗颗粒蜡笔轮廓、少量粉彩填色、极简涂鸦符号、小尺度主体与大量艺术留白**共同构成的高级治愈视觉。重点是让主体与小元素清楚浮现在浅色纸面上，同时保持松弛、天真、温柔 and 成熟的编辑构图意识。避免深色牛皮纸、暗棕背景、低对比线条、背景与主体糊成一团、精细描边、写实转绘、复杂小图标、背景填满、光滑矢量、3D感 and 商业模板感。
+
+### E5 · 创意涂鸦海报生成器
 
 - Creator: @xiaoxiaodong01
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) · [finished media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2090834371423183135)
@@ -80,7 +107,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 💣language：{argument name="language" default="english"}
 
-### E5 · 格林童话木刻版画海报
+### E6 · 格林童话木刻版画海报
 
 - Creator: @xiaoxiaodong01
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) · [finished media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2089987808664719723)
@@ -99,7 +126,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 整体构图简洁、低细节、高识别，暗场包裹亮色信号，兼具可爱叙事与厚重版画感。若画面包含文字，可将文字处理为小标识、物体面板或边缘注释，数量精简，服从图形结构；字形圆钝，粗细略不均，密度低，带有自然手写感，使其像画面的一部分而不是后期贴上去的说明。整体参考童话绘本、手工版画、编辑插画与艺术出版物气质，呈现统一、鲜明、可迁移的作者化视觉语言。
 
-### E6 · 建筑视角草图海报
+### E7 · 建筑视角草图海报
 
 - Creator: @xiaoxiaodong01
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-512647ce560a) · [finished media](https://media.goodcase.ai/cases/900ef92b7743.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2096290195792642498)
@@ -108,7 +135,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。下半部分只提取照片中最具识别性的主体、轮廓、结构、姿态与叙事关系，重构为建筑概念透视草图 / 建筑方案表现手绘。不要完整保留场景，不要逐物复制照片；主动删去大部分背景、配景和无关细节，只留下最能代表原始主题的核心形体、空间关系与视觉记忆点。下半部分重新做美术判断。哪怕原图构图差、背景乱、主体小，也要通过删减、重组、裁切、尺度变化和留白，把它救成一张成立的作品，真正赋予模型重新导演画面的权力。画风采用自由徒手透视线稿 + 少量选择性色块。线条松弛、克制、略带重复与停顿感，可保留少量辅助线、延长线、构造线与建筑手绘的几何参考线，形成明确的设计推敲感。色彩只在少数关键部位轻微铺陈，用于强调主体、结构层次、局部阴影或空间重点，其余区域尽量不画。画面必须以大量有意识的留白为核心。主体应更小、更精炼，其余空间大面积留空。留白不是空背景，而是构图的一部分，要与主体、线稿、参考线、阴影和少量色块共同形成呼吸感、空间感与节奏感。主体可偏心、贴边、局部裁切或缩小尺度；宁可少画，也不要填满。可加入少量几何阴影色块强化体量、进深与空间层次，但避免厚重渲染、复杂环境和写实效果图感。背景保持极简，只保留极少量必要的场地暗示。配色从上方照片中提取 2–4 种最具识别度和生命力的颜色，重新整理为更干净、克制、耐看的草图色系。整体可适度提亮、提纯、去灰，以米白、浅灰、暖灰、柔和绿色、淡木色、浅蓝灰等为主，局部保留少量更鲜明但不刺眼的点睛色。避免脏灰、暗沉、过度复古和廉价高饱和感。文字只作极少量编辑性介入，不限制语种。可根据主体、地点、动作或情绪生成少量字词、短句或注记，安静地落在留白区域，与画面形成克制的图文关系。整体呈现建筑概念手绘、自由线稿、几何参考线、少量色块、几何阴影、超大量留白与编辑式排版共同构成的高级视觉效果。避免完整场景保留、逐物复制、复杂背景、满幅上色、写实效果图、粗重描边、卡通感、3D感和模板化表现。
 
-### E7 · 几何治愈系艺术海报
+### E8 · 几何治愈系艺术海报
 
 - Creator: @xiaoxiaodong01
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) · [finished media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2094414873837146267)
@@ -117,25 +144,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影 and 原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。 下半部分提取照片主体最具识别度的{argument name="核心要素" default="主体、轮廓、结构、姿态与叙事关系"}，只保留最值得记忆的核心形象与轮廓，重构为{argument name="艺术风格" default="几何化、扁平化"}的艺术表达。不要采用写实插画，也不要复制原图细节，而是用简洁的几何形状、扁平色块、清晰轮廓、细线条与留白，将复杂信息压缩为少量关键视觉元素；必须保留原物最核心的识别特征，使人能够一眼认出它来自上方同一画面。 下半部分的构图应更专业，重视版面秩序、视觉重心、主次层级、正负形关系、留白节奏与图文平衡。主体可保持居中或略作偏移，但整体必须平衡、克制、安静，避免复杂堆积。背景使用米白色或与原图智能匹配的极浅色底，保留大面积留白，让主体像被提炼后的记忆标本安放在干净、理性的版面中。 配色从上方照片中提取最明亮、最鲜活、最有生命力的颜色重新整理，转化为更清透、柔和、治愈的{argument name="配色气质" default="神文主义治愈系"}配色气质。整体提高明度与色彩纯净度，以轻盈、干净、温暖的综合色关系建立氛围，色块鲜明但不刺眼，具有柔和、清新、安静又有生命力的视觉感受。避免灰脏、暗沉、发旧、厚重、荧光色 and 廉价糖果感。 文字可少量介入，加入简洁的标题、编号或微型注释，并与主体 and 留白形成自然的排版关系。文字整体应克制、精致、具有编辑感，像国际设计工作室、建筑海报、艺术展览海报或高端品牌视觉系统中的小型标注，不喧宾夺主，而是帮助建立更高级的图文秩序。 整体风格参考国际设计工作室、建筑海报、艺术展览海报及高端品牌视觉系统，呈现高级、现代、雅致、克制、几何化、扁平化且治愈感强的视觉效果。避免过度滤镜、廉价塑料质感、卡通感、强电脑生成感、模板化效果 and 无意义装饰。
 
-### E8 · 水彩风格编辑插画海报
-
-- Creator: @xiaoxiaodong01
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) · [finished media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2089893684527730867)
-- Summary: 一个 GPT Image 2 提示词，可将上传的照片转换为分屏设计，上方为原图，下方为复古水彩插画。
-- Prompt excerpt:
-
-> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
->
-> 上半部分保留原始照片，准确保持主体身份、情绪、姿态、空间关系、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有时尚杂志、艺术出版物与展览摄影质感。为适配画幅，可自然扩展天空、地面或环境背景，但不得拉伸、扭曲或改变主体。
->
-> 下半部分提取照片中最具识别性的主体、轮廓、姿态与叙事关系，重构为轻盈、稚拙、复古的手绘编辑插画。不要机械复刻细节，以概括造型、适度夸张比例、符号化特征和幽默视觉隐喻重新表达，同时保持原物一眼可辨。融合现代主义编辑插画、包豪斯平面构成、儿童绘本、稚拙艺术与时尚速写气质，形体简练，轮廓略带迟疑与手工误差，局部特征可适度放大，让画面兼具故事感、时尚感与俏皮感。
->
-> 配色从上方照片中提取，采用高明度、低至中等饱和度的柔和有限色盘，以近似色统一氛围，小面积互补色制造视觉跳点。使用水彩、水粉、彩铅、粉蜡笔与干刷混合质感，保留纸张颗粒、透底、笔触断裂、边缘毛糙、轻微脏色与旧印刷套色偏差。背景大面积留白，仅以松散淡彩、局部斜线或简单几何元素承托主体，避免复杂场景堆积、写实光影、光滑矢量、3D渲染和过度精修。
->
-> 文字从照片的地点、人物、场景或主题中提炼少量英文关键词、标题、编号或适配金句，并延续下半部分的手绘编辑语言。主标题采用略带稚拙与复古感的手写艺术字，辅助文字使用克制温和的无衬线或衬线字体，可轻微错位、倾斜、拉伸、叠色或产生旧印刷套色偏移，让文字像插画的一部分自然生长在画面中，而不是后期贴上的排版元素。
->
-> 整体使用米白或浅色背景与大量留白，上下画面通过相同的主体特征、色彩、姿态和视觉符号形成呼应。整体气质轻松、俏皮、复古、温柔、聪明、时髦、幽默、浪漫、松弛，略带笨拙与古怪自信，像一页被精心保存的旧时尚绘本与现代艺术杂志。
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -143,11 +151,12 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 3D 纸艺微缩海报设计 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/3d-0c5fb248a5b9) | [Media](https://media.goodcase.ai/cases/ffe38aa2e70d.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091470045973262409) | E1 |
 | 3D 等轴测厚涂油画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/3d-5b77438c2dce) | [Media](https://media.goodcase.ai/media/image/3d-5b77438c2dce.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091340055138963955) | E2 |
 | 海盐焦糖拿铁海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) | [Media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078098079992119579) | E3 |
-| 创意涂鸦海报生成器 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090834371423183135) | E4 |
-| 格林童话木刻版画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) | [Media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089987808664719723) | E5 |
-| 建筑视角草图海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-512647ce560a) | [Media](https://media.goodcase.ai/cases/900ef92b7743.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2096290195792642498) | E6 |
-| 几何治愈系艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) | [Media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2094414873837146267) | E7 |
-| 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E8 |
+| 复古蜡笔艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-11a17d4d4b4c) | [Media](https://media.goodcase.ai/cases/9d378892b70a.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2096262813010600335) | E4 |
+| 创意涂鸦海报生成器 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090834371423183135) | E5 |
+| 格林童话木刻版画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) | [Media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089987808664719723) | E6 |
+| 建筑视角草图海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-512647ce560a) | [Media](https://media.goodcase.ai/cases/900ef92b7743.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2096290195792642498) | E7 |
+| 几何治愈系艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-7b69b37ecac0) | [Media](https://media.goodcase.ai/media/image/case-7b69b37ecac0.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2094414873837146267) | E8 |
+| 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E— |
 | 三步拥有幸福人生信息图 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-a29e3e9b3070) | [Media](https://media.goodcase.ai/media/image/case-a29e3e9b3070.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078869781189677408) | E— |
 | 几何视窗极简商业海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090960491648815553) | E— |
 | 达芬奇等轴测结构海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-dbb1375c81bd) | [Media](https://media.goodcase.ai/cases/5b189e294391.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091001986519068891) | E— |
