@@ -31,6 +31,16 @@ curl -s "https://goodcase.ai/api/public/cases?take=3&locale=en"
 
 See [goodcase.ai/connect](https://goodcase.ai/connect) for integration docs.
 
+## Sister repo: awesome-seedance
+
+Only after Seedance 2.5 / 2.0 prompts, no site needed? Go to [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance): 419 cases each checked against the creator's original post, 257 cross-model retests, 14 reusable templates, synced daily from goodcase.ai, with an installable Agent Skill:
+
+```bash
+npx seedance-prompt-library install
+```
+
+The `skills/goodcase` Skill in this repository queries the whole goodcase.ai library (every model, live data, retest baselines); the awesome-seedance Skill ships only the Seedance templates. They install side by side.
+
 ## Bring your own data (optional)
 
 Copy `.env.example` to `.env.local` and fill in your own Supabase project URL and keys; the site switches to your database. Derive the table shape from the `/api/public` routes and the row types in `src/lib/cases.ts`.
