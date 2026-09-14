@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 6 published Cases attributed to AIwithSynthia. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 8 published Cases attributed to AIwithSynthia. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -86,7 +86,86 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > The scene transitions to a lush mango orchard where she picks ripe mangoes straight from the trees w…
 
-### E6 · 高端热带饮品 UGC 广告
+### E6 · 雨夜咖啡馆撞见恋人背叛
+
+- Creator: @AIwithSynthia
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b) · [finished media](https://media.goodcase.ai/cases/025c285bb440.mp4) · [poster](https://media.goodcase.ai/cases/4727d059893d.jpg) · [original source](https://x.com/AIwithSynthia/status/2096439253970395531)
+- Summary: Pure emotions 😭 Can Hollywood match it ? Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discov…
+- Prompt excerpt:
+
+> Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discovering her boyfriend kissing another woman inside a quiet café. Focus entirely on authentic human emotion, natural crying, subtle facial expressions and believable body language. No melodrama or exaggerated acting.
+> MAIN CHARACTER
+> Young Korean woman in her early 20s, naturally beautiful, realistic skin texture, minimal makeup, long black hair loosely styled, wearing a fitted pastel-pink top, casual denim shorts and simple sneakers.
+> Maintain the exact same face, hairstyle, outfit, body proportions and appearance throughout the entire scene.
+> LOCATION
+> A cozy modern café on a rainy evening. Warm interior lighting, large windows covered with rain droplets, wooden tables, soft background chatter, cups and plates, a few customers quietly talking.
+> SCENE
+> She enters the café carrying a small handbag, casually looking around for her boyfriend.
+> She suddenly notices him sitting at a table near the window.
+> He is kissing another young woman.
+> She immediately stops walking.
+> Her expression changes from confusion to disbelief.
+> She slowly lowers her handbag.
+> She stares at them silently for a few seconds, struggling to process what she is seeing.
+> Her eyes begin to fill with tears.
+> Show realistic tears naturally forming along her lower eyelids, then slowly rolling down her cheeks. No exaggerated crying.
+> She takes a shaky breath.
+> She walks toward their table.
+> Her boyfriend notices her.
+> His expression immediately changes to shock.
+> The other woman turns around and becomes uncomfortable.
+> The girlfriend look…
+
+### E7 · 雨夜咖啡馆的背叛对峙
+
+- Creator: @AIwithSynthia
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-the-drama-continued-and-the-tension-kept-rising-1952e2660beb) · [finished media](https://media.goodcase.ai/cases/73846454f78d.mp4) · [poster](https://media.goodcase.ai/cases/c73ec96625e2.jpg) · [original source](https://x.com/AIwithSynthia/status/2096604916014023117)
+- Summary: The drama continued and the tension kept rising Seedance 2.5 Prompt 👇 Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman…
+- Prompt excerpt:
+
+> The drama continued and the tension kept rising
+>
+> Seedance 2.5
+>
+> Prompt 👇
+>
+> Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman confronting another woman who is involved with her boyfriend. Focus on authentic human emotion, escalating tension, realistic facial expressions and believable body language. No melodrama or theatrical acting.
+>
+> MAIN CHARACTER
+>
+> Young Korean woman in her early 20s, naturally beautiful, realistic skin texture, minimal makeup, long black hair loosely styled, wearing a fitted pastel-pink top, casual denim shorts and simple sneakers. Maintain exact facial identity, hairstyle, outfit and proportions throughout.
+>
+> LOCATION
+>
+> A quiet modern café during a rainy evening. Warm interior lighting, rain-covered windows, wooden tables, soft background conversations and a few customers.
+>
+> SCENE
+>
+> She enters the café and immediately notices her boyfriend sitting closely with another young woman near the window.
+>
+> She stops.
+>
+> Her expression changes from confusion to disbelief. She walks toward them slowly, trying to control her emotions.
+>
+> She looks directly at the other woman and says firmly:
+>
+> “Please leave him alone. He's my boyfriend.”
+>
+> The other woman looks uncomfortable and tries to respond.
+>
+> The girlfriend becomes more emotional and raises her voice:
+>
+> “You knew he was with me. Why are you doing this?”
+>
+> She points toward the café entrance and says through anger and hurt:
+>
+> “Just leave. Please.”
+>
+> Her boyfriend tries to interrupt and calm her down.
+>
+> She turns toward him briefly, then looks back at the other woman. Her anger suddenly b…
+
+### E8 · 高端热带饮品 UGC 广告
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/ugc-34764467dea1) · [finished media](https://media.goodcase.ai/media/video/ugc-34764467dea1.mp4) · [poster](https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg) · [original source](https://x.com/AIwithSynthia/status/2076908363913613653)
@@ -114,7 +193,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 高端生活方式口红商业广告视频 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-9cb44af49d8a) | [Media](https://media.goodcase.ai/media/video/case-9cb44af49d8a.mp4) | [Original](https://x.com/AIwithSynthia/status/2081032248179220680) | E3 |
 | 高端口红美妆广告 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-b723c4e1858e) | [Media](https://media.goodcase.ai/media/video/case-b723c4e1858e.mp4) | [Original](https://x.com/AIwithSynthia/status/2077621815598592445) | E4 |
 | 芒果汁商业广告 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-cbb9868317f8) | [Media](https://media.goodcase.ai/media/video/case-cbb9868317f8.mp4) | [Original](https://x.com/AIwithSynthia/status/2080520939989811413) | E5 |
-| 高端热带饮品 UGC 广告 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/ugc-34764467dea1) | [Media](https://media.goodcase.ai/media/video/ugc-34764467dea1.mp4) | [Original](https://x.com/AIwithSynthia/status/2076908363913613653) | E6 |
+| 雨夜咖啡馆撞见恋人背叛 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b) | [Media](https://media.goodcase.ai/cases/025c285bb440.mp4) | [Original](https://x.com/AIwithSynthia/status/2096439253970395531) | E6 |
+| 雨夜咖啡馆的背叛对峙 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-the-drama-continued-and-the-tension-kept-rising-1952e2660beb) | [Media](https://media.goodcase.ai/cases/73846454f78d.mp4) | [Original](https://x.com/AIwithSynthia/status/2096604916014023117) | E7 |
+| 高端热带饮品 UGC 广告 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/ugc-34764467dea1) | [Media](https://media.goodcase.ai/media/video/ugc-34764467dea1.mp4) | [Original](https://x.com/AIwithSynthia/status/2076908363913613653) | E8 |
 
 ## Derivation boundary
 

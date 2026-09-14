@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 165 published Cases across 29 creators.
+This workflow is derived from 166 published Cases across 30 creators.
 
 ## Operating rule
 
@@ -93,7 +93,51 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >       </div>
 >       <PinPerspecti…
 
-### E3 · 3D Globe
+### E3 · 高密度 3D 浏览器森林生成器
+
+- Creator: @LexnLin
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-e0886af73a30) · [finished media](https://media.goodcase.ai/cases/e1df4bba9522.jpg) · [original source](https://x.com/LexnLin/status/2096339853025964380)
+- Summary: 一个复杂的提示词，用于利用 Three.js 风格优化和逼真光照，在浏览器中生成精细的实时 3D 森林环境。
+- Prompt excerpt:
+
+> First search for the "/unlazy" skill, read it fully, and use it throughout the entire task.
+>
+> Treat this as a major visual build lasting at least {argument name="minimum duration" default="5 hours"}. Prefer {argument name="optimal duration" default="8–24 hours"} of meaningful implementation and iteration if the environment allows it. Do not stop after producing one decent-looking scene.
+>
+> Create an extremely detailed real-time {argument name="subject" default="3D forest"} in the browser. Nothing else. No landing page, cards, story, marketing UI, dashboard, or unnecessary text. The forest itself is the entire experience.
+>
+> Push density and visual quality extremely hard.
+>
+> Build massive amounts of detailed grass, varied trees, branches, leaves, bushes, ferns, moss, flowers, weeds, roots, fallen wood, stones, soil, leaf litter, small plants, terrain variation, and tiny environmental details.
+>
+> The forest should feel almost excessively dense. Empty ground should be rare.
+>
+> Focus obsessively on:
+> realistic tree silhouettes,
+> dense grass,
+> natural asset variation,
+> rich colors,
+> lighting,
+> contact shadows,
+> wind,
+> foliage motion,
+> atmospheric depth,
+> fog,
+> sun shafts,
+> particles,
+> terrain,
+> materials,
+> scale,
+> composition,
+> and detail at both close and far distances.
+>
+> Avoid obvious repeating assets, billboard-looking foliage, tiled terrain, floating plants, plastic materials, identical trees, sparse procedural placement, excessive bloom, or a generic Three.js demo appearance.
+>
+> Include smooth free-camera exploration.
+>
+> Repeatedly capture and inspect the scene from many positions. Identify weak vegetation…
+
+### E4 · 3D Globe
 
 - Creator: Aceternity UI
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-globe) · [finished media](https://media.goodcase.ai/cases/c98bbb728b7b.webp) · [original source](https://ui.aceternity.com/components/3d-globe)
@@ -153,7 +197,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >   initialRotation?: { x: number; y: number };
 >   /**…
 
-### E4 · 3D Jack Portfolio
+### E5 · 3D Jack Portfolio
 
 - Creator: MotionSites
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-jack-portfolio) · [finished media](https://media.goodcase.ai/cases/49f8aeaa5fab.mp4) · [poster](https://media.goodcase.ai/cases/5f968f89c3fe.webp) · [original source](https://motionsites.ai/?prompt=3d-jack-portfolio-hero)
@@ -185,7 +229,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Left: paragraph text "a 3…
 
-### E5 · 3D Marquee
+### E6 · 3D Marquee
 
 - Creator: Aceternity UI
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-marquee) · [finished media](https://media.goodcase.ai/cases/725a48f190ff.webp) · [original source](https://ui.aceternity.com/components/3d-marquee)
@@ -239,7 +283,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >                 <GridLineVertical className="-left-4" offset="80px" />
 >                 {subarray.map((image, imageIndex…
 
-### E6 · 3D 发票打印机 SaaS 组件
+### E7 · 3D 发票打印机 SaaS 组件
 
 - Creator: @uxsweta
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-saas-2b0c021f6a2f) · [finished media](https://media.goodcase.ai/media/video/3d-saas-2b0c021f6a2f.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-saas-2b0c021f6a2f.jpg) · [original source](https://x.com/uxsweta/status/2061334430103535727)
@@ -293,7 +337,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > - It should only appear after clicking the Print Invoice button.
 > - The animation shoul…
 
-### E7 · Agent Wave
+### E8 · Agent Wave
 
 - Creator: MotionSites
 - Evidence: [GoodCase](https://goodcase.ai/cases/agent-wave) · [finished media](https://media.goodcase.ai/cases/ae8afbd1c466.mp4) · [poster](https://media.goodcase.ai/cases/19e5c9e121d4.webp) · [original source](https://motionsites.ai/?prompt=agent-wave)
@@ -341,78 +385,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > ```
 > https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900&family=In…
 
-### E8 · AI Workflow Hero
-
-- Creator: MotionSites
-- Evidence: [GoodCase](https://goodcase.ai/cases/ai-workflow-hero) · [finished media](https://media.goodcase.ai/cases/9e51fe5b57ba.webp) · [original source](https://motionsites.ai/?prompt=ai-workflow)
-- Summary: AI 工作流产品 hero，React 18 + Tailwind 3.4，明确不用动画库，图标清单点名到具体组件。
-- Prompt excerpt:
-
-> ### Stack
->
-> - **Vite** + **React 18** + **TypeScript**
-> - **Tailwind CSS 3.4**
-> - **lucide-react** for icons (`LogIn`, `UserPlus`, `Play`, `Sparkles`, `Menu`, `X`)
-> - No Framer Motion -- all animations are CSS `transition-*` classes
->
-> ---
->
-> ### Fonts (loaded in `index.html`)
->
-> ```html
-> <link rel="preconnect" href="https://fonts.googleapis.com" />
-> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-> <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-> <link href="https://db.onlinewebfonts.com/c/6e47ef470dd19698c911332a9b4d1cf4?family=Neue+Haas+Grotesk+Text+Pro" rel="stylesheet" />
-> <link href="https://db.onlinewebfonts.com/c/dec0d9b4e22ca588dc20e1e2e09a59b5?family=Neue+Haas+Grotesk+Display+Pro+55+Roman" rel="stylesheet" />
-> ```
->
-> Body/root font stack (in `index.css`):
->
-> ```css
-> html, body, #root {
->   height: 100%;
->   margin: 0;
->   font-family: 'Neue Haas Grotesk Display Pro 55 Roman', 'Neue Haas Grotesk Text Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
->   -webkit-font-smoothing: antialiased;
-> }
-> ```
->
-> ---
->
-> ### Video URL (CloudFront)
->
-> ```
-> https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260511_131941_d136af49-e243-493a-be14-6ff3f24e09e6.mp4
-> ```
->
-> ---
->
-> ### Color Palette
->
-> | Token | Hex |
-> |-------|-----|
-> | Dark green (text, buttons) | `#1f2a1d` |
-> | Medium dark green | `#2d3a2a` |
-> | Button hover | `#2a3827` |
-> | Body text green | `#4b5b47` |
-> | Heading primary | `#336443` |
-> | Heading accent | `#85AB8B` |
-> | Bottom-left text | `#3d5638` |
-> | Bottom-left button bg | `#3d5638`, hover `#2d422…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 3D 超市包装式创意机构官网 | @Oluwaphilemon1 | [GoodCase](https://goodcase.ai/cases/3d-8bbc2b408223) | [Media](https://media.goodcase.ai/media/video/3d-8bbc2b408223.mp4) | [Original](https://x.com/Oluwaphilemon1/status/2068957493561045032) | E1 |
 | 3D Animated Pin | Aceternity UI | [GoodCase](https://goodcase.ai/cases/3d-animated-pin) | [Media](https://media.goodcase.ai/cases/0b778c9ee5bc.mp4) | [Original](https://ui.aceternity.com/components/3d-pin) | E2 |
-| 3D Globe | Aceternity UI | [GoodCase](https://goodcase.ai/cases/3d-globe) | [Media](https://media.goodcase.ai/cases/c98bbb728b7b.webp) | [Original](https://ui.aceternity.com/components/3d-globe) | E3 |
-| 3D Jack Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/3d-jack-portfolio) | [Media](https://media.goodcase.ai/cases/49f8aeaa5fab.mp4) | [Original](https://motionsites.ai/?prompt=3d-jack-portfolio-hero) | E4 |
-| 3D Marquee | Aceternity UI | [GoodCase](https://goodcase.ai/cases/3d-marquee) | [Media](https://media.goodcase.ai/cases/725a48f190ff.webp) | [Original](https://ui.aceternity.com/components/3d-marquee) | E5 |
-| 3D 发票打印机 SaaS 组件 | @uxsweta | [GoodCase](https://goodcase.ai/cases/3d-saas-2b0c021f6a2f) | [Media](https://media.goodcase.ai/media/video/3d-saas-2b0c021f6a2f.mp4) | [Original](https://x.com/uxsweta/status/2061334430103535727) | E6 |
-| Agent Wave | MotionSites | [GoodCase](https://goodcase.ai/cases/agent-wave) | [Media](https://media.goodcase.ai/cases/ae8afbd1c466.mp4) | [Original](https://motionsites.ai/?prompt=agent-wave) | E7 |
-| AI Workflow Hero | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-workflow-hero) | [Media](https://media.goodcase.ai/cases/9e51fe5b57ba.webp) | [Original](https://motionsites.ai/?prompt=ai-workflow) | E8 |
+| 高密度 3D 浏览器森林生成器 | @LexnLin | [GoodCase](https://goodcase.ai/cases/3d-e0886af73a30) | [Media](https://media.goodcase.ai/cases/e1df4bba9522.jpg) | [Original](https://x.com/LexnLin/status/2096339853025964380) | E3 |
+| 3D Globe | Aceternity UI | [GoodCase](https://goodcase.ai/cases/3d-globe) | [Media](https://media.goodcase.ai/cases/c98bbb728b7b.webp) | [Original](https://ui.aceternity.com/components/3d-globe) | E4 |
+| 3D Jack Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/3d-jack-portfolio) | [Media](https://media.goodcase.ai/cases/49f8aeaa5fab.mp4) | [Original](https://motionsites.ai/?prompt=3d-jack-portfolio-hero) | E5 |
+| 3D Marquee | Aceternity UI | [GoodCase](https://goodcase.ai/cases/3d-marquee) | [Media](https://media.goodcase.ai/cases/725a48f190ff.webp) | [Original](https://ui.aceternity.com/components/3d-marquee) | E6 |
+| 3D 发票打印机 SaaS 组件 | @uxsweta | [GoodCase](https://goodcase.ai/cases/3d-saas-2b0c021f6a2f) | [Media](https://media.goodcase.ai/media/video/3d-saas-2b0c021f6a2f.mp4) | [Original](https://x.com/uxsweta/status/2061334430103535727) | E7 |
+| Agent Wave | MotionSites | [GoodCase](https://goodcase.ai/cases/agent-wave) | [Media](https://media.goodcase.ai/cases/ae8afbd1c466.mp4) | [Original](https://motionsites.ai/?prompt=agent-wave) | E8 |
+| AI Workflow Hero | MotionSites | [GoodCase](https://goodcase.ai/cases/ai-workflow-hero) | [Media](https://media.goodcase.ai/cases/9e51fe5b57ba.webp) | [Original](https://motionsites.ai/?prompt=ai-workflow) | E— |
 | Animated Cards | MotionSites | [GoodCase](https://goodcase.ai/cases/animated-cards) | [Media](https://media.goodcase.ai/cases/9cacdc3c42fa.webp) | [Original](https://motionsites.ai/?prompt=animated-cards) | E— |
 | Animated Modal | Aceternity UI | [GoodCase](https://goodcase.ai/cases/animated-modal) | [Media](https://media.goodcase.ai/cases/89e7955c1676.webp) | [Original](https://ui.aceternity.com/components/animated-modal) | E— |
 | Animated Tabs | Aceternity UI | [GoodCase](https://goodcase.ai/cases/animated-tabs) | [Media](https://media.goodcase.ai/cases/ee1949cbe51d.mp4) | [Original](https://ui.aceternity.com/components/tabs) | E— |
@@ -424,7 +409,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Aurora Background | Aceternity UI | [GoodCase](https://goodcase.ai/cases/aurora-background) | [Media](https://media.goodcase.ai/cases/f5af773675b0.webp) | [Original](https://ui.aceternity.com/components/aurora-background) | E— |
 | Aurora Onboard | MotionSites | [GoodCase](https://goodcase.ai/cases/aurora-onboard) | [Media](https://media.goodcase.ai/cases/2f00c494a458.png) | [Original](https://motionsites.ai/?prompt=aurora-onboard) | E— |
 | Background Beams | Aceternity UI | [GoodCase](https://goodcase.ai/cases/background-beams) | [Media](https://media.goodcase.ai/cases/6282a2b80eb8.mov) | [Original](https://ui.aceternity.com/components/background-beams) | E— |
-| Background Beams With Collision | Aceternity UI | [GoodCase](https://goodcase.ai/cases/background-beams-with-collision) | [Media](https://media.goodcase.ai/cases/4ad007e64c9e.webp) | [Original](https://ui.aceternity.com/components/background-beams-with-collision) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to laviniavelle. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to laviniavelle. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -24,7 +24,18 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A commercial-style high-definition video sequence of a young East Asian woman with glowing, glass-like skin The sequence begins with close-up shots showing minor skin imperfections and freckles, transitioning to her looking tired while working in front of a laptop She reaches for a minimal glass bottle of clear hydrating facial serum on a sunlit marble counter. Macro close-ups show the clear serum pouring onto her palm and being gently applied to her face As the serum absorbs, her complexion transforms into radiant deeply hydrated, glass skin She smiles confidently in a bright, modern white apartment as sheer white curtains billow in the breeze. Soft natural lighting, aesthetic beauty commercial cinematography, 4k resolution, 60fps, smooth cinematic cuts.
 
-### E3 · Seedance：High-end cosmetic product commercial, 8K resolution, cinematic lighting, studio…
+### E3 · 水润面霜护肤广告
+
+- Creator: @laviniavelle
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-skincare-commercial-vertical-9-16-aspect-ratio-8640fa586f63) · [finished media](https://media.goodcase.ai/cases/5e21fb755d9b.mp4) · [poster](https://media.goodcase.ai/cases/5fce120edbde.jpg) · [original source](https://x.com/laviniavelle/status/2097171135033143553)
+- Summary: Glow naturally with FERMINA Hydration softness and a fresh glow in every touch. Made With Seedance 2.5 on @itsPolloAI Prompt: Cinematic skincare commercial, ver…
+- Prompt excerpt:
+
+> Cinematic skincare commercial, vertical 9:16 aspect ratio. Starts with a sleek white cosmetic bottle labeled FERMINA covered in water droplets with water splashing dynamically over the top Quick seamless macro transition to a young woman with natural glowing skin pumping cream onto her fingers then gently applying the white moisturizer onto her cheek. Close up on her smooth hydrated skin with a subtle dew effect Ends with the woman smiling softly at the camera, holding the FERMINA product bottle next to her face warm studio lighting minimal clean aesthetic, soft focus background, high-definition commercial style.
+>
+> #polloai
+
+### E4 · 金色液流环绕的焕亮面霜广告
 
 - Creator: @laviniavelle
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-high-end-cosmetic-product-commercial-8k-resolution-cinematic-lighting-studio-88b6d439e00b) · [finished media](https://media.goodcase.ai/media/video/seedance-high-end-cosmetic-product-commercial-8k-resolution-cinematic-lighting-studio-88b6d439e00b.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-high-end-cosmetic-product-commercial-8k-resolution-cinematic-lighting-studio-88b6d439e00b.jpg) · [original source](https://x.com/laviniavelle/status/2095713859000729956)
@@ -41,7 +52,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 皮克斯风格美妆日常动画 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/laviniavelle/status/2092193228803952975) | E1 |
 | “水光肌” 美容精华液广告 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-98ee40004d15) | [Media](https://media.goodcase.ai/cases/fc83139eadfa.mp4) | [Original](https://x.com/laviniavelle/status/2092417476265144705) | E2 |
-| Seedance：High-end cosmetic product commercial, 8K resolution, cinematic lighting, studio… | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-high-end-cosmetic-product-commercial-8k-resolution-cinematic-lighting-studio-88b6d439e00b) | [Media](https://media.goodcase.ai/media/video/seedance-high-end-cosmetic-product-commercial-8k-resolution-cinematic-lighting-studio-88b6d439e00b.mp4) | [Original](https://x.com/laviniavelle/status/2095713859000729956) | E3 |
+| 水润面霜护肤广告 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-skincare-commercial-vertical-9-16-aspect-ratio-8640fa586f63) | [Media](https://media.goodcase.ai/cases/5e21fb755d9b.mp4) | [Original](https://x.com/laviniavelle/status/2097171135033143553) | E3 |
+| 金色液流环绕的焕亮面霜广告 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-high-end-cosmetic-product-commercial-8k-resolution-cinematic-lighting-studio-88b6d439e00b) | [Media](https://media.goodcase.ai/media/video/seedance-high-end-cosmetic-product-commercial-8k-resolution-cinematic-lighting-studio-88b6d439e00b.mp4) | [Original](https://x.com/laviniavelle/status/2095713859000729956) | E4 |
 
 ## Derivation boundary
 

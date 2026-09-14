@@ -1,12 +1,65 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 8 published Cases attributed to Strength04_X. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 9 published Cases attributed to Strength04_X. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 高端披萨商业广告分镜脚本
+### E1 · 枫糖浆商业广告项目
+
+- Creator: @Strength04_X
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-0ade8f99f80d) · [finished media](https://media.goodcase.ai/cases/ca0e0a2befbc.jpg) · [original source](https://x.com/Strength04_X/status/2096833097740493050)
+- Summary: 一份专为高端食品商业广告设计的综合项目提示词，聚焦于枫糖浆的电影级产品特写，营造温暖的视觉美学。
+- Prompt excerpt:
+
+> TITLE:
+> Premium Maple Syrup Product Commercial Storyboard
+>
+> FORMAT:
+> • Single-page premium storyboard
+> • 3:4 Portrait ratio
+> • Luxury food product advertising
+> • 8 cinematic product-focused scenes
+> • Product remains the main hero
+> • High-end advertising agency presentation
+>
+> HEADER:
+> • Elegant serif typography
+> • Information cards:
+>   - Duration: 20 Seconds
+>   - Style: Cinematic Gourmet Food Commercial
+>   - Product: Pure Maple Syrup
+>   - Audio: Slow Pour + Soft Food ASMR
+> • Why This Style Works section
+> • Warm amber, cream and dark brown aesthetic
+> • Minimal maple leaf decorative accents
+>
+> STORYBOARD:
+> 1. Premium maple syrup bottle standing on polished dark wood
+> 2. Bottle cap opening in extreme macro
+> 3. Golden syrup slowly flowing from the bottle
+> 4. Syrup forming a glossy ribbon in mid-air
+> 5. Syrup cascading over fluffy pancakes
+> 6. Extreme macro showing rich syrup texture and tiny reflections
+> 7. Pancake stack surrounded by the hero bottle and maple leaves
+> 8. Final luxury product packshot with dramatic syrup pour
+>
+> EVERY PANEL:
+> • Scene number
+> • Duration badge
+> • Camera direction
+> • Visual
+> • Action
+> • Product detail
+>
+> CAMERA:
+> Extreme macro, slow-motion liquid photography, overhead food shot, controlled push-in, shallow depth of field, cinematic hero framing.
+>
+> STYLE:
+> Ultra-realistic food advertising, realistic syrup viscosity, glossy golden texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.
+
+### E2 · 高端披萨商业广告分镜脚本
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-2485fd339050) · [finished media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) · [original source](https://x.com/Strength04_X/status/2094649803682750838)
@@ -58,7 +111,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic f…
 
-### E2 · 高端零食广告项目
+### E3 · 高端零食广告项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) · [finished media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) · [original source](https://x.com/Strength04_X/status/2095782580071411770)
@@ -110,7 +163,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic snack advertising, incredibly detailed crispy texture, reali…
 
-### E3 · 椰子水产品项目
+### E4 · 椰子水产品项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) · [finished media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) · [original source](https://x.com/Strength04_X/status/2094760813794111843)
@@ -162,7 +215,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic beverage advertising, crystal-clear liquid, realistic condensation, detailed coconut texture, dynamic water splash, natural premium lighting, clean packa…
 
-### E4 · 高端意大利面商业广告项目
+### E5 · 高端意大利面商业广告项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) · [finished media](https://media.goodcase.ai/cases/714a09d39d81.jpg) · [original source](https://x.com/Strength04_X/status/2095411329461100949)
@@ -215,7 +268,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic Italian food advertising, authentic pasta texture, realistic steam and water, detailed packaging, warm cinematic lighting, premium gourmet presentation, natural ingredients, 8K.
 
-### E5 · 高端方便面广告项目
+### E6 · 高端方便面广告项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) · [finished media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) · [original source](https://x.com/Strength04_X/status/2090019696779387173)
@@ -265,7 +318,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic food commercial, realistic steam, detailed noodle texture, glossy broth, vibrant ingredients, professional studio lighting, premium packaging, 8K.
 
-### E6 · 高端有机蜂蜜商业广告项目
+### E7 · 高端有机蜂蜜商业广告项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-e2965bc59b6d) · [finished media](https://media.goodcase.ai/cases/0754619398ae.jpg) · [original source](https://x.com/Strength04_X/status/2090081415924982038)
@@ -317,7 +370,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic honey texture, realistic liquid physics, warm natural lighting, premium food photography, glossy glass jar, elegant reflections, luxury organic branding, 8K.
 
-### E7 · 高端太阳镜商业项目
+### E8 · 高端太阳镜商业项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-e35328ffea70) · [finished media](https://media.goodcase.ai/media/image/case-e35328ffea70.jpg) · [original source](https://x.com/Strength04_X/status/2079586138130657751)
@@ -329,38 +382,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Overall design:
 > Ultra-premium eyewear art direction, deep cosmic
 
-### E8 · Milkshake 产品信息图
-
-- Creator: @Strength04_X
-- Evidence: [GoodCase](https://goodcase.ai/cases/milkshake-5c0760224640) · [finished media](https://media.goodcase.ai/cases/6071746d5c88.jpg) · [original source](https://x.com/Strength04_X/status/2090665058980462697)
-- Summary: 一款用于高端饮品的爆炸视图信息图提示词，展示了具有专业影棚灯光和质感的层叠配料。
-- Prompt excerpt:
-
-> A high-quality professional product photograph of a premium {argument name="flavor" default="strawberry"} milkshake served in a tall transparent glass, centered against a soft {argument name="background color" default="pastel pink"} seamless studio background. The milkshake has a thick creamy texture, glossy syrup dripping inside the glass, a generous swirl of whipped cream on top, fresh fruit slices, and delicate sugar sprinkles. Realistic condensation droplets cover the glass with soft reflections from the studio lights. Elegant soft lighting creates subtle natural shadows beneath the glass. Ultra-sharp focus, DSLR macro beverage photography, premium café advertisement style, hyper realistic, clean commercial composition, 8K.
->
-> Create a hyper-realistic exploded vertical infographic composition of a premium strawberry milkshake.
-> Top → Bottom structure:
-> Fresh Strawberry Garnish
-> → Whipped Cream
-> → Strawberry Syrup
-> → Creamy Strawberry Shake
-> → Crushed Ice
-> → Transparent Glass Base
-> All elements must be perfectly centered, evenly spaced, and vertically aligned. Show realistic strawberry texture, fluffy whipped cream, glossy syrup, thick creamy milkshake consistency, translucent ice, and realistic glass reflections. Use a soft pastel pink seamless studio background with elegant café lighting and subtle realistic shadows beneath each floating element. Ultra-sharp DSLR macro beverage photography, premium dessert drink infographic aesthetic, clean professional composition, hyper realistic, 8K.
-> Add clean minimalist infographic text labels with thin pointer lines using these ex…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 高端披萨商业广告分镜脚本 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2485fd339050) | [Media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) | [Original](https://x.com/Strength04_X/status/2094649803682750838) | E1 |
-| 高端零食广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) | [Media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) | [Original](https://x.com/Strength04_X/status/2095782580071411770) | E2 |
-| 椰子水产品项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) | [Media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) | [Original](https://x.com/Strength04_X/status/2094760813794111843) | E3 |
-| 高端意大利面商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) | [Media](https://media.goodcase.ai/cases/714a09d39d81.jpg) | [Original](https://x.com/Strength04_X/status/2095411329461100949) | E4 |
-| 高端方便面广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) | [Media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) | [Original](https://x.com/Strength04_X/status/2090019696779387173) | E5 |
-| 高端有机蜂蜜商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e2965bc59b6d) | [Media](https://media.goodcase.ai/cases/0754619398ae.jpg) | [Original](https://x.com/Strength04_X/status/2090081415924982038) | E6 |
-| 高端太阳镜商业项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e35328ffea70) | [Media](https://media.goodcase.ai/media/image/case-e35328ffea70.jpg) | [Original](https://x.com/Strength04_X/status/2079586138130657751) | E7 |
-| Milkshake 产品信息图 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/milkshake-5c0760224640) | [Media](https://media.goodcase.ai/cases/6071746d5c88.jpg) | [Original](https://x.com/Strength04_X/status/2090665058980462697) | E8 |
+| 枫糖浆商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-0ade8f99f80d) | [Media](https://media.goodcase.ai/cases/ca0e0a2befbc.jpg) | [Original](https://x.com/Strength04_X/status/2096833097740493050) | E1 |
+| 高端披萨商业广告分镜脚本 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2485fd339050) | [Media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) | [Original](https://x.com/Strength04_X/status/2094649803682750838) | E2 |
+| 高端零食广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) | [Media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) | [Original](https://x.com/Strength04_X/status/2095782580071411770) | E3 |
+| 椰子水产品项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) | [Media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) | [Original](https://x.com/Strength04_X/status/2094760813794111843) | E4 |
+| 高端意大利面商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) | [Media](https://media.goodcase.ai/cases/714a09d39d81.jpg) | [Original](https://x.com/Strength04_X/status/2095411329461100949) | E5 |
+| 高端方便面广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) | [Media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) | [Original](https://x.com/Strength04_X/status/2090019696779387173) | E6 |
+| 高端有机蜂蜜商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e2965bc59b6d) | [Media](https://media.goodcase.ai/cases/0754619398ae.jpg) | [Original](https://x.com/Strength04_X/status/2090081415924982038) | E7 |
+| 高端太阳镜商业项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e35328ffea70) | [Media](https://media.goodcase.ai/media/image/case-e35328ffea70.jpg) | [Original](https://x.com/Strength04_X/status/2079586138130657751) | E8 |
+| Milkshake 产品信息图 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/milkshake-5c0760224640) | [Media](https://media.goodcase.ai/cases/6071746d5c88.jpg) | [Original](https://x.com/Strength04_X/status/2090665058980462697) | E— |
 
 ## Derivation boundary
 

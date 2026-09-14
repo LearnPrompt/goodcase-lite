@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 29 published Cases across 18 creators.
+This workflow is derived from 30 published Cases across 18 creators.
 
 ## Operating rule
 
@@ -98,7 +98,60 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 构图节奏不同
 > 整体完成度高，适合直接用于电商提案或社交媒体展示
 
-### E6 · 高端披萨商业广告分镜脚本
+### E6 · 枫糖浆商业广告项目
+
+- Creator: @Strength04_X
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-0ade8f99f80d) · [finished media](https://media.goodcase.ai/cases/ca0e0a2befbc.jpg) · [original source](https://x.com/Strength04_X/status/2096833097740493050)
+- Summary: 一份专为高端食品商业广告设计的综合项目提示词，聚焦于枫糖浆的电影级产品特写，营造温暖的视觉美学。
+- Prompt excerpt:
+
+> TITLE:
+> Premium Maple Syrup Product Commercial Storyboard
+>
+> FORMAT:
+> • Single-page premium storyboard
+> • 3:4 Portrait ratio
+> • Luxury food product advertising
+> • 8 cinematic product-focused scenes
+> • Product remains the main hero
+> • High-end advertising agency presentation
+>
+> HEADER:
+> • Elegant serif typography
+> • Information cards:
+>   - Duration: 20 Seconds
+>   - Style: Cinematic Gourmet Food Commercial
+>   - Product: Pure Maple Syrup
+>   - Audio: Slow Pour + Soft Food ASMR
+> • Why This Style Works section
+> • Warm amber, cream and dark brown aesthetic
+> • Minimal maple leaf decorative accents
+>
+> STORYBOARD:
+> 1. Premium maple syrup bottle standing on polished dark wood
+> 2. Bottle cap opening in extreme macro
+> 3. Golden syrup slowly flowing from the bottle
+> 4. Syrup forming a glossy ribbon in mid-air
+> 5. Syrup cascading over fluffy pancakes
+> 6. Extreme macro showing rich syrup texture and tiny reflections
+> 7. Pancake stack surrounded by the hero bottle and maple leaves
+> 8. Final luxury product packshot with dramatic syrup pour
+>
+> EVERY PANEL:
+> • Scene number
+> • Duration badge
+> • Camera direction
+> • Visual
+> • Action
+> • Product detail
+>
+> CAMERA:
+> Extreme macro, slow-motion liquid photography, overhead food shot, controlled push-in, shallow depth of field, cinematic hero framing.
+>
+> STYLE:
+> Ultra-realistic food advertising, realistic syrup viscosity, glossy golden texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.
+
+### E7 · 高端披萨商业广告分镜脚本
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-2485fd339050) · [finished media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) · [original source](https://x.com/Strength04_X/status/2094649803682750838)
@@ -150,7 +203,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic f…
 
-### E7 · 高端零食广告项目
+### E8 · 高端零食广告项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) · [finished media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) · [original source](https://x.com/Strength04_X/status/2095782580071411770)
@@ -202,15 +255,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic snack advertising, incredibly detailed crispy texture, reali…
 
-### E8 · 悬浮美食商业广告活动
-
-- Creator: @SimplyAnnisa
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) · [finished media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) · [original source](https://x.com/SimplyAnnisa/status/2077676593284354149)
-- Summary: 一个专业的商业摄影提示词，用于根据参考图像创作高端悬浮美食广告。
-- Prompt excerpt:
-
-> Use the uploaded image as the primary reference and preserve the exact {argument name="subject" default="food or beverage"} with its original appearance, textures, colors, ingredients, and serving style. Create a premium {argument name="aspect ratio" default="4:5"} vertical levitating food campaign where the product floats elegantly above a refined plate or surface with a few subtle floating elements like crumbs, herbs, sauce, steam, or garnish. Use a {argument name="background style" default="clean studio or soft gradient"} background, professional commercial lighting, crisp highlights, realistic shadows, and a modern editorial composition that keeps the product as the clear hero. Add only minimal branding text if provided using elegant sans-serif typography. The final image should be ultra-realistic, appetizing, dynamic, premium, social-media ready, and look like a high-end commercial food advertisement while keeping the uploaded product instantly recognizable.
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -220,9 +264,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | AI 直出 Logo 集：Triple Cat 三只小猫涂鸦风宠物咖啡馆标志 | Abu | [GoodCase](https://goodcase.ai/cases/ai-logo-triple-cat-7eac3df5199d) | [Media](https://media.goodcase.ai/cases/0bc6c6cf72c0.webp) | [Original](https://www.douyin.com/note/7677943724332400241?gc=logo-triple-cat) | E3 |
 | Arctic Mint Gum 商业摄影 | @komorimedia | [GoodCase](https://goodcase.ai/cases/arctic-mint-gum-debd6203b36e) | [Media](https://media.goodcase.ai/media/image/arctic-mint-gum-debd6203b36e.jpg) | [Original](https://x.com/komorimedia/status/2081430171371094472) | E4 |
 | Batch Product Poster Proposal Generator | @derek_wall90176 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/derek_wall90176/status/2080480065998192970) | E5 |
-| 高端披萨商业广告分镜脚本 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2485fd339050) | [Media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) | [Original](https://x.com/Strength04_X/status/2094649803682750838) | E6 |
-| 高端零食广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) | [Media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) | [Original](https://x.com/Strength04_X/status/2095782580071411770) | E7 |
-| 悬浮美食商业广告活动 | @SimplyAnnisa | [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) | [Media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) | [Original](https://x.com/SimplyAnnisa/status/2077676593284354149) | E8 |
+| 枫糖浆商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-0ade8f99f80d) | [Media](https://media.goodcase.ai/cases/ca0e0a2befbc.jpg) | [Original](https://x.com/Strength04_X/status/2096833097740493050) | E6 |
+| 高端披萨商业广告分镜脚本 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2485fd339050) | [Media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) | [Original](https://x.com/Strength04_X/status/2094649803682750838) | E7 |
+| 高端零食广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) | [Media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) | [Original](https://x.com/Strength04_X/status/2095782580071411770) | E8 |
+| 悬浮美食商业广告活动 | @SimplyAnnisa | [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) | [Media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) | [Original](https://x.com/SimplyAnnisa/status/2077676593284354149) | E— |
 | 极简主义蓝色香水广告 | @ShamiWeb3 | [GoodCase](https://goodcase.ai/cases/case-5182e7e62bbb) | [Media](https://media.goodcase.ai/media/image/case-5182e7e62bbb.jpg) | [Original](https://x.com/ShamiWeb3/status/2078074982337515555) | E— |
 | 剪贴簿风格韩式美食广告 | @kingofdairyque | [GoodCase](https://goodcase.ai/cases/case-5a706b064073) | [Media](https://media.goodcase.ai/media/image/case-5a706b064073.jpg) | [Original](https://x.com/kingofdairyque/status/2081580288971337797) | E— |
 | 椰子水产品项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) | [Media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) | [Original](https://x.com/Strength04_X/status/2094760813794111843) | E— |
@@ -234,7 +279,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 几何视窗极简商业海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090960491648815553) | E— |
 | 混合媒体广告模板 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/case-cbfe9176785a) | [Media](https://media.goodcase.ai/media/image/case-cbfe9176785a.jpg) | [Original](https://x.com/Goodmanprotocol/status/2080163152134836702) | E— |
 | 电商高精快速出图（图片可生成任意字体文字） | AI大师工作流 | [GoodCase](https://goodcase.ai/cases/case-dc302e39731e) | [Media](https://media.goodcase.ai/media/image/case-dc302e39731e.webp) | [Original](https://www.liblib.art/modelinfo/e934f3a693c14268a758905a7d20ceb4) | E— |
-| 高端有机蜂蜜商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e2965bc59b6d) | [Media](https://media.goodcase.ai/cases/0754619398ae.jpg) | [Original](https://x.com/Strength04_X/status/2090081415924982038) | E— |
 
 ## Derivation boundary
 

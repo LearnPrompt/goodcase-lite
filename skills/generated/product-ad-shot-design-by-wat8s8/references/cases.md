@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to AIwithkhan. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to AIwithkhan. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -58,27 +58,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > She rotates the sunglasses slowly in front of the camera, showing the frame, hinges, and lenses as natural reflections glide across the surface. She smiles and says, "The finish feels amazing, and they're incredibly lightweight."
 > She puts on the sunglasses, stands up, and walks toward a large full-length mirror. Looking at her reflection, she adjusts the frame naturally and says, "Honestly... they look so good, and they're really comfortable on the…
 
-### E4 · Seedance：GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, bla…
-
-- Creator: @AIwithkhan
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863) · [finished media](https://media.goodcase.ai/media/video/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.jpg) · [original source](https://x.com/AIwithkhan/status/2095485437821464808)
-- Summary: What happened there 😭 Seedance 2.5 Prompt : GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side …
-- Prompt excerpt:
-
-> GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side ponytail, loose peach T-shirt, white pajama pants, black sneakers and simple necklace. Maintain exact identity and appearance.
->
-> LOCATION: Small Korean apartment courtyard during a warm windy afternoon. Concrete walls, laundry lines, potted plants, bicycles and neighboring homes.
->
-> CAMERA / LOOK: Early-2000s consumer DV camcorder. Strong handheld shake, autofocus hunting, exposure pumping, faded colors, soft contrast, motion blur and imperfect zooms.
->
-> SEQUENCE:
-> She hangs freshly washed clothes on a long outdoor clothesline. Everything looks calm until a sudden strong gust sends one shirt flying off the line. She runs after it while laughing. The camera operator follows shakily. The shirt lands on a parked bicycle. She grabs it, tries to hang it again, and another piece of laundry immediately blows away. She looks toward the camera in disbelief before chasing it down the lane.
->
-> AUDIO: Wind, fabric flapping, birds, footsteps, distant scooters and neighborhood voices. No music.
->
-> Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and believable everyday chaos.
-
-### E5 · 高端饮料 UGC 商业广告
+### E4 · 高端饮料 UGC 商业广告
 
 - Creator: @AIwithkhan
 - Evidence: [GoodCase](https://goodcase.ai/cases/ugc-80d503f66caa) · [finished media](https://media.goodcase.ai/media/video/ugc-80d503f66caa.mp4) · [poster](https://media.goodcase.ai/media/poster/ugc-80d503f66caa.jpg) · [original source](https://x.com/AIwithkhan/status/2076893397256695952)
@@ -106,8 +86,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Seedance 参考图角色的墨镜耳机 UGC 短片 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-2ee8c62c7d26) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-2ee8c62c7d26.mp4) | [Original](https://x.com/AIwithkhan/status/2089686478100341051) | E1 |
 | 智能手表产品生活方式广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/AIwithkhan/status/2080519081959276735) | E2 |
 | Seedance 2.5 太阳镜UGC测评口播视频 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-ugc-69e79f387106.mp4) | [Original](https://x.com/AIwithkhan/status/2084608509837275231) | E3 |
-| Seedance：GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, bla… | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863) | [Media](https://media.goodcase.ai/media/video/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.mp4) | [Original](https://x.com/AIwithkhan/status/2095485437821464808) | E4 |
-| 高端饮料 UGC 商业广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/ugc-80d503f66caa) | [Media](https://media.goodcase.ai/media/video/ugc-80d503f66caa.mp4) | [Original](https://x.com/AIwithkhan/status/2076893397256695952) | E5 |
+| 高端饮料 UGC 商业广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/ugc-80d503f66caa) | [Media](https://media.goodcase.ai/media/video/ugc-80d503f66caa.mp4) | [Original](https://x.com/AIwithkhan/status/2076893397256695952) | E4 |
 
 ## Derivation boundary
 

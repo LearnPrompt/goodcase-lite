@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to aiwithaly. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to aiwithaly. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -32,39 +32,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Negative Prompt: No CGI appearance, weightless watermelon, floating objects, teleportation, distorted hands, extra fingers, changing character or clothing, instant cutting, unrealistic physics, robotic movement, excessive wind, artificial skin, text, logos, or watermark.
 
-### E3 · Seedance：Create a 60-second ultra-photorealistic Korean summer travel vlog featuring a y…
+### E3 · 韩国乡村女子的农场晨间日常
 
 - Creator: @aiwithaly
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-60-second-ultra-photorealistic-korean-summer-travel-vlog-featuring-a-y-78cc70e21f19) · [finished media](https://media.goodcase.ai/media/video/seedance-create-a-60-second-ultra-photorealistic-korean-summer-travel-vlog-featuring-a-y-78cc70e21f19.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-create-a-60-second-ultra-photorealistic-korean-summer-travel-vlog-featuring-a-y-78cc70e21f19.jpg) · [original source](https://x.com/aiwithaly/status/2096087387164320223)
-- Summary: A hidden Korean beach and a summer day worth remembering. Clear water, barefoot walks, seaside snacks, and a golden sunset. Created on seedance 2.5 Prompt: Crea…
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66) · [finished media](https://media.goodcase.ai/cases/fd84c98b6780.mp4) · [poster](https://media.goodcase.ai/cases/12a504af8dee.jpg) · [original source](https://x.com/aiwithaly/status/2097556131623432569)
+- Summary: There’s something special about a morning spent close to nature. Created on Seedance 2.5 Prompt: Create a 30-second photorealistic Korean countryside lifestyle …
 - Prompt excerpt:
 
-> Create a 60-second ultra-photorealistic Korean summer travel vlog featuring a young Korean woman in her mid-20s exploring a secluded coastal beach. Natural dark hair, minimal makeup, white linen shirt, denim shorts, sandals and canvas shoulder bag.
+> Create a 30-second photorealistic Korean countryside lifestyle vlog following a woman through her peaceful morning routine. Show her opening the chicken coop → feeding the chickens → collecting fresh eggs → cleaning the coop → preparing a homemade breakfast → sitting outside and enjoying the quiet farmhouse morning.
 >
-> Start with her filming herself on a small Korean bus as the ocean appears between green hills. She gets off at a quiet coastal stop and discovers a hidden beach with turquoise water, pale sand and fishing boats. She removes her sandals, walks barefoot along the shoreline, collects a seashell and reacts naturally when cold water reaches her feet.
->
-> She then changes into a tasteful one-piece swimsuit and swims in the clear ocean with realistic human movement, buoyancy, waves and wet hair. Back on shore, she changes clothes, enjoys a cold Korean drink and snack while sitting beside the sea.
->
-> End during golden hour as she walks barefoot along the shoreline carrying her sandals, with warm sunlight, long shadows and gentle waves.
->
-> Authentic 2026 smartphone vlog style, handheld camera, natural expressions, realistic skin, hair, clothing, sand and water physics. English dialogue only, natural beach ambience, no music, no CGI, no animation, no subtitles or watermark.
-
-### E4 · Seedance：Photorealistic 30-second modern Korean countryside vlog featuring a young Korea…
-
-- Creator: @aiwithaly
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-photorealistic-30-second-modern-korean-countryside-vlog-featuring-a-young-korea-7311510bcc86) · [finished media](https://media.goodcase.ai/media/video/seedance-photorealistic-30-second-modern-korean-countryside-vlog-featuring-a-young-korea-7311510bcc86.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-photorealistic-30-second-modern-korean-countryside-vlog-featuring-a-young-korea-7311510bcc86.jpg) · [original source](https://x.com/aiwithaly/status/2095733454461907437)
-- Summary: A quiet escape into the Korean mountains. Good food, kind people, and a little village I already want to return to. Created on seedance 2.5 Prompt: Photorealist…
-- Prompt excerpt:
-
-> Photorealistic 30-second modern Korean countryside vlog featuring a young Korean woman in her mid-20s exploring a peaceful mountain village during late afternoon. She wears a loose cream knit top, olive-green jacket, beige trousers, white sneakers, and a small canvas crossbody bag. Keep her identity, hairstyle, clothing, and proportions consistent throughout.
->
-> She arrives by a small rural bus, steps off at a quiet roadside stop, and films herself saying, “Today I'm spending the day in a little mountain village.” She walks through narrow village roads, showing traditional houses, gardens, bicycles, firewood, and green mountain slopes before saying, “It’s so quiet here… I love it.”
->
-> She discovers a tiny family-run shop, greets the elderly shopkeeper, and enjoys a simple homemade Korean meal outside. She tastes the hot soup and smiles genuinely, saying, “Oh wow… this is really good.” She walks beside green fields, gently touching the plants as the wind moves through them, and says, “I could honestly stay here all day.”
->
-> End at golden hour overlooking the village and mountains. She turns the phone toward the sunset, smiles, and says, “This was such a nice little escape. I’ll definitely come back.”
->
-> Authentic 2026 smartphone vlog aesthetic, natural handheld movement, imperfect framing, realistic autofocus and exposure changes, natural walking shake, genuine expressions, spontaneous reactions, realistic Korean village atmosphere, physically accurate human movement, clothing, hair, plants, steam, bus motion, and environmental interactions. Natural location audio only, no backgroun…
+> Authentic 2026 Korean rural life, natural human movement, realistic chicken behavior, fresh farm-to-table details, morning mist, soft sunlight, natural wind and environmental sounds, and documentary-style handheld cinematography. No background music, subtitles, logos or watermark.
 
 ## Evidence index
 
@@ -72,8 +49,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 日本女孩洗衣晾晒与叠衣日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-minimax-h3-ai-0e37fd4e01e1) | [Media](https://media.goodcase.ai/media/video/aiwithaly-minimax-h3-ai-0e37fd4e01e1.mp4) | [Original](https://x.com/aiwithaly/status/2091749172361978149) | E1 |
 | 韩国女孩的夏日西瓜日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-95054b3a6379.mp4) | [Original](https://x.com/aiwithaly/status/2092464281404965030) | E2 |
-| Seedance：Create a 60-second ultra-photorealistic Korean summer travel vlog featuring a y… | @aiwithaly | [GoodCase](https://goodcase.ai/cases/seedance-create-a-60-second-ultra-photorealistic-korean-summer-travel-vlog-featuring-a-y-78cc70e21f19) | [Media](https://media.goodcase.ai/media/video/seedance-create-a-60-second-ultra-photorealistic-korean-summer-travel-vlog-featuring-a-y-78cc70e21f19.mp4) | [Original](https://x.com/aiwithaly/status/2096087387164320223) | E3 |
-| Seedance：Photorealistic 30-second modern Korean countryside vlog featuring a young Korea… | @aiwithaly | [GoodCase](https://goodcase.ai/cases/seedance-photorealistic-30-second-modern-korean-countryside-vlog-featuring-a-young-korea-7311510bcc86) | [Media](https://media.goodcase.ai/media/video/seedance-photorealistic-30-second-modern-korean-countryside-vlog-featuring-a-young-korea-7311510bcc86.mp4) | [Original](https://x.com/aiwithaly/status/2095733454461907437) | E4 |
+| 韩国乡村女子的农场晨间日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66) | [Media](https://media.goodcase.ai/cases/fd84c98b6780.mp4) | [Original](https://x.com/aiwithaly/status/2097556131623432569) | E3 |
 
 ## Derivation boundary
 

@@ -56,41 +56,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > → (3s, propped shot) Pours frothed milk carefully over the espresso, forming light layers.
 > → (3s, warm ending shot) Holds the finished cup, takes…
 
-### E3 · Seedance：Magic Pen Street Transport Vlog
-
-- Creator: @Strength04_X
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-magic-pen-street-transport-vlog-28d80bd05eda) · [finished media](https://media.goodcase.ai/media/video/seedance-magic-pen-street-transport-vlog-28d80bd05eda.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-magic-pen-street-transport-vlog-28d80bd05eda.jpg) · [original source](https://x.com/Strength04_X/status/2095748874942263601)
-- Summary: Magic Pen Street Transport Vlog Seedance 2.5 on lovart_ai Prompt ↓ Magic Pen Street Transport Vlog · 15 Seconds · Vertical 9:16 [STYLE] Live-action + flat 2D an…
-- Prompt excerpt:
-
-> Magic Pen Street Transport Vlog
->
-> Seedance 2.5 on lovart_ai
->
-> Prompt ↓
->
-> Magic Pen Street Transport Vlog · 15 Seconds · Vertical 9:16
->
-> [STYLE]
-> Live-action + flat 2D anime sticker compositing, first-person street transport magic vlog. 8K photorealistic detail with the authentic look of a real smartphone rear-camera recording. Strong visual contrast between the photorealistic city and flat cartoon vehicles. One continuous handheld smartphone shot. No cuts. No scene transitions.
->
-> [CAMERA]
-> Raw, unstabilized handheld smartphone footage throughout: natural walking shake, subtle arm movement, occasional autofocus hunting, realistic exposure shifts between bright sky and building shadows, and slight rolling-shutter jelly during fast pans. Natural smartphone HDR colors with soft, realistic tones. The camera quickly whip-pans to follow the marker and each target.
->
-> [LIGHTING]
-> Late-afternoon sunlight coming consistently from one direction. Every real object and every animated character casts a soft contact shadow matching the direction of the sunlight.
->
-> [SETTING]
-> One continuous walk through a Korean city neighborhood. A wide urban road with a pedestrian sidewalk, bicycle lane, city buses, parked scooters, and a crosswalk. Everyday street life, with background pedestrians and vehicles moving naturally.
->
-> [PEN — MAGIC RULES]
-> The vlogger's real hand, with photorealistic skin and visible pores, holds a black marker and remains visible throughout the entire video, serving as the visual guide connecting every beat.
->
-> Every transformation follows the exact same sequence:
->
-> Marker points → Vlogger…
-
-### E4 · Seedance：POV: you try to make a cute kitten vlog and your kitten chooses violence
+### E3 · 萌宠自拍变小猫突袭现场
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) · [finished media](https://media.goodcase.ai/media/video/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.jpg) · [original source](https://x.com/Strength04_X/status/2096540586866270337)
@@ -131,6 +97,21 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > The woman is holding the small tabby kitten gently against he…
 
+### E4 · 狗狗抢镜的镜前自拍
+
+- Creator: @Strength04_X
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-wanted-a-cute-mirror-selfie-but-your-dog-wanted-to-be-the-main-charac-3d3e83219d46) · [finished media](https://media.goodcase.ai/cases/07f0e5bcf1bf.mp4) · [poster](https://media.goodcase.ai/cases/c7768b152872.jpg) · [original source](https://x.com/Strength04_X/status/2097616213371478242)
+- Summary: POV: you wanted a cute mirror selfie, but your dog wanted to be the main character Made with Seedance 2.5 Prompt ↓ REFERENCE & SUBJECT CONSISTENCY Use "@<image1…
+- Prompt excerpt:
+
+> POV: you wanted a cute mirror selfie, but your dog wanted to be the main character
+>
+> Made with Seedance 2.5
+>
+> Prompt ↓
+>
+> REFERENCE & SUBJECT CONSISTENCY Use "@<image1" as the exact visual reference for the woman. Maintain identical identity, face, hairstyle, clothing, body proportions, skin texture, and natural appearance. Use exactly ONE small playful dog throughout the entire video. The dog must remain the same individual throughout. No duplicate animal and no other animal. FORMAT 30-second continuous vertical smartphone selfie video. The woman is standing in front of a full-length indoor mirror while holding the phone in one hand. The phone camera is the only camera. Natural window daylight enters from the side. Realistic mirror reflection. No cuts, no transition, no zoom. Natural handheld phone movement. --- 0–5 SEC — MIRROR SELFIE The woman is casually filming herself through the mirror. She adjusts a strand of hair while looking at the phone screen. The dog is initially lower in frame, partially beside her legs. She does not notice it immediately. The camera remains slightly imperfectly framed. --- 5–9 SEC — DOG APPEARS The dog slowly walks into the reflection behind her. She notices movement in the mirror. She turns her head. Her expression changes from neutral to amused surprise. She looks down toward the dog. The dog looks directly back at her. --- 9–14 SEC — FIRST JUMP The dog suddenly jumps upward toward her. She reacts with a surprised laugh. The phone hand moves upward instinctively. The mirror framing becomes slightly tilted. She tries to keep herself and the do…
+
 ### E5 · 手持式护肤 Vlog 摄像机美学
 
 - Creator: @Strength04_X
@@ -159,8 +140,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 股市崩盘新闻直播 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-f5315418af5f) | [Media](https://media.goodcase.ai/media/video/case-f5315418af5f.mp4) | [Original](https://x.com/Strength04_X/status/2080895772531581198) | E1 |
 | mini DV 咖啡 ASMR vlog | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog) | [Media](https://media.goodcase.ai/media/video/seedance-25-minidv-coffee-asmr-vlog.mp4) | [Original](https://x.com/Strength04_X/status/2083094742682787939) | E2 |
-| Seedance：Magic Pen Street Transport Vlog | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-magic-pen-street-transport-vlog-28d80bd05eda) | [Media](https://media.goodcase.ai/media/video/seedance-magic-pen-street-transport-vlog-28d80bd05eda.mp4) | [Original](https://x.com/Strength04_X/status/2095748874942263601) | E3 |
-| Seedance：POV: you try to make a cute kitten vlog and your kitten chooses violence | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) | [Media](https://media.goodcase.ai/media/video/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.mp4) | [Original](https://x.com/Strength04_X/status/2096540586866270337) | E4 |
+| 萌宠自拍变小猫突袭现场 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) | [Media](https://media.goodcase.ai/media/video/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.mp4) | [Original](https://x.com/Strength04_X/status/2096540586866270337) | E3 |
+| 狗狗抢镜的镜前自拍 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-pov-you-wanted-a-cute-mirror-selfie-but-your-dog-wanted-to-be-the-main-charac-3d3e83219d46) | [Media](https://media.goodcase.ai/cases/07f0e5bcf1bf.mp4) | [Original](https://x.com/Strength04_X/status/2097616213371478242) | E4 |
 | 手持式护肤 Vlog 摄像机美学 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/vlog-8a3e0b49e77b) | [Media](https://media.goodcase.ai/media/video/vlog-8a3e0b49e77b.mp4) | [Original](https://x.com/Strength04_X/status/2077333945687925044) | E5 |
 
 ## Derivation boundary
