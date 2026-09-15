@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 38 published Cases across 18 creators.
+This workflow is derived from 39 published Cases across 19 creators.
 
 ## Operating rule
 
@@ -40,7 +40,37 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 整体呈现 **isometric 立体主体 × 厚涂色域 × 明亮治愈配色 × 真实纸张 × 大面积留白** 的视觉关系。无论主体是建筑、人物、动物、植物、器物、交通工具或自然景观，都应让三维主体真实“站立、生长或存在”于厚涂色块构成的空间中，避免平面贴图、普通插画、塑料CG、玩具模型感和模板化微景观。
 
-### E3 · Alcohol Marker Travel Poster Prompt
+### E3 · 主题驱动的多场景艺术拼贴
+
+- Creator: @aimikoda
+- Evidence: [GoodCase](https://goodcase.ai/cases/aimikoda-gpt-image-ai-5d36e7bb3281) · [finished media](https://media.goodcase.ai/cases/948b47dd70c7.jpg) · [original source](https://x.com/aimikoda/status/2091815882057990475)
+- Summary: GPT Image 2 Prompt Share Theme Based Collage Template A flexible collage prompt for turning any theme into a series of c
+- Prompt excerpt:
+
+> THEME = enter theme
+> STYLE = enter the style you want
+> PALETTE = enter the color palette
+> ASPECT RATIO = enter the aspect ratio you want
+>
+> DO:
+>   Create an artistic multi-scene collage built entirely around THEME.
+>   Derive subjects, environments, objects, characters and visual events naturally from THEME.
+>   Derive the emotional tone, atmosphere and energy naturally from THEME.
+>   Use people, animals, objects, landscapes, architecture, abstract forms or any combination of them when they meaningfully support THEME.
+>   Treat each scene as a distinct emotional or conceptual fragment from the same world.
+>   Build the composition like an expressive editorial art spread rather than a storyboard or regular panel grid.
+>   Freely vary the number, scale, proportions and placement of scenes.
+>   Combine large dominant images with narrow vertical fragments, wide horizontal crops, small detail scenes and partially cropped compositions.
+>   Stagger scene edges and shift their alignments to create an irregular visual rhythm.
+>   Let some scenes extend fully to the canvas edge while others terminate against neighboring imagery.
+>   Use occasional L-shaped, stepped or offset arrangements created naturally by neighboring scene proportions.
+>   Avoid repeating the same rectangle size or alignment across the composition.
+>   Keep scenes visually separate without visible frames or empty gaps between them.
+>   Let neighboring scenes meet through irregular crop relationships while keeping their environments independent.
+>   Do not blend separate locations into one continuous environment.
+>   Keep the main subjects of each s…
+
+### E4 · Alcohol Marker Travel Poster Prompt
 
 - Creator: @Goodmanprotocol
 - Evidence: [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) · [finished media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) · [original source](https://x.com/Goodmanprotocol/status/2086685317822890146)
@@ -82,7 +112,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Background: progressively…
 
-### E4 · Batch Product Poster Proposal Generator
+### E5 · Batch Product Poster Proposal Generator
 
 - Creator: @derek_wall90176
 - Evidence: [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) · [finished media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) · [original source](https://x.com/derek_wall90176/status/2080480065998192970)
@@ -113,7 +143,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 构图节奏不同
 > 整体完成度高，适合直接用于电商提案或社交媒体展示
 
-### E5 · 海盐焦糖拿铁海报
+### E6 · 海盐焦糖拿铁海报
 
 - Creator: @xiaoxiaodong01
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) · [finished media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2078098079992119579)
@@ -129,7 +159,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 色彩基调: 冰川浅蓝+极光银白+蜜桃渐变粉+高通透冷光
 > 视觉焦点: 正中心巨型主体+对称悬浮碎冰+顶部紧凑排版+竖版 3:4
 
-### E6 · 复古蜡笔艺术海报
+### E7 · 复古蜡笔艺术海报
 
 - Creator: @xiaoxiaodong01
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-11a17d4d4b4c) · [finished media](https://media.goodcase.ai/cases/9d378892b70a.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2096262813010600335)
@@ -156,7 +186,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 整体呈现**极浅纸面、粗颗粒蜡笔轮廓、少量粉彩填色、极简涂鸦符号、小尺度主体与大量艺术留白**共同构成的高级治愈视觉。重点是让主体与小元素清楚浮现在浅色纸面上，同时保持松弛、天真、温柔 and 成熟的编辑构图意识。避免深色牛皮纸、暗棕背景、低对比线条、背景与主体糊成一团、精细描边、写实转绘、复杂小图标、背景填满、光滑矢量、3D感 and 商业模板感。
 
-### E7 · 当代平面设计展览海报
+### E8 · 当代平面设计展览海报
 
 - Creator: @ChillaiKalan__
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-33a820efca19) · [finished media](https://media.goodcase.ai/cases/1a97078e86d9.jpg) · [original source](https://x.com/ChillaiKalan__/status/2092277085914206655)
@@ -165,42 +195,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create an original contemporary graphic design exhibition poster. The poster should feel suitable for an international contemporary graphic design exhibition. Think like a graphic designer, not a portrait painter. The graphic design is the artwork. The illustration exists to support the design. REQUIRED ELEMENTS A recognizable character. Wearing sunglasses. One dominant {argument name="graphic design element" default="graphic design element"}. If a reference image is provided, preserve the person's recognizable identity. Otherwise, use the same character established throughout the conversation. These are the only required visual elements. Everything else should be freely reinvented for every poster. GRAPHIC DESIGN ELEMENT The dominant graphic element may be geometric, typographic, architectural, abstract, organic, or entirely original. It may consist of a single bold shape, oversized typography, bands, frames, grids, blocks, lines, curves, cut-outs, negative space, or any other graphic device. Choose the single visual element that creates the strongest overall graphic composition for this specific poster. VISUAL STYLE No lineart. Construct the image entirely from {argument name="art style" default="flat graphic color shapes"}. Large simplified shapes. Minimal details. Visible dry crayon texture. Limited {argument name="color palette" default="color palette"}. Bold negative space. Minimalist editorial poster. Embrace bold simplification. Reduce details whenever possible. Communicate through shape before texture. Design with confidence, not accuracy. GRAPHIC COMPOSITION The c…
 
-### E8 · 创意涂鸦海报生成器
-
-- Creator: @xiaoxiaodong01
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) · [finished media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2090834371423183135)
-- Summary: 一个用于创建风格化海报的提示词，将原始摄影作品与迷人的黑色线条涂鸦角色相结合。它通过将布局拆分为上半部分的摄影图和下半部分的重构涂鸦，处理上传的图像，从而捕捉原始照片的视觉精髓与叙事感。
-- Prompt excerpt:
-
-> 同样处理：
-> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。
->
-> 上半部分保留原始照片，保持主体结构、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有生活方式杂志、独立出版物和艺术摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
->
-> 下半部分先理解原图真正的**视觉核心与寓意**：判断画面最重要的不是“有什么”，而是“什么最值得被记住”——可能是一个主体、一种动作、一组关系、一处反差、一个情绪瞬间或某种象征意味。再从中提取最具识别性的**主体、轮廓、姿态与叙事线索**，重构为“真实主体 + 黑线涂鸦小人”的趣味编辑海报。不要机械截取原图最大物体，而要保留最能代表照片精神和故事性的视觉锚点，使下半部分既能一眼对应原图，又像对原图进行了一次聪明的二次解读。
->
-> 真实主体保持材质与身份特征，可适度优化角度、比例、光线和色彩，使核心特征更鲜明；原图中与寓意无关的信息可以舍弃，但支撑主题的关键关系必须保留。围绕主体加入少量极简黑线涂鸦小人，小人的动作、位置和互动方式完全根据原图的形态、语境与潜在寓意自然生成，让他们像在回应、放大或反转照片原本的故事，而不是随意做动作。
->
-> 配色从上方照片中提取最有辨识度和精气神的颜色，可适度提纯、提亮和重新组织。背景以米白、浅色或原图中最舒适的浅色为主，保持大量留白；真实主体承担主要色彩，小人与文字以黑色或深灰细线形成对比，整体干净、轻快、克制。
->
-> 文字同样从原图的**核心寓意、情绪和视觉关系**中自然生长，不直接说明物体名称，也不套固定文案。将照片最值得被记住的那层意思转化成极短、轻松、聪明、略带幽默或双关的手写文字，让它像小人留下的注释、念头或一句画外音。文字可沿主体轮廓、人物动作或留白节奏自由排布，与小人和主体共同完成叙事，而不是后期贴上的标题。
->
-> 整体保持**真实主体、核心寓意、微型叙事、稚拙线条和大量留白**之间的平衡。无论原图是人物、动物、植物、食物、建筑、器物、交通工具或自然场景，都应先抓住“这张照片真正讲的是什么”，再决定如何重构，避免只抓物体不抓关系、只做可爱互动没有主题、卡通贴纸感、复杂装饰和模板感。
->
-> 💣language：{argument name="language" default="english"}
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 3D 纸艺微缩海报设计 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/3d-0c5fb248a5b9) | [Media](https://media.goodcase.ai/cases/ffe38aa2e70d.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091470045973262409) | E1 |
 | 3D 等轴测厚涂油画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/3d-5b77438c2dce) | [Media](https://media.goodcase.ai/media/image/3d-5b77438c2dce.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091340055138963955) | E2 |
-| Alcohol Marker Travel Poster Prompt | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) | [Media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) | [Original](https://x.com/Goodmanprotocol/status/2086685317822890146) | E3 |
-| Batch Product Poster Proposal Generator | @derek_wall90176 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/derek_wall90176/status/2080480065998192970) | E4 |
-| 海盐焦糖拿铁海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) | [Media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078098079992119579) | E5 |
-| 复古蜡笔艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-11a17d4d4b4c) | [Media](https://media.goodcase.ai/cases/9d378892b70a.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2096262813010600335) | E6 |
-| 当代平面设计展览海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-33a820efca19) | [Media](https://media.goodcase.ai/cases/1a97078e86d9.jpg) | [Original](https://x.com/ChillaiKalan__/status/2092277085914206655) | E7 |
-| 创意涂鸦海报生成器 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090834371423183135) | E8 |
+| 主题驱动的多场景艺术拼贴 | @aimikoda | [GoodCase](https://goodcase.ai/cases/aimikoda-gpt-image-ai-5d36e7bb3281) | [Media](https://media.goodcase.ai/cases/948b47dd70c7.jpg) | [Original](https://x.com/aimikoda/status/2091815882057990475) | E3 |
+| Alcohol Marker Travel Poster Prompt | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) | [Media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) | [Original](https://x.com/Goodmanprotocol/status/2086685317822890146) | E4 |
+| Batch Product Poster Proposal Generator | @derek_wall90176 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/derek_wall90176/status/2080480065998192970) | E5 |
+| 海盐焦糖拿铁海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-07163cd3ebdb) | [Media](https://media.goodcase.ai/media/image/case-07163cd3ebdb.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2078098079992119579) | E6 |
+| 复古蜡笔艺术海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-11a17d4d4b4c) | [Media](https://media.goodcase.ai/cases/9d378892b70a.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2096262813010600335) | E7 |
+| 当代平面设计展览海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-33a820efca19) | [Media](https://media.goodcase.ai/cases/1a97078e86d9.jpg) | [Original](https://x.com/ChillaiKalan__/status/2092277085914206655) | E8 |
+| 创意涂鸦海报生成器 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-38332d7c1f27) | [Media](https://media.goodcase.ai/media/image/case-38332d7c1f27.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090834371423183135) | E— |
 | 格林童话木刻版画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-47d325c993e9) | [Media](https://media.goodcase.ai/media/image/case-47d325c993e9.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089987808664719723) | E— |
 | 建筑视角草图海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-512647ce560a) | [Media](https://media.goodcase.ai/cases/900ef92b7743.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2096290195792642498) | E— |
 | 贴纸拼贴 / 创意图像合成/钱包/护照夹 | 野猪A6 | [GoodCase](https://goodcase.ai/cases/case-6d72adabab02) | [Media](https://media.goodcase.ai/media/image/case-6d72adabab02.webp) | [Original](https://www.liblib.art/modelinfo/a104e1357d354686a53df93d0b6aabc9) | E— |
@@ -212,7 +219,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 怀旧东亚旅行海报 | @Kashberg_0 | [GoodCase](https://goodcase.ai/cases/case-bd2940e86fd9) | [Media](https://media.goodcase.ai/cases/1d0709dba1bd.jpg) | [Original](https://x.com/Kashberg_0/status/2092824754944442763) | E— |
 | 复古旅行日志拼贴画 | @aniyaintel | [GoodCase](https://goodcase.ai/cases/case-c11e0f098acf) | [Media](https://media.goodcase.ai/cases/d3d6ab9b14f7.jpg) | [Original](https://x.com/aniyaintel/status/2093658819427741802) | E— |
 | 达芬奇等轴测结构海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-dbb1375c81bd) | [Media](https://media.goodcase.ai/cases/5b189e294391.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2091001986519068891) | E— |
-| 复古粉彩涂鸦拼贴海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-e0a5ca61432d) | [Media](https://media.goodcase.ai/cases/248e7abc7eed.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2095931305540419983) | E— |
 
 ## Derivation boundary
 

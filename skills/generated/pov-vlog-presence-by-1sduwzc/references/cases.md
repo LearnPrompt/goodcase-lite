@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to Strength04_X. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 6 published Cases attributed to Strength04_X. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -134,6 +134,27 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > → (2s, propped shot) Brushes hair gently in front of the mirror.
 > → (2s, warm ending shot) Looks at reflection, relaxed smile. "Ready for bed now.…
 
+### E6 · 韩国女生户外泳池 Vlog
+
+- Creator: @Strength04_X
+- Evidence: [GoodCase](https://goodcase.ai/cases/vlog-9decd38e99a4) · [finished media](https://media.goodcase.ai/cases/1ce41bade077.mp4) · [poster](https://media.goodcase.ai/cases/68ae69f99fe4.jpg) · [original source](https://x.com/Strength04_X/status/2091737661061095648)
+- Summary: 一段充满 2000 年代怀旧 DV 摄像机风格的 Vlog，记录了一位年轻韩国女生在安静的社区泳池享受阳光午后的时光。
+- Prompt excerpt:
+
+> Young Korean woman, early 20s, navy one-piece swimsuit with a loose oversized shirt worn open over it, hair tied up in a high bun, swim goggles around her neck, playful cheerful energy.
+> Location: Quiet outdoor community pool, sunny midday. Blue tiled edges, pool floats scattered nearby, lounge chairs, a few potted palms. No crowds, no commercial branding.
+> Visual Style: Ultra-realistic documentary realism, playful candid feeling, bright natural sunlight.
+> Camera Style: Early 2000s DV camcorder, handheld with water-splash blur on lens occasionally, exposure blown out in bright sun, soft grain. No stabilization.
+> Timeline (15 sec, each slot = 2 compressed beats):
+> 00:00–00:03 → She sits at the pool edge, feet dangling in the water, kicking gently.
+> 00:03–00:06 → She says to camera "물이 시원해서 좋다" ("The water feels nice and cool"), smiling.
+> 00:06–00:09 → She slides into the pool, then pushes off, swimming a short stretch.
+> 00:09–00:12 → She surfaces laughing, wiping water from her face.
+> 00:12–00:15 → She waves at camera saying "너도 들어와!" ("Come in too!"), splashing playfully as it fades.
+> Audio:
+> Water splashing, faint distant chatter, wind, birds. Her dialogue as noted above. No music.
+> Goal: A playful, refreshing pool afternoon cheerful, light, authentic.
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -143,6 +164,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 萌宠自拍变小猫突袭现场 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) | [Media](https://media.goodcase.ai/media/video/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.mp4) | [Original](https://x.com/Strength04_X/status/2096540586866270337) | E3 |
 | 狗狗抢镜的镜前自拍 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-pov-you-wanted-a-cute-mirror-selfie-but-your-dog-wanted-to-be-the-main-charac-3d3e83219d46) | [Media](https://media.goodcase.ai/cases/07f0e5bcf1bf.mp4) | [Original](https://x.com/Strength04_X/status/2097616213371478242) | E4 |
 | 手持式护肤 Vlog 摄像机美学 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/vlog-8a3e0b49e77b) | [Media](https://media.goodcase.ai/media/video/vlog-8a3e0b49e77b.mp4) | [Original](https://x.com/Strength04_X/status/2077333945687925044) | E5 |
+| 韩国女生户外泳池 Vlog | @Strength04_X | [GoodCase](https://goodcase.ai/cases/vlog-9decd38e99a4) | [Media](https://media.goodcase.ai/cases/1ce41bade077.mp4) | [Original](https://x.com/Strength04_X/status/2091737661061095648) | E6 |
 
 ## Derivation boundary
 
