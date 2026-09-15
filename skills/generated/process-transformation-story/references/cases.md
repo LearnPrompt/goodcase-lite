@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 21 published Cases across 21 creators.
+This workflow is derived from 22 published Cases across 22 creators.
 
 ## Operating rule
 
@@ -225,11 +225,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Seedance 进阶工作流演示：Prompt 之外的制作全流程 | @ethancole_ai | [GoodCase](https://goodcase.ai/cases/ethancole-ai-seedance-ai-c8e1a1b52569) | [Media](https://media.goodcase.ai/cases/20efbe9c2034.mp4) | [Original](https://x.com/ethancole_ai/status/2089756837474107511) | E— |
 | 动漫风格：制作印度蒸米糕（Idli）的烹饪流程 | @snskritinaruka | [GoodCase](https://goodcase.ai/cases/idli-4a8ed49d4ad9) | [Media](https://media.goodcase.ai/media/video/idli-4a8ed49d4ad9.mp4) | [Original](https://x.com/snskritinaruka/status/2074761846444503180) | E— |
 | iPhone-shot Street Dance Music Video | @applete77191758 | [GoodCase](https://goodcase.ai/cases/iphone-shot-street-dance-music-video) | [Media](https://media.goodcase.ai/cases/f55826cdc6bb.mp4) | [Original](https://x.com/applete77191758/status/2087212818047340844) | E— |
+| 双手从零制作主体的延时过程 | @aimikoda | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-subject-sho-779c59e726b4) | [Media](https://media.goodcase.ai/cases/2968eb50fc18.mp4) | [Original](https://x.com/aimikoda/status/2095141166962311555) | E— |
 | 法式牛角包制作过程 | @TechieBySA | [GoodCase](https://goodcase.ai/cases/real-case-07-techiebysa) | [Media](https://media.goodcase.ai/media/video/real-case-07-techiebysa.mp4) | [Original](https://x.com/TechieBySA/status/2053523775702925768) | E— |
 | 空旷平原日出瞬间城市自建 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/real-case-08-ludoviccreator) | [Media](https://goodcase.ai/media/goodcase/LudovicCreator-2055351279170318782-01.mp4) | [Original](https://x.com/LudovicCreator/status/2055351279170318782) | E— |
 | Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程 | @abxxai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-gopro-94a73eef1dbf.mp4) | [Original](https://x.com/abxxai/status/2087189194720657649) | E— |
 | 烤肉串与冰镇石榴饮的制作 | @aiwithlumi | [GoodCase](https://goodcase.ai/cases/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778) | [Media](https://media.goodcase.ai/media/video/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778.mp4) | [Original](https://x.com/aiwithlumi/status/2095496077764100446) | E— |
-| 奶油鸡肉意面烹饪 Vlog | @ElsaSofia__AI | [GoodCase](https://goodcase.ai/cases/vlog-5bea56e008fc) | [Media](https://media.goodcase.ai/media/video/vlog-5bea56e008fc.mp4) | [Original](https://x.com/ElsaSofia__AI/status/2091483398972080172) | E— |
 
 ## Derivation boundary
 
