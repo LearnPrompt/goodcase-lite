@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to aiwithaly. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to aiwithaly. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -43,6 +43,21 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Authentic 2026 Korean rural life, natural human movement, realistic chicken behavior, fresh farm-to-table details, morning mist, soft sunlight, natural wind and environmental sounds, and documentary-style handheld cinematography. No background music, subtitles, logos or watermark.
 
+### E4 · 牧场女孩从清晨劳作到黄昏骑行
+
+- Creator: @aiwithaly
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e) · [finished media](https://media.goodcase.ai/cases/4dda16f89715.mp4) · [poster](https://media.goodcase.ai/cases/4a1707106d38.jpg) · [original source](https://x.com/aiwithaly/status/2097917075176178101)
+- Summary: Sunrise, saddle, and hard work beneath the Western sky. Created on seedance 2.5 Prompt: Create a 30-second ultra-photorealistic American ranch lifestyle vlog fo…
+- Prompt excerpt:
+
+> Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.
+>
+> Show a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.
+>
+> Capture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.
+>
+> Natural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -50,6 +65,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 日本女孩洗衣晾晒与叠衣日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-minimax-h3-ai-0e37fd4e01e1) | [Media](https://media.goodcase.ai/media/video/aiwithaly-minimax-h3-ai-0e37fd4e01e1.mp4) | [Original](https://x.com/aiwithaly/status/2091749172361978149) | E1 |
 | 韩国女孩的夏日西瓜日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-95054b3a6379.mp4) | [Original](https://x.com/aiwithaly/status/2092464281404965030) | E2 |
 | 韩国乡村女子的农场晨间日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66) | [Media](https://media.goodcase.ai/cases/fd84c98b6780.mp4) | [Original](https://x.com/aiwithaly/status/2097556131623432569) | E3 |
+| 牧场女孩从清晨劳作到黄昏骑行 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e) | [Media](https://media.goodcase.ai/cases/4dda16f89715.mp4) | [Original](https://x.com/aiwithaly/status/2097917075176178101) | E4 |
 
 ## Derivation boundary
 
