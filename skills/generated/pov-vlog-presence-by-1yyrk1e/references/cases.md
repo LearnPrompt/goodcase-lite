@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to ElsaSofia__AI. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to ElsaSofia__AI. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -42,6 +42,15 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > DURATION: 30 seconds ASPECT RATIO: Use the video's available landscape/cinematic ratio. STYLE: Ultra-photorealistic live-action cooking and lifestyle vlog, premium food-commercial cinematography, realistic human behavior, natural hand movements, realistic cooking physics, authentic home atmosphere, cinematic lighting, subtle handheld camera movement, realistic food textures, natural skin and hair. REFERENCE ASSIGNMENT: @IMG1 = FEMALE CHARACTER @IMG2 = KITCHEN ENVIRONMENT @IMG3 = INGREDIENTS AND COOKING SETUP @IMG4 = COOKING ACTION @IMG5 = FINISHED CREAMY CHICKEN PASTA @IMG6 = DINING SCENE Use all uploaded references consistently. CHARACTER CONSISTENCY: The SAME woman from @IMG1 must appear throughout the entire video. Preserve her exact face, facial features, hairstyle, skin tone, body proportions and overall identity. Do not change her appearance between scenes. Preserve the same casual home-cooking outfit from @IMG1. FOOD CONSISTENCY: The dish throughout the entire video is EXACTLY the creamy chicken pasta shown in @IMG3 and @IMG5. Maintain the same pasta, chicken, mushrooms, cherry tomatoes, cream sauce, parmesan and parsley throughout. Do not change the dish between scenes. --- 0–4 SECONDS — PREPARATION Use @IMG2 and @IMG3. The woman enters the kitchen and approaches the countertop. The ingredients for creamy chicken pasta are neatly arranged in front of her. She looks over the ingredients and begins preparing dinner. Camera starts with a natural medium-wide kitchen shot and gently moves closer. Show the real home environment. --- 4–9 SECONDS — CHOPPING Use @IMG3 and @I…
 
+### E5 · 韩式生活 Vlog 叙事
+
+- Creator: @ElsaSofia__AI
+- Evidence: [GoodCase](https://goodcase.ai/cases/vlog-852f3296175f) · [finished media](https://media.goodcase.ai/cases/c8dbea289dd5.mp4) · [poster](https://media.goodcase.ai/cases/d8edf79b1983.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2094018143144513567)
+- Summary: 这是一个复杂的、多场景视频提示词，旨在制作一个超写实的韩式生活 Vlog，并在首尔的一日晨间日常中保持严格的角色一致性。
+- Prompt excerpt:
+
+> Create a 30-second ultra-photorealistic cinematic Korean lifestyle vlog using the uploaded STORYBOARD MASTER REFERENCE IMAGE as the PRIMARY VISUAL REFERENCE. IMPORTANT: Follow the storyboard panels in chronological order. The SAME female character shown in the storyboard must appear throughout the entire video. CHARACTER CONSISTENCY: Use the uploaded storyboard master reference as the STRICT identity and visual reference. Preserve the exact same: face, facial features, eyes, eyebrows, nose, lips, jawline, skin tone, hair, hairstyle, hair color, body proportions, outfit, accessories, and overall identity. Do NOT create a different woman. Do NOT change her face, hairstyle or outfit between scenes. All scenes must feel like ONE continuous day in Seoul. ================================================== 0–4 SECONDS — WAKE UP ================================================== Follow STORYBOARD PANEL 1. Early morning inside the same modern Korean apartment bedroom. The girl wakes up naturally. She sits up in bed, gently opens the curtains and looks toward the Seoul city view outside. Soft morning sunlight enters the room. Use a slow cinematic camera push-in. Natural sleepy morning expression. She speaks softly in Korean: "좋은 아침이에요." Natural English meaning: "Good morning." Accurate Korean lip-sync. ================================================== 4–7 SECONDS — MORNING ROUTINE ================================================== Follow STORYBOARD PANEL 2. The SAME girl enters the bathroom. She washes her face. She applies a small amount of skincare. Show realistic water, mirror re…
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -50,6 +59,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 女性晨间健身生活 Vlog | @ElsaSofia__AI | [GoodCase](https://goodcase.ai/cases/vlog-4d65d10bb5bf) | [Media](https://media.goodcase.ai/cases/1045b145ef11.mp4) | [Original](https://x.com/ElsaSofia__AI/status/2092207601991999741) | E2 |
 | 电影感生活 Vlog 提示词 | @ElsaSofia__AI | [GoodCase](https://goodcase.ai/cases/vlog-543a49303376) | [Media](https://media.goodcase.ai/media/video/vlog-543a49303376.mp4) | [Original](https://x.com/ElsaSofia__AI/status/2091345498909319528) | E3 |
 | 奶油鸡肉意面烹饪 Vlog | @ElsaSofia__AI | [GoodCase](https://goodcase.ai/cases/vlog-5bea56e008fc) | [Media](https://media.goodcase.ai/media/video/vlog-5bea56e008fc.mp4) | [Original](https://x.com/ElsaSofia__AI/status/2091483398972080172) | E4 |
+| 韩式生活 Vlog 叙事 | @ElsaSofia__AI | [GoodCase](https://goodcase.ai/cases/vlog-852f3296175f) | [Media](https://media.goodcase.ai/cases/c8dbea289dd5.mp4) | [Original](https://x.com/ElsaSofia__AI/status/2094018143144513567) | E5 |
 
 ## Derivation boundary
 

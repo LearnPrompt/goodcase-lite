@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 9 published Cases attributed to Strength04_X. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 11 published Cases attributed to Strength04_X. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -163,7 +163,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic snack advertising, incredibly detailed crispy texture, reali…
 
-### E4 · 椰子水产品项目
+### E4 · 专业牛肉塔可产品摄影
+
+- Creator: @Strength04_X
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-4c1226bfd0d2) · [finished media](https://media.goodcase.ai/cases/8c3e85abe656.jpg) · [original source](https://x.com/Strength04_X/status/2091192289385451787)
+- Summary: 一款高端美食摄影提示词，旨在通过电影级影棚灯光，创作出令人垂涎欲滴的牛肉塔可商业视觉效果。
+- Prompt excerpt:
+
+> A high-quality professional product photograph of three premium loaded beef tacos arranged neatly on a dark ceramic plate, centered against a warm terracotta-orange seamless studio background. Each taco features a crisp golden corn shell filled with juicy seasoned grilled beef, melted cheddar cheese, fresh shredded lettuce, diced tomatoes, purple onions, jalapeño slices, and creamy lime sauce. The beef has realistic grilled texture and subtle char marks, while the vegetables appear fresh and vibrant with natural moisture. Soft cinematic studio lighting creates rich highlights and subtle shadows beneath the plate. Ultra-sharp focus, DSLR macro food photography, premium Mexican fast-food advertisement style, hyper realistic, clean commercial composition, 8K. Aspect Ratio: 1:1 Create a hyper-realistic exploded vertical infographic composition of a premium loaded beef taco. Top → Bottom structure: Fresh Cilantro Garnish → Lime Crema → Jalapeño Slices → Diced Tomato & Onion → Shredded Lettuce → Melted Cheddar Cheese → Seasoned Grilled Beef → Crispy Corn Shell Every element must be perfectly centered, evenly spaced, and aligned vertically. Show realistic grilled beef texture, melted cheese, crisp vegetables, fresh herbs, creamy sauce, and a detailed crunchy corn shell. Use a warm terracotta-orange seamless studio background, soft commercial lighting, subtle realistic shadows beneath every floating element, ultra-sharp DSLR macro food photography, premium fast-food infographic aesthetic, clean professional composition, hyper realistic, 8K. Add clean minimalist infographic text lab…
+
+### E5 · 椰子水产品项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) · [finished media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) · [original source](https://x.com/Strength04_X/status/2094760813794111843)
@@ -215,7 +224,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic beverage advertising, crystal-clear liquid, realistic condensation, detailed coconut texture, dynamic water splash, natural premium lighting, clean packa…
 
-### E5 · 高端意大利面商业广告项目
+### E6 · 高端意大利面商业广告项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) · [finished media](https://media.goodcase.ai/cases/714a09d39d81.jpg) · [original source](https://x.com/Strength04_X/status/2095411329461100949)
@@ -268,7 +277,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic Italian food advertising, authentic pasta texture, realistic steam and water, detailed packaging, warm cinematic lighting, premium gourmet presentation, natural ingredients, 8K.
 
-### E6 · 高端方便面广告项目
+### E7 · 高端方便面广告项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) · [finished media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) · [original source](https://x.com/Strength04_X/status/2090019696779387173)
@@ -318,43 +327,44 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic food commercial, realistic steam, detailed noodle texture, glossy broth, vibrant ingredients, professional studio lighting, premium packaging, 8K.
 
-### E7 · 高端有机蜂蜜商业广告项目
+### E8 · 高端酸奶商业广告项目
 
 - Creator: @Strength04_X
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-e2965bc59b6d) · [finished media](https://media.goodcase.ai/cases/0754619398ae.jpg) · [original source](https://x.com/Strength04_X/status/2090081415924982038)
-- Summary: 一份详细的高端有机蜂蜜商业广告项目提示词，包含微距镜头、液体质感及温暖的金色美学设计。
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-9243db8ae17e) · [finished media](https://media.goodcase.ai/cases/500ca353eec3.jpg) · [original source](https://x.com/Strength04_X/status/2096204332895261103)
+- Summary: 一份用于高端乳制品广告的电影级项目提示词，专注于微距产品拍摄和优雅的食品摄影美学。
 - Prompt excerpt:
 
-> TITLE: Premium Organic Honey Product Commercial Storyboard
+> TITLE:
+> Premium Greek Yogurt Product Commercial Storyboard
 >
 > FORMAT:
 > • Single-page premium storyboard
 > • 3:4 Portrait ratio
-> • Luxury food product campaign
-> • 8 cinematic storyboard scenes
+> • Premium dairy food campaign
+> • 8 cinematic product-focused scenes
 > • Product remains the visual hero
-> • Premium advertising agency presentation
+> • Luxury advertising agency presentation
 >
 > HEADER:
-> • Elegant serif typography
+> • Elegant clean typography
 > • Information cards:
 >   - Duration: {argument name="duration" default="20 Seconds"}
->   - Style: Natural Luxury Food Commercial
->   - Product: {argument name="product" default="Organic Honey"}
->   - Audio: Soft Nature ASMR
+>   - Style: Fresh Gourmet Food Commercial
+>   - Product: {argument name="product name" default="Greek Fruit Yogurt"}
+>   - Audio: Spoon + Creamy ASMR
 > • Why This Style Works section
-> • {argument name="color theme" default="Cream, amber and gold"} aesthetic
-> • Minimal honeycomb decorative details
+> • {argument name="color aesthetic" default="White, soft pink and berry-red aesthetic"}
+> • Minimal fruit-inspired decorative elements
 >
 > STORYBOARD:
-> 1. Premium honey jar standing on a warm wooden surface
-> 2. Jar lid slowly opening in macro close-up
-> 3. Golden honey being lifted with a wooden honey dipper
-> 4. Honey flowing in an extremely slow silky stream
-> 5. Macro shot of honey texture and natural highlights
-> 6. Honey dripping over warm toast
-> 7. Honey jar surrounded by honeycomb and fresh ingredients
-> 8. Final luxury hero packshot with golden honey splash
+> 1. Premium yogurt cup standing on chilled marble with fresh berries
+> 2. Yogurt lid peeling back in an extreme macro shot
+> 3. Spoon entering the thick creamy yogurt
+> 4. Spoon lifting a smooth glossy portion
+> 5. Fresh strawberry pieces dropping into the yogurt
+> 6. Berry puree swirling through the creamy yogurt
+> 7. Extreme macro showing thick yogurt texture and fruit pieces
+> 8. Final hero product shot with yogurt cup, berries and elegant spoon composition
 >
 > EVERY PANEL:
 > • Scene number
@@ -365,22 +375,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > • Product detail
 >
 > CAMERA:
-> Extreme macro, slow-motion liquid photography, controlled push-in, top-down composition, shallow depth of field, cinematic hero shot.
+> Extreme macro, slow-motion fruit drop, creamy texture close-up, overhead composition, smooth spoon movement, shallow depth of field, cinematic hero framing.
 >
 > STYLE:
-> Ultra-realistic honey texture, realistic liquid physics, warm natural lighting, premium food photography, glossy glass jar, elegant reflections, luxury organic branding, 8K.
-
-### E8 · 高端太阳镜商业项目
-
-- Creator: @Strength04_X
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-e35328ffea70) · [finished media](https://media.goodcase.ai/media/image/case-e35328ffea70.jpg) · [original source](https://x.com/Strength04_X/status/2079586138130657751)
-- Summary: 专为高端产品广告设计的电影级项目提示词，特别适用于具有宇宙感和超高端艺术风格的奢华眼镜广告。
-- Prompt excerpt:
-
-> Create a professional cinematic commercial storyboard in 16:9 landscape format, designed like a premium shot list presentation for a {argument name="product name" default="LUMIS ECLIPSE ONE"} premium sunglasses product ad.
->
-> Overall design:
-> Ultra-premium eyewear art direction, deep cosmic
+> Ultra-realistic dairy food photography, thick creamy texture, realistic fruit pieces, glossy berry swirl, chilled condensation, soft premium lighting, clean packaging, luxur…
 
 ## Evidence index
 
@@ -389,11 +387,13 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 枫糖浆商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-0ade8f99f80d) | [Media](https://media.goodcase.ai/cases/ca0e0a2befbc.jpg) | [Original](https://x.com/Strength04_X/status/2096833097740493050) | E1 |
 | 高端披萨商业广告分镜脚本 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2485fd339050) | [Media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) | [Original](https://x.com/Strength04_X/status/2094649803682750838) | E2 |
 | 高端零食广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) | [Media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) | [Original](https://x.com/Strength04_X/status/2095782580071411770) | E3 |
-| 椰子水产品项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) | [Media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) | [Original](https://x.com/Strength04_X/status/2094760813794111843) | E4 |
-| 高端意大利面商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) | [Media](https://media.goodcase.ai/cases/714a09d39d81.jpg) | [Original](https://x.com/Strength04_X/status/2095411329461100949) | E5 |
-| 高端方便面广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) | [Media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) | [Original](https://x.com/Strength04_X/status/2090019696779387173) | E6 |
-| 高端有机蜂蜜商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e2965bc59b6d) | [Media](https://media.goodcase.ai/cases/0754619398ae.jpg) | [Original](https://x.com/Strength04_X/status/2090081415924982038) | E7 |
-| 高端太阳镜商业项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e35328ffea70) | [Media](https://media.goodcase.ai/media/image/case-e35328ffea70.jpg) | [Original](https://x.com/Strength04_X/status/2079586138130657751) | E8 |
+| 专业牛肉塔可产品摄影 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-4c1226bfd0d2) | [Media](https://media.goodcase.ai/cases/8c3e85abe656.jpg) | [Original](https://x.com/Strength04_X/status/2091192289385451787) | E4 |
+| 椰子水产品项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) | [Media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) | [Original](https://x.com/Strength04_X/status/2094760813794111843) | E5 |
+| 高端意大利面商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) | [Media](https://media.goodcase.ai/cases/714a09d39d81.jpg) | [Original](https://x.com/Strength04_X/status/2095411329461100949) | E6 |
+| 高端方便面广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) | [Media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) | [Original](https://x.com/Strength04_X/status/2090019696779387173) | E7 |
+| 高端酸奶商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-9243db8ae17e) | [Media](https://media.goodcase.ai/cases/500ca353eec3.jpg) | [Original](https://x.com/Strength04_X/status/2096204332895261103) | E8 |
+| 高端有机蜂蜜商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e2965bc59b6d) | [Media](https://media.goodcase.ai/cases/0754619398ae.jpg) | [Original](https://x.com/Strength04_X/status/2090081415924982038) | E— |
+| 高端太阳镜商业项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-e35328ffea70) | [Media](https://media.goodcase.ai/media/image/case-e35328ffea70.jpg) | [Original](https://x.com/Strength04_X/status/2079586138130657751) | E— |
 | Milkshake 产品信息图 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/milkshake-5c0760224640) | [Media](https://media.goodcase.ai/cases/6071746d5c88.jpg) | [Original](https://x.com/Strength04_X/status/2090665058980462697) | E— |
 
 ## Derivation boundary
