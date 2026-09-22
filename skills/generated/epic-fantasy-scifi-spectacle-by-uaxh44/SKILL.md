@@ -1,9 +1,9 @@
 ---
-name: product-ad-shot-design-by-wat8s8
-description: "Apply an evidence-derived Product ad shot design workflow observed across published GoodCase examples by AIwithkhan. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
+name: epic-fantasy-scifi-spectacle-by-uaxh44
+description: "Apply an evidence-derived Epic fantasy and sci-fi spectacle workflow observed across published GoodCase examples by CharaspowerAI. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# AIwithkhan · Product ad shot design
+# CharaspowerAI · Epic fantasy and sci-fi spectacle
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 
@@ -32,9 +32,9 @@ Ask only for missing inputs:
 2. Read `references/cases.md` and select one anchor Case.
 3. Inspect its finished media, summary, and prompt excerpt.
 4. Produce the Preserve / Replace / Avoid reference contract.
-5. Choose one product benefit.
-6. Prove it through action or context.
-7. Close on brand detail or a call to action.
+5. Give every entity its own definition block; references supply looks only.
+6. Cut by timecode and spend the clip on one spectacle, the rest is blocking.
+7. Buy scale with low angles and human or city reference, then close on fixed technical specs.
 8. Produce the requested artifact using the output contract below.
 9. Compare it with the anchor Case, then revise material failures once.
 

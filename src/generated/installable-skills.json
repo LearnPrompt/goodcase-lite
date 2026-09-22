@@ -1,12 +1,30 @@
 [
   {
+    "slug": "3d-cartoon-character-short",
+    "kind": "shared",
+    "category": "video",
+    "caseCount": 17,
+    "creatorCount": 13,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "e8dbc777787e518429ef6b45465182426ec93f00ca8947f993265669bea709e2"
+  },
+  {
+    "slug": "3d-cartoon-character-short-by-18gc2qf",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 4,
+    "creatorCount": 1,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "19d9d77c22c93861cdd53d7abcdc1106bbf7764dcdfb51034f78e5e1bfaa07c9"
+  },
+  {
     "slug": "action-continuity-choreography",
     "kind": "shared",
     "category": "video",
-    "caseCount": 33,
-    "creatorCount": 29,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "5f9bca7b75e601a875b1f3ecd08330cea97424b2b05e2d81b5b212b67c7ee248"
+    "caseCount": 37,
+    "creatorCount": 33,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "de7ae20598523fa99aefc7c6b9b4d9b916c5f11c63c7e69807051b2e9ca9a670"
   },
   {
     "slug": "action-continuity-choreography-by-1lcb8j2",
@@ -14,17 +32,17 @@
     "category": "video",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "8c7af2cc4caf4f06375e39a04d90d7b2dce9e1bb2986ad16d33f9c2df147cd05"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "583731abee962f1738f6913a5e6b216418482fa82cb891817a4b392789a23488"
   },
   {
     "slug": "animation-style-consistency",
     "kind": "shared",
     "category": "video",
-    "caseCount": 65,
-    "creatorCount": 53,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "f24e29d3ff959b5fc370cc8e26b07224bf9df4d82848e8a48d8a969c2d2952e7"
+    "caseCount": 69,
+    "creatorCount": 56,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "5b8618d1764e7da0ebcb20d777c473a889e78616846e85d80f03838a7ec72b63"
   },
   {
     "slug": "animation-style-consistency-by-1diwzmp",
@@ -32,8 +50,8 @@
     "category": "video",
     "caseCount": 5,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "ce1a4ae0efb2e485fa4ba3650a4cff3dde782d8035cb19ffe2b575bb44663653"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "4205223b7625e7d2325198d79d11a1d2163517e089111ef96f6c469868879191"
   },
   {
     "slug": "animation-style-consistency-by-1wr1qau",
@@ -41,26 +59,35 @@
     "category": "video",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "82594931e9f111d8124e86d5bf4562b062f843610f6c24e291d164a02f02be47"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "d8743b69d1b7c94c98c7f7f02b35efded9e776e4042ce79c7d3c822c7a3dd6f2"
   },
   {
     "slug": "character-style-consistency",
     "kind": "shared",
     "category": "image",
-    "caseCount": 18,
-    "creatorCount": 14,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "3379d36f681908cea440a944ae4f6c8a7a3cbb1fe193cb71f7f0a2e8101dba49"
+    "caseCount": 20,
+    "creatorCount": 15,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "819dad69c4943988205aa7458547c2a0ef81fa893b4ffa9229b1f133f79fb0fa"
+  },
+  {
+    "slug": "character-style-consistency-by-1enbgh4",
+    "kind": "creator_method",
+    "category": "image",
+    "caseCount": 3,
+    "creatorCount": 1,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "959c2594f42ad3748afc113cd3a7352fd8075411b4eec070b1c27e49b367e855"
   },
   {
     "slug": "editorial-portrait-composition",
     "kind": "shared",
     "category": "image",
-    "caseCount": 35,
-    "creatorCount": 23,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "4e261308a3d2b90e34d934a158f1bfea9fe58c4151564c980a5ea7cc18d5f46f"
+    "caseCount": 41,
+    "creatorCount": 25,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "e3cfdf63afb78dbccec2bdb221d7d25d4f3636d68489fc3c471aed79c60175cb"
   },
   {
     "slug": "editorial-portrait-composition-by-1f0mjj8",
@@ -68,17 +95,17 @@
     "category": "image",
     "caseCount": 4,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "4328dfe053c6b58d293d80a4ea44cb47503a0fdf7ea8c57fef4e1d150554d8f0"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "cef7b79435f5f5323c280eb2ad42061881e036083395d7cdec7b9a17ad54b1d9"
   },
   {
     "slug": "editorial-portrait-composition-by-1l42ctj",
     "kind": "creator_method",
     "category": "image",
-    "caseCount": 4,
+    "caseCount": 7,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "77bb4f3c906cea26662c46b89428c0b06e45ef0ce0f9ebe63612c2cc368ba5f8"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "0df94f569a0ff71c148f543c01c7d38ac1faec202419bb00440cf0c8f4466ff2"
   },
   {
     "slug": "editorial-portrait-composition-by-s8wxu9",
@@ -86,17 +113,62 @@
     "category": "image",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "8822c550208c4012a9464f849b3ebfa393179f7a1595aa333ecb2e4cc2cdb31e"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "207cb4b73fcd4cfff91fa16c69dc031317d268f6575cc385131f858990db3b2f"
+  },
+  {
+    "slug": "epic-fantasy-scifi-spectacle",
+    "kind": "shared",
+    "category": "video",
+    "caseCount": 62,
+    "creatorCount": 46,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "79fe7b7b9131dc34765e1f1e6c87636266e2900526511ce7f738f69a74467cd0"
+  },
+  {
+    "slug": "epic-fantasy-scifi-spectacle-by-1napzjr",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 3,
+    "creatorCount": 1,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "efa200736500be3f1398146c33c040e6b70beee63c40e40db7a47fb7cfc7f95f"
+  },
+  {
+    "slug": "epic-fantasy-scifi-spectacle-by-1r2e570",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 6,
+    "creatorCount": 1,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "a5ff28488d4c67b4fdc247d9f3fd2bffe4469b328ed0e648d2bce8f9ff166777"
+  },
+  {
+    "slug": "epic-fantasy-scifi-spectacle-by-1sduwzc",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 3,
+    "creatorCount": 1,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "61e84622bc934ab1aac6323fba669f74bce91f45ba7a65c93148ebcfebb98911"
+  },
+  {
+    "slug": "epic-fantasy-scifi-spectacle-by-uaxh44",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 3,
+    "creatorCount": 1,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "6c1a2d0f969d03c721d0078d1b4c9a433636096bad81b81055613773bd2dc454"
   },
   {
     "slug": "landing-page-information-structure",
     "kind": "shared",
     "category": "web",
-    "caseCount": 198,
+    "caseCount": 199,
     "creatorCount": 44,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "1678a5ab2c0167ea038427c3829bf2d8340c29579328d5520f987b8ef7cd6b4b"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "99dc146dd9f4456ed1559f0a252bc65d46fbce5845119c68f09f4d3d2374622a"
   },
   {
     "slug": "landing-page-information-structure-by-197q59i",
@@ -104,8 +176,8 @@
     "category": "web",
     "caseCount": 10,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "2ead27271f9bc97d3d4306d5e2a67fd93da11178cb055c9d9b566127a3b592d8"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "5fa86a81025ef0c31932346c81ab3f20e0d47ca18003ac5f61520e719f28daaf"
   },
   {
     "slug": "portfolio-story-architecture",
@@ -113,8 +185,8 @@
     "category": "web",
     "caseCount": 28,
     "creatorCount": 14,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "c7793fff76472be5be2a9c57e17003532c95f0b11db241133593e6770f7efb54"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "3279b497998fcc33094d2c9a1cd7003e6e59197770f08ed36763f108e71c73e8"
   },
   {
     "slug": "portfolio-story-architecture-by-13qd91c",
@@ -122,8 +194,8 @@
     "category": "web",
     "caseCount": 5,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "3ab66abf2b90093e73bb0b162bf6e32833185f39c9a0d2f398902abc8985c288"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "89f36a9fcc4beb9e4f1bf8b072b2f09c20f428ccb906943b31263e8ce901a8d6"
   },
   {
     "slug": "portfolio-story-architecture-by-1srj4fh",
@@ -131,17 +203,17 @@
     "category": "web",
     "caseCount": 11,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "7c39bd16f9be5e9f5a5215f7d1fe7c30544c193688c7a3fead62e4dbebb37fab"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "ba4abef70efe50dcd31a3494d9ba3a6357aa512a2642033d65b87085bfd07323"
   },
   {
     "slug": "poster-information-hierarchy",
     "kind": "shared",
     "category": "image",
-    "caseCount": 38,
-    "creatorCount": 18,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "b01185177faf9c0930ee75b4b95a1c4498bb755f67f3e6f314f6bd73a343610c"
+    "caseCount": 39,
+    "creatorCount": 19,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "ffff9e36967bbaea6681c32f00ec09a5408c34be44122294b5985b2ea7dad78d"
   },
   {
     "slug": "poster-information-hierarchy-by-1feqfhp",
@@ -149,8 +221,8 @@
     "category": "image",
     "caseCount": 18,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "723165c6dd4694586dd1713de57caf8a7d65631b7d8f1866500a7452acceb9f7"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "9ee18275f119093fa7feb940e1ca268640c0ec632219560bdb6c589fda64f249"
   },
   {
     "slug": "poster-information-hierarchy-by-iq5ssb",
@@ -158,17 +230,17 @@
     "category": "image",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "d67cbdf9614d2aeab36ed34d5aab65224576d86ef4ff703e6995e77c852acb19"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "f9b0a0999428d10efdf4a0b357e913cbfc547a0c86e22c76e5c6d525e43c7add"
   },
   {
     "slug": "pov-vlog-presence",
     "kind": "shared",
     "category": "video",
-    "caseCount": 84,
-    "creatorCount": 51,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "57fbf763c226fffef627f8e11cddf2bfffe48bc8f9e8a66577fac1d853a1347e"
+    "caseCount": 90,
+    "creatorCount": 52,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "5f269004bd10cd8906559d68272397bc3f37e0c69f14dd1736050ee81695da40"
   },
   {
     "slug": "pov-vlog-presence-by-1798qo",
@@ -176,8 +248,8 @@
     "category": "video",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "37624490078febbcf979378e4199289f48379394075ca389b015e4dfa3b0b9c0"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "883859fbf1c2cc54947b3425f521eb7f769e76c4441d8389c1eecfdd64b9eb08"
   },
   {
     "slug": "pov-vlog-presence-by-1d090cw",
@@ -185,8 +257,8 @@
     "category": "video",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "a829673fdd47871c84434426d81f34373bee5500872233aba15cf0ab58449ab7"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "aa219cf61e0757fdb9de856a478fd0aa7f3d7dc5a31323878af227c96a5d92fd"
   },
   {
     "slug": "pov-vlog-presence-by-1jqwyww",
@@ -194,35 +266,35 @@
     "category": "video",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "fc45301671b8ade06965b0b5a9b5446ed145ccdb1706aea3d90ca596eb5da370"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "b4f634c2be645fa91187dfb3bc409d1d7c635ce3631c13224fd7060e9cb25f8e"
   },
   {
     "slug": "pov-vlog-presence-by-1noa4gp",
     "kind": "creator_method",
     "category": "video",
-    "caseCount": 3,
+    "caseCount": 4,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "f7b1a8245dd3643e1fc7f1ea37758be2af850930574f0a7c02877017aaa26838"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "9a505b0a906b50040e97e9d0b0625b800cefbe343febbc71e8c9105d918c1cc0"
   },
   {
     "slug": "pov-vlog-presence-by-1sduwzc",
     "kind": "creator_method",
     "category": "video",
-    "caseCount": 5,
+    "caseCount": 7,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "6bcb7afc41c4efb7258dd6d7bd59ec0e7eaa72e975d9a5b5a942baeab87c1088"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "a077ced13513f68fbeb0dd639dbf3cef352260774ff2ea964b43cceb978e83df"
   },
   {
     "slug": "pov-vlog-presence-by-1yyrk1e",
     "kind": "creator_method",
     "category": "video",
-    "caseCount": 4,
+    "caseCount": 5,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "4ea770ec22efa1f114c18302d9e76b67890d99dd87783c53600e4b592854b491"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "3c6dea866095a50562c865a55ccd56e4e1a567302ed50e7b40f9b4f36d86da3f"
   },
   {
     "slug": "pov-vlog-presence-by-6moylp",
@@ -230,8 +302,8 @@
     "category": "video",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "353638c8f0795b8f77101dbe067869c3844747e296b3b5ba8c563de826f134f4"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "c32234110621f61bab90efd35798c0e24b868398f3eb590bad64fb2d7dddf0c2"
   },
   {
     "slug": "pov-vlog-presence-by-e2fac1",
@@ -239,8 +311,8 @@
     "category": "video",
     "caseCount": 4,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "e649ad9c7ec5307f9a9b2b04f9ae659326ee4b5f37e816e36918200fb77c0898"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "47a180074169ac239a21b511ab1ad7ba008432da9dca65d96ec0e65e0f32e552"
   },
   {
     "slug": "pov-vlog-presence-by-ha1tt9",
@@ -248,8 +320,8 @@
     "category": "video",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "d07aac0373e0c1f3db8635183a8b4e84614e0dfedc8357bf309b7d0dd5e073cd"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "02ef44d5796b58d6f5adb4b8750edee8c74cd83a13af34e26244c89b20b8f450"
   },
   {
     "slug": "pov-vlog-presence-by-wat8s8",
@@ -257,26 +329,26 @@
     "category": "video",
     "caseCount": 4,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "0b50c9fd4c0f324b4da21b817f13479c63aa6f56845c3c678b77383d311e61a5"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "b7f0977356c6f9b2a479a0bef736f863d9e9da65c791c5471d6c137151a2f7b4"
   },
   {
     "slug": "process-transformation-story",
     "kind": "shared",
     "category": "video",
-    "caseCount": 21,
-    "creatorCount": 21,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "7e30d018b45e84d3cbee022ffdf743d8d071fd1cf54c18a803078ac2648398f7"
+    "caseCount": 22,
+    "creatorCount": 22,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "f0c589ba5a3a08b4a83f53b3e1152cd9c3ac11fddc10fa69e4637e8efa6a7688"
   },
   {
     "slug": "product-ad-shot-design",
     "kind": "shared",
     "category": "video",
-    "caseCount": 67,
-    "creatorCount": 38,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "78b5e888a70c21d204c0bea14887c66416d4c4177a58387130cf5a2d8e29c9f5"
+    "caseCount": 73,
+    "creatorCount": 43,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "5969a7989d32cb130013377dd354a6e33d4c43c924b53f5721027a287e733ff7"
   },
   {
     "slug": "product-ad-shot-design-by-1cw2bs8",
@@ -284,8 +356,8 @@
     "category": "video",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "5a662fd9129cb2965316ccc505e1efde75802165e88e13beb0e67e7b5d8b2997"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "5326f0404b476c3126276e4d04d6619c86c7de79c1935dd86fb5edc7f2befaae"
   },
   {
     "slug": "product-ad-shot-design-by-1d090cw",
@@ -293,8 +365,8 @@
     "category": "video",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "687353be9bf5cad0857e07d9da7db669eb96f00da58d50a1e934750a63e22287"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "573c103676b602e2192826b9b4492329fe5df6d745c5034793421790bcff296a"
   },
   {
     "slug": "product-ad-shot-design-by-1ktgmlf",
@@ -302,8 +374,8 @@
     "category": "video",
     "caseCount": 8,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "c98515dffcae5f2d1adc893badd507f6d4c914f7b75c32ec1c690a755ce34eee"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "7242a51fa23c03e32ff2aaad3f2b374aab54a0f4015c7b9ba30b87175d0c03d0"
   },
   {
     "slug": "product-ad-shot-design-by-1napzjr",
@@ -311,8 +383,8 @@
     "category": "video",
     "caseCount": 4,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "2a68e8e2003581cf0a7d3612511aa2775f6fd8091294f62dd687171b922713e1"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "abbee1a9bef90e15e25517099704c558378eb85970df1f858867e4edacf2fac7"
   },
   {
     "slug": "product-ad-shot-design-by-1wr1qau",
@@ -320,17 +392,8 @@
     "category": "video",
     "caseCount": 4,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "adef1a2207e0d58c6d4e9be40f1eb4bdc9eeee49c5231abc8be2201f3a3bcaca"
-  },
-  {
-    "slug": "product-ad-shot-design-by-wat8s8",
-    "kind": "creator_method",
-    "category": "video",
-    "caseCount": 4,
-    "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "3ce70cd4d9b505d7f7a358e7db55bc7473ee79775135e83261d4f0f0ce47b418"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "c8d3752012d3426e7dc14527fa98127c2a2b9413cdda58374fb3fd22fb9d08c6"
   },
   {
     "slug": "product-commerce-conversion-page",
@@ -338,26 +401,17 @@
     "category": "web",
     "caseCount": 27,
     "creatorCount": 19,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "47a89fb3ea7e2bbeeee4d614bda1ed8b23e23338f0cab47e983c11ff3599b44e"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "5eb64a904d37c9963cfabc123985f4339927f079e72c5d22d19eeec34cdae3d7"
   },
   {
     "slug": "product-studio-visual",
     "kind": "shared",
     "category": "image",
-    "caseCount": 30,
+    "caseCount": 32,
     "creatorCount": 18,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "fff04bbb2a3e02f33f2a86f3d10489482a1d265e7ccf81f76c818e20a5f7d820"
-  },
-  {
-    "slug": "product-studio-visual-by-1sduwzc",
-    "kind": "creator_method",
-    "category": "image",
-    "caseCount": 9,
-    "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "69e3eced84790894dca11c378569417c173908064e860857cda0aa69268a84d5"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "f07a334872ea0c1edafdf57ceda2a87dd9ef9e86633bdae919452aad2ff529cc"
   },
   {
     "slug": "product-studio-visual-by-tp9kyk",
@@ -365,17 +419,62 @@
     "category": "image",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "cb8e99759c6bf8837c4aff7f88f5bb50df86d19409e5cf20ff5d11240ac5d568"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "21ced516403c00c71a79e9e5441f66e6a65ece00d7de009c2b7422a96ddafbe5"
+  },
+  {
+    "slug": "retro-dv-home-video",
+    "kind": "shared",
+    "category": "video",
+    "caseCount": 39,
+    "creatorCount": 27,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "3269f0314380e25e45d86d817bd69cdcbc3faa87ec9484d8774f62897f392d7d"
+  },
+  {
+    "slug": "retro-dv-home-video-by-6moylp",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 3,
+    "creatorCount": 1,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "17672649b6b6f67826aa34e56ed47353032d55e1155ebd97efa79738be377c93"
+  },
+  {
+    "slug": "retro-dv-home-video-by-wat8s8",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 8,
+    "creatorCount": 1,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "61e6802f47512856f50ee5928d8dfa9acd2b749d740c64ce42262948ce4703ef"
+  },
+  {
+    "slug": "twist-comedy-skit",
+    "kind": "shared",
+    "category": "video",
+    "caseCount": 25,
+    "creatorCount": 20,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "ad7c612b8b968278ccec07d474e53eef85ff95f1c4b31f90d84b7c028a038389"
+  },
+  {
+    "slug": "twist-comedy-skit-by-1en62on",
+    "kind": "creator_method",
+    "category": "video",
+    "caseCount": 4,
+    "creatorCount": 1,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "7fa562478d8e5948a35b8092c39cdb95c4bb1d63246653a38e40fb42c6f138bc"
   },
   {
     "slug": "web-3d-motion-hero",
     "kind": "shared",
     "category": "web",
-    "caseCount": 166,
-    "creatorCount": 30,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "07abfe5211e8de2079c799cb985566c464742f68c4b7e8c7a9e5754fdde312f3"
+    "caseCount": 167,
+    "creatorCount": 31,
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "7198c2e2bd6076f15ac328ef066187b02aecaf5ed2dae147ff05a22656968108"
   },
   {
     "slug": "web-3d-motion-hero-by-197q59i",
@@ -383,8 +482,8 @@
     "category": "web",
     "caseCount": 14,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "676f5e3c833e1a848a46fbd23a5c1ad3874ee3938764f3b0000ae16cfee14c1a"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "4dd3b58222e30d71ef470a19bd32c8918f16e15fca094b7da7c50305a5a482b2"
   },
   {
     "slug": "web-3d-motion-hero-by-1kbs468",
@@ -392,8 +491,8 @@
     "category": "web",
     "caseCount": 3,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "2f5389ef562c4874b2a8eeb38c8081b2726883d75af8509f7571928871554ee5"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "e7da603f616be18b7b787d5d553a84cb523451f52828c1ee719e460806f08ec8"
   },
   {
     "slug": "web-3d-motion-hero-by-1srj4fh",
@@ -401,8 +500,8 @@
     "category": "web",
     "caseCount": 24,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "bff5c160d683dcd05863b8fa43664d1176d8e6ef09094ab5a23afcdec6bd9123"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "e6e0b0eecaee034527e587b91611ad6c2f362ce564b6d10116cafb6f35a5c551"
   },
   {
     "slug": "web-3d-motion-hero-by-aqq5ux",
@@ -410,7 +509,7 @@
     "category": "web",
     "caseCount": 97,
     "creatorCount": 1,
-    "verifiedAt": "2026-09-13T21:40:12.404Z",
-    "packageSha256": "6818eca4d8ed5231a93d986fff070fbab09ed505e594c2a3dbdfbc2a224f3ccc"
+    "verifiedAt": "2026-09-22T01:23:50.117Z",
+    "packageSha256": "994dc8709e21d5c23147b35b0c837387165d9c7ad58ee333fa8fd070989cd076"
   }
 ]
