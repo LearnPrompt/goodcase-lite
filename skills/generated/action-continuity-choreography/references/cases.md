@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 33 published Cases across 29 creators.
+This workflow is derived from 37 published Cases across 33 creators.
 
 ## Operating rule
 
@@ -108,7 +108,35 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Visual style: ultra realistic,…
 
-### E6 · 动画海盗动作序列
+### E6 · 韩国社区动作喜剧场景
+
+- Creator: @AIwithSynthia
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-1e4f684b45b0) · [finished media](https://media.goodcase.ai/cases/955088198bf2.mp4) · [poster](https://media.goodcase.ai/cases/7e37d7f736d0.jpg) · [original source](https://x.com/AIwithSynthia/status/2097532372921229702)
+- Summary: 一个关于韩国住宅区喜剧场景的详细提示词，重点在于保持角色一致性并呈现手持摄像机的视觉美感。
+- Prompt excerpt:
+
+> Create a 30-second, 1080p ultra-realistic Korean neighborhood action-comedy scene using the uploaded images as exact visual references. Keep the same characters, faces, hair, outfits and environment consistent throughout.
+> CHARACTERS:
+> Young Korean woman, early 20s, long straight black hair, green cropped long-sleeve top, loose blue jeans and silver jewelry; confident, expressive and fearless.
+> Young Korean man, early 20s, short black hair, gray button-up shirt, dark trousers and white sneakers; cocky at first, then increasingly nervous.
+> SHOT 1
+> The woman walks down a quiet residential street carrying a small grocery bag. She notices the man riding a tiny electric scooter toward her way too fast.
+> SHOT 2
+> He suddenly rings the bell repeatedly and gestures for her to move. She calmly steps aside, watching him pass with an annoyed expression.
+> SHOT 3
+> A few seconds later, the scooter rolls back into frame by itself. The man runs after it, desperately trying to catch it.
+> SHOT 4
+> The woman watches him sprint past her. She casually sticks out one foot and stops the scooter before it rolls into the street.
+> SHOT 5
+> He finally reaches her, out of breath, and says, “Wait… you stopped it?” She simply looks at him and says, “You’re welcome.”
+> SHOT 6
+> He grabs the scooter and tries to ride away again, but the woman notices his grocery bag has fallen open and vegetables are rolling down the sidewalk.
+> SHOT 7
+> She quickly catches several vegetables before they reach the road. The man stands there embarrassed while an elderly neighbor watches and quietly laughs.
+> SHOT 8
+> The woman hands everything back t…
+
+### E7 · 动画海盗动作序列
 
 - Creator: @itsshara_ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) · [finished media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg) · [original source](https://x.com/itsshara_ai/status/2079565454436426187)
@@ -127,7 +155,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > (0:04.2–0:05.4) THE QUARTERMASTER draws his knife in one fluid, practiced motion, his scarred fa…
 
-### E7 · 凤凰骑士变身序列
+### E8 · 凤凰骑士变身序列
 
 - Creator: @LudovicCreator
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) · [finished media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg) · [original source](https://x.com/LudovicCreator/status/2081092171428401560)
@@ -138,49 +166,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Made  in @LumaLabsAI #LumaCPP
 
-### E8 · 屋顶追逐动作短语
-
-- Creator: @LANDCASTER_92
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) · [finished media](https://media.goodcase.ai/media/video/case-8f7479c32251.mp4) · [poster](https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg) · [original source](https://x.com/LANDCASTER_92/status/2081432738683314614)
-- Summary: 针对 Seedance 2.0 的详细动作短语，描述了一个角色在聚光灯下于屋顶边缘蹲伏并跃过缝隙的追逐场景。
-- Prompt excerpt:
-
-> Urban Escape Scene
->
-> Models ( GPT Image-2 + Seedance 2.0)
->
-> Seedance Prompts 2/3
->
-> MOTION PHRASES:
->
-> P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
->
-> P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
->
-> P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
->
-> P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
->
-> P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
->
-> P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
->
-> P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
->
-> P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
->
-> P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
->
-> Seedance Prompts 3/3
->
-> MOTION PHRASES:
->
-> P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
->
-> P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
->
-> P03: Vex cuts into a narrow market alley, threading betw…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -190,9 +175,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 韩国夏日巷弄里的橙子追逐 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-caefe71f7aab) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-caefe71f7aab.mp4) | [Original](https://x.com/AIwithkhan/status/2093659312212291914) | E3 |
 | 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E4 |
 | 赛博朋克赛博之刃战斗 | @luxaios | [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) | [Media](https://media.goodcase.ai/media/video/case-1a9a2c659866.mp4) | [Original](https://x.com/luxaios/status/2080628740955218120) | E5 |
-| 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E6 |
-| 凤凰骑士变身序列 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/LudovicCreator/status/2081092171428401560) | E7 |
-| 屋顶追逐动作短语 | @LANDCASTER_92 | [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) | [Media](https://media.goodcase.ai/media/video/case-8f7479c32251.mp4) | [Original](https://x.com/LANDCASTER_92/status/2081432738683314614) | E8 |
+| 韩国社区动作喜剧场景 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-1e4f684b45b0) | [Media](https://media.goodcase.ai/cases/955088198bf2.mp4) | [Original](https://x.com/AIwithSynthia/status/2097532372921229702) | E6 |
+| 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E7 |
+| 凤凰骑士变身序列 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/LudovicCreator/status/2081092171428401560) | E8 |
+| 屋顶追逐动作短语 | @LANDCASTER_92 | [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) | [Media](https://media.goodcase.ai/media/video/case-8f7479c32251.mp4) | [Original](https://x.com/LANDCASTER_92/status/2081432738683314614) | E— |
 | 电影级未来感动漫剑术对决 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) | [Media](https://media.goodcase.ai/media/video/case-a9ab0266f96a.mp4) | [Original](https://x.com/haruuraeadss/status/2081317622927577411) | E— |
 | 废墟之桥上的史诗骑士之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-b1405ee458d3) | [Media](https://media.goodcase.ai/media/video/case-b1405ee458d3.mp4) | [Original](https://x.com/CharaspowerAI/status/2081031751598535092) | E— |
 | 多元宇宙维度传送门坠落 | @NababUddin2 | [GoodCase](https://goodcase.ai/cases/case-b8e777843103) | [Media](https://media.goodcase.ai/media/video/case-b8e777843103.mp4) | [Original](https://x.com/NababUddin2/status/2079428121133240602) | E— |
@@ -202,9 +188,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 珠宝精品店武术动作大片 | @mimu_ai1 | [GoodCase](https://goodcase.ai/cases/case-d0f11d1ff17c) | [Media](https://media.goodcase.ai/cases/829eb48c60a3.mp4) | [Original](https://x.com/mimu_ai1/status/2091215411341930633) | E— |
 | 夜间追逐电影级镜头 | @bmx_ai13 | [GoodCase](https://goodcase.ai/cases/case-d30f8318a084) | [Media](https://media.goodcase.ai/media/video/case-d30f8318a084.mp4) | [Original](https://x.com/bmx_ai13/status/2081091640857702427) | E— |
 | 黑板火柴人空手道对决 | @mrdejie | [GoodCase](https://goodcase.ai/cases/case-de248f679b06) | [Media](https://media.goodcase.ai/media/video/case-de248f679b06.mp4) | [Original](https://x.com/mrdejie/status/2079463899305476233) | E— |
+| 武术道场实战演练视频提示词 | @xmliisu | [GoodCase](https://goodcase.ai/cases/case-ef6d0376e02b) | [Media](https://media.goodcase.ai/cases/0ee926e46e5a.mp4) | [Original](https://x.com/xmliisu/status/2097596867500515494) | E— |
 | 硬核卡特尔藏身处动作场景 | @The_Kremlinn | [GoodCase](https://goodcase.ai/cases/case-f6a1af7d22b1) | [Media](https://media.goodcase.ai/cases/396d658b3809.mp4) | [Original](https://x.com/The_Kremlinn/status/2095083714120229230) | E— |
-| 武术巷战场景 | @KeorUnreal | [GoodCase](https://goodcase.ai/cases/case-f7e7c1862f38) | [Media](https://media.goodcase.ai/media/video/case-f7e7c1862f38.mp4) | [Original](https://x.com/KeorUnreal/status/2081477878349246776) | E— |
-| Cinematic Anime Martial Arts Training Ground | @TechieBySA | [GoodCase](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground) | [Media](https://media.goodcase.ai/media/video/cinematic-anime-martial-arts-training-ground.mp4) | [Original](https://x.com/TechieBySA/status/2081405410464972870) | E— |
 
 ## Derivation boundary
 

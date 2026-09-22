@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 67 published Cases across 38 creators.
+This workflow is derived from 73 published Cases across 43 creators.
 
 ## Operating rule
 
@@ -57,7 +57,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror stand. Soft diffuse lighting, delicate lens flare, gentle zoom adjustments, subtle tape grain, polished high-end aesthetic. STYLE: High-maintenance luxury beauty/skincare routine with sassy, condescending ASMR elements. Paws delicately patting bottles, slow blinks, arrogant pauses. SUBJECT: Fluffy white Persian cat with a flat smushed face, emerald green eyes, wearing a tiny silk hair wrap. Smug, unimpressed expression, regal demeanor. SETTING: Marble bathroom vanity with expensive serum glass bottles, jade roller, plush velvet towel, warm vanity light bulbs. STORYBOARD: → (2s, medium shot) Adjusts camera angle with one claw. "Good morning to everyone except my human who woke me up 3 minutes early." → (1.5s, detail shot) Taps a glass serum bottle with front paw. Crisp clinking glass ASMR sound. → (1.5s, close-up) Slowly pushes serum bottle off the counter while maintaining eye contact with camera. Loud shatter/thud sound below. "Oops. Gravity works. Moving on." → (2s, detail macro shot) Softly licks back of paw and wipes ear in slow motion. Soft grooming ASMR sound. → (1.5s, close-up) Gazes into mirror, tilting head. "Skin is glowing, pores are non-existent. You're welcome." → (1.5s, medium handheld shot) Uses jade roller on forehead using tiny paw. "Reducing puffiness from sleeping 18 hours instead of 19." → (1.5s, macro detail shot) Sniffs a tub of catnip cream, letting out a delicate…
 
-### E5 · MiniMax H3 参考图驱动的产品时尚短片
+### E5 · 纽约街头咖啡跌落慢镜头
+
+- Creator: @AvelyrahnAI
+- Evidence: [GoodCase](https://goodcase.ai/cases/avelyrahnai-seedance-ai-a392e2711b0d) · [finished media](https://media.goodcase.ai/cases/dd0be32c279c.mp4) · [poster](https://media.goodcase.ai/cases/a43eb812774d.jpg) · [original source](https://x.com/AvelyrahnAI/status/2094420859960045616)
+- Summary: Catch calls, sip coffee, and own every street like a boss, Created with Seedance 2.5 Prompt: A stylish young woman walki
+- Prompt excerpt:
+
+> A stylish young woman walking confidently down a busy New York city sidewalk during golden hour, wearing a dark fitted t-shirt, relaxed dark jeans, and sneakers, talking on her smartphone and holding an iced coffee and a cafe menu, with a golden retriever dog walking on a leash beside her; suddenly, she trips and drops her phone, iced coffee cup, and a "YA HALA COFFEE - FALL MENU" flyer mid-stride, causing the items to suspend mid-air in slow motion with magical liquid splashes and floating autumn leaves, transitioning to a macro close-up of the branded coffee cup and a smartphone displaying an incoming call from "BOSS" before everything drops back to the pavement in a dynamic, high-octane commercial cinematic style.
+
+### E6 · MiniMax H3 参考图驱动的产品时尚短片
 
 - Creator: @CaliraVal
 - Evidence: [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-ccf8d06fad6f) · [finished media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-ccf8d06fad6f.mp4) · [poster](https://media.goodcase.ai/media/poster/caliraval-minimax-h3-ai-ccf8d06fad6f.jpg) · [original source](https://x.com/CaliraVal/status/2089221706435248245)
@@ -89,7 +98,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Voice & Lip Sync
 > The woman must speak naturally in English throughout…
 
-### E6 · 大理石楼梯唇彩广告
+### E7 · 大理石楼梯唇彩广告
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-05cc8692de27) · [finished media](https://media.goodcase.ai/cases/b637e0c6f931.webm) · [poster](https://media.goodcase.ai/cases/dfa401edffbd.jpg) · [original source](https://x.com/AIwithSynthia/status/2082845923152150697)
@@ -102,7 +111,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Ultra-realistic beauty cinematography, luxury cosmetic campaign, smooth gimbal movement, realistic skin textures, macro product photography, shallow depth of field, creamy bokeh, premium color grading, 4K HDR, 16:9, no text, subtitles, logos, or watermarks.
 
-### E7 · 皮克斯风格美妆日常动画
+### E8 · 皮克斯风格美妆日常动画
 
 - Creator: @laviniavelle
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) · [finished media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) · [poster](https://media.goodcase.ai/cases/3718d6d34c62.jpg) · [original source](https://x.com/laviniavelle/status/2092193228803952975)
@@ -110,23 +119,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 - Prompt excerpt:
 
 > 3D Pixar-style animation sequence set in a luxurious, modern marble bathroom with warm ambient lighting. A young Asian female character with large expressive eyes undergoes a quick routine: 1. Wrapped in a plush white bath towel, she pulls off a matching head towel, letting her wet, dark hair drop around her shoulders. 2. Side shot as she blows dry her long black hair with a sleek pink hair dryer. Her hair flows smoothly in the breeze. 3. Close-up of fingers running through glossy silky, ultra-straight black hair with realistic sheen and movement. 4 She reaches out toward the screen smoothly transitioning from the bath towel into an elegant white silk slip dress. 5. She turns, opens the wooden bathroom door, steps out and gently closes the door behind her.
-
-### E8 · 智能手表产品生活方式广告
-
-- Creator: @AIwithkhan
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) · [finished media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) · [poster](https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg) · [original source](https://x.com/AIwithkhan/status/2080519081959276735)
-- Summary: 一份高端智能手表生活方式广告提示词，以一位年轻女性在各种日常场景中的表现为特色，具有极高的制作水准。
-- Prompt excerpt:
-
-> Create an ultra-realistic premium smartwatch commercial featuring the same young Korean woman throughout the entire sequence. Maintain identical facial features, shoulder-length soft ash-brown wavy hair, glowing glass skin, natural makeup, and body proportions in every shot. She wears a fitted white athletic crop top, high-waisted beige tennis skirt, white sneakers, delicate gold hoop earrings, and a premium silver smartwatch on her wrist. Bright summer morning, luxury lifestyle aesthetic, premium commercial cinematography, ultra-realistic storytelling.
->
-> The video opens with the young Korean woman already in frame, smiling naturally toward the camera while walking through a beautiful tree-lined city street. As she approaches the camera, she gracefully raises her wrist toward the lens, revealing the premium smartwatch catching the warm morning sunlight. She gently taps the display, and the screen instantly lights up with an elegant animation. She smiles confidently and says, "Let's make today count."
->
-> A cinematic macro hero shot showcases the smartwatch from every angle. Close-ups reveal the premium metal frame, crystal-clear display, rotating crown, textured strap, elegant reflections, and beautifully animated watch face as sunlight glides across the polished surface.
->
-> She continues her morning jog through peaceful parks while the smartwatch tracks her pace, heart rate, calories, and distance. Smooth tracking shots capture her checking workout progress, receiving encouraging fitness notifications, and smiling naturally as she enjoys the run.
->
-> The scene transitions to a styl…
 
 ## Evidence index
 
@@ -136,10 +128,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 悬浮分层汉堡组装广告 | @aimikoda | [GoodCase](https://goodcase.ai/cases/aimikoda-minimax-h3-ai-c30a47a239f6) | [Media](https://media.goodcase.ai/media/video/aimikoda-minimax-h3-ai-c30a47a239f6.mp4) | [Original](https://x.com/aimikoda/status/2094279178602283013) | E2 |
 | Seedance 参考图角色的墨镜耳机 UGC 短片 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-2ee8c62c7d26) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-2ee8c62c7d26.mp4) | [Original](https://x.com/AIwithkhan/status/2089686478100341051) | E3 |
 | 奢华美妆护肤 ASMR | @sebatheepan | [GoodCase](https://goodcase.ai/cases/asmr-eb8937adce5b) | [Media](https://media.goodcase.ai/media/video/asmr-eb8937adce5b.mp4) | [Original](https://x.com/sebatheepan/status/2080999511195828239) | E4 |
-| MiniMax H3 参考图驱动的产品时尚短片 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-ccf8d06fad6f) | [Media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-ccf8d06fad6f.mp4) | [Original](https://x.com/CaliraVal/status/2089221706435248245) | E5 |
-| 大理石楼梯唇彩广告 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-05cc8692de27) | [Media](https://media.goodcase.ai/cases/b637e0c6f931.webm) | [Original](https://x.com/AIwithSynthia/status/2082845923152150697) | E6 |
-| 皮克斯风格美妆日常动画 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/laviniavelle/status/2092193228803952975) | E7 |
-| 智能手表产品生活方式广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/AIwithkhan/status/2080519081959276735) | E8 |
+| 纽约街头咖啡跌落慢镜头 | @AvelyrahnAI | [GoodCase](https://goodcase.ai/cases/avelyrahnai-seedance-ai-a392e2711b0d) | [Media](https://media.goodcase.ai/cases/dd0be32c279c.mp4) | [Original](https://x.com/AvelyrahnAI/status/2094420859960045616) | E5 |
+| MiniMax H3 参考图驱动的产品时尚短片 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-ccf8d06fad6f) | [Media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-ccf8d06fad6f.mp4) | [Original](https://x.com/CaliraVal/status/2089221706435248245) | E6 |
+| 大理石楼梯唇彩广告 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-05cc8692de27) | [Media](https://media.goodcase.ai/cases/b637e0c6f931.webm) | [Original](https://x.com/AIwithSynthia/status/2082845923152150697) | E7 |
+| 皮克斯风格美妆日常动画 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/laviniavelle/status/2092193228803952975) | E8 |
+| 智能手表产品生活方式广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/AIwithkhan/status/2080519081959276735) | E— |
 | 夏季饮品商业电影感短片 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-1f7a27e4c448) | [Media](https://media.goodcase.ai/media/video/case-1f7a27e4c448.mp4) | [Original](https://x.com/AIwithSynthia/status/2081383131668701519) | E— |
 | 护发精华美妆广告 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/case-3484642788b0) | [Media](https://media.goodcase.ai/cases/195c4f5f9843.mp4) | [Original](https://x.com/noorlewisx/status/2092478694078251087) | E— |
 | 高端洗发水广告项目 | @Rosey_watson | [GoodCase](https://goodcase.ai/cases/case-34d77d97a79e) | [Media](https://media.goodcase.ai/cases/643d8f673561.mp4) | [Original](https://x.com/Rosey_watson/status/2090369532435083731) | E— |
@@ -151,7 +144,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 可口可乐时尚转场广告 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/case-887d0484c2ce) | [Media](https://media.goodcase.ai/media/video/case-887d0484c2ce.mp4) | [Original](https://x.com/johnAGI168/status/2079810430252331482) | E— |
 | 超高端香水电影级广告 | @SadiaMalik182 | [GoodCase](https://goodcase.ai/cases/case-91461617e987) | [Media](https://media.goodcase.ai/cases/2722820a0df4.webm) | [Original](https://x.com/SadiaMalik182/status/2082776032042783085) | E— |
 | 写实风格无线耳机广告 | @hiapi_ai | [GoodCase](https://goodcase.ai/cases/case-96017ad7706f) | [Media](https://media.goodcase.ai/media/video/case-96017ad7706f.mp4) | [Original](https://x.com/hiapi_ai/status/2081294040415482322) | E— |
-| “水光肌” 美容精华液广告 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-98ee40004d15) | [Media](https://media.goodcase.ai/cases/fc83139eadfa.mp4) | [Original](https://x.com/laviniavelle/status/2092417476265144705) | E— |
 
 ## Derivation boundary
 

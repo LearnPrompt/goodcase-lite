@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 30 published Cases across 18 creators.
+This workflow is derived from 32 published Cases across 18 creators.
 
 ## Operating rule
 
@@ -268,17 +268,17 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 高端披萨商业广告分镜脚本 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2485fd339050) | [Media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) | [Original](https://x.com/Strength04_X/status/2094649803682750838) | E7 |
 | 高端零食广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) | [Media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) | [Original](https://x.com/Strength04_X/status/2095782580071411770) | E8 |
 | 悬浮美食商业广告活动 | @SimplyAnnisa | [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) | [Media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) | [Original](https://x.com/SimplyAnnisa/status/2077676593284354149) | E— |
+| 专业牛肉塔可产品摄影 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-4c1226bfd0d2) | [Media](https://media.goodcase.ai/cases/8c3e85abe656.jpg) | [Original](https://x.com/Strength04_X/status/2091192289385451787) | E— |
 | 极简主义蓝色香水广告 | @ShamiWeb3 | [GoodCase](https://goodcase.ai/cases/case-5182e7e62bbb) | [Media](https://media.goodcase.ai/media/image/case-5182e7e62bbb.jpg) | [Original](https://x.com/ShamiWeb3/status/2078074982337515555) | E— |
 | 剪贴簿风格韩式美食广告 | @kingofdairyque | [GoodCase](https://goodcase.ai/cases/case-5a706b064073) | [Media](https://media.goodcase.ai/media/image/case-5a706b064073.jpg) | [Original](https://x.com/kingofdairyque/status/2081580288971337797) | E— |
 | 椰子水产品项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) | [Media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) | [Original](https://x.com/Strength04_X/status/2094760813794111843) | E— |
 | 高端意大利面商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) | [Media](https://media.goodcase.ai/cases/714a09d39d81.jpg) | [Original](https://x.com/Strength04_X/status/2095411329461100949) | E— |
 | 高端方便面广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) | [Media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) | [Original](https://x.com/Strength04_X/status/2090019696779387173) | E— |
+| 高端酸奶商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-9243db8ae17e) | [Media](https://media.goodcase.ai/cases/500ca353eec3.jpg) | [Original](https://x.com/Strength04_X/status/2096204332895261103) | E— |
 | 无需提示词室内电商专用产品一键生图细节无损工作流高清放大 | 北洛 | [GoodCase](https://goodcase.ai/cases/case-9c747054ceeb) | [Media](https://media.goodcase.ai/media/image/case-9c747054ceeb.gif) | [Original](https://www.liblib.art/modelinfo/6b7e46cb84234be5b614d014f6d1a0ed) | E— |
 | 奢华护肤品广告 | @ai__lyra | [GoodCase](https://goodcase.ai/cases/case-9cff1d540398) | [Media](https://media.goodcase.ai/cases/ab36d235045b.jpg) | [Original](https://x.com/ai__lyra/status/2082457952901018006) | E— |
 | 草地山丘上的极简主义产品摄影 | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/case-9eb937c02956) | [Media](https://media.goodcase.ai/media/image/case-9eb937c02956.jpg) | [Original](https://x.com/Maddox_Digital/status/2077931238674096250) | E— |
 | 几何视窗极简商业海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090960491648815553) | E— |
-| 混合媒体广告模板 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/case-cbfe9176785a) | [Media](https://media.goodcase.ai/media/image/case-cbfe9176785a.jpg) | [Original](https://x.com/Goodmanprotocol/status/2080163152134836702) | E— |
-| 电商高精快速出图（图片可生成任意字体文字） | AI大师工作流 | [GoodCase](https://goodcase.ai/cases/case-dc302e39731e) | [Media](https://media.goodcase.ai/media/image/case-dc302e39731e.webp) | [Original](https://www.liblib.art/modelinfo/e934f3a693c14268a758905a7d20ceb4) | E— |
 
 ## Derivation boundary
 
