@@ -3,7 +3,7 @@ name: product-ad-shot-design-by-1napzjr
 description: "Apply an evidence-derived Product ad shot design workflow observed across published GoodCase examples by laviniavelle. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# laviniavelle · Product ad shot design
+# laviniavelle · Pixar Glass-Skin Beauty
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 

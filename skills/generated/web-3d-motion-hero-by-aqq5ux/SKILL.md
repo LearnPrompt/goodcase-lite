@@ -3,7 +3,7 @@ name: web-3d-motion-hero-by-aqq5ux
 description: "Apply an evidence-derived 3D and motion hero workflow observed across published GoodCase examples by Aceternity UI. Use when planning, designing, or implementing a website in this interface pattern, including requests for 网页, 落地页, 作品集, 3D hero, SaaS, ecommerce, or UI structure. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# Aceternity UI · 3D and motion hero
+# Aceternity UI · Aceternity Component Library
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 

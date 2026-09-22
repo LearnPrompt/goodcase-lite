@@ -3,7 +3,7 @@ name: pov-vlog-presence-by-1noa4gp
 description: "Apply an evidence-derived POV and vlog presence workflow observed across published GoodCase examples by aiwithaly. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# aiwithaly · POV and vlog presence
+# aiwithaly · Documentary Daily Routine
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 

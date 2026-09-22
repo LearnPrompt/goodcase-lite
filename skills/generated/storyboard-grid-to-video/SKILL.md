@@ -1,9 +1,9 @@
 ---
-name: 3d-cartoon-character-short-by-18gc2qf
-description: "Apply an evidence-derived 3D cartoon character short workflow observed across published GoodCase examples by Zarnab_with_Ai. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
+name: storyboard-grid-to-video
+description: "Apply the Storyboard grid to video workflow derived from multiple published GoodCase examples. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. Read the bundled Case evidence before producing an artifact."
 ---
 
-# Zarnab_with_Ai · 3D cartoon character short
+# Storyboard grid to video
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 
@@ -32,9 +32,9 @@ Ask only for missing inputs:
 2. Read `references/cases.md` and select one anchor Case.
 3. Inspect its finished media, summary, and prompt excerpt.
 4. Produce the Preserve / Replace / Avoid reference contract.
-5. Lock the character as a parts list and restate it in every block.
-6. Write the style as measurable render settings: fur, depth of field, lighting.
-7. One action goal per timeline block, emotion through micro-actions, an exclusion list at the end.
+5. Tie panel count to total duration when generating the sheet; write each panel as an action in progress.
+6. Split the two references explicitly: one owns looks, one owns framing and order.
+7. Constrain stage two with hard rules: walk 1 to N, one panel per shot, no skipping.
 8. Produce the requested artifact using the output contract below.
 9. Compare it with the anchor Case, then revise material failures once.
 

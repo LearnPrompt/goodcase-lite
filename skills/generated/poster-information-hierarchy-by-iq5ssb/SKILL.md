@@ -3,7 +3,7 @@ name: poster-information-hierarchy-by-iq5ssb
 description: "Apply an evidence-derived Poster information hierarchy workflow observed across published GoodCase examples by v92388375-gif. Use when planning, writing, or refining an AI image prompt in this visual pattern, including requests for 图片提示词, 海报, 肖像, 产品图, or character consistency. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# v92388375-gif · Poster information hierarchy
+# v92388375-gif · Halftone Botanical Riso
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 

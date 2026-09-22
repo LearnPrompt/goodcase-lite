@@ -3,7 +3,7 @@ name: product-studio-visual-by-tp9kyk
 description: "Apply an evidence-derived Product studio visual workflow observed across published GoodCase examples by Maddox_Digital. Use when planning, writing, or refining an AI image prompt in this visual pattern, including requests for 图片提示词, 海报, 肖像, 产品图, or character consistency. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# Maddox_Digital · Product studio visual
+# Maddox_Digital · Negative-Space Nature Studio
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 

@@ -3,7 +3,7 @@ name: product-ad-shot-design-by-1ktgmlf
 description: "Apply an evidence-derived Product ad shot design workflow observed across published GoodCase examples by AIwithSynthia. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# AIwithSynthia · Product ad shot design
+# AIwithSynthia · Luxury Macro Beauty
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 
