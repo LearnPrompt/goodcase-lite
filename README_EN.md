@@ -33,13 +33,13 @@ See [goodcase.ai/connect](https://goodcase.ai/connect) for integration docs.
 
 ## Sister repo: awesome-seedance
 
-Only after Seedance 2.5 / 2.0 prompts, no site needed? Go to [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance): 419 cases each checked against the creator's original post, 257 cross-model retests, 14 reusable templates, synced daily from goodcase.ai, with an installable Agent Skill:
+Only after Seedance 2.5 / 2.0 prompts, no site needed? Go to [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance): 460+ cases each checked against the creator's original post, 260+ cross-model retests, 25 copy-ready category templates, synced daily from goodcase.ai, with an installable Agent Skill:
 
 ```bash
 npx seedance-prompt-library install
 ```
 
-The `skills/goodcase` Skill in this repository queries the whole goodcase.ai library (every model, live data, retest baselines); the awesome-seedance Skill ships only the Seedance templates. They install side by side.
+The `skills/goodcase` Skill in this repository queries the whole goodcase.ai library (every model, live data, retest baselines); the awesome-seedance Skill ships only the Seedance templates. They install side by side. If you only want one kind of clip, that repo also has four single-kind Skills (twist comedy, epic fantasy and sci-fi, early-2000s DV home video, 3D cartoon), installed one at a time with commands like `npx skills add LearnPrompt/awesome-seedance --skill seedance-meme-comedy`.
 
 ## Bring your own data (optional)
 
