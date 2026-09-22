@@ -33,13 +33,13 @@ curl -s "https://goodcase.ai/api/public/cases?take=3&locale=zh-CN"
 
 ## 姊妹仓：awesome-seedance
 
-只想要 Seedance 2.5 / 2.0 的提示词，不想跑站点？去 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)：419 条逐条核对过原帖的案例、257 次跨模型复测、14 个可复用模板，每天从 goodcase.ai 同步，附带可安装的 Agent Skill：
+只想要 Seedance 2.5 / 2.0 的提示词，不想跑站点？去 [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance)：460+ 条逐条核对过原帖的案例、260+ 次跨模型复测、25 个可直接复制的分类提示语模板，每天从 goodcase.ai 同步，附带可安装的 Agent Skill：
 
 ```bash
 npx seedance-prompt-library install
 ```
 
-本仓库的 `skills/goodcase` Skill 查的是整个 goodcase.ai 案例库（全部模型、实时数据、复测基线）；awesome-seedance 的 Skill 只带 Seedance 模板，两者可以同时装。
+本仓库的 `skills/goodcase` Skill 查的是整个 goodcase.ai 案例库（全部模型、实时数据、复测基线）；awesome-seedance 的 Skill 只带 Seedance 模板，两者可以同时装。只想要某一种片型的话，那边还有 4 个单片型 Skill（反转搞笑、奇幻科幻大场面、早年 DV 家庭录像、3D 卡通），用 `npx skills add LearnPrompt/awesome-seedance --skill seedance-meme-comedy` 这样的命令单独装。
 
 ## 接入自己的数据（可选）
 
