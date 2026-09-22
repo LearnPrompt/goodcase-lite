@@ -3,7 +3,7 @@ name: animation-style-consistency-by-1wr1qau
 description: "Apply an evidence-derived Animation style and character consistency workflow observed across published GoodCase examples by Just_sharon7. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# Just_sharon7 · Animation style and character consistency
+# Just_sharon7 · Feature-Film Storyboard 3D
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 

@@ -3,7 +3,7 @@ name: portfolio-story-architecture-by-13qd91c
 description: "Apply an evidence-derived Portfolio story architecture workflow observed across published GoodCase examples by shushant_l. Use when planning, designing, or implementing a website in this interface pattern, including requests for 网页, 落地页, 作品集, 3D hero, SaaS, ecommerce, or UI structure. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# shushant_l · Portfolio story architecture
+# shushant_l · Content-First Minimalist
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 

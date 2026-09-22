@@ -3,7 +3,7 @@ name: pov-vlog-presence-by-1d090cw
 description: "Apply an evidence-derived POV and vlog presence workflow observed across published GoodCase examples by johnAGI168. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# johnAGI168 · POV and vlog presence
+# johnAGI168 · Beat-Synced Fitness Ad
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 

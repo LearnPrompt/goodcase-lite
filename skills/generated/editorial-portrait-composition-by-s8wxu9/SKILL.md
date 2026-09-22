@@ -3,7 +3,7 @@ name: editorial-portrait-composition-by-s8wxu9
 description: "Apply an evidence-derived Editorial portrait composition workflow observed across published GoodCase examples by Taaruk_. Use when planning, writing, or refining an AI image prompt in this visual pattern, including requests for 图片提示词, 海报, 肖像, 产品图, or character consistency. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# Taaruk_ · Editorial portrait composition
+# Taaruk_ · Manga Shadow Portra
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 
