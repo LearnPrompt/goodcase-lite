@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 18 published Cases across 12 creators.
+This workflow is derived from 20 published Cases across 14 creators.
 
 ## Operating rule
 
@@ -197,6 +197,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 午夜电梯里的镜像追猎 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136) | [Media](https://media.goodcase.ai/media/video/saniaspeaks-seedance-ai-575658372136.mp4) | [Original](https://x.com/saniaspeaks_/status/2091483449815126134) | E— |
 | 夜班列车感染爆发实录 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b) | [Media](https://media.goodcase.ai/cases/8ee95ce14625.mp4) | [Original](https://x.com/doctorwasif/status/2098639106712784933) | E— |
 | 韩屋烛影驱邪仪式 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) | [Media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) | [Original](https://x.com/doctorwasif/status/2097533759944090052) | E— |
+| 实验室寄生体感染突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) | [Media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) | [Original](https://x.com/auqibhabib/status/2099725768310009982) | E— |
+| 韩屋驱邪仪式后的未尽阴影 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) | [Media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) | [Original](https://x.com/AIwithSynthia/status/2099836457430974932) | E— |
 | 神秘能量席卷高中走廊 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-create-a-high-end-cinematic-live-action-scene-inside-a-modern-american-high-sch-5470a0729ac7) | [Media](https://media.goodcase.ai/cases/e816d2f9e73c.mp4) | [Original](https://x.com/itsSaira_1/status/2098646751205019978) | E— |
 | 丧尸追逐化作金色田野相拥 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/seedance-one-continuous-video-alley-chase-flows-directly-into-the-golden-field-reveal-vi-f06a4a0721d2) | [Media](https://media.goodcase.ai/cases/0a15fa9a24a9.mp4) | [Original](https://x.com/Ciri_ai/status/2095154985487253543) | E— |
 | 列车玻璃门后的感染者突袭 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5) | [Media](https://media.goodcase.ai/cases/9027d010bc75.mp4) | [Original](https://x.com/doctorwasif/status/2098081350205194721) | E— |

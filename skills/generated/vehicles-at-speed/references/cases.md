@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 12 published Cases across 10 creators.
+This workflow is derived from 13 published Cases across 11 creators.
 
 ## Operating rule
 
@@ -207,6 +207,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 摩托车疾驰山间公路 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) | [Media](https://media.goodcase.ai/cases/e74284637136.mp4) | [Original](https://x.com/Just_sharon7/status/2091546827212636576) | E8 |
 | Karakoram Motorcycle Commercial | @AI_with_Antonio | [GoodCase](https://goodcase.ai/cases/karakoram-motorcycle-commercial) | [Media](https://media.goodcase.ai/cases/f702b148dbed.mp4) | [Original](https://x.com/AI_with_Antonio/status/2088599346908365227) | E— |
 | 第一视角凌空组装黑色兰博基尼 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) | [Media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) | [Original](https://x.com/MissDelulu9/status/2091423578197737772) | E— |
+| 庭院吊床与清洗摩托的午后 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00) | [Media](https://media.goodcase.ai/cases/5a19fec06723.mp4) | [Original](https://x.com/doctorwasif/status/2099836703729172540) | E— |
 | 末日沙漠战车空中激战 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) | [Media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) | [Original](https://x.com/Zyrellix/status/2092438692820295703) | E— |
 | 银发骑手霓虹公路突围 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b) | [Media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-e2b9d262ff6b.mp4) | [Original](https://x.com/Zyrellix/status/2093340253755232681) | E— |
 

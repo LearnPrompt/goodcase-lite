@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 28 published Cases across 22 creators.
+This workflow is derived from 35 published Cases across 23 creators.
 
 ## Operating rule
 
@@ -190,14 +190,14 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 黏土动画猫咪世界大变身 | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/case-6152b0808b14) | [Media](https://media.goodcase.ai/media/video/case-6152b0808b14.mp4) | [Original](https://x.com/noorwithwifi/status/2078535850745626926) | E— |
 | 小狗招手打车动画 | @l03n27 | [GoodCase](https://goodcase.ai/cases/case-e3bb2c4cc7df) | [Media](https://media.goodcase.ai/cases/caa188b0e006.mp4) | [Original](https://x.com/l03n27/status/2095697750130123031) | E— |
 | Cats Chasing via Red Mini Motorcycle | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) | [Media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) | [Original](https://x.com/Just_sharon7/status/2084901309988425731) | E— |
+| 橘猫的柔彩动态个性秀 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-elegant-motion-graphics-driven-personality-reveal-short-in-16-9-exac-899747600e79) | [Media](https://media.goodcase.ai/cases/8474b7c70be7.mp4) | [Original](https://x.com/Chaemate_/status/2099698470500401562) | E— |
 | 狐狸在森林溪流边自拍漫游 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | [Media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) | [Original](https://x.com/MrDasOnX/status/2089969922617266257) | E— |
+| 江畔野餐偷吃炸鸡的虎帽猫 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-short-film-photorealistic-korean-riverside-picnic-aesth-3b0868a31904) | [Media](https://media.goodcase.ai/cases/36e7026af2a1.mp4) | [Original](https://x.com/Zyrellix/status/2100081464469787115) | E— |
 | 废墟卧室中的白发女子与巨型黑猫 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3) | [Media](https://media.goodcase.ai/cases/b00b46531982.mp4) | [Original](https://x.com/Zyrellix/status/2097594855946113177) | E— |
 | 白猫与青年在晨光公寓相拥 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57) | [Media](https://media.goodcase.ai/media/video/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57.mp4) | [Original](https://x.com/ayzalnooor24521/status/2096085776735912274) | E— |
+| 沙发上嬉闹亲吻的兔子情侣 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) | [Media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099683790717325390) | E— |
 | 公鸡激流营救三只小鸡 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) | [Media](https://media.goodcase.ai/cases/63ac781c7ae7.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097272507518587145) | E— |
-| 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E— |
-| 沙发上相拥亲吻的萌兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) | [Media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | E— |
-| 蓝围巾小水獭的飞越群山奇旅 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) | [Media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2096921381841813588) | E— |
-| 小水獭与蓝色新朋友分享冰淇淋 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) | [Media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097643808620196091) | E— |
+| 花园小鸡从斗气到和好 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-39f1d416f818) | [Media](https://media.goodcase.ai/cases/73dd0426c053.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099452153039593546) | E— |
 
 ## Derivation boundary
 

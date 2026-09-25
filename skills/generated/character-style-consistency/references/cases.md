@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 20 published Cases across 15 creators.
+This workflow is derived from 21 published Cases across 15 creators.
 
 ## Operating rule
 
@@ -259,9 +259,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 美术编辑肖像插画 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/aatif_j/status/2080399938278801700) | E— |
 | 部落奇幻女战士与猫头鹰肖像 | @Aqib__786Ai | [GoodCase](https://goodcase.ai/cases/case-dd0e6108eade) | [Media](https://media.goodcase.ai/cases/347112a1d6c6.jpg) | [Original](https://x.com/Aqib__786Ai/status/2091027228645552456) | E— |
 | Dark Fantasy Battlefield Warrior | @Madhuribhai | [GoodCase](https://goodcase.ai/cases/dark-fantasy-battlefield-warrior) | [Media](https://media.goodcase.ai/cases/d39fc1d10414.jpg) | [Original](https://x.com/Madhuribhai/status/2085769307217391725) | E— |
+| 强光下的半写实漫画英雄 | @HustleXR | [GoodCase](https://goodcase.ai/cases/nano-banana-created-with-google-gemini-nano-banana-pro-51c94da26bdb) | [Media](https://media.goodcase.ai/cases/f0925c8acc1e.jpg) | [Original](https://x.com/HustleXR/status/2100100831945408531) | E— |
 | Oriental Fantasy Celestial Realm | @liyue_ai | [GoodCase](https://goodcase.ai/cases/oriental-fantasy-celestial-realm) | [Media](https://media.goodcase.ai/media/image/oriental-fantasy-celestial-realm.jpg) | [Original](https://x.com/liyue_ai/status/2085608761989714283) | E— |
 | Q 版角色转换 | @ChatGPT | [GoodCase](https://goodcase.ai/cases/q-5c9bd23e9454) | [Media](https://media.goodcase.ai/media/image/q-5c9bd23e9454.jpg) | [Original](https://x.com/ChatGPT/status/2001085961414041936) | E— |
-| 角色身份固定参考图表 | @Mrpinecone888 | [GoodCase](https://goodcase.ai/cases/youmind-character-identity-reference-chart) | [Media](https://media.goodcase.ai/media/image/youmind-character-identity-reference-chart.jpg) | [Original](https://x.com/Mrpinecone888/status/2082748531736244518) | E— |
 
 ## Derivation boundary
 
