@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to HustleXR. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to HustleXR. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -36,6 +36,20 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Facial features are modeled using layered graphic shapes mixed with spontaneous sketch lines, giving a balance between realism and illustration. Hair and beard are built from hundreds of energetic flowing strokes, overlapping curved ink-like marks, loose scribbles, tapered strands, and textured clusters, maintaining an organic handcrafted appearance rather than smooth digital rendering.
 > Use minimal yet intentional cross-contour marks, subtle scratch textures, tiny construction lines, and scattered expressive sketch strokes throughout the face and clothing. Shadows are composed of flat color blocks with occasional textured edg…
 
+### E4 · 强光下的半写实漫画英雄
+
+- Creator: @HustleXR
+- Evidence: [GoodCase](https://goodcase.ai/cases/nano-banana-created-with-google-gemini-nano-banana-pro-51c94da26bdb) · [finished media](https://media.goodcase.ai/cases/f0925c8acc1e.jpg) · [original source](https://x.com/HustleXR/status/2100100831945408531)
+- Summary: Created with google gemini nano banana pro Prompt Modern comic-book illustration style with a semi-realistic approach, bold inked linework combined with clean s…
+- Prompt excerpt:
+
+> Created with google gemini nano banana pro
+>
+> Prompt
+>
+> Modern comic-book illustration style with a semi-realistic approach, bold inked linework combined with clean sharp edges, dynamic cel-shading with high contrast between light and shadow, subtle painterly blending on skin while maintaining graphic comic aesthetics, vibrant yet slightly gritty color grading, strong rim lighting and dramatic highlights, stylized anatomy with heroic proportions, detailed hair rendered with flowing strands and sharp highlights, textured brush splashes and ink splatter accents for a dynamic effect, minimalistic light background to emphasize the subject, cinematic composition, ultra-detailed, high resolution, graphic novel quality.
+> ar 9:16!
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -43,6 +57,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 电影感 2D 动漫插画 | @HustleXR | [GoodCase](https://goodcase.ai/cases/2d-6c28b3fe47c1) | [Media](https://media.goodcase.ai/cases/3ee19ed11eb4.jpg) | [Original](https://x.com/HustleXR/status/2096437155606196729) | E1 |
 | 混合 3D 矢量插画风格 | @HustleXR | [GoodCase](https://goodcase.ai/cases/3d-de7f41148805) | [Media](https://media.goodcase.ai/cases/64b6032d791a.jpg) | [Original](https://x.com/HustleXR/status/2091492763397411268) | E2 |
 | 复古双色调编辑插画 | @HustleXR | [GoodCase](https://goodcase.ai/cases/case-7e29a0c188a4) | [Media](https://media.goodcase.ai/media/image/case-7e29a0c188a4.jpg) | [Original](https://x.com/HustleXR/status/2080180351885017314) | E3 |
+| 强光下的半写实漫画英雄 | @HustleXR | [GoodCase](https://goodcase.ai/cases/nano-banana-created-with-google-gemini-nano-banana-pro-51c94da26bdb) | [Media](https://media.goodcase.ai/cases/f0925c8acc1e.jpg) | [Original](https://x.com/HustleXR/status/2100100831945408531) | E4 |
 
 ## Derivation boundary
 
