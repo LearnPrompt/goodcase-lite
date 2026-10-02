@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 23 published Cases across 18 creators.
+This workflow is derived from 31 published Cases across 24 creators.
 
 ## Operating rule
 
@@ -198,8 +198,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Seedance 细条纹西装的职场女性气场短片 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-4b6f8c8c977a) | [Media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-4b6f8c8c977a.mp4) | [Original](https://x.com/noorlewisx/status/2089217062040453196) | E— |
 | Seedance 2.5 1080P 三十秒超写实奇幻大片 | @RuzainaMeer | [GoodCase](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1) | [Media](https://media.goodcase.ai/media/video/ruzainameer-seedance-ai-e6073ec318f1.mp4) | [Original](https://x.com/RuzainaMeer/status/2089595902818398461) | E— |
 | Seedance 2.5 超真实 AI 动态桌面壁纸：换装互动女主一镜到底 | 木马人 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6) | [Media](https://media.goodcase.ai/cases/4ce232c0fbe6.mp4) | [Original](https://x.com/cnyzgkc/status/2099029556434985065) | E— |
+| 模特与单品同步360度旋转 | @AI__TSUBAKI | [GoodCase](https://goodcase.ai/cases/seedance-a-clean-premium-4-second-fashion-lookbook-animation-starting-from-the-first-fr-a7de463708af) | [Media](https://media.goodcase.ai/cases/0d093f32d701.mp4) | [Original](https://x.com/AI__TSUBAKI/status/2102459655700287648) | E— |
 | 金色雪山上的白衣滑雪女郎 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0) | [Media](https://media.goodcase.ai/cases/ed05261f6296.mp4) | [Original](https://x.com/noorlewisx/status/2096826123330138410) | E— |
-| 红发模特演绎勃艮第腮红广告 | @sophiaparkerr_ | [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-high-end-huda-beauty-cosmetics-advertisement-fea-22da35548b45) | [Media](https://media.goodcase.ai/cases/fd328d10cdff.mp4) | [Original](https://x.com/sophiaparkerr_/status/2095862309285421150) | E— |
 
 ## Derivation boundary
 

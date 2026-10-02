@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 25 published Cases across 20 creators.
+This workflow is derived from 28 published Cases across 23 creators.
 
 ## Operating rule
 
@@ -159,11 +159,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 母亲抢走男孩的可丽饼座位 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-20d2026d6f58) | [Media](https://media.goodcase.ai/cases/c7991e390250.mp4) | [Original](https://x.com/Just_sharon7/status/2091529113425297759) | E— |
 | Modern Action Comedy Video Prompt | @pyona_ai | [GoodCase](https://goodcase.ai/cases/modern-action-comedy-video-prompt) | [Media](https://media.goodcase.ai/media/video/modern-action-comedy-video-prompt.mp4) | [Original](https://x.com/pyona_ai/status/2088605198973583799) | E— |
 | 纽约街头怪事连发的单镜头随拍 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-137e0e907dfd) | [Media](https://media.goodcase.ai/cases/c35679d1d0c6.mp4) | [Original](https://x.com/oggii_0/status/2093568957727064554) | E— |
+| 混乱教室中走向镜头的少女 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db) | [Media](https://media.goodcase.ai/cases/299e494253cd.mp4) | [Original](https://x.com/Aiwithmaha/status/2100787710424416603) | E— |
 | 米奇耳女孩智取土耳其冰淇淋 | @sophiaparkerr_ | [GoodCase](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8) | [Media](https://media.goodcase.ai/cases/bb6e4d4897bc.mp4) | [Original](https://x.com/sophiaparkerr_/status/2096542775709692255) | E— |
 | 女子破窗反将嘲笑者拉出地铁 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1) | [Media](https://media.goodcase.ai/cases/93018061e73f.mp4) | [Original](https://x.com/AIwithkhan/status/2097168171367338428) | E— |
 | 小公寓里的失控舞蹈练习 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347) | [Media](https://media.goodcase.ai/media/video/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347.mp4) | [Original](https://x.com/Ciri_ai/status/2095026480552271884) | E— |
 | Pixar 风格海盗厨师 ASMR 喜剧短片：Seedance 2.5 逐秒分镜 Prompt | @AiwithNomi | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018) | [Media](https://media.goodcase.ai/cases/8815c71013d6.mp4) | [Original](https://x.com/AiwithNomi/status/2099872759866380704) | E— |
-| 浴袍奶奶驾驶武装警用直升机逃亡 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e) | [Media](https://media.goodcase.ai/media/video/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e.mp4) | [Original](https://x.com/AIwithSynthia/status/2095804336328872106) | E— |
 
 ## Derivation boundary
 
