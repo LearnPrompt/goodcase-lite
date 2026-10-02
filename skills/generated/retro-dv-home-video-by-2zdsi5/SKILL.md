@@ -1,9 +1,9 @@
 ---
-name: animation-style-consistency-by-1wr1qau
-description: "Apply an evidence-derived Animation style and character consistency workflow observed across published GoodCase examples by Just_sharon7. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
+name: retro-dv-home-video-by-2zdsi5
+description: "Apply an evidence-derived Early-2000s DV home video workflow observed across published GoodCase examples by oggii_0. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# Just_sharon7 · Feature-Film Storyboard 3D
+# oggii_0 · Early-2000s DV home video
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 
@@ -32,9 +32,9 @@ Ask only for missing inputs:
 2. Read `references/cases.md` and select one anchor Case.
 3. Inspect its finished media, summary, and prompt excerpt.
 4. Produce the Preserve / Replace / Avoid reference contract.
-5. Fix a character sheet.
-6. Unify motion rhythm and shot grammar.
-7. Repeat material, line, and color rules.
+5. List the camcorder flaws explicitly (autofocus hunting, exposure shifts, shake) and forbid stabilisation.
+6. Give the clip one small everyday event and lock the character in one line.
+7. End on a tape-style hard cut to black with location sound only.
 8. Produce the requested artifact using the output contract below.
 9. Compare it with the anchor Case, then revise material failures once.
 

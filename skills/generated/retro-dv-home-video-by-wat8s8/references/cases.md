@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 8 published Cases attributed to AIwithkhan. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 11 published Cases attributed to AIwithkhan. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -156,37 +156,39 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > They…
 
-### E7 · 首尔夏日街巷里的悠闲午后
+### E7 · 首尔夏日下午的邻里漫步
 
 - Creator: @AIwithkhan
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe) · [finished media](https://media.goodcase.ai/media/video/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe.jpg) · [original source](https://x.com/AIwithkhan/status/2096095608268280198)
-- Summary: That Baddie again Say NO to Hollywood and YES to AI Seedance 2.5 Prompt : Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordin…
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-577d75dac5e0) · [finished media](https://media.goodcase.ai/cases/6bae9154cb37.mp4) · [poster](https://media.goodcase.ai/cases/9d17ef2103a6.jpg) · [original source](https://x.com/AIwithkhan/status/2099334356754182229)
+- Summary: Filmed using Camera .. No Made with Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in …
 - Prompt excerpt:
 
-> Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman. No reference image.
+> Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman.
 > MAIN SUBJECT
-> Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, relaxed and confident personality.
-> Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and a simple silver necklace.
-> Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.
+> Young Korean woman, early 20s, naturally beautiful, realistic skin, minimal makeup, black wavy hair in a messy side ponytail, fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and simple silver necklace. Keep her identity, outfit, hairstyle and proportions perfectly consistent throughout.
 > SETTING
-> A quiet older Seoul residential neighborhood during a warm summer afternoon. Narrow concrete lanes, small houses, old walls, potted plants, parked bicycles, utility poles, overhead wires, laundry hanging outside homes, a tiny convenience store and children playing football in the street.
-> Everything should feel lived-in, ordinary and peaceful. No tourist attractions, advertisements, recognizable brands or commercial activity.
+> A quiet older Seoul residential neighborhood on a warm summer afternoon. Narrow concrete lanes, small houses, old walls, potted plants, parked bicycles, utility poles, overhead wires and a few neighbors outside. Natural, ordinary and lived-in.
 > CAMERA / VISUAL AESTHETIC
-> Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.
-> Strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections.
-> No stabilization, drone footage, gimbal movement, dramatic lighting or polished commercial cinematography.
-> — OUTSIDE THE HOUSE
-> She steps outside carrying a small reusable shopping bag.
-> She locks the door, adju…
+> Raw early-2000s consumer DV camcorder footage filmed by a friend. Strong handheld movement, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft digital detail, mild noise, motion blur and occasional accidental zooms. No stabilization, drone shots or polished cinematic look.
+> — LEAVING HOME
+> She steps outside her house and walks slowly through the neighborhood. She passes a few neighbors outside their homes, smiling and exchanging friendly gestures. She continues down the street with the camera following casually behind her. No dialogue.
+> — WATER TAP
+> She reaches a small public water tap beside the street. She turns it on, cups water in both hands and splashes it onto her face. She closes her eyes and smiles as the water runs naturally down her cheeks. She wipes her face, fixes her hair and turns the tap off. No dialogue.
+> — BAD…
 
-### E8 · 首尔夏夜 Vlog
+### E8 · 首尔夏日里帮孩子取风筝的女孩
 
 - Creator: @AIwithkhan
-- Evidence: [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) · [finished media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) · [poster](https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg) · [original source](https://x.com/AIwithkhan/status/2092971211169100048)
-- Summary: 一份详尽的脚本式提示词，用于创作一段展现首尔夏夜怀旧家庭录像风格的视频。
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-e11cae04b808) · [finished media](https://media.goodcase.ai/cases/b986834ef592.mp4) · [poster](https://media.goodcase.ai/cases/e5f8e171a243.jpg) · [original source](https://x.com/AIwithkhan/status/2098985232145785261)
+- Summary: Baddie is back. Obviously on Sunday Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer Sunday aftern…
 - Prompt excerpt:
 
-> Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Korean woman. No reference image. MAIN SUBJECT Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, relaxed and approachable personality. Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and a simple silver necklace. Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video. SETTING A quiet older Seoul residential neighborhood during a warm summer evening. Narrow concrete lanes, small houses, potted plants, bicycles, old walls, utility poles, overhead wires, a tiny neighborhood bakery, a public water tap and large leafy trees casting shadows across the street. Everything should feel lived-in, ordinary and peaceful. CAMERA / VISUAL AESTHETIC Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder. Strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections. — OUTSIDE THE HOUSE She steps outside carrying a small reusable shopping bag. She locks the door, adjusts her messy ponytail and looks toward the camera with a relaxed smile. — BAKERY STOP She reaches a tiny neighborhood bakery and buys a warm pastry. She steps outside, takes her first bite and immediatel…
+> Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer Sunday afternoon in the life of a young Korean woman. No reference image. Young Korean woman, early 20s, naturally pretty, realistic skin texture, minimal makeup, long black hair in a messy side ponytail, fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and simple silver necklace; maintain identical appearance throughout. Set in a quiet older Seoul residential neighborhood with narrow concrete lanes, small homes, old walls, potted plants, bicycles, utility poles, overhead wires and children playing nearby. Raw early-2000s consumer DV camcorder aesthetic: strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft digital detail, mild noise, motion blur and accidental zooms; no polished cinematography.
+> — LEAVING HOME: She steps outside carrying a small reusable shopping bag, locks the door, adjusts her ponytail and walks casually down the lane as a warm summer breeze moves her hair.
+> — BISCUIT STOP: She notices a tiny neighborhood shop, buys a simple packet of biscuits, pays casually, then walks to a nearby bench and sits down.
+> She opens the packet, eats a biscuit while watching the street, smiles at something happening nearby, then folds the empty packet and throws it neatly into a public dustbin beside the bench.
+> — THE KITE: She notices several children struggling to retrieve a colorful kite stuck high in a tree; they try jumping and reaching for it but cannot get it down.
+> She walks over, looks up, finds a safe low branch,…
 
 ## Evidence index
 
@@ -198,8 +200,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 首尔旧街区的周日跑腿时光 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-dv-home-video-of-a-young-3652e0a55970) | [Media](https://media.goodcase.ai/media/video/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-dv-home-video-of-a-young-3652e0a55970.mp4) | [Original](https://x.com/AIwithkhan/status/2096577794293813357) | E4 |
 | 首尔周日下午归途的气球善意 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-dv-home-video-of-a-young-5dc249e58f02) | [Media](https://media.goodcase.ai/media/video/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-dv-home-video-of-a-young-5dc249e58f02.mp4) | [Original](https://x.com/AIwithkhan/status/2096424933366931946) | E5 |
 | 首尔夏夜情侣漫步约会 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-minidv-home-video-of-a-yo-fd4c78266003) | [Media](https://media.goodcase.ai/cases/c026c11a5f2c.mp4) | [Original](https://x.com/AIwithkhan/status/2097285607550832921) | E6 |
-| 首尔夏日街巷里的悠闲午后 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe) | [Media](https://media.goodcase.ai/media/video/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe.mp4) | [Original](https://x.com/AIwithkhan/status/2096095608268280198) | E7 |
-| 首尔夏夜 Vlog | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) | [Media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) | [Original](https://x.com/AIwithkhan/status/2092971211169100048) | E8 |
+| 首尔夏日下午的邻里漫步 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-577d75dac5e0) | [Media](https://media.goodcase.ai/cases/6bae9154cb37.mp4) | [Original](https://x.com/AIwithkhan/status/2099334356754182229) | E7 |
+| 首尔夏日里帮孩子取风筝的女孩 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-e11cae04b808) | [Media](https://media.goodcase.ai/cases/b986834ef592.mp4) | [Original](https://x.com/AIwithkhan/status/2098985232145785261) | E8 |
+| 首尔夏夜的邻里散步 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d) | [Media](https://media.goodcase.ai/cases/11c371fe2e88.mp4) | [Original](https://x.com/AIwithkhan/status/2099849272347021541) | E— |
+| 首尔夏日街巷里的悠闲午后 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe) | [Media](https://media.goodcase.ai/media/video/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe.mp4) | [Original](https://x.com/AIwithkhan/status/2096095608268280198) | E— |
+| 首尔夏夜 Vlog | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) | [Media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) | [Original](https://x.com/AIwithkhan/status/2092971211169100048) | E— |
 
 ## Derivation boundary
 

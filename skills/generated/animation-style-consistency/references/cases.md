@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 69 published Cases across 56 creators.
+This workflow is derived from 71 published Cases across 58 creators.
 
 ## Operating rule
 
@@ -173,9 +173,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E— |
 | 富有情感的日语对话动画 | @sakisuta_ | [GoodCase](https://goodcase.ai/cases/case-1f8136a9893a) | [Media](https://media.goodcase.ai/media/video/case-1f8136a9893a.mp4) | [Original](https://x.com/sakisuta_/status/2088559545174175836) | E— |
 | 硬核科幻动漫剪辑 | @itsPixieVerse | [GoodCase](https://goodcase.ai/cases/case-251215797a14) | [Media](https://media.goodcase.ai/media/video/case-251215797a14.mp4) | [Original](https://x.com/itsPixieVerse/status/2081161446671651074) | E— |
+| 波特兰公交服务地图动画 | @milos_gis | [GoodCase](https://goodcase.ai/cases/case-3003770cb528) | [Media](https://media.goodcase.ai/cases/8535ce0c6ac4.mp4) | [Original](https://x.com/milos_gis/status/2103751211040317580) | E— |
 | 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E— |
 | 混乱早晨动画短片 | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/case-398be18644ee) | [Media](https://media.goodcase.ai/media/video/case-398be18644ee.mp4) | [Original](https://x.com/noorwithwifi/status/2080354151750668360) | E— |
-| 可爱兔兔厨师动漫烹饪 | @Jiade05 | [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) | [Media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) | [Original](https://x.com/Jiade05/status/2080643134011412961) | E— |
 
 ## Derivation boundary
 

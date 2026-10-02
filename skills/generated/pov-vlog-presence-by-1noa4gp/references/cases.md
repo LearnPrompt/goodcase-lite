@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to aiwithaly. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to aiwithaly. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -58,6 +58,23 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Natural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.
 
+### E5 · 韩国村落里的黄昏日常
+
+- Creator: @aiwithaly
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-lifestyle-vlog-following-th-97e3a4650dee) · [finished media](https://media.goodcase.ai/cases/cf2587c66db2.mp4) · [poster](https://media.goodcase.ai/cases/fafb0d6cb597.jpg) · [original source](https://x.com/aiwithaly/status/2101886695624888440)
+- Summary: A quiet village, a playful afternoon, and a memory worth keeping. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action lifestyle …
+- Prompt excerpt:
+
+> Create a 30-second ultra-photorealistic live-action lifestyle vlog following the same 25-year-old Korean woman through a warm late-afternoon in a quiet traditional Korean village. She leaves her tiled-roof home, discovers local children playing with a ball, spontaneously joins them, then remembers her groceries and visits a tiny neighborhood shop before walking home.
+>
+> Maintain consistent facial identity, hairstyle, outfit, and realistic proportions throughout. Show authentic MiniDV home-video aesthetics: 4:3 consumer footage, natural handheld shake, imperfect framing, autofocus hunting, mild exposure changes, soft contrast, faded colors, subtle DV compression, and no modern cinematic look.
+>
+> Keep all movement physically believable—realistic walking, running, ball trajectories, hair and clothing motion, door and bell mechanics, grocery-bag weight, wind, gravity, friction, and natural human biomechanics. Use only diegetic village sounds: children laughing, footsteps, ball bouncing, birds, wind, keys, wooden doors, shop bell, groceries, and distant neighborhood ambience. No music or narration.
+>
+> End with her entering home and gently closing the door as warm sunlight fills the quiet village lane and the children's laughter fades into the distance.
+>
+> No CGI, animation, beauty filters, plastic skin, modern smartphone aesthetic, cinematic gimbal shots, impossible physics, duplicated people, changing faces or outfits, artificial sound effects, subtitles, logos, or watermark.
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -66,6 +83,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 韩国女孩的夏日西瓜日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-95054b3a6379.mp4) | [Original](https://x.com/aiwithaly/status/2092464281404965030) | E2 |
 | 韩国乡村女子的农场晨间日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66) | [Media](https://media.goodcase.ai/cases/fd84c98b6780.mp4) | [Original](https://x.com/aiwithaly/status/2097556131623432569) | E3 |
 | 牧场女孩从清晨劳作到黄昏骑行 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e) | [Media](https://media.goodcase.ai/cases/4dda16f89715.mp4) | [Original](https://x.com/aiwithaly/status/2097917075176178101) | E4 |
+| 韩国村落里的黄昏日常 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-lifestyle-vlog-following-th-97e3a4650dee) | [Media](https://media.goodcase.ai/cases/cf2587c66db2.mp4) | [Original](https://x.com/aiwithaly/status/2101886695624888440) | E5 |
 
 ## Derivation boundary
 
