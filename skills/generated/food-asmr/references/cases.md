@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 30 published Cases across 25 creators.
+This workflow is derived from 26 published Cases across 22 creators.
 
 ## Operating rule
 
@@ -136,25 +136,72 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Ultra-macro cinematic ASMR video, 10 seconds. A transparent crystal honeycomb slowly drips iridescent honey onto a glass plate. Tiny rainbow reflections dance across the surface. Extreme close-up, shallow depth of field, 4K realism. ASMR sounds: thick honey stretching, delicate droplets landing, subtle glass resonance, soft ambient silence. Smooth slow-motion camera movement, mesmerizing and relaxing.
 
-### E7 · 动漫花卉书签 ASMR
+### E7 · 电影感酸种面包烘焙延时摄影
 
-- Creator: @noorwithwifi
-- Evidence: [GoodCase](https://goodcase.ai/cases/asmr-b99180475dc6) · [finished media](https://media.goodcase.ai/media/video/asmr-b99180475dc6.mp4) · [poster](https://media.goodcase.ai/media/poster/asmr-b99180475dc6.jpg) · [original source](https://x.com/noorwithwifi/status/2076415711375970372)
-- Summary: 一段吉卜力风格的动漫 ASMR 场景，展示了手工制作精致压花书签的过程。
+- Creator: @Caden_Flux
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-179a06586ce5) · [finished media](https://media.goodcase.ai/media/video/case-179a06586ce5.mp4) · [poster](https://media.goodcase.ai/media/poster/case-179a06586ce5.jpg) · [original source](https://x.com/Caden_Flux/status/2070862852735594771)
+- Summary: 一份详细的多镜头视频提示词，用于生成专业的酸种面包烘焙延时摄影，包含揉面、发酵和烘焙的特写镜头，并配有温暖的电影级灯光效果。
 - Prompt excerpt:
 
-> ASMR anime scene of hands creating a pressed-flower bookmark on a warm wooden desk delicate petals are arranged, laminated, trimmed, and finished with a gold ribbon the translucent bookmark glows in sunlight beside a vintage book ghibli-inspired, dreamy, nostalgic, detailed hand-drawn style
-
-### E8 · 奢华美妆护肤 ASMR
-
-- Creator: @sebatheepan
-- Evidence: [GoodCase](https://goodcase.ai/cases/asmr-eb8937adce5b) · [finished media](https://media.goodcase.ai/media/video/asmr-eb8937adce5b.mp4) · [poster](https://media.goodcase.ai/media/poster/asmr-eb8937adce5b.jpg) · [original source](https://x.com/sebatheepan/status/2080999511195828239)
-- Summary: 一个创意提示词，用于生成带有傲娇 ASMR 个性的高维护奢华美妆与护肤流程，呈现复古摄像机拍摄风格。
-- Prompt excerpt:
-
-> High-maintenance luxury beauty/skincare routine with sassy, condescending ASMR elements- seedance 2.0 prompt
+> Cinematic 10-sec sourdough recipe timelapse.
+> Hands + ingredients only, NO faces.
+> Warm natural kitchen lighting throughout.
 >
-> CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror stand. Soft diffuse lighting, delicate lens flare, gentle zoom adjustments, subtle tape grain, polished high-end aesthetic. STYLE: High-maintenance luxury beauty/skincare routine with sassy, condescending ASMR elements. Paws delicately patting bottles, slow blinks, arrogant pauses. SUBJECT: Fluffy white Persian cat with a flat smushed face, emerald green eyes, wearing a tiny silk hair wrap. Smug, unimpressed expression, regal demeanor. SETTING: Marble bathroom vanity with expensive serum glass bottles, jade roller, plush velvet towel, warm vanity light bulbs. STORYBOARD: → (2s, medium shot) Adjusts camera angle with one claw. "Good morning to everyone except my human who woke me up 3 minutes early." → (1.5s, detail shot) Taps a glass serum bottle with front paw. Crisp clinking glass ASMR sound. → (1.5s, close-up) Slowly pushes serum bottle off the counter while maintaining eye contact with camera. Loud shatter/thud sound below. "Oops. Gravity works. Moving on." → (2s, detail macro shot) Softly licks back of paw and wipes ear in slow motion. Soft grooming ASMR sound. → (1.5s, close-up) Gazes into mirror, tilting head. "Skin is glowing, pores are non-existent. You're welcome." → (1.5s, medium handheld shot) Uses jade roller on forehead using tiny paw. "Reducing puffiness from sleeping 18 hours instead of 19." → (1.5s, macro detail shot) Sniffs a tub of catnip cream, letting out a delicate…
+> [0:00-0:02] Overhead: Hands mixing flour and water
+> in silver bowl, flour clouds puffing, shaggy dough forming.
+>
+> [0:02-0:04] Side shot: Hands kneading smooth dough
+> on floured wooden board, rhythmic push-fold motion.
+>
+> [0:04-0:05.5] Overhead timelapse: Dough rising in
+> clear glass bowl on marble counter, doubling in size.
+>
+> [0:05.5-0:07] Close-up: Blade scoring confident slash
+> across round dough boule, surface opening cleanly.
+>
+> [0:07-0:08.5] Oven interior: Loaf baking on rack,
+> warm amber glow, steam rising, crust turning golden.
+>
+> [0:08.5-0:10] Slow push-in: Baked boule on wire rack,
+> steam rising, rustic ear crack, cinematic beauty shot.
+>
+> STYLE: Warm film tones, smooth dissolve cuts,
+> slow push-ins, no shaky cam, wrists/hands only,
+> soft window light from left, 9:16 widescreen.
+
+### E8 · 可爱兔兔厨师动漫烹饪
+
+- Creator: @Jiade05
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) · [finished media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) · [poster](https://media.goodcase.ai/media/poster/case-3d49f00e65c0.jpg) · [original source](https://x.com/Jiade05/status/2080643134011412961)
+- Summary: 一段令人愉悦的第一人称视角动漫烹饪视频提示词，包含一只小兔子助手和一位厨师在温馨的粉彩风厨房里制作蓬松欧姆蛋的场景。
+- Prompt excerpt:
+
+> Create a 15-second Ultra HD 4K anime cooking show POV video inspired exactly by the provided cute omelet recipe image.
+>
+> STYLE:
+> Premium Japanese kawaii anime cooking commercial. Pastel pink/cream chibi kitchen, warm soft lighting, cozy magical breakfast mood, highly detailed food animation.
+>
+> POV:
+> First-person chef perspective. Only show cute female hands and arms (no face, head, or body). Delicate hands with pastel pink nails and frilly chef sleeves. Pink checkered countertop, cinematic camera movement, macro food shots, shallow depth of field.
+>
+> RECIPE:
+> Follow the reference omelet recipe:
+> Crack 3 eggs, add 2 tbsp milk, salt and pepper, whisk fluffy. Melt butter in pan, pour eggs, add cheese, mushrooms, red tomatoes, and green herbs. Fold into a golden fluffy omelet and garnish with herbs.
+>
+> FOOD:
+> Make it extremely delicious: soft airy egg texture, melted cheese stretch, glossy mushrooms, juicy tomatoes, fresh herbs, gentle steam, satisfying cooking sounds.
+>
+> BUNNY HELPER:
+> Add a tiny fluffy white anime bunny chef wearing a mini chef hat and apron. Cute, clumsy, playful helper:
+> tries carrying ingredients, drops a mushroom then fixes it, struggles with a spoon, helps sprinkle herbs, gives a tiny thumbs-up, happily hops beside the finished omelet. Cute mascot style, not realistic.
+>
+> SEQUENCE:
+> 0-5s: Female hands start cooking, crack eggs, bunny joins excitedly.
+> 5-10s: Whisk eggs, butter melts, omelet cooks with fillings and close-up sizzling shots.
+> 10-15s: Hands fold omelet, bunny celebrates, final hero shot of beautiful fluffy omelet with cozy sparkles.
+>
+> QUALITY:
+> 4K UHD 3840x2160,…
 
 ## Evidence index
 
@@ -166,12 +213,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 韩国夏夜市场的烧烤初尝 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-6f6d5447be56) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-6f6d5447be56.mp4) | [Original](https://x.com/aiwithaly/status/2092843818664313185) | E4 |
 | Seedance 吉卜力风治愈料理动画 | @AiwithLariab | [GoodCase](https://goodcase.ai/cases/aiwithlariab-seedance-ai-801301860e89) | [Media](https://media.goodcase.ai/media/video/aiwithlariab-seedance-ai-801301860e89.mp4) | [Original](https://x.com/AiwithLariab/status/2088848553863233935) | E5 |
 | 微距虹彩蜂蜜 ASMR 视频 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/asmr-3aec09e60b11) | [Media](https://media.goodcase.ai/media/video/asmr-3aec09e60b11.mp4) | [Original](https://x.com/MrDasOnX/status/2081634357060726896) | E6 |
-| 动漫花卉书签 ASMR | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/asmr-b99180475dc6) | [Media](https://media.goodcase.ai/media/video/asmr-b99180475dc6.mp4) | [Original](https://x.com/noorwithwifi/status/2076415711375970372) | E7 |
-| 奢华美妆护肤 ASMR | @sebatheepan | [GoodCase](https://goodcase.ai/cases/asmr-eb8937adce5b) | [Media](https://media.goodcase.ai/media/video/asmr-eb8937adce5b.mp4) | [Original](https://x.com/sebatheepan/status/2080999511195828239) | E8 |
-| ASMR LEGO Technic 项目 | @Shorelyn_ | [GoodCase](https://goodcase.ai/cases/asmr-lego-technic-e5706a9a0319) | [Media](https://media.goodcase.ai/media/video/asmr-lego-technic-e5706a9a0319.mp4) | [Original](https://x.com/Shorelyn_/status/2080500909076107595) | E— |
-| 超治愈 ASMR Vlog | @sebatheepan | [GoodCase](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923) | [Media](https://media.goodcase.ai/media/video/asmr-vlog-db7f7a2ad923.mp4) | [Original](https://x.com/sebatheepan/status/2080942778293313949) | E— |
-| 电影感酸种面包烘焙延时摄影 | @Caden_Flux | [GoodCase](https://goodcase.ai/cases/case-179a06586ce5) | [Media](https://media.goodcase.ai/media/video/case-179a06586ce5.mp4) | [Original](https://x.com/Caden_Flux/status/2070862852735594771) | E— |
-| 可爱兔兔厨师动漫烹饪 | @Jiade05 | [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) | [Media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) | [Original](https://x.com/Jiade05/status/2080643134011412961) | E— |
+| 电影感酸种面包烘焙延时摄影 | @Caden_Flux | [GoodCase](https://goodcase.ai/cases/case-179a06586ce5) | [Media](https://media.goodcase.ai/media/video/case-179a06586ce5.mp4) | [Original](https://x.com/Caden_Flux/status/2070862852735594771) | E7 |
+| 可爱兔兔厨师动漫烹饪 | @Jiade05 | [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) | [Media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) | [Original](https://x.com/Jiade05/status/2080643134011412961) | E8 |
 | 日式动漫风格猪肉卷芦笋烹饪视频 | @tanabe_fragm | [GoodCase](https://goodcase.ai/cases/case-5c4dcdbf9e99) | [Media](https://media.goodcase.ai/media/video/case-5c4dcdbf9e99.mp4) | [Original](https://x.com/tanabe_fragm/status/2076508810190225846) | E— |
 | 韩式烤肉烹饪流程 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-72e571e9353d) | [Media](https://media.goodcase.ai/media/video/case-72e571e9353d.mp4) | [Original](https://x.com/Strength04_X/status/2070471862522695793) | E— |
 | 吉卜力风格森林烹饪动画 | @AIReelofficial | [GoodCase](https://goodcase.ai/cases/case-a45446378e2a) | [Media](https://media.goodcase.ai/media/video/case-a45446378e2a.mp4) | [Original](https://x.com/AIReelofficial/status/2079531584869548309) | E— |
@@ -180,6 +223,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 吉卜力工作室风格牛角面包烘焙坊 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/case-fecae6e34928) | [Media](https://media.goodcase.ai/media/video/case-fecae6e34928.mp4) | [Original](https://x.com/Ciri_ai/status/2080302214640468225) | E— |
 | 韩国夜市街头美食旅行随拍 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-b695c8946a86) | [Media](https://media.goodcase.ai/cases/717010b96b02.mp4) | [Original](https://x.com/Ciri_ai/status/2091842148970996054) | E— |
 | 动漫风格：制作印度蒸米糕（Idli）的烹饪流程 | @snskritinaruka | [GoodCase](https://goodcase.ai/cases/idli-4a8ed49d4ad9) | [Media](https://media.goodcase.ai/media/video/idli-4a8ed49d4ad9.mp4) | [Original](https://x.com/snskritinaruka/status/2074761846444503180) | E— |
+| 酒店房间深夜关东煮试吃 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e) | [Media](https://media.goodcase.ai/cases/8294a68bb1e4.mp4) | [Original](https://x.com/Just_sharon7/status/2089919950161113353) | E— |
+| GPT Image 2 + Seedance 看饿人的吃播短片 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698) | [Media](https://media.goodcase.ai/cases/f0a5f53703c2.mp4) | [Original](https://x.com/Just_sharon7/status/2089737554061148465) | E— |
+| 韩国女生辣味挑战崩溃实录 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) | [Media](https://media.goodcase.ai/media/video/oggii-0-seedance-ai-5ed8176ffb89.mp4) | [Original](https://x.com/oggii_0/status/2094267751477232053) | E— |
+| Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程 | @abxxai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-gopro-94a73eef1dbf.mp4) | [Original](https://x.com/abxxai/status/2087189194720657649) | E— |
 
 ## Derivation boundary
 
