@@ -1,12 +1,48 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to Zarnab_with_Ai. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 12 published Cases attributed to Zarnab_with_Ai. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 公鸡激流营救三只小鸡
+### E1 · 麦田里鸭宝宝与蓝象的黄昏奇遇
+
+- Creator: @Zarnab_with_Ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-1c477a159370) · [finished media](https://media.goodcase.ai/cases/1a70540e7299.mp4) · [poster](https://media.goodcase.ai/cases/8d83518fa370.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2103672061613019181)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a 24-second cute, whimsical 3D animated short film set in a golden wheat field during warm sunset light. A tiny adorable…
+- Prompt excerpt:
+
+> Made with seedance 2.5
+>
+> Prompt 👇
+> Create a 24-second cute, whimsical 3D animated short film set in a golden wheat field during warm sunset light.
+>
+> A tiny adorable yellow duckling with big expressive eyes and a long, unusual beak is sitting in a nest made of dry wheat straw. A large, gentle baby-blue elephant with oversized ears approaches the nest curiously.
+>
+> The elephant carefully interacts with the tiny duckling, creating a funny and heartwarming size contrast. The duckling walks and waddles through the wheat field while the elephant follows behind. Show playful moments between them with expressive faces and natural cartoon movements.
+>
+> The duckling eventually returns to its straw nest and settles down comfortably. The elephant lies peacefully beside a small pond near the wheat field, resting calmly as the sun shines over the landscape.
+>
+> Style: high-quality cinematic 3D animation, adorable character design, soft realistic textures, expressive eyes, warm golden-hour lighting, detailed wheat field, gentle depth of field, smooth camera movements, wholesome emotional atmosphere, Pixar-inspired family-friendly animation, cinematic composition, vibrant natural colors, ultra-detailed 4K.
+
+### E2 · 沙发上嬉闹亲吻的兔子情侣
+
+- Creator: @Zarnab_with_Ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) · [finished media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) · [poster](https://media.goodcase.ai/cases/270ba8ecea3b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099683790717325390)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated video featuring two adorable fluffy rabbits sitting together on a cozy…
+- Prompt excerpt:
+
+> Made with seedance 2.5
+>
+> Prompt 👇
+> Create a cute, heartwarming, ultra-realistic 3D animated video featuring two adorable fluffy rabbits sitting together on a cozy beige sofa in a warm modern living room. One rabbit wears a blue shirt and a small golden bunny necklace, while the other is soft pink with a large pink bow and a heart-shaped necklace.
+>
+> The pink rabbit applies lipstick while making funny, confident expressions. She then playfully interacts with the other rabbit, who has pink lipstick kiss marks all over its face and ears. They cuddle, laugh, and playfully tumble together on the sofa. At one point, they hide under a soft beige blanket decorated with pink lipstick kiss marks, then pop back out laughing and hugging each other.
+>
+> Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plants and framed artwork in the background, expressive faces, detailed fluffy fur, cinematic camera movement, shallow depth of field, adorable comedic atmosphere, polished Pixar-style 3D animation, highly detailed, smooth natural motion, 4K quality.
+
+### E3 · 公鸡激流营救三只小鸡
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) · [finished media](https://media.goodcase.ai/cases/63ac781c7ae7.mp4) · [poster](https://media.goodcase.ai/cases/deaf63c43f9d.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2097272507518587145)
@@ -30,7 +66,35 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Style: photorealistic cinematic fantasy, high-end animated movie…
 
-### E2 · 海滩上水獭为海龟叠石塔
+### E4 · 花园小鸡从斗气到和好
+
+- Creator: @Zarnab_with_Ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-39f1d416f818) · [finished media](https://media.goodcase.ai/cases/73dd0426c053.mp4) · [poster](https://media.goodcase.ai/cases/8e79bbb41ddd.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099452153039593546)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated video in a cinematic family-friendly style. A peaceful, sunlit garden …
+- Prompt excerpt:
+
+> Made with seedance 2.5
+>
+> Prompt 👇
+> Create a cute, heartwarming, ultra-realistic 3D animated video in a cinematic family-friendly style.
+> A peaceful, sunlit garden path surrounded by lush green plants, tiny white and purple flowers, and a rustic wooden fence in the background. Warm golden-hour sunlight creates soft highlights and natural shadows. The environment feels cozy, magical, and wholesome.
+>
+> CHARACTERS:
+> Two adorable fluffy yellow baby chicks with soft detailed feathers, tiny orange beaks and feet, expressive oversized eyes, and highly detailed facial expressions.
+>
+> The chick on the left is slightly taller and has small feather tufts on its head. The chick on the right is smaller, with two cute little feather puffs resembling tiny pigtails. Both characters have expressive eyebrows and subtle rosy cheeks.
+>
+> ACTION:
+> The two chicks stand together on the garden path, initially looking annoyed at each other. The smaller chick crosses its wings and gives an angry, stubborn expression while the taller chick looks at it with curiosity.
+>
+> The taller chick then walks around and interacts playfully with the smaller chick. Their expressions gradually change from irritation and stubbornness to surprise and affection.
+>
+> By the end, the two chicks become friendly again. They stand close together, exchange a warm affectionate look, and happily walk side-by-side while smiling.
+>
+> ANIMATION:
+> Natural, smooth character movement with believable walking, tiny head movements, blinking, subtle feather motion, expressive eyes, wing gestures, and adorable comedic timing. Emphasize the emotional progre…
+
+### E5 · 海滩上水獭为海龟叠石塔
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) · [finished media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-4baf2c6b5a8c.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2095823249968148533)
@@ -48,7 +112,33 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > End with a wide cinematic shot of the tiny turtle sitting beside the tall stack of smooth stones while the otter lies playfully on the sand. Cute comedic timing, expressive characters, soft rounded shapes, detailed fur, realistic sand and ocean textures, warm sunlight, gentle shadows, charming Pixar-like 3D animation, cinematic camera movement, shallow depth of field, high-quality character animation, wholesome and funny mood, smooth motion, vertical 9:16 composition, ultra-detailed 3D render, 4…
 
-### E3 · 沙发上相拥亲吻的萌兔
+### E6 · 蓝天下俏皮眨眼的奶油小兔
+
+- Creator: @Zarnab_with_Ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4cfd04335a3a) · [finished media](https://media.goodcase.ai/cases/d81859c9ebc9.mp4) · [poster](https://media.goodcase.ai/cases/90afb6103701.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099809558894112907)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated video of an adorable fluffy cream-colored baby bunny with huge glossy …
+- Prompt excerpt:
+
+> Made with seedance 2.5
+>
+> Prompt 👇
+> Create a cute, heartwarming, ultra-realistic 3D animated video of an adorable fluffy cream-colored baby bunny with huge glossy brown eyes, long soft ears, rosy cheeks, tiny pink nose, and delicate eyelashes.
+>
+> The bunny wears a soft pink gingham headband with long bunny ears and a matching pink-and-white checkered scarf tied into a cute bow around its neck.
+>
+> The scene is bright, cheerful, and whimsical, set outdoors beneath a vivid blue sky filled with soft fluffy white clouds. Use a close-up portrait composition with the bunny centered in the frame, looking directly into the camera.
+>
+> The bunny makes natural, playful facial expressions throughout the video: gently tilting its head from side to side, blinking, winking, opening its mouth in a cute surprised expression, smiling brightly, and giggling happily with its eyes partially closed. Toward the end, the bunny raises its tiny paws near its chest and gives an irresistibly adorable happy expression.
+>
+> Use subtle, smooth character animation with realistic fur movement, expressive eyes, soft facial motion, and natural ear movement. Keep the character consistent throughout the entire video.
+>
+> Style: high-end cinematic 3D animation, ultra-detailed soft fur, adorable Disney/Pixar-inspired charm, realistic lighting, soft depth of field, vibrant colors, polished textures, cute fantasy atmosphere.
+>
+> Camera: static close-up portrait shot, slight natural camera movement, centered composition, vertical 9:16 format.
+>
+> Lighting: bright natural daylight, soft warm highlights, gentle shadows, clean and vibran…
+
+### E7 · 沙发上相拥亲吻的萌兔
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) · [finished media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) · [poster](https://media.goodcase.ai/cases/ae82336c097b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2098728793703899603)
@@ -77,73 +167,42 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > VISUAL STYLE:
 > Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft…
 
-### E4 · 蓝围巾小水獭的飞越群山奇旅
+### E8 · 樱花园中手捧郁金香的白色萌宠
 
 - Creator: @Zarnab_with_Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) · [finished media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) · [poster](https://media.goodcase.ai/cases/3bf9f7d54c88.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2096921381841813588)
-- Summary: Made with seedance 2.5 Prompt 👇 Create a 40-second cinematic 3D animated fantasy adventure featuring an adorable chubby otter-like baby animal with soft brown …
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268) · [finished media](https://media.goodcase.ai/cases/ce4e0cbd0f39.mp4) · [poster](https://media.goodcase.ai/cases/c261173cd641.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2102218121881014697)
+- Summary: Made with seedance 2.5 Prompt 👇 Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white …
 - Prompt excerpt:
 
 > Made with seedance 2.5
 >
 > Prompt 👇
-> Create a 40-second cinematic 3D animated fantasy adventure featuring an adorable chubby otter-like baby animal with soft brown fur, a cream-colored face, large expressive eyes, rosy cheeks, tiny rounded ears, and a blue scarf around its neck.
+> Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white fur, huge glossy black eyes, tiny pink nose, rosy cheeks, and adorable innocent facial expressions.
 >
-> Maintain the exact same character design, proportions, fur pattern, facial features, blue scarf, and visual style throughout the entire video.
+> The character is standing in a beautiful dreamy spring garden beneath blooming pink cherry blossom trees, surrounded by soft pink flowers and petals scattered across a warm stone pathway. Golden-hour sunlight shines through the branches, creating a magical warm glow and soft cinematic bokeh in the background.
 >
-> SCENE 1 — Meadow Chase
+> The cute character gently holds a single fresh pink tulip in one paw, looks directly at the camera, and makes subtle adorable movements: gently blinking, slightly tilting its head, softly moving its ears and body, and giving a sweet innocent smile. Around the middle of the video, it makes a tiny surprised “ooh” expression before returning to a cute smile.
 >
-> A beautiful magical mountain meadow during a bright sunny morning. Vast green grass, tiny colorful wildflowers, distant blue mountains, fluffy white clouds, and warm golden sunlight.
+> Camera remains at the character’s eye level with a slow subtle cinematic push-in. Soft depth of field, realistic fluffy fur detail, delicate flower petals moving gently in the breeze, warm volumetric sunlight, dreamy atmosphere, polished high-end 3D animation, charming fairytale aesthetic, smooth natural motion, consistent character appearance throughout.
 >
-> The cute otter character happily runs and flies low across the meadow beside a tiny black-and-white bird carrying a small pink flower. The camera follows them with a smooth cinematic tracking shot. The grass and flowers gently blur in the foreground, creating a sense of speed and depth.
->
-> SCENE 2 — Determined Hero
->
-> Cut to a medium close-up of the otter standing on a small grassy hill. It looks forward with a determined and slightly angry expression, raises one paw, and points toward the distant mountains as if announcing an adventure.
->
-> Use expressive facial animation, subtle body movement, soft fur simulation, and cinematic depth of field.
->
-> SCENE 3 — Magical Wings
->
-> The otter jumps from the edge of a high cliff overlooking a breathtaking mountain valley.
->
-> Suddenly, enormous fantasy bat-like wings unfold from its back. The character begins flying through the sky above the mountains.
->
-> Use a dramatic wide aerial shot showing the tiny character against the huge…
-
-### E5 · 小水獭与蓝色新朋友分享冰淇淋
-
-- Creator: @Zarnab_with_Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) · [finished media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) · [poster](https://media.goodcase.ai/cases/dd1c2293bbc7.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2097643808620196091)
-- Summary: Made with seedance 2.5 Prompt 👇 Create a heartwarming cinematic 3D animated short film featuring an adorable chubby baby otter in a beautiful sunlit forest. Th…
-- Prompt excerpt:
-
-> Made with seedance 2.5
->
-> Prompt 👇
-> Create a heartwarming cinematic 3D animated short film featuring an adorable chubby baby otter in a beautiful sunlit forest.
->
-> The main character is a tiny, fluffy brown otter with a round face, large glossy expressive eyes, soft pink cheeks, a tiny black nose, and a small blue scarf tied around its neck. The character has extremely cute, childlike proportions and soft detailed fur.
->
-> Scene 1: The video opens in a peaceful woodland during golden hour. Warm sunlight shines through lush green tree leaves, creating beautiful soft bokeh and volumetric light rays. The baby otter is sitting on a large tree branch, playfully holding a pink-and-white ice cream cone. It happily licks the ice cream and enjoys it with an innocent, joyful expression.
->
-> Scene 2: Show a close-up of the otter's adorable face as it smiles and enjoys the ice cream. Emphasize its sparkling eyes, rosy cheeks, tiny mouth, detailed soft fur, and charming facial expressions.
->
-> Scene 3: The otter climbs down from the tree and playfully moves through the sunny forest. Use smooth, natural character animation and gentle camera movement. The environment should feel magical, warm, peaceful, and wholesome.
->
-> Scene 4: On the grassy forest floor, the otter discovers a tiny round pale-blue fluffy creature resting among the plants. The blue creature has soft fur, big expressive eyes, a small round body, and an innocent adorable appearance.
->
-> Scene 5: The otter approaches the blue creature while holding its ice cream cone. They look at each other curiously and warmly. The otter happily offers th…
+> Vertical 9:16 composition, centered character, close-to-medium shot, cinematic lighting, ultra-detailed, adorable, magical, high quality, smooth animation.
 
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 公鸡激流营救三只小鸡 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) | [Media](https://media.goodcase.ai/cases/63ac781c7ae7.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097272507518587145) | E1 |
-| 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E2 |
-| 沙发上相拥亲吻的萌兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) | [Media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | E3 |
-| 蓝围巾小水獭的飞越群山奇旅 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) | [Media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2096921381841813588) | E4 |
-| 小水獭与蓝色新朋友分享冰淇淋 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) | [Media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097643808620196091) | E5 |
+| 麦田里鸭宝宝与蓝象的黄昏奇遇 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-1c477a159370) | [Media](https://media.goodcase.ai/cases/1a70540e7299.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2103672061613019181) | E1 |
+| 沙发上嬉闹亲吻的兔子情侣 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) | [Media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099683790717325390) | E2 |
+| 公鸡激流营救三只小鸡 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) | [Media](https://media.goodcase.ai/cases/63ac781c7ae7.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097272507518587145) | E3 |
+| 花园小鸡从斗气到和好 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-39f1d416f818) | [Media](https://media.goodcase.ai/cases/73dd0426c053.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099452153039593546) | E4 |
+| 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E5 |
+| 蓝天下俏皮眨眼的奶油小兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4cfd04335a3a) | [Media](https://media.goodcase.ai/cases/d81859c9ebc9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099809558894112907) | E6 |
+| 沙发上相拥亲吻的萌兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) | [Media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | E7 |
+| 樱花园中手捧郁金香的白色萌宠 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268) | [Media](https://media.goodcase.ai/cases/ce4e0cbd0f39.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2102218121881014697) | E8 |
+| 夕阳海滩上小猫赠玫瑰相拥 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-cf24080a2c69) | [Media](https://media.goodcase.ai/cases/3c01aba89658.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2101633366311219260) | E— |
+| 水獭伙伴的西瓜田夏日 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92) | [Media](https://media.goodcase.ai/cases/22126411f4b5.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098952788835467439) | E— |
+| 蓝围巾小水獭的飞越群山奇旅 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) | [Media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2096921381841813588) | E— |
+| 小水獭与蓝色新朋友分享冰淇淋 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) | [Media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097643808620196091) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 41 published Cases across 25 creators.
+This workflow is derived from 50 published Cases across 30 creators.
 
 ## Operating rule
 
@@ -149,13 +149,13 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 都市自拍超级英雄时尚 | @Jodie_Noraa | [GoodCase](https://goodcase.ai/cases/case-6e1bf0e0e1e1) | [Media](https://media.goodcase.ai/cases/5c0a156c9443.jpg) | [Original](https://x.com/Jodie_Noraa/status/2091887559060390207) | E— |
 | 情绪感黑色影棚人像 | @ToroJushiAi | [GoodCase](https://goodcase.ai/cases/case-73b2a4fe0c1a) | [Media](https://media.goodcase.ai/media/image/case-73b2a4fe0c1a.jpg) | [Original](https://x.com/ToroJushiAi/status/2081469606749782500) | E— |
 | 香港街头风格时尚人像 | @SimplyAnnisa | [GoodCase](https://goodcase.ai/cases/case-7daa3577470c) | [Media](https://media.goodcase.ai/media/image/case-7daa3577470c.jpg) | [Original](https://x.com/SimplyAnnisa/status/2081406707507540340) | E— |
+| 带肖像和中英文定制的宽引言卡 | @stark_nico99 | [GoodCase](https://goodcase.ai/cases/case-84ebebe4259f) | [Media](https://media.goodcase.ai/cases/cd8ced30601a.jpg) | [Original](https://x.com/stark_nico99/status/1991718646570426763) | E— |
 | 写实风格智能手机厨房人像 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/case-8da08964ae81) | [Media](https://media.goodcase.ai/media/image/case-8da08964ae81.jpg) | [Original](https://x.com/saniaspeaks_/status/2081582536929747148) | E— |
 | 黑白时尚编辑人像 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-9d64f52eb770) | [Media](https://media.goodcase.ai/media/image/case-9d64f52eb770.jpg) | [Original](https://x.com/ChillaiKalan__/status/2081615969274012153) | E— |
 | 夏日缘侧肖像 | @akinonnon_kan | [GoodCase](https://goodcase.ai/cases/case-b2269baeb516) | [Media](https://media.goodcase.ai/media/image/case-b2269baeb516.jpg) | [Original](https://x.com/akinonnon_kan/status/2081579986348306817) | E— |
 | 圆形墙面镂空中的影棚肖像 | @Arminn_Ai | [GoodCase](https://goodcase.ai/cases/case-c69378856fa6) | [Media](https://media.goodcase.ai/media/image/case-c69378856fa6.jpg) | [Original](https://x.com/Arminn_Ai/status/2081438772709781579) | E— |
 | 地中海游艇俱乐部时尚大片 | @pictsbyai | [GoodCase](https://goodcase.ai/cases/case-d17519ec36a7) | [Media](https://media.goodcase.ai/cases/59227512be80.jpg) | [Original](https://x.com/pictsbyai/status/2091802189161447609) | E— |
 | 美术编辑肖像插画 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/aatif_j/status/2080399938278801700) | E— |
-| 现代电梯中与魏玛犬合影的时尚男士 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/case-daf11fde350e) | [Media](https://media.goodcase.ai/cases/6fdbff0bb30b.jpg) | [Original](https://x.com/Xaroon_x/status/2092156356547473503) | E— |
 
 ## Derivation boundary
 
