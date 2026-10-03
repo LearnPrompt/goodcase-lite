@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 31 published Cases across 24 creators.
+This workflow is derived from 43 published Cases across 33 creators.
 
 ## Operating rule
 
@@ -192,14 +192,14 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 云端漂浮的时尚女性 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-c108c64a3bc7) | [Media](https://media.goodcase.ai/cases/bdf4403787f8.mp4) | [Original](https://x.com/laviniavelle/status/2091812173391790374) | E— |
 | 奢华沙龙美妆变身 | @KrevixAi | [GoodCase](https://goodcase.ai/cases/case-d087761bf321) | [Media](https://media.goodcase.ai/media/video/case-d087761bf321.mp4) | [Original](https://x.com/KrevixAi/status/2080960631180570913) | E— |
 | 珠宝精品店武术动作大片 | @mimu_ai1 | [GoodCase](https://goodcase.ai/cases/case-d0f11d1ff17c) | [Media](https://media.goodcase.ai/cases/829eb48c60a3.mp4) | [Original](https://x.com/mimu_ai1/status/2091215411341930633) | E— |
+| 街拍女摄影师抓拍咖啡馆老人与小狗 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/created-with-minimax-h3-11c349) | [Media](https://media.goodcase.ai/cases/c091a3bdd9be.webm) | [Original](https://x.com/aiwithaly/status/2087102541146522089) | E— |
 | 冷脸拒拍却秒变甜笑写真 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/johnagi168-minimax-h3-ai-98aaf6b33e96) | [Media](https://media.goodcase.ai/cases/dd974120174c.mp4) | [Original](https://x.com/johnAGI168/status/2093342672605913225) | E— |
 | Seedance 2.5 十二秒连续换装的穿搭博主短片 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd) | [Media](https://media.goodcase.ai/cases/97a90dcce20a.mp4) | [Original](https://x.com/johnAGI168/status/2089251003514102060) | E— |
+| 像素穿梭中的连续换装 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-0109d7f993a1) | [Media](https://media.goodcase.ai/cases/53e3364dede4.mp4) | [Original](https://x.com/Just_sharon7/status/2093171913698988151) | E— |
+| 闪光影棚中的十式时尚定格 | @ZaraIrahh | [GoodCase](https://goodcase.ai/cases/kling-create-a-15-second-high-fashion-editorial-film-starring-the-adult-character-in-22356345b7aa) | [Media](https://media.goodcase.ai/cases/b5161fc69abf.mp4) | [Original](https://x.com/ZaraIrahh/status/2097615157421867206) | E— |
 | 像素衣橱里的秋日森林系换装 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-82f2bf793076) | [Media](https://media.goodcase.ai/media/video/missdelulu9-seedance-ai-82f2bf793076.mp4) | [Original](https://x.com/MissDelulu9/status/2094272120289415188) | E— |
-| Seedance 细条纹西装的职场女性气场短片 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-4b6f8c8c977a) | [Media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-4b6f8c8c977a.mp4) | [Original](https://x.com/noorlewisx/status/2089217062040453196) | E— |
-| Seedance 2.5 1080P 三十秒超写实奇幻大片 | @RuzainaMeer | [GoodCase](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1) | [Media](https://media.goodcase.ai/media/video/ruzainameer-seedance-ai-e6073ec318f1.mp4) | [Original](https://x.com/RuzainaMeer/status/2089595902818398461) | E— |
-| Seedance 2.5 超真实 AI 动态桌面壁纸：换装互动女主一镜到底 | 木马人 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6) | [Media](https://media.goodcase.ai/cases/4ce232c0fbe6.mp4) | [Original](https://x.com/cnyzgkc/status/2099029556434985065) | E— |
-| 模特与单品同步360度旋转 | @AI__TSUBAKI | [GoodCase](https://goodcase.ai/cases/seedance-a-clean-premium-4-second-fashion-lookbook-animation-starting-from-the-first-fr-a7de463708af) | [Media](https://media.goodcase.ai/cases/0d093f32d701.mp4) | [Original](https://x.com/AI__TSUBAKI/status/2102459655700287648) | E— |
-| 金色雪山上的白衣滑雪女郎 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0) | [Media](https://media.goodcase.ai/cases/ed05261f6296.mp4) | [Original](https://x.com/noorlewisx/status/2096826123330138410) | E— |
+| 车展现场的真实质感时尚人像 | @leaf_sanren | [GoodCase](https://goodcase.ai/cases/muse-15-9-16-4k-30fps-c1df00e07242) | [Media](https://media.goodcase.ai/cases/eeda125d54c8.mp4) | [Original](https://x.com/leaf_sanren/status/2105645639703183753) | E— |
+| 粉色兔女郎旋身近镜亲吻 | @KeorUnreal | [GoodCase](https://goodcase.ai/cases/nano-banana-cinematic-10-second-continuous-shot-starting-exactly-from-the-uploaded-photo-a-20c619b4f3cd) | [Media](https://media.goodcase.ai/cases/5203b8430296.mp4) | [Original](https://x.com/KeorUnreal/status/2100921858811998355) | E— |
 
 ## Derivation boundary
 

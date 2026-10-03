@@ -1,9 +1,9 @@
 ---
-name: product-ad-shot-design-by-1ktgmlf
-description: "Apply an evidence-derived Product ad shot design workflow observed across published GoodCase examples by AIwithSynthia. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
+name: travel-city-walk-by-1r2e570
+description: "Apply an evidence-derived Cinematic travel montage workflow observed across published GoodCase examples by Zyrellix. Use when planning, storyboarding, or refining an AI video prompt in this motion pattern, including requests for 视频提示词, 分镜, 动作复刻, reference images, source video, or special generation steps. This is an unofficial synthesis and must preserve source attribution."
 ---
 
-# AIwithSynthia · Luxury Macro Beauty
+# Zyrellix · Cinematic travel montage
 
 Turn the method into an executable, Case-grounded workflow. The Skill is incomplete unless the final artifact can be traced to one named anchor Case.
 
@@ -32,9 +32,9 @@ Ask only for missing inputs:
 2. Read `references/cases.md` and select one anchor Case.
 3. Inspect its finished media, summary, and prompt excerpt.
 4. Produce the Preserve / Replace / Avoid reference contract.
-5. Choose one product benefit.
-6. Prove it through action or context.
-7. Close on brand detail or a call to action.
+5. Cut by scene; every scene names its timecode and location, one action and one camera move.
+6. Put the line inside its scene and let only half the scenes speak.
+7. Write the look as settings (film grain, 24fps, shallow depth) and lock gear into the consistency block.
 8. Produce the requested artifact using the output contract below.
 9. Compare it with the anchor Case, then revise material failures once.
 

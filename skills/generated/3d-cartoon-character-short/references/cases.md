@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 18 published Cases across 13 creators.
+This workflow is derived from 19 published Cases across 13 creators.
 
 ## Operating rule
 
@@ -138,6 +138,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 皮克斯风格奶昔故事板动画 | @gptproto | [GoodCase](https://goodcase.ai/cases/case-749c98da9b7d) | [Media](https://media.goodcase.ai/media/video/case-749c98da9b7d.mp4) | [Original](https://x.com/gptproto/status/2071501518679998922) | E7 |
 | Erling Haaland 黏土动画园艺 | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/erling-haaland-525acabe78da) | [Media](https://media.goodcase.ai/media/video/erling-haaland-525acabe78da.mp4) | [Original](https://x.com/noorwithwifi/status/2079818537137475762) | E8 |
 | Seedance 三十秒 3D 动画喜剧：妈妈断了 WiFi 之后 | @JuliaClarky | [GoodCase](https://goodcase.ai/cases/juliaclarky-seedance-ai-f648a434d526) | [Media](https://media.goodcase.ai/cases/8a80979ee021.mp4) | [Original](https://x.com/JuliaClarky/status/2089592644725043368) | E— |
+| 黏土动画讲述奥德修斯之旅 | @Caden_Flux | [GoodCase](https://goodcase.ai/cases/kling-asked-kling-ai-mcp-to-turn-a-simple-idea-into-a-claymation-explainer-0673dc5a6e22) | [Media](https://media.goodcase.ai/cases/45294dc44233.mp4) | [Original](https://x.com/Caden_Flux/status/2098097531851047001) | E— |
 | 黏土定格迷你能多益咖啡馆 | @MayaAiCreator | [GoodCase](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8) | [Media](https://media.goodcase.ai/cases/8c1002d79847.mp4) | [Original](https://x.com/MayaAiCreator/status/2091397686104588650) | E— |
 | Pixar 风格海盗厨师 ASMR 喜剧短片：Seedance 2.5 逐秒分镜 Prompt | @AiwithNomi | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018) | [Media](https://media.goodcase.ai/cases/8815c71013d6.mp4) | [Original](https://x.com/AiwithNomi/status/2099872759866380704) | E— |
 | 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E— |

@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 12 published Cases attributed to Zarnab_with_Ai. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 13 published Cases attributed to Zarnab_with_Ai. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -167,25 +167,32 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > VISUAL STYLE:
 > Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft…
 
-### E8 · 樱花园中手捧郁金香的白色萌宠
+### E8 · 蓝围巾小鸭的桃园甜蜜时光
 
 - Creator: @Zarnab_with_Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268) · [finished media](https://media.goodcase.ai/cases/ce4e0cbd0f39.mp4) · [poster](https://media.goodcase.ai/cases/c261173cd641.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2102218121881014697)
-- Summary: Made with seedance 2.5 Prompt 👇 Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white …
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-85d87b5e88f3) · [finished media](https://media.goodcase.ai/cases/5d0e6b1fba6a.mp4) · [poster](https://media.goodcase.ai/cases/a016d8237ace.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2104397688511103374)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a 30-second vertical 9:16 heartwarming 3D animated short film featuring an adorable fluffy yellow duckling wearing a sof…
 - Prompt excerpt:
 
 > Made with seedance 2.5
 >
 > Prompt 👇
-> Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white fur, huge glossy black eyes, tiny pink nose, rosy cheeks, and adorable innocent facial expressions.
+> Create a 30-second vertical 9:16 heartwarming 3D animated short film featuring an adorable fluffy yellow duckling wearing a soft blue scarf, exploring a beautiful peaceful peach orchard beside a sparkling stream.
 >
-> The character is standing in a beautiful dreamy spring garden beneath blooming pink cherry blossom trees, surrounded by soft pink flowers and petals scattered across a warm stone pathway. Golden-hour sunlight shines through the branches, creating a magical warm glow and soft cinematic bokeh in the background.
+> SCENE 1 — 0–6 sec:
+> Show the cute yellow duckling walking happily through a lush green orchard beside a small crystal-clear stream. Peach trees are filled with ripe, juicy peaches, with colorful wildflowers and soft grass surrounding the area. The duckling looks around curiously, smiling and enjoying the sunny morning. Gentle cinematic camera movement, warm golden sunlight, soft depth of field.
 >
-> The cute character gently holds a single fresh pink tulip in one paw, looks directly at the camera, and makes subtle adorable movements: gently blinking, slightly tilting its head, softly moving its ears and body, and giving a sweet innocent smile. Around the middle of the video, it makes a tiny surprised “ooh” expression before returning to a cute smile.
+> SCENE 2 — 6–12 sec:
+> Cut to a close-up of a large ripe peach hanging from a tree branch. The peach gently sways in the breeze before falling naturally toward the shallow stream. Show detailed peach texture, soft leaves moving in the wind, sparkling water reflections and beautiful bokeh in the background.
 >
-> Camera remains at the character’s eye level with a slow subtle cinematic push-in. Soft depth of field, realistic fluffy fur detail, delicate flower petals moving gently in the breeze, warm volumetric sunlight, dreamy atmosphere, polished high-end 3D animation, charming fairytale aesthetic, smooth natural motion, consistent character appearance throughout.
+> SCENE 3 — 12–18 sec:
+> The duckling notices the peach floating in the shallow water. It happily waddles toward it and carefully picks it up with its little wings. Water droplets splash around its feet as it lifts the peach, creating a cute playful moment.
 >
-> Vertical 9:16 composition, centered character, close-to-medium shot, cinematic lighting, ultra-detailed, adorable, magical, high quality, smooth animation.
+> SCENE 4 — 18–24 sec:
+> The duckling sits beside the stream and prepares the peach in a large green leaf bowl. Show the duckling happily mixing and arranging fresh peach pieces with a tiny wooden spoon. Its blue scarf moves gently in the breeze. Keep the character design perfectly consistent.
+>
+> SCENE 5 — 24–30 sec:
+> Close-up of the adorable duckling standing in the orchard, holding a fresh peac…
 
 ## Evidence index
 
@@ -198,7 +205,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E5 |
 | 蓝天下俏皮眨眼的奶油小兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4cfd04335a3a) | [Media](https://media.goodcase.ai/cases/d81859c9ebc9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099809558894112907) | E6 |
 | 沙发上相拥亲吻的萌兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) | [Media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | E7 |
-| 樱花园中手捧郁金香的白色萌宠 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268) | [Media](https://media.goodcase.ai/cases/ce4e0cbd0f39.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2102218121881014697) | E8 |
+| 蓝围巾小鸭的桃园甜蜜时光 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-85d87b5e88f3) | [Media](https://media.goodcase.ai/cases/5d0e6b1fba6a.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2104397688511103374) | E8 |
+| 樱花园中手捧郁金香的白色萌宠 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268) | [Media](https://media.goodcase.ai/cases/ce4e0cbd0f39.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2102218121881014697) | E— |
 | 夕阳海滩上小猫赠玫瑰相拥 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-cf24080a2c69) | [Media](https://media.goodcase.ai/cases/3c01aba89658.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2101633366311219260) | E— |
 | 水獭伙伴的西瓜田夏日 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92) | [Media](https://media.goodcase.ai/cases/22126411f4b5.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098952788835467439) | E— |
 | 蓝围巾小水獭的飞越群山奇旅 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) | [Media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2096921381841813588) | E— |

@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 46 published Cases across 29 creators.
+This workflow is derived from 41 published Cases across 32 creators.
 
 ## Operating rule
 
@@ -170,16 +170,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 90s West Coast Documentary Realism | @techhalla | [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) | [Media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) | [Original](https://x.com/techhalla/status/2086469019146592294) | E8 |
 | 韩国夏夜市场的烧烤初尝 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-6f6d5447be56) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-6f6d5447be56.mp4) | [Original](https://x.com/aiwithaly/status/2092843818664313185) | E— |
 | 霓虹复古沙龙的彩虹染发蜕变 | @AIwithJessica | [GoodCase](https://goodcase.ai/cases/aiwithjessica-seedance-ai-8abd02dc4e6a) | [Media](https://media.goodcase.ai/media/video/aiwithjessica-seedance-ai-8abd02dc4e6a.mp4) | [Original](https://x.com/AIwithJessica/status/2093127123687108856) | E— |
-| 首尔旧巷里的夏日清晨 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-5b1b7fa15e8f) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-5b1b7fa15e8f.mp4) | [Original](https://x.com/AIwithkhan/status/2093183660363243629) | E— |
-| 韩国夏日巷弄里的橙子追逐 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-caefe71f7aab) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-caefe71f7aab.mp4) | [Original](https://x.com/AIwithkhan/status/2093659312212291914) | E— |
 | 一九九八首尔雨夜公交站家用录像 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/case-51b89b7f2040) | [Media](https://media.goodcase.ai/cases/dc63bcf406f6.webm) | [Original](https://x.com/itxabdullaa/status/2082747126497300930) | E— |
-| 韩国社区夏季摄像机录像 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-9034732a24fe) | [Media](https://media.goodcase.ai/cases/714446ee611f.mp4) | [Original](https://x.com/AIwithkhan/status/2092599045248188760) | E— |
 | 昭和时代复古客厅场景 | @SanShiroH_X | [GoodCase](https://goodcase.ai/cases/case-a845e1418b39) | [Media](https://media.goodcase.ai/media/video/case-a845e1418b39.mp4) | [Original](https://x.com/SanShiroH_X/status/2081189582553657528) | E— |
 | Celestial Palace MiniDV Tour | @john87445528 | [GoodCase](https://goodcase.ai/cases/celestial-palace-minidv-tour) | [Media](https://media.goodcase.ai/cases/76be02019df8.mp4) | [Original](https://x.com/john87445528/status/2085045466719232351) | E— |
 | 京都夏日晚归的DV记忆 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-e714d09df6ce) | [Media](https://media.goodcase.ai/cases/181603902c2a.mp4) | [Original](https://x.com/Ciri_ai/status/2093200782887657696) | E— |
 | 复古汽水广告 Crimson Cola | @DjajaYerry75 | [GoodCase](https://goodcase.ai/cases/crimson-cola-99e9ec88e937) | [Media](https://media.goodcase.ai/media/video/crimson-cola-99e9ec88e937.mp4) | [Original](https://x.com/DjajaYerry75/status/2080666062690140315) | E— |
 | Seedance 2.5 仿早期遗失录像质感三十秒短片 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/itxabdullaa-seedance-ai-e415bfb9d10b) | [Media](https://media.goodcase.ai/cases/ece2dfd2fd64.mp4) | [Original](https://x.com/itxabdullaa/status/2088923820744917355) | E— |
 | MiniDV 风格韩国女生跳舞 Vlog | @iamahmedfaraz66 | [GoodCase](https://goodcase.ai/cases/minidv-vlog-3077d05f23d5) | [Media](https://media.goodcase.ai/cases/7fc2fad0bbd0.mp4) | [Original](https://x.com/iamahmedfaraz66/status/2090647580942418235) | E— |
+| 韩国夏日骑车购物日常 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-669ce18aacb5) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-669ce18aacb5.mp4) | [Original](https://x.com/nawalsehar/status/2093215704946467157) | E— |
+| 复古日式 POV Vlog | @SimplyAnnisa | [GoodCase](https://goodcase.ai/cases/pov-vlog-c94d5709daa4) | [Media](https://media.goodcase.ai/media/video/pov-vlog-c94d5709daa4.mp4) | [Original](https://x.com/SimplyAnnisa/status/2081342566524486102) | E— |
+| 复古餐厅时间冻结与倒放 | @techhalla | [GoodCase](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind) | [Media](https://media.goodcase.ai/media/video/seedance-25-diner-frozen-time-rewind.mp4) | [Original](https://x.com/techhalla/status/2083389002552664385) | E— |
 
 ## Derivation boundary
 

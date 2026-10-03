@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 50 published Cases across 30 creators.
+This workflow is derived from 58 published Cases across 36 creators.
 
 ## Operating rule
 
@@ -145,6 +145,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 草莓冰棒与夏日时尚 | @CyberTotal2026 | [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) | [Media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) | [Original](https://x.com/CyberTotal2026/status/2080445103932649638) | E7 |
 | 高对比度电影感人像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) | [Original](https://x.com/aatif_j/status/2080212276188152302) | E8 |
 | 奢华摄影棚时尚大片 | @john_my07 | [GoodCase](https://goodcase.ai/cases/case-59c91a376d70) | [Media](https://media.goodcase.ai/media/image/case-59c91a376d70.jpg) | [Original](https://x.com/john_my07/status/2080344542885335240) | E— |
+| 照片人像自然美颜优化 | 数字生命卡兹克 | [GoodCase](https://goodcase.ai/cases/case-5a2d1946332d) | [Media](https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261002/6aba0f9c0000000015013521/media-img-01.webp) | [Original](https://www.xiaohongshu.com/explore/6aba0f9c0000000015013521?xsec_token=YBgKHx2esTLwSJsKQUuQ_m8HUEdGsWty-VDeylITSv-AQ=&gc=6aba0f9c0000000015013521-1) | E— |
 | 电影感艺术自然人像 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) | [Media](https://media.goodcase.ai/media/image/case-5fe2c52283f0.jpg) | [Original](https://x.com/Taaruk_/status/2081597935947792465) | E— |
 | 都市自拍超级英雄时尚 | @Jodie_Noraa | [GoodCase](https://goodcase.ai/cases/case-6e1bf0e0e1e1) | [Media](https://media.goodcase.ai/cases/5c0a156c9443.jpg) | [Original](https://x.com/Jodie_Noraa/status/2091887559060390207) | E— |
 | 情绪感黑色影棚人像 | @ToroJushiAi | [GoodCase](https://goodcase.ai/cases/case-73b2a4fe0c1a) | [Media](https://media.goodcase.ai/media/image/case-73b2a4fe0c1a.jpg) | [Original](https://x.com/ToroJushiAi/status/2081469606749782500) | E— |
@@ -155,7 +156,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 夏日缘侧肖像 | @akinonnon_kan | [GoodCase](https://goodcase.ai/cases/case-b2269baeb516) | [Media](https://media.goodcase.ai/media/image/case-b2269baeb516.jpg) | [Original](https://x.com/akinonnon_kan/status/2081579986348306817) | E— |
 | 圆形墙面镂空中的影棚肖像 | @Arminn_Ai | [GoodCase](https://goodcase.ai/cases/case-c69378856fa6) | [Media](https://media.goodcase.ai/media/image/case-c69378856fa6.jpg) | [Original](https://x.com/Arminn_Ai/status/2081438772709781579) | E— |
 | 地中海游艇俱乐部时尚大片 | @pictsbyai | [GoodCase](https://goodcase.ai/cases/case-d17519ec36a7) | [Media](https://media.goodcase.ai/cases/59227512be80.jpg) | [Original](https://x.com/pictsbyai/status/2091802189161447609) | E— |
-| 美术编辑肖像插画 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/aatif_j/status/2080399938278801700) | E— |
 
 ## Derivation boundary
 

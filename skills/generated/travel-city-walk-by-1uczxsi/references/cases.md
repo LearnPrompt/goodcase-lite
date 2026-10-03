@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to CaliraVal. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to CaliraVal. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -51,7 +51,33 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Photorealistic, natural skin and hair, realistic fabric movement, cinematic lighting, smooth ca…
 
-### E3 · 落日古城漫游与街角咖啡
+### E3 · 白衣女子的热带海岸漫步
+
+- Creator: @CaliraVal
+- Evidence: [GoodCase](https://goodcase.ai/cases/minimax-h3-created-with-minimax-h3-10c606612cf6) · [finished media](https://media.goodcase.ai/cases/d621aec9e022.mp4) · [poster](https://media.goodcase.ai/cases/0a6fdff948fc.jpg) · [original source](https://x.com/CaliraVal/status/2104438855785136257)
+- Summary: Lost in the beauty of the ocean, found in the peace of the moment. Some sunsets feel like a dream. Prompt: Created with MiniMax H3. Create a 15-second ultra-rea…
+- Prompt excerpt:
+
+> Created with MiniMax H3.
+>
+> Create a 15-second ultra-realistic cinematic tropical beach adventure video set in a breathtaking tropical paradise with crystal-clear turquoise water, golden sandy beaches, lush palm trees, dramatic coastal cliffs, and a beautiful ocean horizon.
+>
+> CHARACTER:
+> A beautiful young adult Japanese woman, around 22–25 years old, with natural Japanese facial features, fair skin, expressive dark-brown eyes, long wavy black hair, subtle natural makeup, and a gentle, confident expression. Keep her face, hairstyle, body proportions, clothing, and overall identity perfectly consistent throughout the entire video.
+>
+> OUTFIT:
+> She wears a stylish white summer outfit consisting of a lightweight white linen shirt, a cream-colored flowing maxi skirt, comfortable sandals, and a small beige shoulder bag. Her clothes and hair move naturally with the ocean breeze.
+>
+> ENVIRONMENT:
+> A breathtaking tropical beach with crystal-clear turquoise waves, soft golden sand, lush green palm trees, distant rocky islands, dramatic coastal cliffs, and sunlight reflecting across the ocean. Gentle waves wash onto the shore, leaving realistic wet sand and reflections. The atmosphere feels peaceful, luxurious, and adventurous.
+>
+> LIGHTING AND CINEMATOGRAPHY:
+> Warm golden-hour sunlight, soft highlights on the ocean, natural shadows, realistic skin texture, cinematic depth of field, subtle lens flare, smooth camera movement, natural motion blur, and high-end travel-film color grading.
+>
+> SCENE 1 — EPIC BEACH ESTABLISHING SHOT:
+> Start with a breathtaking aerial wide shot of a tropical beach surrounded by…
+
+### E4 · 落日古城漫游与街角咖啡
 
 - Creator: @CaliraVal
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3) · [finished media](https://media.goodcase.ai/cases/53b3da3e9d4f.mp4) · [poster](https://media.goodcase.ai/cases/b6616f3bcc10.jpg) · [original source](https://x.com/CaliraVal/status/2097184908250845406)
@@ -76,7 +102,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tr…
 
-### E4 · 年轻女子抵达机场登机启程
+### E5 · 年轻女子抵达机场登机启程
 
 - Creator: @CaliraVal
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-travel-video-of-a-stylish-young-woman-arrivin-b321bf4210a0) · [finished media](https://media.goodcase.ai/cases/6336780ee0d7.mp4) · [poster](https://media.goodcase.ai/cases/69785ecda416.jpg) · [original source](https://x.com/CaliraVal/status/2097601187734561047)
@@ -91,8 +117,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 夏日热带度假村漫游 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-c1907f5f9753) | [Media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-c1907f5f9753.mp4) | [Original](https://x.com/CaliraVal/status/2092464771874664617) | E1 |
 | 金色海岸漫步时光 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-fashion-film-set-on-a-breathtaking-coastal-landscape-83b287d8aae4) | [Media](https://media.goodcase.ai/cases/577910827af2.mp4) | [Original](https://x.com/CaliraVal/status/2096833346555023816) | E2 |
-| 落日古城漫游与街角咖啡 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3) | [Media](https://media.goodcase.ai/cases/53b3da3e9d4f.mp4) | [Original](https://x.com/CaliraVal/status/2097184908250845406) | E3 |
-| 年轻女子抵达机场登机启程 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-travel-video-of-a-stylish-young-woman-arrivin-b321bf4210a0) | [Media](https://media.goodcase.ai/cases/6336780ee0d7.mp4) | [Original](https://x.com/CaliraVal/status/2097601187734561047) | E4 |
+| 白衣女子的热带海岸漫步 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/minimax-h3-created-with-minimax-h3-10c606612cf6) | [Media](https://media.goodcase.ai/cases/d621aec9e022.mp4) | [Original](https://x.com/CaliraVal/status/2104438855785136257) | E3 |
+| 落日古城漫游与街角咖啡 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3) | [Media](https://media.goodcase.ai/cases/53b3da3e9d4f.mp4) | [Original](https://x.com/CaliraVal/status/2097184908250845406) | E4 |
+| 年轻女子抵达机场登机启程 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-travel-video-of-a-stylish-young-woman-arrivin-b321bf4210a0) | [Media](https://media.goodcase.ai/cases/6336780ee0d7.mp4) | [Original](https://x.com/CaliraVal/status/2097601187734561047) | E5 |
 
 ## Derivation boundary
 
