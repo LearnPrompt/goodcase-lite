@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 37 published Cases across 23 creators.
+This workflow is derived from 46 published Cases across 29 creators.
 
 ## Operating rule
 
@@ -190,14 +190,14 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 黏土动画猫咪世界大变身 | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/case-6152b0808b14) | [Media](https://media.goodcase.ai/media/video/case-6152b0808b14.mp4) | [Original](https://x.com/noorwithwifi/status/2078535850745626926) | E— |
 | 小狗招手打车动画 | @l03n27 | [GoodCase](https://goodcase.ai/cases/case-e3bb2c4cc7df) | [Media](https://media.goodcase.ai/cases/caa188b0e006.mp4) | [Original](https://x.com/l03n27/status/2095697750130123031) | E— |
 | Cats Chasing via Red Mini Motorcycle | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) | [Media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) | [Original](https://x.com/Just_sharon7/status/2084901309988425731) | E— |
+| 街拍女摄影师抓拍咖啡馆老人与小狗 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/created-with-minimax-h3-11c349) | [Media](https://media.goodcase.ai/cases/c091a3bdd9be.webm) | [Original](https://x.com/aiwithaly/status/2087102541146522089) | E— |
+| 猫咪外卖员偷吃披萨后骑车逃跑 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/kling-pov-your-pizza-delivery-guy-ate-your-slice-and-ran-d44b0e2c60a7) | [Media](https://media.goodcase.ai/cases/df5bf5bceb90.mp4) | [Original](https://x.com/Strength04_X/status/2105889942958440671) | E— |
 | 橘猫的柔彩动态个性秀 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-elegant-motion-graphics-driven-personality-reveal-short-in-16-9-exac-899747600e79) | [Media](https://media.goodcase.ai/cases/8474b7c70be7.mp4) | [Original](https://x.com/Chaemate_/status/2099698470500401562) | E— |
 | 狐狸在森林溪流边自拍漫游 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | [Media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) | [Original](https://x.com/MrDasOnX/status/2089969922617266257) | E— |
+| 粉色兔女郎旋身近镜亲吻 | @KeorUnreal | [GoodCase](https://goodcase.ai/cases/nano-banana-cinematic-10-second-continuous-shot-starting-exactly-from-the-uploaded-photo-a-20c619b4f3cd) | [Media](https://media.goodcase.ai/cases/5203b8430296.mp4) | [Original](https://x.com/KeorUnreal/status/2100921858811998355) | E— |
+| 战壕里戴钢盔的橘猫士兵 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-a-15-second-vertical-9-16-photorealistic-cinematic-video-of-a-cute-orang-ed0d127d5ff9) | [Media](https://media.goodcase.ai/cases/19db95d5d39e.mp4) | [Original](https://x.com/Aiwithmaha/status/2105847315609293134) | E— |
 | 江畔野餐偷吃炸鸡的虎帽猫 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-short-film-photorealistic-korean-riverside-picnic-aesth-3b0868a31904) | [Media](https://media.goodcase.ai/cases/36e7026af2a1.mp4) | [Original](https://x.com/Zyrellix/status/2100081464469787115) | E— |
 | 废墟卧室中的白发女子与巨型黑猫 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3) | [Media](https://media.goodcase.ai/cases/b00b46531982.mp4) | [Original](https://x.com/Zyrellix/status/2097594855946113177) | E— |
-| 白猫与青年在晨光公寓相拥 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57) | [Media](https://media.goodcase.ai/media/video/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57.mp4) | [Original](https://x.com/ayzalnooor24521/status/2096085776735912274) | E— |
-| 麦田里鸭宝宝与蓝象的黄昏奇遇 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-1c477a159370) | [Media](https://media.goodcase.ai/cases/1a70540e7299.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2103672061613019181) | E— |
-| 沙发上嬉闹亲吻的兔子情侣 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) | [Media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099683790717325390) | E— |
-| 公鸡激流营救三只小鸡 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) | [Media](https://media.goodcase.ai/cases/63ac781c7ae7.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097272507518587145) | E— |
 
 ## Derivation boundary
 

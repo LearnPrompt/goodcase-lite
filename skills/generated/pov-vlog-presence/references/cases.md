@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 99 published Cases across 56 creators.
+This workflow is derived from 111 published Cases across 61 creators.
 
 ## Operating rule
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to AIwithkhan. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to AIwithkhan. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -56,7 +56,30 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > After finishing her workout, she drinks water, sits cross-legged on the yoga mat for mindful breathing, smiles peacefully, then returns home. She prepares a fresh st…
 
-### E4 · 首尔夏夜 Vlog
+### E4 · 韩国女孩的社区健身房日常
+
+- Creator: @AIwithkhan
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16) · [finished media](https://media.goodcase.ai/cases/9f8dfd486cd9.mp4) · [poster](https://media.goodcase.ai/cases/11e9d6612c78.jpg) · [original source](https://x.com/AIwithkhan/status/2104408252670939438)
+- Summary: Baddie working her A** out in the gym 🥵 Made with Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman going to…
+- Prompt excerpt:
+
+> Create a 30-second ultra-realistic personal home-video of a young Korean woman going to a local gym for a simple workout. Use the attached image as the character reference and keep her face, hairstyle and overall appearance consistent throughout.
+>
+> She leaves her home carrying a small gym bag and walks through the quiet neighborhood toward a nearby local gym. Before entering, she ties her long black hair into a neat ponytail and adjusts her gym bag.
+>
+> Inside the gym, she changes into realistic workout clothes: a fitted black athletic crop top, high-waisted charcoal leggings, clean white training shoes, and a small fitness watch. She places her bag and water bottle beside a workout bench and begins stretching.
+>
+> She starts with light dumbbell exercises, then does bodyweight squats, lunges and jumping-jack exercises. Show realistic movement, controlled breathing and natural effort. Her face gradually becomes slightly sweaty as the workout continues.
+>
+> She pauses, grabs her water bottle and drinks several times, then wipes sweat from her forehead and neck with a small white towel. She looks at herself in the gym mirror, laughs at how sweaty she has become and smiles.
+>
+> She continues with a short treadmill run, breathing naturally and occasionally laughing when she gets tired. She slows down, steps off carefully, grabs her towel and wipes her face again.
+>
+> Near the end, she sits on the bench catching her breath, drinks water, smiles toward the camera and says, “That was a good workout!” She gives a small laugh, picks up her gym bag and walks out.
+>
+> Camera: Raw early-2000s consumer DV-…
+
+### E5 · 首尔夏夜 Vlog
 
 - Creator: @AIwithkhan
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) · [finished media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) · [poster](https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg) · [original source](https://x.com/AIwithkhan/status/2092971211169100048)
@@ -72,7 +95,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 韩巷夏日骑行的女孩 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-9a5c5cbd518b.mp4) | [Original](https://x.com/AIwithkhan/status/2091175465037746522) | E1 |
 | 智能手表产品生活方式广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/AIwithkhan/status/2080519081959276735) | E2 |
 | 电影感晨间健身日常 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-3bdeb046587d) | [Media](https://media.goodcase.ai/media/video/case-3bdeb046587d.mp4) | [Original](https://x.com/AIwithkhan/status/2081222954659234074) | E3 |
-| 首尔夏夜 Vlog | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) | [Media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) | [Original](https://x.com/AIwithkhan/status/2092971211169100048) | E4 |
+| 韩国女孩的社区健身房日常 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16) | [Media](https://media.goodcase.ai/cases/9f8dfd486cd9.mp4) | [Original](https://x.com/AIwithkhan/status/2104408252670939438) | E4 |
+| 首尔夏夜 Vlog | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) | [Media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) | [Original](https://x.com/AIwithkhan/status/2092971211169100048) | E5 |
 
 ## Derivation boundary
 

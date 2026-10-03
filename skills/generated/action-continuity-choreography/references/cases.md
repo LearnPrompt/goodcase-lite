@@ -1,12 +1,21 @@
 # Case evidence
 
-This workflow is derived from 49 published Cases across 44 creators.
+This workflow is derived from 62 published Cases across 52 creators.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5）
+### E1 · 单图生成的雨林赛车一镜到底追逐
+
+- Creator: Umesh
+- Evidence: [GoodCase](https://goodcase.ai/cases/30s-one-take-rainforest-race-chase-from-single-image) · [finished media](https://media.goodcase.ai/cases/16a077baa7df.mp4) · [poster](https://media.goodcase.ai/cases/588d8908ac46.jpg) · [original source](https://x.com/umesh_ai/status/2103382240571138220)
+- Summary: Starting from one supplied still of a white-orange-green number 09 race car on a wet jungle road, a single second-by-second prompt drives a continuous 30-second photorealistic chase: two rival cars, a falling tree, a waterfall drift, a collapsing causeway, a jungle sinkhole, a cave behind a waterfall, a disintegrating rope bridge and a final mid-air orbit. The author did not name the video model.
+- Prompt excerpt:
+
+> Create a 30-second photorealistic cinematic action sequence beginning exactly from the supplied image.  Use the supplied image as the exact identity anchor for the main vehicle and world. Preserve the futuristic race machine with white, orange and green livery, number 09, glowing circular rear propulsion rings, glowing front intake text, low-slung aerodynamic body, wet-surface reflections, and rainforest highway setting.  The scene unfolds as one seamless continuous shot with nonstop momentum, escalating spectacle, and fluid spatial continuity. The tone is hyper-intense, elegant, and visually overwhelming, with premium large-format realism, extreme speed, wet-road dynamics, spray, drifting, jungle atmosphere, and gigantic environmental events.  The world is a colossal tropical rainforest megavalley filled with towering cliffs, hanging vines, giant palms, mist, ruined stone structures hidden in the jungle, elevated roadways, waterfalls, flooded ravines, and storm light cutting through the canopy. Vehicle 09 is being chased by two rival machines: a black-and-red interceptor already visible ahead on the right lane, and a silver-blue pursuit car emerging behind through the spray.  SECONDS 0-4  Begin exactly from the supplied image composition at low rear three-quarter angle behind Vehicle 09, only centimeters above the wet road. Water spray streaks directly toward the lens, the rear propulsion rings glow hot orange, and the road reflections stretch into glossy ribbons beneath the car.  The camera matches speed with Vehicle 09 while the jungle rushes past in dense green parallax…
+
+### E2 · 御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5）
 
 - Creator: 袋鼠帝
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a) · [finished media](https://media.goodcase.ai/cases/bcf271199025.mp4) · [poster](https://media.goodcase.ai/cases/c5e8fdb6d69a.jpg) · [original source](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-3dcg-battle)
@@ -15,7 +24,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > 人设修仙武者：年轻男性，身姿挺拔，气质清冷出尘、仙风道骨；御剑飞行双脚踏着巨剑剑身上，处于战斗施法状态，先后单手结印、双手结印。足下巨剑：宽大厚重，剑身泛寒光，可一分为五，在修仙武者脚下呈扇形展开。巨型妖兽：穷奇外形的庞然巨兽，体型如小山般巨大，四足粗壮、巨爪如柱；处于发狂肆虐状态，四爪先后被锁、挣扎咆哮。场景玄幻仙侠架空世界，一片人迹罕至的荒山野地作为主要空间环境参考，开阔荒原，远处连绵荒山轮廓，偶有碎石与低矮枯木。战斗后期巨兽头顶上空汇聚雷云。画面风格3D CG 高精度建模动画，国漫精品剧集质感；玄幻仙侠题材，写实 CG 建模与毛发皮肤细节，仙术法阵与雷霆特效能量感强烈；宏大战斗场面调度，史诗感。影调开阔荒原大场景、宏大空间纵深；主发光源来自法术能量：巨剑分身寒光、金色法阵明亮金辉自地面向上映照巨兽身型、白紫色雷霆爆裂闪光；雷云汇聚后环境被云层阴影笼罩、明暗对比加剧，法阵金光与雷光交替勾勒妖兽与武者的轮廓；妖兽挣扎时尘土飞扬、暗部细节增多。视觉参考参考国漫《灵笼》《凡人修仙传》CG 剧集视觉质感：高精度角色建模、材质与光影写实、仙术特效的能量流动与光效层次、大场景运镜调度。全局约束无字幕、禁止生成字幕。分镜1，0s-2s，大远景，固定镜头，高机位轻微俯拍，从年轻修仙武者身后拍摄，武者脚踏巨剑剑身御剑悬停在空中位于画面的左上角，镜头视线聚焦下方的荒原野地：一头穷奇外形的巨型妖兽正在荒地上发狂肆虐，挥动巨爪拍碎地面、仰头咆哮，扬起大片尘土碎石；音效：妖兽低沉咆哮、爪击地面的闷响、碎石飞溅声。分镜2，2s-4s，中近景，固定镜头，聚焦悬停空中的武者上半身近景，武者目光一凝，随即抬手单手结印，口唇快速念出咒语「分则能成！」；音效：低沉咒语吟诵声。分镜3，4s-5s，切换武者脚下巨剑特写，固定镜头，脚下的巨剑剑身泛起光纹、嗡鸣震动，随即一分为五，在修仙武者脚下呈扇形展开，巨剑本体仍位于武者脚下；音效：剑身震颤金属嗡鸣。分镜4，5s-8s，大远景→妖兽四只巨爪的局部中景，荷兰角，快速跟拍，镜头紧密跟随四把分身巨剑的飞射轨迹跟拍。四把分身巨剑如流光般疾速飞射而下，分别命中妖兽四只巨爪，击中瞬间化作虚灵形态的灵光锁链缠绕锁紧四爪；妖兽四爪被锁、挣扎甩动却无法挣脱，仰头怒吼；音效：剑气破空声、锁链缠绕铮鸣、妖兽挣扎怒吼、地面震颤闷响。分镜5，8s-10s，特写，固定镜头，聚焦武者胸前结印的双手。高空中的武者双手抬起、十指交叠快速多次结印，法力凝聚的微光在掌间亮起，随即放声暴喝；对白：修仙武者（怒喝）：「雷光咒！」；音效：灵力汇聚的低沉嗡鸣、武者暴喝声、妖兽持续咆哮。分镜6，10s-11s，全景，仰拍后拉。妖兽脚下的地面骤然亮起一个与它身型投影同样巨大的金色法阵，符文旋转展开、金光上涌，将挣扎的妖兽笼罩其中；音效：法阵启动的深沉轰鸣、能量流动的嗡嗡声。分镜7，11s-15s，大远景，仰拍。妖兽头顶上空乌云迅速汇聚，雷云翻滚、电光在云层中窜动，天色骤然压暗；一道巨大白紫色雷霆从乌云中迸发，自天而降击中巨兽身体，法阵金光与雷光同时爆发，妖兽身形被耀眼光芒吞没、剧烈震颤；音效：雷云翻滚闷响、电流滋啦声、雷霆炸裂巨响、轰鸣回响、大地震动。全局配乐：纯音乐 + 无词吟唱0s-2s：琵琶轮指 + 二胡紧张颤音长音，低音提琴拨弦脉冲；旋律短促、小二度游移（不安定感），音量中等、密度低2s-4s：琵琶扫弦 + 古筝十六分音符急奏，堂鼓+小钹进入密集节奏层，弦乐群齐奏推高4s-5s：大鼓滚奏渐密，铜管短促强音（"锁"的动作感），低频持续音垫底；妖兽咆哮处配乐主动让位——音量降、减旋律密度，给咆哮音效留空间5s-8s：只留低频持续音 + 箫孤音。打击乐静默、旋律消失8s-10s：古筝泛音 + 弦乐长音渐强，无词女声"啊——"进入（非歌词）；和声从暗小调切向明亮大三和弦的临时离调…
 
-### E2 · Seedance 2.5 地下设施超写实动作戏
+### E3 · Seedance 2.5 地下设施超写实动作戏
 
 - Creator: @AiwithElisia
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-0084e9601557) · [finished media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-0084e9601557.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-0084e9601557.jpg) · [original source](https://x.com/AiwithElisia/status/2089580979560337437)
@@ -34,26 +43,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Ultra-realistic human skin, detailed facial expressions, physically accurate movement, realis…
 
-### E3 · 韩国夏日巷弄里的橙子追逐
+### E4 · 测试房里按顺序做完六个动作
 
-- Creator: @AIwithkhan
-- Evidence: [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-caefe71f7aab) · [finished media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-caefe71f7aab.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-caefe71f7aab.jpg) · [original source](https://x.com/AIwithkhan/status/2093659312212291914)
-- Summary: Friend from Korea Seedance 2.5 on PolloAI Prompt : Young Korean woman in her early 20s, naturally attractive, realistic
+- Creator: @cocktailpeanut
+- Evidence: [GoodCase](https://goodcase.ai/cases/can-reason-i-wanted-to-see-if-reasoning-could) · [finished media](https://media.goodcase.ai/cases/cda3ecc92797.webm) · [poster](https://media.goodcase.ai/cases/bbf4883d7fe0.jpg) · [original source](https://x.com/cocktailpeanut/status/2085893756688167396)
+- Summary: 由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。
 - Prompt excerpt:
 
-> Young Korean woman in her early 20s, naturally attractive, realistic skin texture, minimal makeup, relaxed personality. Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-pink short top, loose cream pajama-style pants, white sneakers and a simple silver necklace. Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.
-> SECOND WOMAN
-> Another young Korean woman in her early 20s, naturally attractive and casual, with long dark hair loosely tied back. She wears a fitted pastel-yellow short top, light denim shorts, white sneakers and a simple necklace. She has a friendly, natural appearance and must remain visually consistent throughout her appearance.
-> LOCATION
-> A quiet older Korean residential neighborhood during a bright summer afternoon. Narrow concrete lanes, small houses, potted plants, bicycles, old walls, utility poles, overhead wires and a tiny neighborhood grocery shop.
-> CAMERA / VISUAL STYLE
-> Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder. Strong handheld shake, imperfect framing, autofocus hunting, faded colors, soft digital detail, exposure shifts, mild digital noise, occasional motion blur and accidental zooms.
-> No stabilization, drone footage, gimbal movement or polished commercial cinematography.
-> — LEAVING THE SHOP
-> The main woman walks out of a tiny neighborhood grocery shop carrying a reusable shopping bag filled with vegetables, bread and several oranges.
-> She smiles toward the camera and starts wal…
+> A single continuous fixed wide shot in a plain, brightly lit test room, filmed like an unedited behavioral experiment. At the start, a red cube is on a table, a drawer is closed, a lamp is off, a chair sits precisely inside a taped floor outline, a hat hangs on a wall hook beside a bare mannequin, and a door is open. One person quickly performs six clearly separated actions in this exact order: places the red cube on a shelf, opens the drawer, turns on the lamp, moves the chair away from its taped outline, takes the hat from the hook and puts it on the mannequin, then closes the door. An off-screen instructor clearly says, "Undo only the last three actions." The person pauses briefly, understands the instruction, and carries it out exactly. No cuts, no time jumps, no extra actions, no additional dialogue, realistic synchronized room sounds.
 
-### E4 · 魔幻都市奇幻战斗动画
+### E5 · 魔幻都市奇幻战斗动画
 
 - Creator: @haruuraeadss
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) · [finished media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) · [poster](https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg) · [original source](https://x.com/haruuraeadss/status/2080976327231107259)
@@ -77,7 +76,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 【攻撃展開】
 > 開始時、主人公の掌前に主ゲートが形成される。二層から四層の不完全な同心円ゲートで、各リングは前…
 
-### E5 · 赛博朋克赛博之刃战斗
+### E6 · 赛博朋克赛博之刃战斗
 
 - Creator: @luxaios
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) · [finished media](https://media.goodcase.ai/media/video/case-1a9a2c659866.mp4) · [poster](https://media.goodcase.ai/media/poster/case-1a9a2c659866.jpg) · [original source](https://x.com/luxaios/status/2080628740955218120)
@@ -108,7 +107,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Visual style: ultra realistic,…
 
-### E6 · 韩国社区动作喜剧场景
+### E7 · 韩国社区动作喜剧场景
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-1e4f684b45b0) · [finished media](https://media.goodcase.ai/cases/955088198bf2.mp4) · [poster](https://media.goodcase.ai/cases/7e37d7f736d0.jpg) · [original source](https://x.com/AIwithSynthia/status/2097532372921229702)
@@ -136,7 +135,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > SHOT 8
 > The woman hands everything back t…
 
-### E7 · 动画海盗动作序列
+### E8 · 动画海盗动作序列
 
 - Creator: @itsshara_ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) · [finished media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg) · [original source](https://x.com/itsshara_ai/status/2079565454436426187)
@@ -155,29 +154,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > (0:04.2–0:05.4) THE QUARTERMASTER draws his knife in one fluid, practiced motion, his scarred fa…
 
-### E8 · 凤凰骑士变身序列
-
-- Creator: @LudovicCreator
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) · [finished media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg) · [original source](https://x.com/LudovicCreator/status/2081092171428401560)
-- Summary: 一段详细的魔法变身序列电影级提示词，尽管文中将其归功于其他模型。
-- Prompt excerpt:
-
-> Full magical transformation sequence: a molten phoenix knight floating in a dark volcanic void as glowing embers rise from below and thick smoke coils around them in slow ceremonial waves ,sparks attach to the body, igniting gold-red hair, forging radiant winged armor, tracing molten feather markings across the skin, and forming a burning longsword from compressed flame as phoenix wings unfold behind them. A circular lava-forged ritual seal opens beneath their feet with orange cracks spreading outward, the camera pushes through smoke layers in a slow heroic spiral, each ember burst synced to a rising drum hit, ending in a wings-spread blade-raised signature pose held inside a firestorm starburst. Stock-footage grandeur, played sincere
->
-> Made  in @LumaLabsAI #LumaCPP
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5） | 袋鼠帝 | [GoodCase](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a) | [Media](https://media.goodcase.ai/cases/bcf271199025.mp4) | [Original](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-3dcg-battle) | E1 |
-| Seedance 2.5 地下设施超写实动作戏 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-0084e9601557) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-0084e9601557.mp4) | [Original](https://x.com/AiwithElisia/status/2089580979560337437) | E2 |
-| 韩国夏日巷弄里的橙子追逐 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-caefe71f7aab) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-caefe71f7aab.mp4) | [Original](https://x.com/AIwithkhan/status/2093659312212291914) | E3 |
-| 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E4 |
-| 赛博朋克赛博之刃战斗 | @luxaios | [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) | [Media](https://media.goodcase.ai/media/video/case-1a9a2c659866.mp4) | [Original](https://x.com/luxaios/status/2080628740955218120) | E5 |
-| 韩国社区动作喜剧场景 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-1e4f684b45b0) | [Media](https://media.goodcase.ai/cases/955088198bf2.mp4) | [Original](https://x.com/AIwithSynthia/status/2097532372921229702) | E6 |
-| 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E7 |
-| 凤凰骑士变身序列 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/LudovicCreator/status/2081092171428401560) | E8 |
+| 单图生成的雨林赛车一镜到底追逐 | Umesh | [GoodCase](https://goodcase.ai/cases/30s-one-take-rainforest-race-chase-from-single-image) | [Media](https://media.goodcase.ai/cases/16a077baa7df.mp4) | [Original](https://x.com/umesh_ai/status/2103382240571138220) | E1 |
+| 御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5） | 袋鼠帝 | [GoodCase](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a) | [Media](https://media.goodcase.ai/cases/bcf271199025.mp4) | [Original](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-3dcg-battle) | E2 |
+| Seedance 2.5 地下设施超写实动作戏 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-0084e9601557) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-0084e9601557.mp4) | [Original](https://x.com/AiwithElisia/status/2089580979560337437) | E3 |
+| 测试房里按顺序做完六个动作 | @cocktailpeanut | [GoodCase](https://goodcase.ai/cases/can-reason-i-wanted-to-see-if-reasoning-could) | [Media](https://media.goodcase.ai/cases/cda3ecc92797.webm) | [Original](https://x.com/cocktailpeanut/status/2085893756688167396) | E4 |
+| 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E5 |
+| 赛博朋克赛博之刃战斗 | @luxaios | [GoodCase](https://goodcase.ai/cases/case-1a9a2c659866) | [Media](https://media.goodcase.ai/media/video/case-1a9a2c659866.mp4) | [Original](https://x.com/luxaios/status/2080628740955218120) | E6 |
+| 韩国社区动作喜剧场景 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-1e4f684b45b0) | [Media](https://media.goodcase.ai/cases/955088198bf2.mp4) | [Original](https://x.com/AIwithSynthia/status/2097532372921229702) | E7 |
+| 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E8 |
+| 凤凰骑士变身序列 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/LudovicCreator/status/2081092171428401560) | E— |
 | 屋顶追逐动作短语 | @LANDCASTER_92 | [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) | [Media](https://media.goodcase.ai/media/video/case-8f7479c32251.mp4) | [Original](https://x.com/LANDCASTER_92/status/2081432738683314614) | E— |
 | 电影级未来感动漫剑术对决 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) | [Media](https://media.goodcase.ai/media/video/case-a9ab0266f96a.mp4) | [Original](https://x.com/haruuraeadss/status/2081317622927577411) | E— |
 | 废墟之桥上的史诗骑士之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-b1405ee458d3) | [Media](https://media.goodcase.ai/media/video/case-b1405ee458d3.mp4) | [Original](https://x.com/CharaspowerAI/status/2081031751598535092) | E— |
@@ -189,7 +178,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 夜间追逐电影级镜头 | @bmx_ai13 | [GoodCase](https://goodcase.ai/cases/case-d30f8318a084) | [Media](https://media.goodcase.ai/media/video/case-d30f8318a084.mp4) | [Original](https://x.com/bmx_ai13/status/2081091640857702427) | E— |
 | 黑板火柴人空手道对决 | @mrdejie | [GoodCase](https://goodcase.ai/cases/case-de248f679b06) | [Media](https://media.goodcase.ai/media/video/case-de248f679b06.mp4) | [Original](https://x.com/mrdejie/status/2079463899305476233) | E— |
 | 武术道场实战演练视频提示词 | @xmliisu | [GoodCase](https://goodcase.ai/cases/case-ef6d0376e02b) | [Media](https://media.goodcase.ai/cases/0ee926e46e5a.mp4) | [Original](https://x.com/xmliisu/status/2097596867500515494) | E— |
-| 硬核卡特尔藏身处动作场景 | @The_Kremlinn | [GoodCase](https://goodcase.ai/cases/case-f6a1af7d22b1) | [Media](https://media.goodcase.ai/cases/396d658b3809.mp4) | [Original](https://x.com/The_Kremlinn/status/2095083714120229230) | E— |
 
 ## Derivation boundary
 
