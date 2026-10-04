@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 7 published Cases across 7 creators.
+This workflow is derived from 6 published Cases across 6 creators.
 
 ## Operating rule
 
@@ -98,16 +98,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create an animated sequence that starts in a room, zooms into a MacBook, then into an Apple M4 chip, followed by atoms, and finally quarks. Use HTML and Three.js for rendering.
 
-### E6 · SpaceX 火星着陆页面动画
-
-- Creator: @Kisalay_
-- Evidence: [GoodCase](https://goodcase.ai/cases/spacex-05c7bcc20e78) · [finished media](https://media.goodcase.ai/media/video/spacex-05c7bcc20e78.mp4) · [poster](https://media.goodcase.ai/media/poster/spacex-05c7bcc20e78.jpg) · [original source](https://x.com/Kisalay_/status/2088392724730761524)
-- Summary: 一款高端着陆页面设计，展示 SpaceX Starship 在黄昏时分降落火星的场景，采用柔和的香槟色调，并具备适合视频动态的电影级深度。
-- Prompt excerpt:
-
-> Landing page hero section design for SpaceX Starship landing on Mars at dusk, soft warm off-white and pale stone canvas, oversized clean photographic imagery with gentle natural light, elegant muted champagne and soft gray tones with subtle cyan accents, ultra-clean composition, sophisticated high-end typography, subtle floating glass elements, generous negative space, soft diffused lighting, minimal technical details, polished luxury product aesthetic, calm and refined atmosphere, ultra-high detail 12k quality, cinematic depth ready for smooth video motion
-
-### E7 · 什么是 Transformer Explainer
+### E6 · 什么是 Transformer Explainer
 
 - Creator: @dotey
 - Evidence: [GoodCase](https://goodcase.ai/cases/transformer-explainer-7d2aa7449fc4) · [finished media](https://media.goodcase.ai/cases/68536239806b.mp4) · [poster](https://media.goodcase.ai/cases/ef95ea0eb814.jpg) · [original source](https://x.com/dotey/status/2103683057689522564)
@@ -130,8 +121,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 用 GSAP 和 Three.js 写代码做高端动效视频 | @everestchris6 | [GoodCase](https://goodcase.ai/cases/case-48175d8e8ac4) | [Media](https://media.goodcase.ai/cases/f0b654c82794.mp4) | [Original](https://x.com/everestchris6/status/2104965415164399895) | E3 |
 | 单页 HTML 做 30 秒商业动画解说 | @alex_prompter | [GoodCase](https://goodcase.ai/cases/case-df71349792f3) | [Media](https://media.goodcase.ai/cases/23fa6c689abf.mp4) | [Original](https://x.com/alex_prompter/status/2103499977632997524) | E4 |
 | Room to Quarks 缩放动画 | @VictorTaelin | [GoodCase](https://goodcase.ai/cases/room-to-quarks-8828fb5f29d0) | [Media](https://media.goodcase.ai/cases/2383d2856499.mp4) | [Original](https://x.com/VictorTaelin/status/2103299766473875778) | E5 |
-| SpaceX 火星着陆页面动画 | @Kisalay_ | [GoodCase](https://goodcase.ai/cases/spacex-05c7bcc20e78) | [Media](https://media.goodcase.ai/media/video/spacex-05c7bcc20e78.mp4) | [Original](https://x.com/Kisalay_/status/2088392724730761524) | E6 |
-| 什么是 Transformer Explainer | @dotey | [GoodCase](https://goodcase.ai/cases/transformer-explainer-7d2aa7449fc4) | [Media](https://media.goodcase.ai/cases/68536239806b.mp4) | [Original](https://x.com/dotey/status/2103683057689522564) | E7 |
+| 什么是 Transformer Explainer | @dotey | [GoodCase](https://goodcase.ai/cases/transformer-explainer-7d2aa7449fc4) | [Media](https://media.goodcase.ai/cases/68536239806b.mp4) | [Original](https://x.com/dotey/status/2103683057689522564) | E6 |
 
 ## Derivation boundary
 
