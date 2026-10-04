@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 25 published Cases across 25 creators.
+This workflow is derived from 29 published Cases across 27 creators.
 
 ## Operating rule
 
@@ -228,8 +228,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 双手从零制作主体的延时过程 | @aimikoda | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-subject-sho-779c59e726b4) | [Media](https://media.goodcase.ai/cases/2968eb50fc18.mp4) | [Original](https://x.com/aimikoda/status/2095141166962311555) | E— |
 | 法式牛角包制作过程 | @TechieBySA | [GoodCase](https://goodcase.ai/cases/real-case-07-techiebysa) | [Media](https://media.goodcase.ai/media/video/real-case-07-techiebysa.mp4) | [Original](https://x.com/TechieBySA/status/2053523775702925768) | E— |
 | 空旷平原日出瞬间城市自建 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/real-case-08-ludoviccreator) | [Media](https://goodcase.ai/media/goodcase/LudovicCreator-2055351279170318782-01.mp4) | [Original](https://x.com/LudovicCreator/status/2055351279170318782) | E— |
+| 乡村厨房蒜香炒青菜的制作过程 | @aynellex | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-17-second-live-action-food-sequence-showing-6c9fa0508f22) | [Media](https://media.goodcase.ai/cases/6f57966c625c.mp4) | [Original](https://x.com/aynellex/status/2105869869216342141) | E— |
 | Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程 | @abxxai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-gopro-94a73eef1dbf.mp4) | [Original](https://x.com/abxxai/status/2087189194720657649) | E— |
-| 未来街头时装七套造型变换 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-luxury-streetwear-fashion-film-combining-rapid-outfit-change-e7f858674b8c) | [Media](https://media.goodcase.ai/cases/e3e626a64f0d.mp4) | [Original](https://x.com/itxabdullaa/status/2105517564277436767) | E— |
 
 ## Derivation boundary
 

@@ -1,47 +1,12 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to AIwithkhan. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to AIwithkhan. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 韩巷夏日骑行的女孩
-
-- Creator: @AIwithkhan
-- Evidence: [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b) · [finished media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-9a5c5cbd518b.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-9a5c5cbd518b.jpg) · [original source](https://x.com/AIwithkhan/status/2091175465037746522)
-- Summary: Something from our local street Seedance 2.5 at service again Prompt : Main subject: Young Korean woman, early 20s, wear
-- Prompt excerpt:
-
-> Main subject: Young Korean woman, early 20s, wearing a soft pink short top, loose cream pajama-style pants, black sneakers and a delicate necklace. Messy black side ponytail, natural makeup, realistic skin and completely consistent appearance.
-> Location: Older Korean residential neighborhood on a hot summer afternoon. Narrow alleys, concrete walls, tiny gardens, bicycles leaning against houses, colorful laundry, utility poles and leafy trees creating patches of shade.
-> Shot entirely like an early-2000s home video filmed by her friend. Strong handheld shake, accidental framing, autofocus hunting, blown-out highlights, faded colors, digital noise, occasional zoom mistakes and realistic motion blur.
-> She leaves her house carrying a small basket and walks barefoot toward a bicycle. She slips on her sneakers, hops onto the bicycle and starts riding through the lane.
-> She passes a friend sitting outside a small house. The friend calls her name and she immediately stops.
-> They chat casually for a moment, laughing about something. She steals a sip from her friend's iced drink, laughs and continues cycling.
-> She stops beneath a giant tree and parks the bicycle. She looks upward as the leaves move in the warm breeze.
-> A basketball rolls into the lane from nearby children. She kicks it gently back toward them and waves.
-> She gets back on the bicycle and rides away while the camera remains behind, slowly losing sight of her around the corner.
-> Audio: Summer insects, birds, bicycle chain, distant children, wind through leaves, casual conversation and neighborhood ambience. No music.
-
-### E2 · 智能手表产品生活方式广告
-
-- Creator: @AIwithkhan
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) · [finished media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) · [poster](https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg) · [original source](https://x.com/AIwithkhan/status/2080519081959276735)
-- Summary: 一份高端智能手表生活方式广告提示词，以一位年轻女性在各种日常场景中的表现为特色，具有极高的制作水准。
-- Prompt excerpt:
-
-> Create an ultra-realistic premium smartwatch commercial featuring the same young Korean woman throughout the entire sequence. Maintain identical facial features, shoulder-length soft ash-brown wavy hair, glowing glass skin, natural makeup, and body proportions in every shot. She wears a fitted white athletic crop top, high-waisted beige tennis skirt, white sneakers, delicate gold hoop earrings, and a premium silver smartwatch on her wrist. Bright summer morning, luxury lifestyle aesthetic, premium commercial cinematography, ultra-realistic storytelling.
->
-> The video opens with the young Korean woman already in frame, smiling naturally toward the camera while walking through a beautiful tree-lined city street. As she approaches the camera, she gracefully raises her wrist toward the lens, revealing the premium smartwatch catching the warm morning sunlight. She gently taps the display, and the screen instantly lights up with an elegant animation. She smiles confidently and says, "Let's make today count."
->
-> A cinematic macro hero shot showcases the smartwatch from every angle. Close-ups reveal the premium metal frame, crystal-clear display, rotating crown, textured strap, elegant reflections, and beautifully animated watch face as sunlight glides across the polished surface.
->
-> She continues her morning jog through peaceful parks while the smartwatch tracks her pace, heart rate, calories, and distance. Smooth tracking shots capture her checking workout progress, receiving encouraging fitness notifications, and smiling naturally as she enjoys the run.
->
-> The scene transitions to a styl…
-
-### E3 · 电影感晨间健身日常
+### E1 · 电影感晨间健身日常
 
 - Creator: @AIwithkhan
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-3bdeb046587d) · [finished media](https://media.goodcase.ai/media/video/case-3bdeb046587d.mp4) · [poster](https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg) · [original source](https://x.com/AIwithkhan/status/2081222954659234074)
@@ -56,7 +21,30 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > After finishing her workout, she drinks water, sits cross-legged on the yoga mat for mindful breathing, smiles peacefully, then returns home. She prepares a fresh st…
 
-### E4 · 首尔夏夜 Vlog
+### E2 · 韩国女孩的社区健身房日常
+
+- Creator: @AIwithkhan
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16) · [finished media](https://media.goodcase.ai/cases/9f8dfd486cd9.mp4) · [poster](https://media.goodcase.ai/cases/11e9d6612c78.jpg) · [original source](https://x.com/AIwithkhan/status/2104408252670939438)
+- Summary: Baddie working her A** out in the gym 🥵 Made with Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman going to…
+- Prompt excerpt:
+
+> Create a 30-second ultra-realistic personal home-video of a young Korean woman going to a local gym for a simple workout. Use the attached image as the character reference and keep her face, hairstyle and overall appearance consistent throughout.
+>
+> She leaves her home carrying a small gym bag and walks through the quiet neighborhood toward a nearby local gym. Before entering, she ties her long black hair into a neat ponytail and adjusts her gym bag.
+>
+> Inside the gym, she changes into realistic workout clothes: a fitted black athletic crop top, high-waisted charcoal leggings, clean white training shoes, and a small fitness watch. She places her bag and water bottle beside a workout bench and begins stretching.
+>
+> She starts with light dumbbell exercises, then does bodyweight squats, lunges and jumping-jack exercises. Show realistic movement, controlled breathing and natural effort. Her face gradually becomes slightly sweaty as the workout continues.
+>
+> She pauses, grabs her water bottle and drinks several times, then wipes sweat from her forehead and neck with a small white towel. She looks at herself in the gym mirror, laughs at how sweaty she has become and smiles.
+>
+> She continues with a short treadmill run, breathing naturally and occasionally laughing when she gets tired. She slows down, steps off carefully, grabs her towel and wipes her face again.
+>
+> Near the end, she sits on the bench catching her breath, drinks water, smiles toward the camera and says, “That was a good workout!” She gives a small laugh, picks up her gym bag and walks out.
+>
+> Camera: Raw early-2000s consumer DV-…
+
+### E3 · 首尔夏夜 Vlog
 
 - Creator: @AIwithkhan
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) · [finished media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) · [poster](https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg) · [original source](https://x.com/AIwithkhan/status/2092971211169100048)
@@ -69,10 +57,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 韩巷夏日骑行的女孩 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b) | [Media](https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-9a5c5cbd518b.mp4) | [Original](https://x.com/AIwithkhan/status/2091175465037746522) | E1 |
-| 智能手表产品生活方式广告 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-146e12082f4d) | [Media](https://media.goodcase.ai/media/video/case-146e12082f4d.mp4) | [Original](https://x.com/AIwithkhan/status/2080519081959276735) | E2 |
-| 电影感晨间健身日常 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-3bdeb046587d) | [Media](https://media.goodcase.ai/media/video/case-3bdeb046587d.mp4) | [Original](https://x.com/AIwithkhan/status/2081222954659234074) | E3 |
-| 首尔夏夜 Vlog | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) | [Media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) | [Original](https://x.com/AIwithkhan/status/2092971211169100048) | E4 |
+| 电影感晨间健身日常 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-3bdeb046587d) | [Media](https://media.goodcase.ai/media/video/case-3bdeb046587d.mp4) | [Original](https://x.com/AIwithkhan/status/2081222954659234074) | E1 |
+| 韩国女孩的社区健身房日常 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16) | [Media](https://media.goodcase.ai/cases/9f8dfd486cd9.mp4) | [Original](https://x.com/AIwithkhan/status/2104408252670939438) | E2 |
+| 首尔夏夜 Vlog | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) | [Media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) | [Original](https://x.com/AIwithkhan/status/2092971211169100048) | E3 |
 
 ## Derivation boundary
 

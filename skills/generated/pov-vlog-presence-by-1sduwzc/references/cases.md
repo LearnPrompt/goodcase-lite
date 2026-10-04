@@ -1,40 +1,12 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 7 published Cases attributed to Strength04_X. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 6 published Cases attributed to Strength04_X. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 股市崩盘新闻直播
-
-- Creator: @Strength04_X
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-f5315418af5f) · [finished media](https://media.goodcase.ai/media/video/case-f5315418af5f.mp4) · [poster](https://media.goodcase.ai/media/poster/case-f5315418af5f.jpg) · [original source](https://x.com/Strength04_X/status/2080895772531581198)
-- Summary: 一份高度详细的直播风格提示词，用于营造实时新闻报道氛围，包含记者细节、场景设置及电影级运镜指令。
-- Prompt excerpt:
-
-> BROADCAST TYPE: Live business news report covering a sudden stock market crash during trading hours.
->
-> ON-AIR REPORTER: Female journalist, early 30s. Sharp blazer, earpiece, handheld mic with financial network logo. Composed but visibly tense.
->
-> LIVE BROADCAST TIME: 11:20 AM. Bright daylight, glass-walled trading floor visible behind glass partition.
->
-> REPORT LOCATION: Outside a stock exchange building. Digital ticker boards flashing red numbers. Traders visible through windows, gesturing anxiously. Passersby stopping to check phones.
->
-> BROADCAST CAMERA: Steady tripod-mounted main shot with a secondary handheld cutaway camera. Occasional quick zoom to ticker board numbers dropping. Reflections of red digital numbers on glass.
->
-> LIVE SEGMENTS:
-> Opening: Reporter explains the sudden index drop and market panic.
-> Update: Camera cuts to trading floor screens showing plunging graphs.
-> Eyewitness Moment: A trader stepping outside briefly comments on the chaos.
-> Situation Change: Ticker shows a fresh plunge, reporter reacts live to the number.
-> Closing: Reporter signs off, noting market will be watched closely into afternoon.
->
-> LIVE AUDIO: Muffled trading floor shouting, city traffic, notification pings from nearby phones, reporter's controlled voice, no music.
->
-> BROADCAST REALISM: Genuine tension, traders ignoring camera, real-time number changes driving reactions, natural interruptions from passersby glancing at screens.
-
-### E2 · mini DV 咖啡 ASMR vlog
+### E1 · mini DV 咖啡 ASMR vlog
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog) · [finished media](https://media.goodcase.ai/media/video/seedance-25-minidv-coffee-asmr-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg) · [original source](https://x.com/Strength04_X/status/2083094742682787939)
@@ -56,7 +28,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > → (3s, propped shot) Pours frothed milk carefully over the espresso, forming light layers.
 > → (3s, warm ending shot) Holds the finished cup, takes…
 
-### E3 · 萌宠自拍变小猫突袭现场
+### E2 · 萌宠自拍变小猫突袭现场
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) · [finished media](https://media.goodcase.ai/media/video/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.jpg) · [original source](https://x.com/Strength04_X/status/2096540586866270337)
@@ -97,7 +69,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > The woman is holding the small tabby kitten gently against he…
 
-### E4 · 狗狗抢镜的镜前自拍
+### E3 · 狗狗抢镜的镜前自拍
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-wanted-a-cute-mirror-selfie-but-your-dog-wanted-to-be-the-main-charac-3d3e83219d46) · [finished media](https://media.goodcase.ai/cases/07f0e5bcf1bf.mp4) · [poster](https://media.goodcase.ai/cases/c7768b152872.jpg) · [original source](https://x.com/Strength04_X/status/2097616213371478242)
@@ -112,7 +84,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > REFERENCE & SUBJECT CONSISTENCY Use "@<image1" as the exact visual reference for the woman. Maintain identical identity, face, hairstyle, clothing, body proportions, skin texture, and natural appearance. Use exactly ONE small playful dog throughout the entire video. The dog must remain the same individual throughout. No duplicate animal and no other animal. FORMAT 30-second continuous vertical smartphone selfie video. The woman is standing in front of a full-length indoor mirror while holding the phone in one hand. The phone camera is the only camera. Natural window daylight enters from the side. Realistic mirror reflection. No cuts, no transition, no zoom. Natural handheld phone movement. --- 0–5 SEC — MIRROR SELFIE The woman is casually filming herself through the mirror. She adjusts a strand of hair while looking at the phone screen. The dog is initially lower in frame, partially beside her legs. She does not notice it immediately. The camera remains slightly imperfectly framed. --- 5–9 SEC — DOG APPEARS The dog slowly walks into the reflection behind her. She notices movement in the mirror. She turns her head. Her expression changes from neutral to amused surprise. She looks down toward the dog. The dog looks directly back at her. --- 9–14 SEC — FIRST JUMP The dog suddenly jumps upward toward her. She reacts with a surprised laugh. The phone hand moves upward instinctively. The mirror framing becomes slightly tilted. She tries to keep herself and the do…
 
-### E5 · 雨天自拍中抢发圈扑镜头的小猫
+### E4 · 雨天自拍中抢发圈扑镜头的小猫
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd) · [finished media](https://media.goodcase.ai/cases/b97cc5690b39.mp4) · [poster](https://media.goodcase.ai/cases/71d7b3358a28.jpg) · [original source](https://x.com/Strength04_X/status/2098256490238755226)
@@ -127,7 +99,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Prompt - REFERENCE & SUBJECT Use "@<image1" as the exact visual reference for the woman. Preserve her identity, face, hairstyle, clothing, skin texture, body proportions, and natural appearance throughout the entire clip. Exactly ONE small tabby kitten. The same kitten remains continuous throughout. No other animal, no duplicate kitten. FORMAT 30-second vertical 9:16 handheld front-camera selfie. Indoor room beside a window on a rainy day. Soft gray natural daylight through the glass. Very subtle window reflections and realistic ambient room sound. No color grading, no cinematic lighting, no beauty filter. --- 0–5 SEC — QUIET RAINY MOMENT The woman stands beside the window holding the kitten against her chest. Rain droplets are visible softly on the window behind her. She looks at the kitten and gently touches its forehead with her finger. The kitten watches her hand. She gives a quiet smile and casually says: "You're being good today, huh?" The phone remains slightly imperfect and handheld. --- 5–10 SEC — HAIR TIE CATCHES ATTENTION She reaches toward the back of her tied hair with her free hand and adjusts the hair tie. The kitten suddenly notices the small hair tie around her wrist. Its ears move forward. It stretches one paw toward it. She notices and pulls her wrist away. A small nose-laugh escapes. --- 10–15 SEC — THEFT The kitten reaches again and catches the hair tie between its paws. She reacts with surprise. The kitten pulls it toward itself. She laughs and…
 
-### E6 · 手持式护肤 Vlog 摄像机美学
+### E5 · 手持式护肤 Vlog 摄像机美学
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-8a3e0b49e77b) · [finished media](https://media.goodcase.ai/media/video/vlog-8a3e0b49e77b.mp4) · [poster](https://media.goodcase.ai/media/poster/vlog-8a3e0b49e77b.jpg) · [original source](https://x.com/Strength04_X/status/2077333945687925044)
@@ -149,7 +121,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > → (2s, propped shot) Brushes hair gently in front of the mirror.
 > → (2s, warm ending shot) Looks at reflection, relaxed smile. "Ready for bed now.…
 
-### E7 · 韩国女生户外泳池 Vlog
+### E6 · 韩国女生户外泳池 Vlog
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-9decd38e99a4) · [finished media](https://media.goodcase.ai/cases/1ce41bade077.mp4) · [poster](https://media.goodcase.ai/cases/68ae69f99fe4.jpg) · [original source](https://x.com/Strength04_X/status/2091737661061095648)
@@ -174,13 +146,12 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 股市崩盘新闻直播 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-f5315418af5f) | [Media](https://media.goodcase.ai/media/video/case-f5315418af5f.mp4) | [Original](https://x.com/Strength04_X/status/2080895772531581198) | E1 |
-| mini DV 咖啡 ASMR vlog | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog) | [Media](https://media.goodcase.ai/media/video/seedance-25-minidv-coffee-asmr-vlog.mp4) | [Original](https://x.com/Strength04_X/status/2083094742682787939) | E2 |
-| 萌宠自拍变小猫突袭现场 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) | [Media](https://media.goodcase.ai/media/video/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.mp4) | [Original](https://x.com/Strength04_X/status/2096540586866270337) | E3 |
-| 狗狗抢镜的镜前自拍 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-pov-you-wanted-a-cute-mirror-selfie-but-your-dog-wanted-to-be-the-main-charac-3d3e83219d46) | [Media](https://media.goodcase.ai/cases/07f0e5bcf1bf.mp4) | [Original](https://x.com/Strength04_X/status/2097616213371478242) | E4 |
-| 雨天自拍中抢发圈扑镜头的小猫 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd) | [Media](https://media.goodcase.ai/cases/b97cc5690b39.mp4) | [Original](https://x.com/Strength04_X/status/2098256490238755226) | E5 |
-| 手持式护肤 Vlog 摄像机美学 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/vlog-8a3e0b49e77b) | [Media](https://media.goodcase.ai/media/video/vlog-8a3e0b49e77b.mp4) | [Original](https://x.com/Strength04_X/status/2077333945687925044) | E6 |
-| 韩国女生户外泳池 Vlog | @Strength04_X | [GoodCase](https://goodcase.ai/cases/vlog-9decd38e99a4) | [Media](https://media.goodcase.ai/cases/1ce41bade077.mp4) | [Original](https://x.com/Strength04_X/status/2091737661061095648) | E7 |
+| mini DV 咖啡 ASMR vlog | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog) | [Media](https://media.goodcase.ai/media/video/seedance-25-minidv-coffee-asmr-vlog.mp4) | [Original](https://x.com/Strength04_X/status/2083094742682787939) | E1 |
+| 萌宠自拍变小猫突袭现场 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) | [Media](https://media.goodcase.ai/media/video/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.mp4) | [Original](https://x.com/Strength04_X/status/2096540586866270337) | E2 |
+| 狗狗抢镜的镜前自拍 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-pov-you-wanted-a-cute-mirror-selfie-but-your-dog-wanted-to-be-the-main-charac-3d3e83219d46) | [Media](https://media.goodcase.ai/cases/07f0e5bcf1bf.mp4) | [Original](https://x.com/Strength04_X/status/2097616213371478242) | E3 |
+| 雨天自拍中抢发圈扑镜头的小猫 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd) | [Media](https://media.goodcase.ai/cases/b97cc5690b39.mp4) | [Original](https://x.com/Strength04_X/status/2098256490238755226) | E4 |
+| 手持式护肤 Vlog 摄像机美学 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/vlog-8a3e0b49e77b) | [Media](https://media.goodcase.ai/media/video/vlog-8a3e0b49e77b.mp4) | [Original](https://x.com/Strength04_X/status/2077333945687925044) | E5 |
+| 韩国女生户外泳池 Vlog | @Strength04_X | [GoodCase](https://goodcase.ai/cases/vlog-9decd38e99a4) | [Media](https://media.goodcase.ai/cases/1ce41bade077.mp4) | [Original](https://x.com/Strength04_X/status/2091737661061095648) | E6 |
 
 ## Derivation boundary
 

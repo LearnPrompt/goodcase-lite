@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Just_sharon7. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to Just_sharon7. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -28,34 +28,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 6–9s
 > She gracefully sits inside the convertible. Cl…
 
-### E2 · 浓醇巧克力饮料倾倒动画
-
-- Creator: @Just_sharon7
-- Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-minimax-h3-ai-b900252261a7) · [finished media](https://media.goodcase.ai/cases/6f3abe0ed028.mp4) · [poster](https://media.goodcase.ai/cases/552e39f36999.jpg) · [original source](https://x.com/Just_sharon7/status/2094667719497187408)
-- Summary: Watch this creamy chocolate pour and instantly crave a sip. Minimax H3 on @FishCreativeHQ Prompt A 15-second 2D flat mot
-- Prompt excerpt:
-
-> Watch this creamy chocolate pour and instantly crave a sip.
->
-> Minimax H3 on @FishCreativeHQ
->
-> Prompt
->
-> A 15-second 2D flat motion-graphics commercial in a clean, rich chocolate-drink style. Soft warm beige / pale cream paper-textured background. Limited palette: deep cocoa brown, creamy off-white, milk-chocolate amber, gold sparkle accents, and thin warm-cream highlight lines. Smooth, weighty liquid animation, glossy pours, and soft squash-and-stretch. No photorealism — bold graphic shapes with slight paper grain.
-> 0.0–1.2s
-> Scattered glossy dark-brown chocolate droplets of different sizes float and drift slowly across the empty cream background, each with a small cream highlight.
->
-> 1.2–2.5s
-> The droplets gather and pour downward in a thick, ribbon-like stream, forming a white-outlined short tumbler glass. Rich brown liquid fills it from the top and overflows in a rounded, velvety splash.
-> 2.5–4.0s
-> A second graphic can tilts in from the top-right and pours a continuous chocolate stream into the glass. The liquid fills completely; cream-colored circular swirls rise inside. Small gold sparkles appear around the rim and splash.
->
-> 4.0–6.0s
-> The finished drink: short white-outlined glass of glossy chocolate, condensation dots as simple white circles, “Cokoa” lettering on the glass. A standing can appears beside it. Graphic chocolate chunks and a cocoa-powder pile slide in at the bottom-left. Blue-cream curved splash lines and gold four-pointed stars pop around the scene. The camera eases slightly closer; the pour feels thick, creamy, and alive.
-> 6.0–8.5s
-> The drink and splash dissolve into…
-
-### E3 · 柠檬少女LUMI的活力饮品广告
+### E2 · 柠檬少女LUMI的活力饮品广告
 
 - Creator: @Just_sharon7
 - Evidence: [GoodCase](https://goodcase.ai/cases/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49) · [finished media](https://media.goodcase.ai/media/video/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49.mp4) · [poster](https://media.goodcase.ai/media/poster/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49.jpg) · [original source](https://x.com/Just_sharon7/status/2095516988743225637)
@@ -78,7 +51,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > CUT 03 | 2.10–3.10s – Close shot: she lifts the glass and takes a slow sip, eyes glinting; a fizz of golden bubbles erupts around her as…
 
-### E4 · 电影感巴黎时尚广告大片：五镜头街拍
+### E3 · 电影感巴黎时尚广告大片：五镜头街拍
 
 - Creator: @Just_sharon7
 - Evidence: [GoodCase](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear) · [finished media](https://media.goodcase.ai/media/video/youmind-paris-fashion-campaign-streetwear.mp4) · [poster](https://media.goodcase.ai/media/poster/youmind-paris-fashion-campaign-streetwear.jpg) · [original source](https://x.com/Just_sharon7/status/2083793251132186998)
@@ -105,9 +78,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 阿马尔菲海岸奢华珠宝广告 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/case-e53b614b0f42) | [Media](https://media.goodcase.ai/media/video/case-e53b614b0f42.mp4) | [Original](https://x.com/Just_sharon7/status/2080973878705434901) | E1 |
-| 浓醇巧克力饮料倾倒动画 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-minimax-h3-ai-b900252261a7) | [Media](https://media.goodcase.ai/cases/6f3abe0ed028.mp4) | [Original](https://x.com/Just_sharon7/status/2094667719497187408) | E2 |
-| 柠檬少女LUMI的活力饮品广告 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49) | [Media](https://media.goodcase.ai/media/video/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49.mp4) | [Original](https://x.com/Just_sharon7/status/2095516988743225637) | E3 |
-| 电影感巴黎时尚广告大片：五镜头街拍 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear) | [Media](https://media.goodcase.ai/media/video/youmind-paris-fashion-campaign-streetwear.mp4) | [Original](https://x.com/Just_sharon7/status/2083793251132186998) | E4 |
+| 柠檬少女LUMI的活力饮品广告 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49) | [Media](https://media.goodcase.ai/media/video/minimax-h3-lumi-just-turned-a-lemonade-ad-into-a-full-blown-visual-experience-6e42bdee9e49.mp4) | [Original](https://x.com/Just_sharon7/status/2095516988743225637) | E2 |
+| 电影感巴黎时尚广告大片：五镜头街拍 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear) | [Media](https://media.goodcase.ai/media/video/youmind-paris-fashion-campaign-streetwear.mp4) | [Original](https://x.com/Just_sharon7/status/2083793251132186998) | E3 |
 
 ## Derivation boundary
 
