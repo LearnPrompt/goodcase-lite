@@ -1,12 +1,21 @@
 # Case evidence
 
-This workflow is derived from 68 published Cases across 51 creators.
+This workflow is derived from 78 published Cases across 58 creators.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 金发少女在高中走廊释放超能力
+### E1 · 单图生成的雨林赛车一镜到底追逐
+
+- Creator: Umesh
+- Evidence: [GoodCase](https://goodcase.ai/cases/30s-one-take-rainforest-race-chase-from-single-image) · [finished media](https://media.goodcase.ai/cases/16a077baa7df.mp4) · [poster](https://media.goodcase.ai/cases/588d8908ac46.jpg) · [original source](https://x.com/umesh_ai/status/2103382240571138220)
+- Summary: Starting from one supplied still of a white-orange-green number 09 race car on a wet jungle road, a single second-by-second prompt drives a continuous 30-second photorealistic chase: two rival cars, a falling tree, a waterfall drift, a collapsing causeway, a jungle sinkhole, a cave behind a waterfall, a disintegrating rope bridge and a final mid-air orbit. The author did not name the video model.
+- Prompt excerpt:
+
+> Create a 30-second photorealistic cinematic action sequence beginning exactly from the supplied image.  Use the supplied image as the exact identity anchor for the main vehicle and world. Preserve the futuristic race machine with white, orange and green livery, number 09, glowing circular rear propulsion rings, glowing front intake text, low-slung aerodynamic body, wet-surface reflections, and rainforest highway setting.  The scene unfolds as one seamless continuous shot with nonstop momentum, escalating spectacle, and fluid spatial continuity. The tone is hyper-intense, elegant, and visually overwhelming, with premium large-format realism, extreme speed, wet-road dynamics, spray, drifting, jungle atmosphere, and gigantic environmental events.  The world is a colossal tropical rainforest megavalley filled with towering cliffs, hanging vines, giant palms, mist, ruined stone structures hidden in the jungle, elevated roadways, waterfalls, flooded ravines, and storm light cutting through the canopy. Vehicle 09 is being chased by two rival machines: a black-and-red interceptor already visible ahead on the right lane, and a silver-blue pursuit car emerging behind through the spray.  SECONDS 0-4  Begin exactly from the supplied image composition at low rear three-quarter angle behind Vehicle 09, only centimeters above the wet road. Water spray streaks directly toward the lens, the rear propulsion rings glow hot orange, and the road reflections stretch into glossy ribbons beneath the car.  The camera matches speed with Vehicle 09 while the jungle rushes past in dense green parallax…
+
+### E2 · 金发少女在高中走廊释放超能力
 
 - Creator: @AiwithElisia
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac) · [finished media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-b204cdfb3dac.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg) · [original source](https://x.com/AiwithElisia/status/2092119695201837059)
@@ -23,7 +32,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Use cinematic slow motion for the strongest attacks, followed by fast-paced cuts. Show students reacting and moving away in fear as the fight continues down the hallway. The glowing pink-red energy should illuminate the…
 
-### E2 · 魔幻都市奇幻战斗动画
+### E3 · 魔幻都市奇幻战斗动画
 
 - Creator: @haruuraeadss
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) · [finished media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) · [poster](https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg) · [original source](https://x.com/haruuraeadss/status/2080976327231107259)
@@ -47,7 +56,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 【攻撃展開】
 > 開始時、主人公の掌前に主ゲートが形成される。二層から四層の不完全な同心円ゲートで、各リングは前…
 
-### E3 · 冰封星球要塞之战
+### E4 · 冰封星球要塞之战
 
 - Creator: @CharaspowerAI
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-1b3b8865bca8) · [finished media](https://media.goodcase.ai/media/video/case-1b3b8865bca8.mp4) · [poster](https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg) · [original source](https://x.com/CharaspowerAI/status/2080669361237303417)
@@ -56,7 +65,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A massive human fortress built into the cliffs of a frozen planet faces a final assault from an endless ocean of armored insectoid aliens advancing across the ice beneath a violent magnetic storm, defensive cannons rotating into position as thousands of infantry soldiers line the walls and prepare to fire; the battle begins with synchronized railgun blasts ripping through the front ranks, missiles streaking overhead and enormous creatures using smaller bodies as bridges across defensive trenches, while flying aliens dive through lightning and crash into watchtowers; a gigantic siege beast covered in crystalline armor charges through the main gate, scattering tanks and soldiers, then climbs the fortress wall as defenders fire point-blank into its glowing joints; the fortress commander runs along a collapsing battlement, jumps onto a rotating cannon platform and manually redirects the weapon toward a deep fracture beneath the enemy swarm, but the siege beast tears the cannon loose just as it fires; start with a majestic ultra-wide panorama showing the impossible scale of the invasion, push rapidly through the storm toward the fortress, combine sweeping crane movements with visceral ground-level combat and dramatic low-angle shots of the siege beast, use a brief slow-motion moment as lightning strikes the cannon, icy blue ambient lighting contrasted with red emergency lights and orange explosions, dense snowfall, vapor clouds, electrical arcs and shattered ice, desperate mythic last-stand atmosphere, ending with the cannon blast splitting the frozen battlefield from horizon to…
 
-### E4 · 硬核科幻动漫剪辑
+### E5 · 硬核科幻动漫剪辑
 
 - Creator: @itsPixieVerse
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-251215797a14) · [finished media](https://media.goodcase.ai/media/video/case-251215797a14.mp4) · [poster](https://media.goodcase.ai/media/poster/case-251215797a14.jpg) · [original source](https://x.com/itsPixieVerse/status/2081161446671651074)
@@ -91,7 +100,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > scorching blast-mark on an adobe wall, sliced metal debris falling, wind
 > sweeping dust over footprints.…
 
-### E5 · 火凤凰与水龙之战
+### E6 · 火凤凰与水龙之战
 
 - Creator: @noorlewisx
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-2c7bcef707d4) · [finished media](https://media.goodcase.ai/cases/3619d027e9e1.mp4) · [poster](https://media.goodcase.ai/cases/422cca8431b5.jpg) · [original source](https://x.com/noorlewisx/status/2095039305555263672)
@@ -116,7 +125,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 12.5–15s: Epic wide pull-back/crane up. Dragon and phoenix collide, creat…
 
-### E6 · 跳舞的金刚与霸王龙
+### E7 · 跳舞的金刚与霸王龙
 
 - Creator: @MrDasOnX
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-41ba2a3d23dc) · [finished media](https://media.goodcase.ai/media/video/case-41ba2a3d23dc.mp4) · [poster](https://media.goodcase.ai/media/poster/case-41ba2a3d23dc.jpg) · [original source](https://x.com/MrDasOnX/status/2091132590908686390)
@@ -125,7 +134,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > King Kong and the T-Rex dance in a foggy jungle sunset, wearing party hats in a humorous, cinematic style.
 
-### E7 · 凤凰骑士变身序列
+### E8 · 凤凰骑士变身序列
 
 - Creator: @LudovicCreator
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) · [finished media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg) · [original source](https://x.com/LudovicCreator/status/2081092171428401560)
@@ -136,27 +145,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Made  in @LumaLabsAI #LumaCPP
 
-### E8 · 末日幸存者与感染犬
-
-- Creator: @AIwithkhan
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-44b9dbf5729c) · [finished media](https://media.goodcase.ai/media/video/case-44b9dbf5729c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-44b9dbf5729c.jpg) · [original source](https://x.com/AIwithkhan/status/2095351192054595892)
-- Summary: 一段感人至深的多镜头电影化序列，描绘了一名幸存者在废弃豪宅中与一只感染犬的相遇，随后发生了一场充满希望的转变。
-- Prompt excerpt:
-
-> Multi-shot sequence with hard cuts between shots. Keep the same characters and visual style throughout. No music or score — only natural diegetic sound.\n\nSHOT 1 \nA dirty, exhausted 18-year-old girl with dark auburn-brown hair in a messy low ponytail, warm brown eyes, faded olive-green military jacket, backpack and gloves, aims a bolt-action rifle inside an abandoned ornate mansion. Sweat, dirt, a cheek scrape and tears cover her face. Her hands tremble. She closes her eyes as a tear rolls down, then hears something and lowers the rifle, visibly heartbroken.\n\nSHOT 2\nOver her shoulder, an infected golden-coated Golden Retriever sits on the debris-covered parquet floor. Matted fur, cloudy white eyes, wounds and dark veins. He trembles while softly whimpering and growling.\n\nSHOT 3 \nShe slowly crouches, places the rifle on the floor, wipes her tears and gives the dog a small broken smile. She quietly speaks to him, pulls a worn yellow-green tennis ball from her jacket and gently rolls it toward him.\n\nSHOT 4\nExtreme low-angle close-up of the tennis ball rolling through dust across the cracked parquet floor. It stops directly in front of the dog's paws. Hold on the still ball.\n\nHARD CUT / TRANSFORMATION\n\nSHOT 5\nSame low camera angle and ball position, but now on a clean sunny residential basketball court. A healthy golden-coated Golden Retriever suddenly grabs the ball. His eyes are clear and warm brown, fur clean, playful and energetic. He shakes and plays with the ball.\n\nSHOT 6\nWide shot of the basketball court. The woman throws the ball and the happy dog spr…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 金发少女在高中走廊释放超能力 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-b204cdfb3dac.mp4) | [Original](https://x.com/AiwithElisia/status/2092119695201837059) | E1 |
-| 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E2 |
-| 冰封星球要塞之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-1b3b8865bca8) | [Media](https://media.goodcase.ai/media/video/case-1b3b8865bca8.mp4) | [Original](https://x.com/CharaspowerAI/status/2080669361237303417) | E3 |
-| 硬核科幻动漫剪辑 | @itsPixieVerse | [GoodCase](https://goodcase.ai/cases/case-251215797a14) | [Media](https://media.goodcase.ai/media/video/case-251215797a14.mp4) | [Original](https://x.com/itsPixieVerse/status/2081161446671651074) | E4 |
-| 火凤凰与水龙之战 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/case-2c7bcef707d4) | [Media](https://media.goodcase.ai/cases/3619d027e9e1.mp4) | [Original](https://x.com/noorlewisx/status/2095039305555263672) | E5 |
-| 跳舞的金刚与霸王龙 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/case-41ba2a3d23dc) | [Media](https://media.goodcase.ai/media/video/case-41ba2a3d23dc.mp4) | [Original](https://x.com/MrDasOnX/status/2091132590908686390) | E6 |
-| 凤凰骑士变身序列 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/LudovicCreator/status/2081092171428401560) | E7 |
-| 末日幸存者与感染犬 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-44b9dbf5729c) | [Media](https://media.goodcase.ai/media/video/case-44b9dbf5729c.mp4) | [Original](https://x.com/AIwithkhan/status/2095351192054595892) | E8 |
+| 单图生成的雨林赛车一镜到底追逐 | Umesh | [GoodCase](https://goodcase.ai/cases/30s-one-take-rainforest-race-chase-from-single-image) | [Media](https://media.goodcase.ai/cases/16a077baa7df.mp4) | [Original](https://x.com/umesh_ai/status/2103382240571138220) | E1 |
+| 金发少女在高中走廊释放超能力 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-b204cdfb3dac.mp4) | [Original](https://x.com/AiwithElisia/status/2092119695201837059) | E2 |
+| 魔幻都市奇幻战斗动画 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-16429da4be7b) | [Media](https://media.goodcase.ai/media/video/case-16429da4be7b.mp4) | [Original](https://x.com/haruuraeadss/status/2080976327231107259) | E3 |
+| 冰封星球要塞之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-1b3b8865bca8) | [Media](https://media.goodcase.ai/media/video/case-1b3b8865bca8.mp4) | [Original](https://x.com/CharaspowerAI/status/2080669361237303417) | E4 |
+| 硬核科幻动漫剪辑 | @itsPixieVerse | [GoodCase](https://goodcase.ai/cases/case-251215797a14) | [Media](https://media.goodcase.ai/media/video/case-251215797a14.mp4) | [Original](https://x.com/itsPixieVerse/status/2081161446671651074) | E5 |
+| 火凤凰与水龙之战 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/case-2c7bcef707d4) | [Media](https://media.goodcase.ai/cases/3619d027e9e1.mp4) | [Original](https://x.com/noorlewisx/status/2095039305555263672) | E6 |
+| 跳舞的金刚与霸王龙 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/case-41ba2a3d23dc) | [Media](https://media.goodcase.ai/media/video/case-41ba2a3d23dc.mp4) | [Original](https://x.com/MrDasOnX/status/2091132590908686390) | E7 |
+| 凤凰骑士变身序列 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/LudovicCreator/status/2081092171428401560) | E8 |
+| 末日幸存者与感染犬 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-44b9dbf5729c) | [Media](https://media.goodcase.ai/media/video/case-44b9dbf5729c.mp4) | [Original](https://x.com/AIwithkhan/status/2095351192054595892) | E— |
 | 史诗冰雪奇幻：泰坦觉醒 | @abxxai | [GoodCase](https://goodcase.ai/cases/case-579dd9bdd240) | [Media](https://media.goodcase.ai/media/video/case-579dd9bdd240.mp4) | [Original](https://x.com/abxxai/status/2081023473305162165) | E— |
 | 暗黑奇幻动漫召唤仪式 | @ontm0422ai | [GoodCase](https://goodcase.ai/cases/case-5c6186d655a1) | [Media](https://media.goodcase.ai/media/video/case-5c6186d655a1.mp4) | [Original](https://x.com/ontm0422ai/status/2080913136178397407) | E— |
 | 魔法厨房的茶艺奇遇 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-808a32ae79b3) | [Media](https://media.goodcase.ai/cases/8681eb5399e2.mp4) | [Original](https://x.com/Strength04_X/status/2093962802637504916) | E— |
@@ -168,7 +169,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 传奇骑士堡垒之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-c726edc4268d) | [Media](https://media.goodcase.ai/media/video/case-c726edc4268d.mp4) | [Original](https://x.com/CharaspowerAI/status/2080306973220725206) | E— |
 | GPT Image 2 + Seedance 2.5 三十秒电影级短片 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/chillaikalan-seedance-ai-20190731dd06) | [Media](https://media.goodcase.ai/cases/ccb8d3ef65e4.mp4) | [Original](https://x.com/ChillaiKalan__/status/2088866007918268515) | E— |
 | cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic | @cocktailpeanut | [GoodCase](https://goodcase.ai/cases/cinematic-sci-fi-suspense-video-a-realistic-spaceship-crew-in-full-futuristic) | [Media](https://media.goodcase.ai/cases/dfe92e389553.webm) | [Original](https://x.com/cocktailpeanut/status/2085498501384024495) | E— |
-| "Create a continuous 6-second split-screen animation from the supplied image. | @higgsfield | [GoodCase](https://goodcase.ai/cases/create-a-continuous-6-second-split-screen-animation-from-the-supplied-image) | [Media](https://media.goodcase.ai/cases/af0e1f6d7b01.mp4) | [Original](https://x.com/higgsfield/status/2097486959296057609) | E— |
 
 ## Derivation boundary
 

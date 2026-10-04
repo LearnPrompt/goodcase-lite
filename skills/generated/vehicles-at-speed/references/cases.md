@@ -1,12 +1,21 @@
 # Case evidence
 
-This workflow is derived from 14 published Cases across 12 creators.
+This workflow is derived from 19 published Cases across 15 creators.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 黄超跑穿行迪拜天际线
+### E1 · 单图生成的雨林赛车一镜到底追逐
+
+- Creator: Umesh
+- Evidence: [GoodCase](https://goodcase.ai/cases/30s-one-take-rainforest-race-chase-from-single-image) · [finished media](https://media.goodcase.ai/cases/16a077baa7df.mp4) · [poster](https://media.goodcase.ai/cases/588d8908ac46.jpg) · [original source](https://x.com/umesh_ai/status/2103382240571138220)
+- Summary: Starting from one supplied still of a white-orange-green number 09 race car on a wet jungle road, a single second-by-second prompt drives a continuous 30-second photorealistic chase: two rival cars, a falling tree, a waterfall drift, a collapsing causeway, a jungle sinkhole, a cave behind a waterfall, a disintegrating rope bridge and a final mid-air orbit. The author did not name the video model.
+- Prompt excerpt:
+
+> Create a 30-second photorealistic cinematic action sequence beginning exactly from the supplied image.  Use the supplied image as the exact identity anchor for the main vehicle and world. Preserve the futuristic race machine with white, orange and green livery, number 09, glowing circular rear propulsion rings, glowing front intake text, low-slung aerodynamic body, wet-surface reflections, and rainforest highway setting.  The scene unfolds as one seamless continuous shot with nonstop momentum, escalating spectacle, and fluid spatial continuity. The tone is hyper-intense, elegant, and visually overwhelming, with premium large-format realism, extreme speed, wet-road dynamics, spray, drifting, jungle atmosphere, and gigantic environmental events.  The world is a colossal tropical rainforest megavalley filled with towering cliffs, hanging vines, giant palms, mist, ruined stone structures hidden in the jungle, elevated roadways, waterfalls, flooded ravines, and storm light cutting through the canopy. Vehicle 09 is being chased by two rival machines: a black-and-red interceptor already visible ahead on the right lane, and a silver-blue pursuit car emerging behind through the spray.  SECONDS 0-4  Begin exactly from the supplied image composition at low rear three-quarter angle behind Vehicle 09, only centimeters above the wet road. Water spray streaks directly toward the lens, the rear propulsion rings glow hot orange, and the road reflections stretch into glossy ribbons beneath the car.  The camera matches speed with Vehicle 09 while the jungle rushes past in dense green parallax…
+
+### E2 · 黄超跑穿行迪拜天际线
 
 - Creator: @AIwithAliya
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaliya-seedance-ai-cf398f743859) · [finished media](https://media.goodcase.ai/media/video/aiwithaliya-seedance-ai-cf398f743859.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaliya-seedance-ai-cf398f743859.jpg) · [original source](https://x.com/AIwithAliya/status/2093022598187954484)
@@ -25,7 +34,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > visual_feel: "Strong overhead midday light + warm hazy atmosphere softening the horizon. Color strictly natural and true-to-life — not oversaturated, not faded, not washed out. Continuous soft haze and atmospheric layering from spire tip down to street level. Every camera move, whether aerial or ground-tracking, strictly gimbal-level smooth — absolutely no handhe…
 
-### E2 · 女骑手穿越险峻山径抵达山谷
+### E3 · 女骑手穿越险峻山径抵达山谷
 
 - Creator: @aiwithaly
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) · [finished media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg) · [original source](https://x.com/aiwithaly/status/2092111337686262077)
@@ -40,7 +49,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female rider, bike, clothing, trail, and daylight throughout. Show her starting on a mountain ridge, accelerating naturally downhill, navigating roots, rocks, gravel, and tight corners with realistic braking, balance, tire traction, and suspension movement. Finish as she exits the forest and stops at a scenic valley viewpoint. Cinematic tracking shots, realistic outdoor physics, natural forest ambience, bike sounds, wind, and breathing. No dialogue, CGI look, impossible jumps, teleportation, distorted anatomy, text, logos, or watermark.
 
-### E3 · Bamboo Toy Car Transformation Vlog
+### E4 · Bamboo Toy Car Transformation Vlog
 
 - Creator: @john87445528
 - Evidence: [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) · [finished media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg) · [original source](https://x.com/john87445528/status/2084644638724395138)
@@ -52,7 +61,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > HO2iXF9a4AAZsco
 > 。 她神态放松，右手拿着一个传统竹制发声玩具“竹知了”。竹知了由短竹筒、细绳和小竹片组成。她一边经过停车场，一边漫不经心地转动竹知了。 竹知了发出连续、滑稽而响亮的“呜哇、呜哇”鸣叫声。 她并不是超级英雄，没有盔甲，不发生身体变形，始终保持普通成年女性的真实外貌。 关键车辆 停车场中央只有一辆紫色智界R7发生变形。 必须准确保持紫色车漆、轿跑SUV车身比例、贯穿式前灯、车轮、车门、玻璃和车身覆盖件的视觉连续性。车辆内部无人，没有驾驶员和乘客。 变形过程必须清晰可读：车轮折叠成为肩部结构，车门展开成为前臂护甲，底盘向下延伸形成双腿，车头与贯穿式灯带上升成为胸部，紫色车顶折叠成机器人头部。所有零件均来自同一辆车，不凭空增加零件，不突然更换车型或颜色。 30秒连续镜头 镜头开始于美女右后方约一米半、与肩膀同高的位置。摄影者跟随她缓缓进入停车场，让她的上半身、手里的竹知了以及前方紫色智界R7同时处于画面中。 镜头不能突然飞起，不能切换机位，也不能拉远成为俯瞰全景。 美女一边走，一边悠闲地转动竹知了。连续的“呜哇、呜哇”声在停车场里格外明显。 几名销售人员和顾客好奇地回头看她，但没有人太在意。 突然，紫色智界R7的贯穿式灯带自行亮起。 竹知了每响一声，R7的车灯便同步闪烁一次。 美女逐渐放慢脚步。 智界R7的车身内部传出低沉的金属震动声。悬架猛然下沉，四条轮胎同时摩擦地面，附近车辆的警报器接连响起。 整辆紫色R7突然开始变形。 引擎盖向两侧裂开，车门旋转展开，车轮离开地面并锁入肩部；底盘向下伸展，两条沉重的机械腿砸落在沥青路面上，震出蜘蛛网状裂纹。 紫色智界R7在停车场中央站立起来，变成一台数层楼高的巨型机器人。 停车场瞬间陷入恐慌。 顾客丢下宣传册和咖啡四散奔逃。销售人员钻到展车后面躲避。购物袋、宣传单和遮阳帽被机器人起身产生的气流卷上半空。两辆正在倒车的汽车发生轻微碰撞，喇叭持续鸣响。 机器人发出沉重的机械咆哮，挥动由车门组成的巨大手臂，将停车场的一根灯杆打弯。它随后抬起机械脚掌，踩扁旁边的空置展示台，水泥碎片和灰尘向四周飞散。 摄影者慌张地向后退并侧身躲避，镜头剧烈摇晃。飞来的小块碎片撞在镜头附近，自动对焦短暂失准，然后重新锁定机器人。 镜头迅速回到美女身上。 所有人都在逃跑。 她却几乎没有反应。 她平静地抬头看了看巨型机器人…… ……然后低头看向手里的竹知了。 机器人转过身体，紫色金属脚掌刮过地面，向她迈出沉重的一步。每一步都令停车场地面震动，玻璃展厅随之颤抖。 美女只是轻轻扬起一侧眉毛。 她握紧细绳，突然加快手腕旋转速度。 竹知了的鸣叫声变得越来越急促。 “呜哇——呜哇——呜哇——” 竹筒内部开始透出淡淡的金色光芒。 光芒越来越强。 十个、数百个、成千上万个…
 
-### E4 · Cats Chasing via Red Mini Motorcycle
+### E5 · Cats Chasing via Red Mini Motorcycle
 
 - Creator: @Just_sharon7
 - Evidence: [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) · [finished media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) · [poster](https://media.goodcase.ai/cases/80df57bc40f6.jpg) · [original source](https://x.com/Just_sharon7/status/2084901309988425731)
@@ -61,7 +70,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A highly realistic cinematic shot filmed from inside a moving car looking out the side window, capturing two cats riding a small red mini motorcycle on a suburban road. An orange tabby cat is driving, gripping the handlebars with both front paws, mouth open in a surprised or determined expression, ears slightly back from the wind. Behind it, a fluffy pure white cat is perched as a passenger, holding up a shiny empty metal food bowl with one paw while the other rests for balance, mouth wide open as if meowing or yelling. The motorcycle is a compact red mini bike with a visible headlight, black tires, and a small license plate area. Background shows a typical American suburban street with houses, trees, power lines, a concrete barrier, other cars passing, and a partly cloudy sky. Dynamic motion blur on the background to convey speed, natural daylight, humorous and absurd vibe.
 
-### E5 · Dragon Rider Adventure Sequence
+### E6 · Dragon Rider Adventure Sequence
 
 - Creator: @art_muse
 - Evidence: [GoodCase](https://goodcase.ai/cases/dragon-rider-adventure-sequence) · [finished media](https://media.goodcase.ai/cases/bb6ac26d4e83.mp4) · [poster](https://media.goodcase.ai/cases/c284eacc6bb9.jpg) · [original source](https://x.com/art_muse/status/2085068608762155443)
@@ -70,7 +79,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > She stands in the field • Turns and walks toward the dragon • Reaches out and climbs onto its head • The dragon rears up, spreads its wings, and takes off • They soar into a fiery sunset while it breathes fire
 
-### E6 · First-Person POV Dragon Rider Cinematic
+### E7 · First-Person POV Dragon Rider Cinematic
 
 - Creator: @frametheory058
 - Evidence: [GoodCase](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic) · [finished media](https://media.goodcase.ai/cases/79c3393a23c8.mp4) · [poster](https://media.goodcase.ai/cases/464939ccd5ab.jpg) · [original source](https://x.com/frametheory058/status/2087007818721423855)
@@ -85,7 +94,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Audio: atmospheric…
 
-### E7 · Seedance 2.5 抖音风机车炫酷转场竖屏短片
+### E8 · Seedance 2.5 抖音风机车炫酷转场竖屏短片
 
 - Creator: @johnAGI168
 - Evidence: [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0) · [finished media](https://media.goodcase.ai/cases/7423c963aece.mp4) · [poster](https://media.goodcase.ai/cases/c9c3b92466ec.jpg) · [original source](https://x.com/johnAGI168/status/2089727243471696233)
@@ -163,51 +172,26 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 01:00-01:55：
 > 超低机位贴地追拍（Ground-level Tracking）。镜头距离前轮非常近，轮胎高速旋转，白色道路标线快速从车…
 
-### E8 · 摩托车疾驰山间公路
-
-- Creator: @Just_sharon7
-- Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) · [finished media](https://media.goodcase.ai/cases/e74284637136.mp4) · [poster](https://media.goodcase.ai/cases/d2b34cc66de6.jpg) · [original source](https://x.com/Just_sharon7/status/2091546827212636576)
-- Summary: How cinematic can pure motorcycle speed actually become on-screen? GPT Image 2 + Seedance 2.0 on @FishCreativeHQ prompt
-- Prompt excerpt:
-
-> How cinematic can pure motorcycle speed actually become on-screen?
->
-> GPT Image 2 + Seedance 2.0 on @FishCreativeHQ
->
-> prompt
->
-> Create an explosive, high-speed motorcycle action sequence in 16:9, 24fps, exactly 16 distinct cuts, total runtime ≈ 16–17 seconds.
->
-> A lone rider in a light green helmet and dark riding gear pilots a babypink sportbike along a narrow, winding paved mountain road that cuts through rolling green hills under a brilliant sunny sky with scattered white clouds and distant blue mountain ranges and water visible on the horizon. Preserve the exact bike color, rider silhouette, road markings, green landscape, fencing and lighting throughout — never redesign them.
->
-> This film is 90 % pure kinetic camera motion and 10 % environmental beauty: aggressive low-to-high tracking shots, continuous forward motion with heavy speed blur, whip pans, snap zooms, sun flares and impact shakes. No text, no graphics, no logos — pure cinematic speed.
->
-> ### CUT LIST
->
-> CUT 01 | 0.00–1.00s
-> Dynamic low-side tracking shot: red motorcycle accelerates away from a small parking area onto the winding asphalt road; lush green grass and fence posts streak past with heavy motion blur; bright sun flares at the top of the frame.
->
-> **CUT 02 | 1.00–2.00s**
-> Camera rises and locks behind the rider as the bike climbs the first gentle incline; green hills roll on both sides, a lone tree appears ahead, distant mountains and water visible on the right.
->
-> **CUT 03 | 2.00–3.00s**
-> Tight rear tracking; rider leans into a smooth left curve; the road surface and white dashed lines blur heavily; sun remains hi…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 黄超跑穿行迪拜天际线 | @AIwithAliya | [GoodCase](https://goodcase.ai/cases/aiwithaliya-seedance-ai-cf398f743859) | [Media](https://media.goodcase.ai/media/video/aiwithaliya-seedance-ai-cf398f743859.mp4) | [Original](https://x.com/AIwithAliya/status/2093022598187954484) | E1 |
-| 女骑手穿越险峻山径抵达山谷 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) | [Original](https://x.com/aiwithaly/status/2092111337686262077) | E2 |
-| Bamboo Toy Car Transformation Vlog | @john87445528 | [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) | [Media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) | [Original](https://x.com/john87445528/status/2084644638724395138) | E3 |
-| Cats Chasing via Red Mini Motorcycle | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) | [Media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) | [Original](https://x.com/Just_sharon7/status/2084901309988425731) | E4 |
-| Dragon Rider Adventure Sequence | @art_muse | [GoodCase](https://goodcase.ai/cases/dragon-rider-adventure-sequence) | [Media](https://media.goodcase.ai/cases/bb6ac26d4e83.mp4) | [Original](https://x.com/art_muse/status/2085068608762155443) | E5 |
-| First-Person POV Dragon Rider Cinematic | @frametheory058 | [GoodCase](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic) | [Media](https://media.goodcase.ai/cases/79c3393a23c8.mp4) | [Original](https://x.com/frametheory058/status/2087007818721423855) | E6 |
-| Seedance 2.5 抖音风机车炫酷转场竖屏短片 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0) | [Media](https://media.goodcase.ai/cases/7423c963aece.mp4) | [Original](https://x.com/johnAGI168/status/2089727243471696233) | E7 |
-| 摩托车疾驰山间公路 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) | [Media](https://media.goodcase.ai/cases/e74284637136.mp4) | [Original](https://x.com/Just_sharon7/status/2091546827212636576) | E8 |
+| 单图生成的雨林赛车一镜到底追逐 | Umesh | [GoodCase](https://goodcase.ai/cases/30s-one-take-rainforest-race-chase-from-single-image) | [Media](https://media.goodcase.ai/cases/16a077baa7df.mp4) | [Original](https://x.com/umesh_ai/status/2103382240571138220) | E1 |
+| 黄超跑穿行迪拜天际线 | @AIwithAliya | [GoodCase](https://goodcase.ai/cases/aiwithaliya-seedance-ai-cf398f743859) | [Media](https://media.goodcase.ai/media/video/aiwithaliya-seedance-ai-cf398f743859.mp4) | [Original](https://x.com/AIwithAliya/status/2093022598187954484) | E2 |
+| 女骑手穿越险峻山径抵达山谷 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) | [Original](https://x.com/aiwithaly/status/2092111337686262077) | E3 |
+| Bamboo Toy Car Transformation Vlog | @john87445528 | [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) | [Media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) | [Original](https://x.com/john87445528/status/2084644638724395138) | E4 |
+| Cats Chasing via Red Mini Motorcycle | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) | [Media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) | [Original](https://x.com/Just_sharon7/status/2084901309988425731) | E5 |
+| Dragon Rider Adventure Sequence | @art_muse | [GoodCase](https://goodcase.ai/cases/dragon-rider-adventure-sequence) | [Media](https://media.goodcase.ai/cases/bb6ac26d4e83.mp4) | [Original](https://x.com/art_muse/status/2085068608762155443) | E6 |
+| First-Person POV Dragon Rider Cinematic | @frametheory058 | [GoodCase](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic) | [Media](https://media.goodcase.ai/cases/79c3393a23c8.mp4) | [Original](https://x.com/frametheory058/status/2087007818721423855) | E7 |
+| Seedance 2.5 抖音风机车炫酷转场竖屏短片 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0) | [Media](https://media.goodcase.ai/cases/7423c963aece.mp4) | [Original](https://x.com/johnAGI168/status/2089727243471696233) | E8 |
+| 摩托车疾驰山间公路 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) | [Media](https://media.goodcase.ai/cases/e74284637136.mp4) | [Original](https://x.com/Just_sharon7/status/2091546827212636576) | E— |
 | Karakoram Motorcycle Commercial | @AI_with_Antonio | [GoodCase](https://goodcase.ai/cases/karakoram-motorcycle-commercial) | [Media](https://media.goodcase.ai/cases/f702b148dbed.mp4) | [Original](https://x.com/AI_with_Antonio/status/2088599346908365227) | E— |
 | 第一视角凌空组装黑色兰博基尼 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) | [Media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) | [Original](https://x.com/MissDelulu9/status/2091423578197737772) | E— |
+| 飞踢转场奔向午夜机车 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-bedroom-chaos-turns-into-midnight-confidence-with-a-seamless-transition-that-hi-641d5d0012fa) | [Media](https://media.goodcase.ai/cases/435be5073dcc.mp4) | [Original](https://x.com/Just_sharon7/status/2099332819768291755) | E— |
 | 日本公路巴士感染者突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) | [Media](https://media.goodcase.ai/cases/167033959b74.mp4) | [Original](https://x.com/auqibhabib/status/2102265619416768799) | E— |
+| 未来公路上的机车与超跑追逐 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea) | [Media](https://media.goodcase.ai/cases/750a092b1670.mp4) | [Original](https://x.com/itsSaira_1/status/2104064261005709551) | E— |
+| 末日公路女骑士逃离外星战舰 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152) | [Media](https://media.goodcase.ai/cases/d7ba735094ad.mp4) | [Original](https://x.com/itsSaira_1/status/2104789066562547945) | E— |
+| 红牛洒满公路后车流集体起飞 | @azed_ai | [GoodCase](https://goodcase.ai/cases/seedance-created-a-complete-red-bull-commercial-using-seedance-2-5-on-3ee7e5338cba) | [Media](https://media.goodcase.ai/cases/f0e3aecf4cfb.mp4) | [Original](https://x.com/azed_ai/status/2100947530431520915) | E— |
 | 庭院吊床与清洗摩托的午后 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00) | [Media](https://media.goodcase.ai/cases/5a19fec06723.mp4) | [Original](https://x.com/doctorwasif/status/2099836703729172540) | E— |
 | 末日沙漠战车空中激战 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) | [Media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) | [Original](https://x.com/Zyrellix/status/2092438692820295703) | E— |
 | 银发骑手霓虹公路突围 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b) | [Media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-e2b9d262ff6b.mp4) | [Original](https://x.com/Zyrellix/status/2093340253755232681) | E— |

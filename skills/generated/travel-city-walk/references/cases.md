@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 44 published Cases across 28 creators.
+This workflow is derived from 56 published Cases across 36 creators.
 
 ## Operating rule
 
@@ -164,16 +164,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Elon Musk Starship Journey | @Amrutraj4 | [GoodCase](https://goodcase.ai/cases/elon-musk-starship-journey) | [Media](https://media.goodcase.ai/media/video/elon-musk-starship-journey.mp4) | [Original](https://x.com/Amrutraj4/status/2081432217482641861) | E8 |
 | 韩国女子雨雪漫游伦敦巴黎莫斯科 | @HustleXR | [GoodCase](https://goodcase.ai/cases/hustlexr-seedance-ai-23a0d0b1e1ff) | [Media](https://media.goodcase.ai/cases/d1d0e766e8bc.mp4) | [Original](https://x.com/HustleXR/status/2092492677384437909) | E— |
 | 三位女孩漫游日本传统市场 | @Lianaalane | [GoodCase](https://goodcase.ai/cases/lianaalane-seedance-ai-57edf326d97f) | [Media](https://media.goodcase.ai/cases/e4a1743e7974.mp4) | [Original](https://x.com/Lianaalane/status/2093213626664706410) | E— |
+| 夕阳海滩上戴墨镜的女子仰望天空 | KTCML | [GoodCase](https://goodcase.ai/cases/midjourney-detailed-prompt-best-for-midjourney-v6-dall-e-3-a-side-profile-shot-of-a-y-fcb55d576e6e) | [Media](https://media.goodcase.ai/cases/a11ccf92e1fc.mp4) | [Original](https://www.tiktok.com/@kyitharchanmyaelwinnn/video/7691970313613004063) | E— |
 | 金色海岸漫步时光 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-fashion-film-set-on-a-breathtaking-coastal-landscape-83b287d8aae4) | [Media](https://media.goodcase.ai/cases/577910827af2.mp4) | [Original](https://x.com/CaliraVal/status/2096833346555023816) | E— |
+| 穿行日式寺院与巴厘圣境的织染华服 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-luxury-fashion-film-30-seconds-photorealistic-4k-shallow-depth-7b3125ffca7b) | [Media](https://media.goodcase.ai/cases/3ef9a07096a6.mp4) | [Original](https://x.com/Zyrellix/status/2104423200520388786) | E— |
 | 伊斯坦布尔旅拍漫游 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-continuous-4k-travel-vlog-video-featuring-a-young-east-asian-woman-with-long-763d933f6152) | [Media](https://media.goodcase.ai/cases/173f6dd36b17.mp4) | [Original](https://x.com/Zyrellix/status/2096817125864484954) | E— |
 | MiniMax H3 镜落 冰晶碎裂无缝循环特效视频 | @Cia0_exe | [GoodCase](https://goodcase.ai/cases/minimax-h3-be14aed5a842) | [Media](https://media.goodcase.ai/media/video/minimax-h3-be14aed5a842.mp4) | [Original](https://x.com/Cia0_exe/status/2082774526098874724) | E— |
+| 白衣女子的热带海岸漫步 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/minimax-h3-created-with-minimax-h3-10c606612cf6) | [Media](https://media.goodcase.ai/cases/d621aec9e022.mp4) | [Original](https://x.com/CaliraVal/status/2104438855785136257) | E— |
 | MiniMax H3 GLACIA 冰晶网页交互演示视频 | @Cia0_exe | [GoodCase](https://goodcase.ai/cases/minimax-h3-glacia-2fde7e8c6f96) | [Media](https://media.goodcase.ai/media/video/minimax-h3-glacia-2fde7e8c6f96.mp4) | [Original](https://x.com/Cia0_exe/status/2083180088775045626) | E— |
+| 挪威海岸与高山草甸之旅 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/minimax-h3-photoreal-travel-cinema-16-9-24fps-spherical-35-50mm-180-shutter-fine-grai-afdeb7fd218d) | [Media](https://media.goodcase.ai/cases/fa13d89ef50f.mp4) | [Original](https://x.com/ChillaiKalan__/status/2095776947922141390) | E— |
 | 狐狸在森林溪流边自拍漫游 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | [Media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) | [Original](https://x.com/MrDasOnX/status/2089969922617266257) | E— |
 | 韩国山间夏日露营 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-531c19980c39) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-531c19980c39.mp4) | [Original](https://x.com/nawalsehar/status/2092482623490916552) | E— |
-| Seedance 2.5 山林徒步电影感跟拍短片 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-97aa872cb79d) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-97aa872cb79d.mp4) | [Original](https://x.com/nawalsehar/status/2089219802598658291) | E— |
-| 地中海山景别墅内外巡游 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) | [Media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) | [Original](https://x.com/noorlewisx/status/2092109145055150431) | E— |
-| 东京夜空直升机之旅 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-f8e8235cd94a) | [Media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-f8e8235cd94a.mp4) | [Original](https://x.com/noorlewisx/status/2093567063357088065) | E— |
-| 韩国女孩首次火车旅行自拍日志 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-69dfe9e3c10e) | [Media](https://media.goodcase.ai/cases/c5a3649f1187.mp4) | [Original](https://x.com/saniaspeaks_/status/2094635608849166589) | E— |
 
 ## Derivation boundary
 

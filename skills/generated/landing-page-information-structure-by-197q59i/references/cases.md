@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 10 published Cases attributed to viktoroddy. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 11 published Cases attributed to viktoroddy. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -450,6 +450,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Gemini + AntiGravity 牙科诊所网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/gemini-antigravity-87b7fea47629) | [Media](https://media.goodcase.ai/media/video/gemini-antigravity-87b7fea47629.mp4) | [Original](https://x.com/viktoroddy/status/2070428537790877738) | E7 |
 | Gemini vs Claude：Velorah 电动房车落地页 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/gemini-vs-claude-velorah-1f09726b10d6) | [Media](https://media.goodcase.ai/media/video/gemini-vs-claude-velorah-1f09726b10d6.mp4) | [Original](https://x.com/viktoroddy/status/2038564207101436210) | E8 |
 | Google Stitch 对比 Claude 网页生成 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/google-stitch-claude-9c762b56d629) | [Media](https://media.goodcase.ai/media/video/google-stitch-claude-9c762b56d629.mp4) | [Original](https://x.com/viktoroddy/status/2036138516070146225) | E— |
+| GPT Image 2 + Veo 3 + Lovable 营销站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/gpt-image-2-veo-3-lovable-cec7a074af1a) | [Media](https://media.goodcase.ai/media/video/gpt-image-2-veo-3-lovable-cec7a074af1a.mp4) | [Original](https://x.com/viktoroddy/status/2054291040379842795) | E— |
 | Nano Banana + Flow + AntiGravity 动效网站 | @viktoroddy | [GoodCase](https://goodcase.ai/cases/nano-banana-flow-antigravity-423c21fb568e) | [Media](https://media.goodcase.ai/media/video/nano-banana-flow-antigravity-423c21fb568e.mp4) | [Original](https://x.com/viktoroddy/status/2027664654252839271) | E— |
 
 ## Derivation boundary

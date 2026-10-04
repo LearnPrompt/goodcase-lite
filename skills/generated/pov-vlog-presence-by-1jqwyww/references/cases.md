@@ -25,7 +25,36 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Only her throughout; authentic fumbling, laughter, breathing, footsteps, rope impacts/drop, faint distant gym ambience. Do not depict/copy the reference image itself.
 
-### E2 · Korean Idol Backstage Fitting Vlog
+### E2 · 偶像女孩的高强度间歇训练日志
+
+- Creator: @doctorwasif
+- Evidence: [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-653b4911153b) · [finished media](https://media.goodcase.ai/cases/fcc46a8dcf17.mp4) · [poster](https://media.goodcase.ai/cases/a0192b2ee0cd.jpg) · [original source](https://x.com/doctorwasif/status/2093191801763233991)
+- Summary: Seedance 2.5 prompt: CAMERA: DV 16mm tape camcorder, handheld POV/self-shot by CHASE. Occasional propped shots on bench/
+- Prompt excerpt:
+
+> CAMERA: DV 16mm tape camcorder, handheld POV/self-shot by CHASE. Occasional propped shots on bench/floor. Shaky framing, soft focus, clumsy zooms, face cutoffs, chaotic movement during exercise, steadier during recovery. Camcorder never visible.
+>
+> LOOK: Soft blurry tape quality, faint noise, bloomed gym lights, flickering exposure, muted contrast, realistic skin tones. Sweat progressively builds.
+>
+> STYLE: High-energy, breathless HIIT vlog. Intense exercise bursts → short recovery beats. Genuine exhaustion and determination.
+>
+> CHASE: Korean idol in her 20s, long black high ponytail becoming damp, expressive eyes, flushed cheeks, slim athletic build. Modest long-sleeve athletic top, joggers/leggings, sneakers, towel, no jewelry.
+>
+> SETTING: Evening gym open floor, mats, mirrors, small speaker/phone, water bottle, soft overhead lighting.
+>
+> 30s / 9 CUTS:
+>
+> 1. 3s Propped: Ready on mat, bouncing. “Okay, HIIT round thirty seconds on, let’s go!”
+> 2. 3s Handheld: Fast jumping jacks. “Okayalready feeling this”
+> 3. 2.5s  Propped: Hands on knees, recovering. “Okay five seconds that’s it”
+> 4. 3s  Low/propped: Intense mountain climbers, sweat visible. Heavy breathing only.
+> 5. 2.5s Propped: Sitting back, wiping sweat. “Okay, that one’s brutal”
+> 6. 3.5s Handheld: Burpees, increasing motion blur. “Why did Ipick burpees”
+> 7. 2.5s Macro: Hands gripping mat, sweat dripping, chest heaving. No dialogue.
+> 8. 3s Propped: Collapses onto back, laughing breathlessly. “Okay I think I’m dying”
+> 9. 3.5s Selfie: Slowly sits up, drinks water, tired grin. “Okay, that’s a wrap worth it though. See you guys!”
+
+### E3 · Korean Idol Backstage Fitting Vlog
 
 - Creator: @doctorwasif
 - Evidence: [GoodCase](https://goodcase.ai/cases/korean-idol-backstage-fitting-vlog) · [finished media](https://media.goodcase.ai/media/video/korean-idol-backstage-fitting-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/korean-idol-backstage-fitting-vlog.jpg) · [original source](https://x.com/doctorwasif/status/2081353850779550056)
@@ -33,25 +62,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 - Prompt excerpt:
 
 > DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped against a fitting-room mirror. Natural hand shake, imperfect framing, delayed focus, clumsy zooms, tape blur/noise, bloomed vanity lights, flickering auto-exposure, muted contrast, realistic skin. Playful, energetic backstage fitting-room vlog with quick pacing. CHASE: Korean idol in her 20s, long straight black hair, dewy glass skin, coral lips, large eyes, slim. Wears two fully modest stage outfits (1: fitted long-sleeve top + tailored trousers, 2: high-neck dress over long-sleeve base layer), minimal jewelry. Backstage fitting room with mirror, garment rack, stylist off-camera, pins/fabric clips. Sequence: outfit 1 mirror turn ("Okay, first outfit—let's see."), smooths fabric ("I really like this fit."), stylist pins waist (ambient only), playful spin ("Moves pretty well!"), quick change to outfit 2 ("Now let's compare."), compares ("More elegant, but the first had better movement."), close-up thinking ("I genuinely can't decide."), selfie spin ending ("I'll let the team decide—see you on stage!"). Camcorder never visible.
-
-### E3 · 女主播直播金库劫案逃亡
-
-- Creator: @doctorwasif
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-use-image1-as-highest-priority-reference-for-haneul-87857bb7ac9c) · [finished media](https://media.goodcase.ai/cases/aada466bc8d2.mp4) · [poster](https://media.goodcase.ai/cases/e750151cbe91.jpg) · [original source](https://x.com/doctorwasif/status/2101176910244139187)
-- Summary: GTA 6 Live Streaming Made with Seedance 2.5 on @openart_ai Prompt: Use Image1 as, highest-priority reference for HANEUL. Preserve her exact, proportions, skin t…
-- Prompt excerpt:
-
-> Use Image1 as, highest-priority reference for HANEUL. Preserve her exact, proportions, skin tone, black blunt-bang short hair, piercings, body type, outfit, accessories, lighting, camera angle, and real streaming setup. She must look like the same real adult Korean woman not stylized, plastic, anime, 3D, duplicated, or face-swapped.
->
-> Create a strictly 30-second, 16:9 1080p realistic open-world crime-action gameplay livestream, fictional characters/vehicles/setting only. One continuous unbroken take, no cuts, transitions, scene changes, subtitles, narration, or full-screen facecam.
->
-> Fixed layout: gameplay throughout; square 1:1 neon pink-blue facecam bottom-right, never moving/resizing; HANEUL only inside facecam. English-only scrolling chat lower-left with usernames: orri, Joseph, New York Robots, Christopher Clark, Wavers, STOK, Andrea Brown. Fixed HUD: health/armor bottom-left, weapon + ammo beside facecam, cash counter, minimap top-right with GPS route + exactly 2 red guard blips, wanted stars top-center.
->
-> Gameplay: one female player in dark hoodie/jeans with neck bandana, compact pistol, exactly two armed navy-uniform security guards. No other armed characters; background police cars only during escape. Player takes real damage and remains low-health.
->
-> 0–5s: crouched in vault while drill finishes, sparks; 0 stars. HANEUL eyes clearly open/focused, natural blinking only. Korean: “Come on... almost through.” Chat: “orri: drill % rising”, “Joseph: keep it quiet.”
->
-> 5–11s: vault opens → cash grabbed → alarm flashes → two guards approach and fire. Player is visibly grazed, fl…
 
 ### E4 · 训练后健身房 Vlog
 
@@ -78,8 +88,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | Seedance 2.5 七镜头手持手机 vlog 蒙太奇 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-06309648f9fa) | [Media](https://media.goodcase.ai/cases/64fae14bc37f.mp4) | [Original](https://x.com/doctorwasif/status/2089214508233638187) | E1 |
-| Korean Idol Backstage Fitting Vlog | @doctorwasif | [GoodCase](https://goodcase.ai/cases/korean-idol-backstage-fitting-vlog) | [Media](https://media.goodcase.ai/media/video/korean-idol-backstage-fitting-vlog.mp4) | [Original](https://x.com/doctorwasif/status/2081353850779550056) | E2 |
-| 女主播直播金库劫案逃亡 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-use-image1-as-highest-priority-reference-for-haneul-87857bb7ac9c) | [Media](https://media.goodcase.ai/cases/aada466bc8d2.mp4) | [Original](https://x.com/doctorwasif/status/2101176910244139187) | E3 |
+| 偶像女孩的高强度间歇训练日志 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-653b4911153b) | [Media](https://media.goodcase.ai/cases/fcc46a8dcf17.mp4) | [Original](https://x.com/doctorwasif/status/2093191801763233991) | E2 |
+| Korean Idol Backstage Fitting Vlog | @doctorwasif | [GoodCase](https://goodcase.ai/cases/korean-idol-backstage-fitting-vlog) | [Media](https://media.goodcase.ai/media/video/korean-idol-backstage-fitting-vlog.mp4) | [Original](https://x.com/doctorwasif/status/2081353850779550056) | E3 |
 | 训练后健身房 Vlog | @doctorwasif | [GoodCase](https://goodcase.ai/cases/vlog-314227c7545c) | [Media](https://media.goodcase.ai/cases/d10c5d55f742.webm) | [Original](https://x.com/doctorwasif/status/2083048782581858681) | E4 |
 
 ## Derivation boundary
