@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to johnAGI168. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to johnAGI168. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -145,7 +145,68 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 动作：她咬着牙站起来摇车，双手死死握住车把，上半身左右摆动，嘴张开…
 
-### E3 · 混合现实家居 Vlog 动画
+### E3 · Seedance：Seedance 2.5 手机遥控变装👚📱
+
+- Creator: @johnAGI168
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-dc01b3250bb4) · [finished media](https://media.goodcase.ai/cases/eaaaf305b3cb.mp4) · [poster](https://media.goodcase.ai/cases/bf76fb08150a.jpg) · [original source](https://x.com/johnAGI168/status/2097320255139795072)
+- Summary: Seedance 2.5 手机遥控变装👚📱 prompt 👇 Duration: 20秒 Aspect ratio: 9:16 Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏 【场景】明亮客厅/卧室，落地窗自然光，背景简洁…
+- Prompt excerpt:
+
+> Seedance 2.5 手机遥控变装👚📱
+>
+> prompt 👇
+>
+> Duration: 20秒
+> Aspect ratio: 9:16
+> Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏
+>
+> 【场景】明亮客厅/卧室，落地窗自然光，背景简洁温馨，地面干净无杂物
+> 【角色】女主（@图片1，开场穿角色原本服装）；男主为POV视角，全程不露脸，仅画面下方出现持手机的男性手
+> 【道具】一部现代全面屏手机，竖持。屏幕是简洁时尚穿搭App：上方大预览图，下方横向可滑动的服装卡片。每次滑动有跟手惯性，点击卡片时屏幕轻微缩放+短震反馈
+>
+> SHOT 1（00:00-00:03.5）开场展示
+> 画面：POV，女主站画面中央，开心地原地转半圈展示穿搭，双手轻提衣摆，眼睛亮亮看镜头。
+> 台词：女主："老公，看我今天穿得怎么样？"
+> 音效：室内底噪，衣料轻响。
+> Constraints: 女主全身入画，开场服装=角色原本服装。
+>
+> SHOT 2（00:03.5-00:06.5）掏出手机+第一次滑动
+> 画面：画面下方男主手举起手机入镜，屏幕亮起，显示穿搭App。拇指从右向左滑过卡片，停在@衣服1的卡片上，预览图放大。
+> 台词：男主（画外音，慵懒）："还行。换这套看看。"
+> 音效：屏幕滑动轻摩擦声。
+> Constraints: 手机屏幕清晰可读，卡片上能看出是@衣服1；男主只出手，不露脸。
+>
+> SHOT 3（00:06.5-00:09.5）第一次点击瞬变
+> 画面：拇指点在@衣服1卡片上，屏幕短震。点击落下的同一帧，女主服装瞬间变成@衣服1，站位、姿势、发型完全连续；她低头看衣服，瞪大眼张嘴，再抬头看镜头。
+> 台词：女主（惊讶）："诶？！"
+> 音效：清脆"滴"+换装"叮"，衣料展开微响。
+> Constraints: 换装发生在点击同一帧，单帧瞬变；可加一道从上到下扫过身体的柔和微光；禁止叠化、黑闪、人物跳位。
+>
+> SHOT 4（00:09.5-00:13）第二次滑动+点击瞬变
+> 画面：拇指再次左滑，卡片停在@衣服2，点一下。同一帧女主换成@衣服2；这次她反应过来，脸颊微红，手指绞在身前，害羞小幅扭身，眼神躲闪又忍不住看镜头。
+> 台词：男主（画外音）："这套也行。"
+> 女主（小声）："你……乱点。"
+> 音效：滑动声+"滴"+"叮"，轻快音乐渐起。
+> Constraints: 滑动必须完整看见从@衣服1卡片滑到@衣服2；换装仍是点击同一帧硬切。
+>
+> SHOT 5（00:13-00:16.5）第三次滑动+点击瞬变
+> 画面：再滑到@衣服3，点一下。同一帧换成@衣服3；女主已经习惯，咬一下下唇，抬手整理新衣服领口/裙摆，眼神带点得意看镜头。
+> 台词：女主："这套……还挺好看的嘛。"
+> 音效："滴"+"叮"，音乐节奏加快半拍。
+> Constraints: 三次反应递进：惊讶→害羞→得意；每次都有小动作，禁止呆立。
+>
+> SHOT 6（00:16.5-00:20）第四次滑动+点击+收尾
+> 画面：最后一滑停在@衣服4，拇指点下。同一帧女主瞬变为@衣服4；她直接笑出来，上前一步凑近镜头，狡黠眯眼。手机仍举在画面下方，屏幕停在@衣服4预览。
+> 台词：男主（画外音，满意）："这套定了。"
+> 女主（笑着凑近，嗔怪）："你好坏啊——我好喜欢！"
+> 音效："滴"+"叮"，音乐在女主台词落点收在甜甜重拍。
+> Constraints: 结尾女主凑近但不过分贴脸；手机始终在画面下方可见；服装顺序锁定：开场=原本 → @衣服1 → @衣服2 → @衣服3 → @衣服4，不可乱。
+>
+> 【导演铁律】
+> 1. 换装铁律：每次换装发生在“点击”同一帧，单帧瞬变。女主站位、姿势、发型、脸型跨越换装帧完全连续，只有服装改变。
+> 2. POV铁律：镜头=男主眼睛，全程轻微手持呼吸晃动；男主只出手+画外音，禁止露…
+
+### E4 · 混合现实家居 Vlog 动画
 
 - Creator: @johnAGI168
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-9e1f21c2fdf5) · [finished media](https://media.goodcase.ai/media/video/vlog-9e1f21c2fdf5.mp4) · [poster](https://media.goodcase.ai/media/poster/vlog-9e1f21c2fdf5.jpg) · [original source](https://x.com/johnAGI168/status/2080168687072379128)
@@ -191,7 +252,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | Seedance 2.5 健身女孩训练 vlog 短片 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-556a7495c74b) | [Media](https://media.goodcase.ai/cases/a9ad37957997.mp4) | [Original](https://x.com/johnAGI168/status/2089622062369243210) | E1 |
 | Seedance 2.5 真实骑行 Vlog:运动相机+前摄+跟拍混剪 30 秒 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-vlog-30-3b85f315bb08.mp4) | [Original](https://x.com/johnAGI168/status/2086014766846275817) | E2 |
-| 混合现实家居 Vlog 动画 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/vlog-9e1f21c2fdf5) | [Media](https://media.goodcase.ai/media/video/vlog-9e1f21c2fdf5.mp4) | [Original](https://x.com/johnAGI168/status/2080168687072379128) | E3 |
+| Seedance：Seedance 2.5 手机遥控变装👚📱 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-dc01b3250bb4) | [Media](https://media.goodcase.ai/cases/eaaaf305b3cb.mp4) | [Original](https://x.com/johnAGI168/status/2097320255139795072) | E3 |
+| 混合现实家居 Vlog 动画 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/vlog-9e1f21c2fdf5) | [Media](https://media.goodcase.ai/media/video/vlog-9e1f21c2fdf5.mp4) | [Original](https://x.com/johnAGI168/status/2080168687072379128) | E4 |
 
 ## Derivation boundary
 

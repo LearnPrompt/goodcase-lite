@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to Zarnab_with_Ai. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 8 published Cases attributed to Zarnab_with_Ai. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -53,7 +53,58 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > VISUAL STYLE:
 > Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft…
 
-### E3 · 水獭伙伴的西瓜田夏日
+### E3 · 企鹅宝宝飞扑拥抱家人
+
+- Creator: @Zarnab_with_Ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-b1495c3561d9) · [finished media](https://media.goodcase.ai/cases/13fffa5522fb.mp4) · [poster](https://media.goodcase.ai/cases/3ea9d5fc18dc.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2101989437181988957)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, cinematic 3D animated short film featuring an adorable fluffy baby penguin girl with soft gray-and-white feather…
+- Prompt excerpt:
+
+> Made with seedance 2.5
+>
+> Prompt 👇
+> Create a cute, cinematic 3D animated short film featuring an adorable fluffy baby penguin girl with soft gray-and-white feathers, huge expressive blue eyes, a small black beak, chubby body, tiny black feet, and a small pink bow on her head.
+>
+> Scene 1 — Beginning:
+> The baby penguin stands alone on a colorful striped rug inside a warm, cozy home. She looks slightly shy and innocent, gently moving her head and looking around. Use a vertical 9:16 composition, soft warm indoor lighting, shallow depth of field, detailed fluffy feathers, and cinematic camera movement.
+>
+> Scene 2 — Cute close-up:
+> Slowly push the camera toward her face. She looks directly into the camera with huge sparkling eyes, then smiles happily and opens her little beak. Capture adorable facial expressions and subtle feather movement.
+>
+> Scene 3 — Mood change:
+> Her expression suddenly becomes serious and determined. She lowers her body close to the floor, narrows her eyes, spreads her tiny wings slightly, and prepares to jump forward like a tiny angry superhero. Keep the camera low and cinematic.
+>
+> Scene 4 — Jump:
+> The penguin suddenly launches herself upward with excitement. Her wings spread wide as she flies toward the camera. Dynamic camera movement, slight slow motion, soft motion blur, detailed feathers, playful cinematic energy.
+>
+> Scene 5 — Flying close-up:
+> Show the penguin floating above the camera with her wings fully extended. She looks down with a huge adorable smile, then moves closer toward the lens. Maintain consistent character design, pink bow, blue eyes, gray-white feath…
+
+### E4 · 母鸡护雏与老鹰夺粮
+
+- Creator: @Zarnab_with_Ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d38a88505bc8) · [finished media](https://media.goodcase.ai/cases/c59715ae9b8d.mp4) · [poster](https://media.goodcase.ai/cases/aeba38bf8829.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2102580065972486422)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a 28–30 second vertical 9:16 cinematic 3D animated short film with a stylized family-friendly cartoon aesthetic. The sto…
+- Prompt excerpt:
+
+> Made with seedance 2.5
+>
+> Prompt 👇
+>  Create a 28–30 second vertical 9:16 cinematic 3D animated short film with a stylized family-friendly cartoon aesthetic. The story follows a brave, expressive brown hen trying to protect her chicks from a dangerous hawk. Keep the same character designs, colors, proportions, facial features, and visual style throughout the entire video.
+>
+> Scene 1 — Mountain cliff:
+> At golden hour, a brown hen with detailed layered feathers, a red comb, expressive eyes, and a large rounded body carefully walks along the edge of a high rocky mountain carrying a large beige cloth sack on her back. The sky is filled with soft pink and orange clouds, warm sunlight creates beautiful rim lighting around her feathers, and the camera slowly tracks beside her. She looks tired but determined.
+>
+> Scene 2 — Climbing the cliff:
+> The hen struggles while climbing a steep rocky cliff using a thick twisted rope covered with small green leaves. She holds the rope tightly with her wings and feet while looking upward with a worried but determined expression. Use a dramatic vertical camera angle showing the huge height of the cliff and the clouds far below. Her feathers and the sack move naturally with her movement.
+>
+> Scene 3 — Emotional close-up:
+> Cut to an extreme close-up of the hen's face. Her large golden-brown eyes, long eyelashes, beak, comb, and detailed feathers are clearly visible. She looks directly ahead with a serious, slightly exhausted expression. Use shallow depth of field and warm cinematic lighting.
+>
+> Scene 4 — The nest:
+> Reveal a large nest made from branches on the mo…
+
+### E5 · 水獭伙伴的西瓜田夏日
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92) · [finished media](https://media.goodcase.ai/cases/22126411f4b5.mp4) · [poster](https://media.goodcase.ai/cases/d0d6ec323037.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2098952788835467439)
@@ -75,7 +126,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Cut to a relaxing scene where the character sits comfortably under a colorful beach umbrella on a small woven lounge chair, wearing a cute straw hat and enjoying the sunny afternoon. The atmosphere is peaceful, warm, playful, and…
 
-### E4 · 蓝围巾小水獭的飞越群山奇旅
+### E6 · 蓝围巾小水獭的飞越群山奇旅
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) · [finished media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) · [poster](https://media.goodcase.ai/cases/3bf9f7d54c88.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2096921381841813588)
@@ -109,7 +160,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Use a dramatic wide aerial shot showing the tiny character against the huge…
 
-### E5 · 小水獭与蓝色新朋友分享冰淇淋
+### E7 · 小水獭与蓝色新朋友分享冰淇淋
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) · [finished media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) · [poster](https://media.goodcase.ai/cases/dd1c2293bbc7.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2097643808620196091)
@@ -133,15 +184,44 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Scene 5: The otter approaches the blue creature while holding its ice cream cone. They look at each other curiously and warmly. The otter happily offers th…
 
+### E8 · 害羞仓鼠捧玫瑰告白
+
+- Creator: @Zarnab_with_Ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-eec0708da6e5) · [finished media](https://media.goodcase.ai/cases/79470af69d95.mp4) · [poster](https://media.goodcase.ai/cases/683212be0052.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2101493389115953586)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated vertical video of a tiny fluffy golden-and-white hamster in a cozy war…
+- Prompt excerpt:
+
+> Made with seedance 2.5
+>
+> Prompt 👇
+> Create a cute, heartwarming, ultra-realistic 3D animated vertical video of a tiny fluffy golden-and-white hamster in a cozy warmly lit home interior.
+>
+> The hamster has extremely soft plush fur, huge glossy black eyes, rosy pink cheeks, a tiny pink nose, and an adorable innocent expression. It wears oversized pale-pink headphones, a large pink polka-dot bow on its head, and a delicate pink ribbon necklace with a tiny hanging name tag.
+>
+> Scene 1: The hamster slowly peeks from behind a white doorway, shyly looking toward the camera. It carefully steps out onto a polished warm wooden floor while maintaining eye contact with the viewer.
+>
+> Scene 2: The hamster walks forward toward the camera with tiny adorable steps and stops in the center of the room. Its ears and bow move naturally with each step. The background features a cozy wooden bookshelf, a warm table lamp, soft beige walls, and beautiful golden ambient lighting.
+>
+> Scene 3: The hamster looks directly into the camera with a sweet, innocent expression. After a brief moment, it gently reaches down and picks up a single beautiful red rose with its tiny paws.
+>
+> Scene 4: Holding the red rose in front of its body, the hamster smiles warmly at the camera. Its cheeks become slightly rosier, and it looks shy and affectionate.
+>
+> Final shot: The hamster closes its eyes with a big adorable smile while holding the red rose close to its chest. The moment feels wholesome, romantic, cute, and heartwarming.
+>
+> Camera: vertical 9:16, low eye-level camera angle, smooth slow camera movement, gentle push-in toward t…
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E1 |
 | 沙发上相拥亲吻的萌兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) | [Media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | E2 |
-| 水獭伙伴的西瓜田夏日 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92) | [Media](https://media.goodcase.ai/cases/22126411f4b5.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098952788835467439) | E3 |
-| 蓝围巾小水獭的飞越群山奇旅 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) | [Media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2096921381841813588) | E4 |
-| 小水獭与蓝色新朋友分享冰淇淋 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) | [Media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097643808620196091) | E5 |
+| 企鹅宝宝飞扑拥抱家人 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-b1495c3561d9) | [Media](https://media.goodcase.ai/cases/13fffa5522fb.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2101989437181988957) | E3 |
+| 母鸡护雏与老鹰夺粮 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d38a88505bc8) | [Media](https://media.goodcase.ai/cases/c59715ae9b8d.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2102580065972486422) | E4 |
+| 水獭伙伴的西瓜田夏日 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92) | [Media](https://media.goodcase.ai/cases/22126411f4b5.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098952788835467439) | E5 |
+| 蓝围巾小水獭的飞越群山奇旅 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) | [Media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2096921381841813588) | E6 |
+| 小水獭与蓝色新朋友分享冰淇淋 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) | [Media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097643808620196091) | E7 |
+| 害羞仓鼠捧玫瑰告白 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-eec0708da6e5) | [Media](https://media.goodcase.ai/cases/79470af69d95.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2101493389115953586) | E8 |
 
 ## Derivation boundary
 

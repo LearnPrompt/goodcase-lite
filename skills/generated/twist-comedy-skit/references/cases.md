@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 32 published Cases across 24 creators.
+This workflow is derived from 35 published Cases across 26 creators.
 
 ## Operating rule
 
@@ -154,6 +154,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 黑板火柴人空手道对决 | @mrdejie | [GoodCase](https://goodcase.ai/cases/case-de248f679b06) | [Media](https://media.goodcase.ai/media/video/case-de248f679b06.mp4) | [Original](https://x.com/mrdejie/status/2079463899305476233) | E8 |
 | 首尔秋日咖啡馆翻车Vlog | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-516d7626ef5d) | [Media](https://media.goodcase.ai/cases/f3c8ca287810.mp4) | [Original](https://x.com/Ciri_ai/status/2094706780114952303) | E— |
 | 河畔梦幻野餐的翻车现场 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-6f0712601492) | [Media](https://media.goodcase.ai/cases/c690be84a5aa.mp4) | [Original](https://x.com/Ciri_ai/status/2093569691830899091) | E— |
+| 丈夫误把洗衣求助当浪漫邀约 | @im_shahid7 | [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750) | [Media](https://media.goodcase.ai/cases/50120bb6176a.mp4) | [Original](https://x.com/im_shahid7/status/2091754978348339299) | E— |
 | 夜街橡胶脸搞怪变形 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-8424f361fbe0) | [Media](https://media.goodcase.ai/cases/8476e6827a3f.mp4) | [Original](https://x.com/johnAGI168/status/2091182791467684197) | E— |
 | Seedance 三十秒 3D 动画喜剧：妈妈断了 WiFi 之后 | @JuliaClarky | [GoodCase](https://goodcase.ai/cases/juliaclarky-seedance-ai-f648a434d526) | [Media](https://media.goodcase.ai/cases/8a80979ee021.mp4) | [Original](https://x.com/JuliaClarky/status/2089592644725043368) | E— |
 | 母亲抢走男孩的可丽饼座位 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-20d2026d6f58) | [Media](https://media.goodcase.ai/cases/c7991e390250.mp4) | [Original](https://x.com/Just_sharon7/status/2091529113425297759) | E— |
@@ -163,7 +164,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 混乱教室中走向镜头的少女 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db) | [Media](https://media.goodcase.ai/cases/299e494253cd.mp4) | [Original](https://x.com/Aiwithmaha/status/2100787710424416603) | E— |
 | 米奇耳女孩智取土耳其冰淇淋 | @sophiaparkerr_ | [GoodCase](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8) | [Media](https://media.goodcase.ai/cases/bb6e4d4897bc.mp4) | [Original](https://x.com/sophiaparkerr_/status/2096542775709692255) | E— |
 | 女子破窗反将嘲笑者拉出地铁 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1) | [Media](https://media.goodcase.ai/cases/93018061e73f.mp4) | [Original](https://x.com/AIwithkhan/status/2097168171367338428) | E— |
-| 小公寓里的失控舞蹈练习 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347) | [Media](https://media.goodcase.ai/media/video/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347.mp4) | [Original](https://x.com/Ciri_ai/status/2095026480552271884) | E— |
 
 ## Derivation boundary
 

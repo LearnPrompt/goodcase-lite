@@ -1,12 +1,21 @@
 # Case evidence
 
-This workflow is derived from 29 published Cases across 27 creators.
+This workflow is derived from 38 published Cases across 35 creators.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 3D 烘焙动画序列
+### E1 · 3D 房屋建造动画
+
+- Creator: @techartist_
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-480d142beda4) · [finished media](https://media.goodcase.ai/cases/468068dfb710.mp4) · [poster](https://media.goodcase.ai/cases/11dbc9caba04.jpg) · [original source](https://x.com/techartist_/status/2105350783416021472)
+- Summary: 一个动态解说视频，展示房屋从地基到完工的建造阶段，并通过 X 射线透视效果呈现内部系统。
+- Prompt excerpt:
+
+> Create an interactive 3D house animation showing the construction process from Foundation through Skeleton, Systems and Envelope to Finished. Include an X-ray view that reveals the plumbing, power and air inside. Use Three.js and WebGPU.
+
+### E2 · 3D 烘焙动画序列
 
 - Creator: @HaniaAi12
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) · [finished media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg) · [original source](https://x.com/HaniaAi12/status/2076979039747920309)
@@ -37,7 +46,36 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Important: Treat the uploaded storyboard only as a reference. Never…
 
-### E2 · Bamboo Toy Car Transformation Vlog
+### E3 · ASMR LEGO Technic 项目
+
+- Creator: @Shorelyn_
+- Evidence: [GoodCase](https://goodcase.ai/cases/asmr-lego-technic-e5706a9a0319) · [finished media](https://media.goodcase.ai/media/video/asmr-lego-technic-e5706a9a0319.mp4) · [poster](https://media.goodcase.ai/media/poster/asmr-lego-technic-e5706a9a0319.jpg) · [original source](https://x.com/Shorelyn_/status/2080500909076107595)
+- Summary: 一份全面的多场景项目提示词，用于创作 LEGO Lamborghini 组装的超写实 ASMR 视频，包含运镜指导和音效说明。
+- Prompt excerpt:
+
+> Create a professional film production storyboard for a 10 second ASMR video showing the assembly of a LEGO Technic Lamborghini Aventador.
+>
+> Layout should look like a real movie storyboard with 8 sequential panels arranged in two columns.
+>
+> Each panel must contain: • Large cinematic preview image • Scene number • Timecode • Camera direction • Visual description • Action • Dialogue / Voice Over • Sound Effects (SFX) • Music • Camera movement • Emotion • Transition
+>
+> Use a premium black technical storyboard design with white typography, clean borders, production notes, timing labels, and a cinematic planning style.
+>
+> Header: STORYBOARD ASMR MERAKIT LEGO LAMBORGHINI AVENTADOR Duration: 10 Seconds Ratio: 9:16 Vertical Style: Hyperrealistic Cinematic ASMR
+>
+> Scene 1 (0.00 to 1.20) Overhead macro shot of neatly organized LEGO Technic pieces on a black work mat. Hands pick up the chassis. Soft plastic clicking sounds. Slow overhead dolly.
+>
+> Scene 2 (1.20 to 2.40) Extreme macro close up of hands connecting the front suspension axle. Focus rack from fingers to connector. Loud satisfying click.
+>
+> Scene 3 (2.40 to 3.60) Blue body panels are installed as the Lamborghini shape begins to form. Macro three quarter angle with a smooth orbit camera.
+>
+> Scene 4 (3.60 to 4.80) Windshield is installed with the cockpit visible beneath. Camera pushes from the windshield into the interior. Crisp plastic snap sound.
+>
+> Scene 5 (4.80 to 6.00) Front wheel is attached. Macro shot of the wheel spinning. Short tracking shot follows the rotation with subtle mechanical sounds.
+>
+> Scene 6 (6.00 to 7.20) Rear body panels…
+
+### E4 · Bamboo Toy Car Transformation Vlog
 
 - Creator: @john87445528
 - Evidence: [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) · [finished media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg) · [original source](https://x.com/john87445528/status/2084644638724395138)
@@ -49,7 +87,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > HO2iXF9a4AAZsco
 > 。 她神态放松，右手拿着一个传统竹制发声玩具“竹知了”。竹知了由短竹筒、细绳和小竹片组成。她一边经过停车场，一边漫不经心地转动竹知了。 竹知了发出连续、滑稽而响亮的“呜哇、呜哇”鸣叫声。 她并不是超级英雄，没有盔甲，不发生身体变形，始终保持普通成年女性的真实外貌。 关键车辆 停车场中央只有一辆紫色智界R7发生变形。 必须准确保持紫色车漆、轿跑SUV车身比例、贯穿式前灯、车轮、车门、玻璃和车身覆盖件的视觉连续性。车辆内部无人，没有驾驶员和乘客。 变形过程必须清晰可读：车轮折叠成为肩部结构，车门展开成为前臂护甲，底盘向下延伸形成双腿，车头与贯穿式灯带上升成为胸部，紫色车顶折叠成机器人头部。所有零件均来自同一辆车，不凭空增加零件，不突然更换车型或颜色。 30秒连续镜头 镜头开始于美女右后方约一米半、与肩膀同高的位置。摄影者跟随她缓缓进入停车场，让她的上半身、手里的竹知了以及前方紫色智界R7同时处于画面中。 镜头不能突然飞起，不能切换机位，也不能拉远成为俯瞰全景。 美女一边走，一边悠闲地转动竹知了。连续的“呜哇、呜哇”声在停车场里格外明显。 几名销售人员和顾客好奇地回头看她，但没有人太在意。 突然，紫色智界R7的贯穿式灯带自行亮起。 竹知了每响一声，R7的车灯便同步闪烁一次。 美女逐渐放慢脚步。 智界R7的车身内部传出低沉的金属震动声。悬架猛然下沉，四条轮胎同时摩擦地面，附近车辆的警报器接连响起。 整辆紫色R7突然开始变形。 引擎盖向两侧裂开，车门旋转展开，车轮离开地面并锁入肩部；底盘向下伸展，两条沉重的机械腿砸落在沥青路面上，震出蜘蛛网状裂纹。 紫色智界R7在停车场中央站立起来，变成一台数层楼高的巨型机器人。 停车场瞬间陷入恐慌。 顾客丢下宣传册和咖啡四散奔逃。销售人员钻到展车后面躲避。购物袋、宣传单和遮阳帽被机器人起身产生的气流卷上半空。两辆正在倒车的汽车发生轻微碰撞，喇叭持续鸣响。 机器人发出沉重的机械咆哮，挥动由车门组成的巨大手臂，将停车场的一根灯杆打弯。它随后抬起机械脚掌，踩扁旁边的空置展示台，水泥碎片和灰尘向四周飞散。 摄影者慌张地向后退并侧身躲避，镜头剧烈摇晃。飞来的小块碎片撞在镜头附近，自动对焦短暂失准，然后重新锁定机器人。 镜头迅速回到美女身上。 所有人都在逃跑。 她却几乎没有反应。 她平静地抬头看了看巨型机器人…… ……然后低头看向手里的竹知了。 机器人转过身体，紫色金属脚掌刮过地面，向她迈出沉重的一步。每一步都令停车场地面震动，玻璃展厅随之颤抖。 美女只是轻轻扬起一侧眉毛。 她握紧细绳，突然加快手腕旋转速度。 竹知了的鸣叫声变得越来越急促。 “呜哇——呜哇——呜哇——” 竹筒内部开始透出淡淡的金色光芒。 光芒越来越强。 十个、数百个、成千上万个…
 
-### E3 · 电影感酸种面包烘焙延时摄影
+### E5 · 电影感酸种面包烘焙延时摄影
 
 - Creator: @Caden_Flux
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-179a06586ce5) · [finished media](https://media.goodcase.ai/media/video/case-179a06586ce5.mp4) · [poster](https://media.goodcase.ai/media/poster/case-179a06586ce5.jpg) · [original source](https://x.com/Caden_Flux/status/2070862852735594771)
@@ -82,7 +120,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > slow push-ins, no shaky cam, wrists/hands only,
 > soft window light from left, 9:16 widescreen.
 
-### E4 · 可爱兔兔厨师动漫烹饪
+### E6 · 可爱兔兔厨师动漫烹饪
 
 - Creator: @Jiade05
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) · [finished media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) · [poster](https://media.goodcase.ai/media/poster/case-3d49f00e65c0.jpg) · [original source](https://x.com/Jiade05/status/2080643134011412961)
@@ -116,7 +154,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > QUALITY:
 > 4K UHD 3840x2160,…
 
-### E5 · 建筑空间改造延时摄影
+### E7 · 建筑空间改造延时摄影
 
 - Creator: @Naiknelofar788
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-429309e40d97) · [finished media](https://media.goodcase.ai/media/video/case-429309e40d97.mp4) · [poster](https://media.goodcase.ai/media/poster/case-429309e40d97.jpg) · [original source](https://x.com/Naiknelofar788/status/2081371164728041980)
@@ -138,7 +176,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 9–12 seconds:…
 
-### E6 · 日式动漫风格猪肉卷芦笋烹饪视频
+### E8 · 日式动漫风格猪肉卷芦笋烹饪视频
 
 - Creator: @tanabe_fragm
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-5c4dcdbf9e99) · [finished media](https://media.goodcase.ai/media/video/case-5c4dcdbf9e99.mp4) · [poster](https://media.goodcase.ai/media/poster/case-5c4dcdbf9e99.jpg) · [original source](https://x.com/tanabe_fragm/status/2076508810190225846)
@@ -179,45 +217,20 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Scene 1 (0s–1.25s): Slender green asparagus spears, a tray of thin pork belly slices, and small glass bowls of soy sauce, mirin, and sugar rest on a wooden cutting board.
 > Camera: slow push-in. Motion: gentle steam of ambient kitchen air, a ha…
 
-### E7 · 韩式烤肉烹饪流程
-
-- Creator: @Strength04_X
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-72e571e9353d) · [finished media](https://media.goodcase.ai/media/video/case-72e571e9353d.mp4) · [poster](https://media.goodcase.ai/media/poster/case-72e571e9353d.jpg) · [original source](https://x.com/Strength04_X/status/2070471862522695793)
-- Summary: 一个复杂的 Seedance 2.0 提示词，可将 9 步烹饪项目转化为厨师无缝衔接的按时间顺序排列的视频序列。
-- Prompt excerpt:
-
-> CRITICAL INSTRUCTION: The reference image contains a 9-step chronological cooking storyboard for a Korean BBQ Platter. Animate the chef seamlessly through these exact 9 steps in order. Start at Step 1 (Slice marinated galbi beef ribs), flow into Step 2 (Heat stone grill pan with oil), then Step 3 (Grill galbi strips). Continue through Step 4 (Add pork belly to grill), Step 5 (Flip meats to caramelize), Step 6 (Arrange banchan side dishes), Step 7 (Build ssam lettuce wrap), Step 8 (Cut grilled meat with scissors), finishing on Step 9 (Full BBQ spread hero shot). Prioritize the strict sequence of actions.
-> No music. No subtitle.
-> Location: Traditional Korean BBQ restaurant with stone tabletop grill.
-> 15 seconds, 16:9, realistic, cinematic, smoky, appetizing, natural camera movement.
-
-### E8 · 从蓝图到房屋的延时摄影变换
-
-- Creator: @craftian_keskin
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-778d0c927488) · [finished media](https://media.goodcase.ai/media/video/case-778d0c927488.mp4) · [poster](https://media.goodcase.ai/media/poster/case-778d0c927488.jpg) · [original source](https://x.com/craftian_keskin/status/2075669026508853393)
-- Summary: 一个复杂的建筑延时摄影提示词，将 2D 平面图和外观参考图转换为完全渲染、家具齐全的 3D 房屋，并保持精确的尺寸和布局。
-- Prompt excerpt:
-
-> Use both attached images as strict reference material. The floor plan defines the exact room layout, dimensions, window placement, door locations, garage position, bathrooms, kitchen, living room, and bedroom. The exterior reference defines the exact architectural style, brick facade, roof shape, front entrance, and garage door. Throughout the transformation, the interior layout must remain perfectly consistent with the blueprint. No rooms may change position, size, or orientation.
->
-> The video begins with a perfectly flat, top-down 2D architectural blueprint floating on a clean white background. Thin blueprint lines glow softly. The camera slowly descends toward the plan.
->
-> As the camera gently tilts from overhead into an isometric perspective, the blueprint begins transforming into reality through an elegant architectural timelapse. Walls rise vertically from the floor lines exactly where they exist in the blueprint. Interior partitions emerge first, followed by exterior brick walls. Window openings and doors appear in their precise blueprint locations.
->
-> The foundation becomes textured concrete. Wooden flooring spreads naturally through the living room, bedroom, and kitchen exactly matching the plan. Bathroom tiles gradually replace the blueprint markings. Kitchen counters, cabinets, island, sink, appliances, and fixtures assemble piece by piece exactly according to the blueprint. Bathroom fixtures, bathtub, toilet, vanity, and shower appear in their designated locations. The bedroom forms with the bed centered exactly where shown. The living room sofa, coffee table, rug, an…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D 烘焙动画序列 | @HaniaAi12 | [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) | [Media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) | [Original](https://x.com/HaniaAi12/status/2076979039747920309) | E1 |
-| Bamboo Toy Car Transformation Vlog | @john87445528 | [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) | [Media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) | [Original](https://x.com/john87445528/status/2084644638724395138) | E2 |
-| 电影感酸种面包烘焙延时摄影 | @Caden_Flux | [GoodCase](https://goodcase.ai/cases/case-179a06586ce5) | [Media](https://media.goodcase.ai/media/video/case-179a06586ce5.mp4) | [Original](https://x.com/Caden_Flux/status/2070862852735594771) | E3 |
-| 可爱兔兔厨师动漫烹饪 | @Jiade05 | [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) | [Media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) | [Original](https://x.com/Jiade05/status/2080643134011412961) | E4 |
-| 建筑空间改造延时摄影 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/case-429309e40d97) | [Media](https://media.goodcase.ai/media/video/case-429309e40d97.mp4) | [Original](https://x.com/Naiknelofar788/status/2081371164728041980) | E5 |
-| 日式动漫风格猪肉卷芦笋烹饪视频 | @tanabe_fragm | [GoodCase](https://goodcase.ai/cases/case-5c4dcdbf9e99) | [Media](https://media.goodcase.ai/media/video/case-5c4dcdbf9e99.mp4) | [Original](https://x.com/tanabe_fragm/status/2076508810190225846) | E6 |
-| 韩式烤肉烹饪流程 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-72e571e9353d) | [Media](https://media.goodcase.ai/media/video/case-72e571e9353d.mp4) | [Original](https://x.com/Strength04_X/status/2070471862522695793) | E7 |
-| 从蓝图到房屋的延时摄影变换 | @craftian_keskin | [GoodCase](https://goodcase.ai/cases/case-778d0c927488) | [Media](https://media.goodcase.ai/media/video/case-778d0c927488.mp4) | [Original](https://x.com/craftian_keskin/status/2075669026508853393) | E8 |
+| 3D 房屋建造动画 | @techartist_ | [GoodCase](https://goodcase.ai/cases/3d-480d142beda4) | [Media](https://media.goodcase.ai/cases/468068dfb710.mp4) | [Original](https://x.com/techartist_/status/2105350783416021472) | E1 |
+| 3D 烘焙动画序列 | @HaniaAi12 | [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) | [Media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) | [Original](https://x.com/HaniaAi12/status/2076979039747920309) | E2 |
+| ASMR LEGO Technic 项目 | @Shorelyn_ | [GoodCase](https://goodcase.ai/cases/asmr-lego-technic-e5706a9a0319) | [Media](https://media.goodcase.ai/media/video/asmr-lego-technic-e5706a9a0319.mp4) | [Original](https://x.com/Shorelyn_/status/2080500909076107595) | E3 |
+| Bamboo Toy Car Transformation Vlog | @john87445528 | [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) | [Media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) | [Original](https://x.com/john87445528/status/2084644638724395138) | E4 |
+| 电影感酸种面包烘焙延时摄影 | @Caden_Flux | [GoodCase](https://goodcase.ai/cases/case-179a06586ce5) | [Media](https://media.goodcase.ai/media/video/case-179a06586ce5.mp4) | [Original](https://x.com/Caden_Flux/status/2070862852735594771) | E5 |
+| 可爱兔兔厨师动漫烹饪 | @Jiade05 | [GoodCase](https://goodcase.ai/cases/case-3d49f00e65c0) | [Media](https://media.goodcase.ai/media/video/case-3d49f00e65c0.mp4) | [Original](https://x.com/Jiade05/status/2080643134011412961) | E6 |
+| 建筑空间改造延时摄影 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/case-429309e40d97) | [Media](https://media.goodcase.ai/media/video/case-429309e40d97.mp4) | [Original](https://x.com/Naiknelofar788/status/2081371164728041980) | E7 |
+| 日式动漫风格猪肉卷芦笋烹饪视频 | @tanabe_fragm | [GoodCase](https://goodcase.ai/cases/case-5c4dcdbf9e99) | [Media](https://media.goodcase.ai/media/video/case-5c4dcdbf9e99.mp4) | [Original](https://x.com/tanabe_fragm/status/2076508810190225846) | E8 |
+| 韩式烤肉烹饪流程 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-72e571e9353d) | [Media](https://media.goodcase.ai/media/video/case-72e571e9353d.mp4) | [Original](https://x.com/Strength04_X/status/2070471862522695793) | E— |
+| 从蓝图到房屋的延时摄影变换 | @craftian_keskin | [GoodCase](https://goodcase.ai/cases/case-778d0c927488) | [Media](https://media.goodcase.ai/media/video/case-778d0c927488.mp4) | [Original](https://x.com/craftian_keskin/status/2075669026508853393) | E— |
 | 吉卜力风格森林烹饪动画 | @AIReelofficial | [GoodCase](https://goodcase.ai/cases/case-a45446378e2a) | [Media](https://media.goodcase.ai/media/video/case-a45446378e2a.mp4) | [Original](https://x.com/AIReelofficial/status/2079531584869548309) | E— |
 | 日式动画风格麻婆豆腐烹饪过程 | @ozuozuai99 | [GoodCase](https://goodcase.ai/cases/case-ce63bf146d4e) | [Media](https://media.goodcase.ai/media/video/case-ce63bf146d4e.mp4) | [Original](https://x.com/ozuozuai99/status/2078854293818622124) | E— |
 | 手工烘焙坊电影感商业广告 | @AIwithAliya | [GoodCase](https://goodcase.ai/cases/case-f62d402ccdf6) | [Media](https://media.goodcase.ai/cases/78746d0ff2ee.mp4) | [Original](https://x.com/AIwithAliya/status/2090780603872624826) | E— |
@@ -226,10 +239,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 动漫风格：制作印度蒸米糕（Idli）的烹饪流程 | @snskritinaruka | [GoodCase](https://goodcase.ai/cases/idli-4a8ed49d4ad9) | [Media](https://media.goodcase.ai/media/video/idli-4a8ed49d4ad9.mp4) | [Original](https://x.com/snskritinaruka/status/2074761846444503180) | E— |
 | iPhone-shot Street Dance Music Video | @applete77191758 | [GoodCase](https://goodcase.ai/cases/iphone-shot-street-dance-music-video) | [Media](https://media.goodcase.ai/cases/f55826cdc6bb.mp4) | [Original](https://x.com/applete77191758/status/2087212818047340844) | E— |
 | 双手从零制作主体的延时过程 | @aimikoda | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-subject-sho-779c59e726b4) | [Media](https://media.goodcase.ai/cases/2968eb50fc18.mp4) | [Original](https://x.com/aimikoda/status/2095141166962311555) | E— |
-| 法式牛角包制作过程 | @TechieBySA | [GoodCase](https://goodcase.ai/cases/real-case-07-techiebysa) | [Media](https://media.goodcase.ai/media/video/real-case-07-techiebysa.mp4) | [Original](https://x.com/TechieBySA/status/2053523775702925768) | E— |
-| 空旷平原日出瞬间城市自建 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/real-case-08-ludoviccreator) | [Media](https://goodcase.ai/media/goodcase/LudovicCreator-2055351279170318782-01.mp4) | [Original](https://x.com/LudovicCreator/status/2055351279170318782) | E— |
-| 乡村厨房蒜香炒青菜的制作过程 | @aynellex | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-17-second-live-action-food-sequence-showing-6c9fa0508f22) | [Media](https://media.goodcase.ai/cases/6f57966c625c.mp4) | [Original](https://x.com/aynellex/status/2105869869216342141) | E— |
-| Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程 | @abxxai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-gopro-94a73eef1dbf.mp4) | [Original](https://x.com/abxxai/status/2087189194720657649) | E— |
+| 从空白画布到完整角色的创作速绘 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-a-15-second-fast-paced-character-creation-timelapse-inside-a-professiona-241237731fca) | [Media](https://media.goodcase.ai/cases/757c7248432e.mp4) | [Original](https://x.com/Chaemate_/status/2095770134313128023) | E— |
+| 铅笔绘制梳妆台前的女子 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/minimax-h3-i-drew-myself-with-the-help-of-minimax-h3-on-092d28f2afb1) | [Media](https://media.goodcase.ai/media/video/minimax-h3-i-drew-myself-with-the-help-of-minimax-h3-on-092d28f2afb1.mp4) | [Original](https://x.com/Just_sharon7/status/2095473707611553897) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 32 published Cases across 18 creators.
+This workflow is derived from 34 published Cases across 20 creators.
 
 ## Operating rule
 
@@ -273,12 +273,12 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 剪贴簿风格韩式美食广告 | @kingofdairyque | [GoodCase](https://goodcase.ai/cases/case-5a706b064073) | [Media](https://media.goodcase.ai/media/image/case-5a706b064073.jpg) | [Original](https://x.com/kingofdairyque/status/2081580288971337797) | E— |
 | 椰子水产品项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) | [Media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) | [Original](https://x.com/Strength04_X/status/2094760813794111843) | E— |
 | 高端意大利面商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) | [Media](https://media.goodcase.ai/cases/714a09d39d81.jpg) | [Original](https://x.com/Strength04_X/status/2095411329461100949) | E— |
+| 奢侈品集群主提示词 | @zazzygfx | [GoodCase](https://goodcase.ai/cases/case-7098c85a0922) | [Media](https://media.goodcase.ai/media/image/case-7098c85a0922.jpg) | [Original](https://x.com/zazzygfx/status/2079258961417732263) | E— |
 | 高端方便面广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) | [Media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) | [Original](https://x.com/Strength04_X/status/2090019696779387173) | E— |
 | 高端酸奶商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-9243db8ae17e) | [Media](https://media.goodcase.ai/cases/500ca353eec3.jpg) | [Original](https://x.com/Strength04_X/status/2096204332895261103) | E— |
 | 无需提示词室内电商专用产品一键生图细节无损工作流高清放大 | 北洛 | [GoodCase](https://goodcase.ai/cases/case-9c747054ceeb) | [Media](https://media.goodcase.ai/media/image/case-9c747054ceeb.gif) | [Original](https://www.liblib.art/modelinfo/6b7e46cb84234be5b614d014f6d1a0ed) | E— |
 | 奢华护肤品广告 | @ai__lyra | [GoodCase](https://goodcase.ai/cases/case-9cff1d540398) | [Media](https://media.goodcase.ai/cases/ab36d235045b.jpg) | [Original](https://x.com/ai__lyra/status/2082457952901018006) | E— |
 | 草地山丘上的极简主义产品摄影 | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/case-9eb937c02956) | [Media](https://media.goodcase.ai/media/image/case-9eb937c02956.jpg) | [Original](https://x.com/Maddox_Digital/status/2077931238674096250) | E— |
-| 几何视窗极简商业海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-b877188dc572) | [Media](https://media.goodcase.ai/cases/1c76451d48a7.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2090960491648815553) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 19 published Cases across 13 creators.
+This workflow is derived from 22 published Cases across 13 creators.
 
 ## Operating rule
 
@@ -144,10 +144,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E— |
 | 沙发上相拥亲吻的萌兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) | [Media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | E— |
 | 男孩与幼龙的热带奇遇 | @aaassa120 | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-810bf41bfd44) | [Media](https://media.goodcase.ai/cases/b3c71c683a6d.mp4) | [Original](https://x.com/aaassa120/status/2098468425421259070) | E— |
+| 企鹅宝宝飞扑拥抱家人 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-b1495c3561d9) | [Media](https://media.goodcase.ai/cases/13fffa5522fb.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2101989437181988957) | E— |
+| 母鸡护雏与老鹰夺粮 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d38a88505bc8) | [Media](https://media.goodcase.ai/cases/c59715ae9b8d.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2102580065972486422) | E— |
 | 水獭伙伴的西瓜田夏日 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92) | [Media](https://media.goodcase.ai/cases/22126411f4b5.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098952788835467439) | E— |
 | 蓝围巾小水獭的飞越群山奇旅 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) | [Media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2096921381841813588) | E— |
 | 小水獭与蓝色新朋友分享冰淇淋 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) | [Media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097643808620196091) | E— |
-| Stylized 3D Animation: Old Man and Pigeon | @AIwithJames | [GoodCase](https://goodcase.ai/cases/stylized-3d-animation-old-man-and-pigeon) | [Media](https://media.goodcase.ai/media/video/stylized-3d-animation-old-man-and-pigeon.mp4) | [Original](https://x.com/AIwithJames/status/2087756963258278211) | E— |
 
 ## Derivation boundary
 
