@@ -1,12 +1,36 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to oggii_0. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to oggii_0. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 1989年西柏林街头日常
+### E1 · 全州韩屋村韩服茶旅日记
+
+- Creator: @oggii_0
+- Evidence: [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-8f11307a9239) · [finished media](https://media.goodcase.ai/media/video/oggii-0-seedance-ai-8f11307a9239.mp4) · [poster](https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-8f11307a9239.jpg) · [original source](https://x.com/oggii_0/status/2091820691100496381)
+- Summary: Made with seedance 2.5 Prompt: FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacati
+- Prompt excerpt:
+
+> FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog
+>
+> Preserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from <<<image_1>>> throughout the entire video. The same woman must appear consistently in every shot.
+>
+> VISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.
+>
+> Outfit: rented pastel pink hanbok with a cream jeogori top, hair styled in a traditional low braid with a small ribbon, white cotton socks, black traditional flat shoes. The entire video must feel like one genuine recording captured by a friend on a daytime trip through Jeonju Hanok Village, South Korea, not a staged commercial or cinematic recreation.
+>
+> 00:00–00:04 — DAYTIME ARRIVAL
+> The woman walks down a sunny stone-paved lane lined with traditional hanok houses, tourists strolling nearby in colorful hanbok.
+> The camera bounces gently behind her, then swings around to her smiling face.
+> She says:
+> "Look at me, I finally get to wear a hanbok!"
+>
+> 00:04–00:08 — TRADITIONAL TEA HOUSE
+> She steps into a small traditional tea house courtya…
+
+### E2 · 1989年西柏林街头日常
 
 - Creator: @oggii_0
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9) · [finished media](https://media.goodcase.ai/cases/dc6e0413a807.mp4) · [poster](https://media.goodcase.ai/cases/e2155c7772af.jpg) · [original source](https://x.com/oggii_0/status/2097563915354063328)
@@ -26,7 +50,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > - **10–15s:** A closer street-level view of everyday pedestrians, storefronts with German signage, newspaper kiosks, and passing cars. People carry shopping bags, talk to each other, and go about their normal routines. Natural, unscripted-looking movement.
 > - **15–20s:** A…
 
-### E2 · 男友视角的关西MiniDV旅行回忆
+### E3 · 男友视角的关西MiniDV旅行回忆
 
 - Creator: @oggii_0
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-exactly-30-seconds-of-photorealistic-live-action-japanese-travel-memorie-4c285efc3fa2) · [finished media](https://media.goodcase.ai/cases/7c21f2cfe057.mp4) · [poster](https://media.goodcase.ai/cases/9d1b39af64ac.jpg) · [original source](https://x.com/oggii_0/status/2099002039141626186)
@@ -41,7 +65,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > One consistent modern Korean Gen Z outfit: an elegant loose ivory ankle-length A-line dress with full-length sleeves and a high neckline, subtle delicate em…
 
-### E3 · 韩国束草渔村清晨探访
+### E4 · 韩国束草渔村清晨探访
 
 - Creator: @oggii_0
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-format-30-seconds-16-9-ultra-photorealistic-live-action-continuous-handh-9260ed6474c5) · [finished media](https://media.goodcase.ai/media/video/seedance-format-30-seconds-16-9-ultra-photorealistic-live-action-continuous-handh-9260ed6474c5.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-format-30-seconds-16-9-ultra-photorealistic-live-action-continuous-handh-9260ed6474c5.jpg) · [original source](https://x.com/oggii_0/status/2095029762070900919)
@@ -68,9 +92,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 1989年西柏林街头日常 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9) | [Media](https://media.goodcase.ai/cases/dc6e0413a807.mp4) | [Original](https://x.com/oggii_0/status/2097563915354063328) | E1 |
-| 男友视角的关西MiniDV旅行回忆 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/seedance-create-exactly-30-seconds-of-photorealistic-live-action-japanese-travel-memorie-4c285efc3fa2) | [Media](https://media.goodcase.ai/cases/7c21f2cfe057.mp4) | [Original](https://x.com/oggii_0/status/2099002039141626186) | E2 |
-| 韩国束草渔村清晨探访 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/seedance-format-30-seconds-16-9-ultra-photorealistic-live-action-continuous-handh-9260ed6474c5) | [Media](https://media.goodcase.ai/media/video/seedance-format-30-seconds-16-9-ultra-photorealistic-live-action-continuous-handh-9260ed6474c5.mp4) | [Original](https://x.com/oggii_0/status/2095029762070900919) | E3 |
+| 全州韩屋村韩服茶旅日记 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-8f11307a9239) | [Media](https://media.goodcase.ai/media/video/oggii-0-seedance-ai-8f11307a9239.mp4) | [Original](https://x.com/oggii_0/status/2091820691100496381) | E1 |
+| 1989年西柏林街头日常 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9) | [Media](https://media.goodcase.ai/cases/dc6e0413a807.mp4) | [Original](https://x.com/oggii_0/status/2097563915354063328) | E2 |
+| 男友视角的关西MiniDV旅行回忆 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/seedance-create-exactly-30-seconds-of-photorealistic-live-action-japanese-travel-memorie-4c285efc3fa2) | [Media](https://media.goodcase.ai/cases/7c21f2cfe057.mp4) | [Original](https://x.com/oggii_0/status/2099002039141626186) | E3 |
+| 韩国束草渔村清晨探访 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/seedance-format-30-seconds-16-9-ultra-photorealistic-live-action-continuous-handh-9260ed6474c5) | [Media](https://media.goodcase.ai/media/video/seedance-format-30-seconds-16-9-ultra-photorealistic-live-action-continuous-handh-9260ed6474c5.mp4) | [Original](https://x.com/oggii_0/status/2095029762070900919) | E4 |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to itsSaira_1. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to itsSaira_1. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -71,6 +71,39 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 11 (24-26s): Driver POV down the highway, collapsed overpass and debris ahead, lone black car in the lane.
 > 12 (27-28s): Wide side shot, bike launch…
 
+### E4 · 少女以异能摧毁坦克军团
+
+- Creator: @itsSaira_1
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05) · [finished media](https://media.goodcase.ai/cases/e90172ccddd5.mp4) · [poster](https://media.goodcase.ai/cases/e28bdc9038b1.jpg) · [original source](https://x.com/itsSaira_1/status/2101205826895827053)
+- Summary: ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
+- Prompt excerpt:
+
+> GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT same schoolgirl, identical face, black bob haircut, navy school uniform, red ribbon, blue plaid skirt, same highway, mountains, skyline, lighting and visual style. Every scene must directly continue from the previous scene using the exact previous last frame as the next Start/Reference Frame. No changes in identity, clothing, environment, direction, scale or lighting.
+>
+> SCENE 1 — 0:00–0:02.5
+> Girl stands exactly in the center of a huge highway, facing distant military tanks. Wide cinematic shot, mountains and city skyline behind them.
+>
+> SCENE 2 — 0:02.5–0:04.5
+> The same tanks fire toward the girl. Powerful muzzle flashes, smoke and realistic military details. Camera moves slightly alongside the tanks.
+>
+> SCENE 3 — 0:04.5–0:07
+> Cut to the exact same girl, standing calmly and facing the camera. Slow cinematic push-in toward her face.
+>
+> SCENE 4 — 0:07–0:09.5
+> Multiple tank shells rapidly fly toward and around the girl. She remains completely still. Projectiles must keep their forward direction and never disappear or reverse.
+>
+> SCENE 5 — 0:09.5–0:11.5
+> The girl's eyes glow neon green. She raises one hand and creates powerful green energy around her hand and body.
+>
+> SCENE 6 — 0:11.5–0:14
+> A massive explosion erupts on the highway around the attacking forces. Huge fire, smoke, dust and debris.
+>
+> SCENE 7 — 0:14–0:16.5
+> Low tracking shot of the same military tanks aggressively moving forward. Realistic tracks, armor, weight, dust and smoke.
+>
+> SCENE 8 — 0:16.5–0:19
+> Multiple tanks suddenly rise and float above the highway under a power…
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -78,6 +111,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 黑衣剑客烈焰横扫暗影兽群 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9) | [Media](https://media.goodcase.ai/cases/c49cb4626203.mp4) | [Original](https://x.com/itsSaira_1/status/2099006619988459985) | E1 |
 | 未来公路上的机车与超跑追逐 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea) | [Media](https://media.goodcase.ai/cases/750a092b1670.mp4) | [Original](https://x.com/itsSaira_1/status/2104064261005709551) | E2 |
 | 末日公路女骑士逃离外星战舰 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152) | [Media](https://media.goodcase.ai/cases/d7ba735094ad.mp4) | [Original](https://x.com/itsSaira_1/status/2104789066562547945) | E3 |
+| 少女以异能摧毁坦克军团 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05) | [Media](https://media.goodcase.ai/cases/e90172ccddd5.mp4) | [Original](https://x.com/itsSaira_1/status/2101205826895827053) | E4 |
 
 ## Derivation boundary
 

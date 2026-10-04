@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 7 published Cases across 7 creators.
+This workflow is derived from 8 published Cases across 8 creators.
 
 ## Operating rule
 
@@ -24,7 +24,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Use the storyboard grid Image1 as the exact visual reference for character design, apartment layout, clothing, handbag, props, lighting, and composition. Animate the six storyboard frames as one continuous 15-second cinematic sequence. Maintain the character’s exact appearance throughout. Maintain the apartment as one fixed physical environment. Do not alter furniture, architecture, kitchen layout, décor, handbag design, clothing, hairstyle, or character proportions. Movement should feel like polished feature-film 3D character animation: natural body weight, realistic walking rhythm, subtle secondary movement in hair and clothing, expressive facial animation, believable hand interaction with objects, and smooth cinematic camera movement. Jarvis is an AI voice only. He is never physically shown. Character sheet is Image2 Apartment exterior and bag is Image3 ⸻ SHOT 1 — 0:00–0:02.5 — 2.5 SECONDS Begin from inside the apartment facing the entrance. The front door opens and the character walks naturally into the apartment after returning from work. She carries the black Hermès Birkin 25 by its two short top handles in one hand and her car keys in the other. Her walk communicates end-of-workday fatigue: slightly lowered shoulders, relaxed pace, calm face. She looks tired but comfortable now that she is home. As she crosses the doorway, she reaches back naturally and begins pulling the door closed behind her. The handbag responds naturally to her walking motion with subtle weight and momentum. No long strap appears. Camera: Wide eye-level establishing shot. Very subtle cinematic p…
 
-### E3 · 写实男性网红故事板
+### E3 · 韩国女孩街头自卫后平安回家
+
+- Creator: @ayzalnooor24521
+- Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-minimax-h3-ai-1503048ca0ff) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-minimax-h3-ai-1503048ca0ff.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-minimax-h3-ai-1503048ca0ff.jpg) · [original source](https://x.com/ayzalnooor24521/status/2092118838859190377)
+- Summary: A simple walk home turns into an unexpected fight. She stands strong, defeats the attackers, and walks home safely. Crea
+- Prompt excerpt:
+
+> Create a detailed 15-second cinematic storyboard picture featuring the same young Korean woman throughout the entire story, with the exact same face, facial features, long wavy brown hair, body proportions, and consistent appearance in every panel. She wears the same light-green oversized T-shirt and loose black pants in every scene, with no coat, jacket, handbag, backpack, or wardrobe changes. Divide the storyboard into 8–10 cinematic panels with clear timecodes: 0:00–0:02 — an ordinary Korean residential neighborhood with modest houses, parked cars, small local shops, and a simple street ice-cream vendor; the girl approaches the vendor and buys an ice cream. 0:02–0:04 — she stands near the street and happily eats the ice cream, enjoying the peaceful everyday atmosphere. 0:04–0:06 — she walks home through a normal neighborhood street, carrying nothing except the ice cream. 0:06–0:08 — two aggressive men suddenly approach and try to stop and grab her. 0:08–0:10 — she confidently defends herself and fights back using realistic self-defense movements, with dynamic cinematic action and natural body motion. 0:10–0:12 — she successfully defeats both attackers; they are down and unable to continue, while the girl remains completely unharmed, with no blood or visible injuries. 0:12–0:14 — she calmly and happily walks toward her home after winning the confrontation. 0:14–0:15 — she reaches her front door and enters her home peacefully with a subtle confident smile. Use a photorealistic Korean neighborhood aesthetic, natural daylight, realistic skin and hair, cinematic camera angles…
+
+### E4 · 写实男性网红故事板
 
 - Creator: @Shorelyn_
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-58e736edb65c) · [finished media](https://media.goodcase.ai/media/video/case-58e736edb65c.mp4) · [poster](https://media.goodcase.ai/media/poster/case-58e736edb65c.jpg) · [original source](https://x.com/Shorelyn_/status/2079066277650600170)
@@ -49,7 +58,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 2 to 4 seconds: [Tattoo Shop Waiting Room] A tight shot pointing at the tattoo designs hanging on the wall with your finger, followed by a quic…
 
-### E4 · 皮克斯风格奶昔故事板动画
+### E5 · 皮克斯风格奶昔故事板动画
 
 - Creator: @gptproto
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-749c98da9b7d) · [finished media](https://media.goodcase.ai/media/video/case-749c98da9b7d.mp4) · [poster](https://media.goodcase.ai/media/poster/case-749c98da9b7d.jpg) · [original source](https://x.com/gptproto/status/2071501518679998922)
@@ -58,7 +67,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — creamy vanilla white, vivid red cherry, pure white whipped cream, chrome counter shine, warm diner neon glow, checkered floor red and white. Top header: THE MILKSHAKE MAKER TOTAL VIDEO TIME: 12 SECONDS 8 SHOTS · THICK · CREAMY · CLASSIC DINER Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT Same Pixar-style young male soda jerk throughout — warm friendly smile, white paper hat, red bow tie, classic American diner setting, chrome counter, red vinyl stools, checkered floor, neon sign glowing in the window, warm afternoon light. 8 panels: Panel 1 — THE OPENER: Wide action shot. Soda jerk tosses the metal blender cup up with one hand and locks it firmly onto the mixer base with a confident flick of his wrist — motion frozen mid-action, his focused smile visible. Chrome counter, red vinyl stools and checkered floor visible around him. Different from the standing-and-presenting energy — this is action from frame one. Panel 2 — THE SCOOP: Close-up. Ice cream scoop digging deep into a tub of creamy vanilla ice cream — thick generous scoops lifted out and dropped into the metal blender cup one after another. Panel 3 — THE MILK: Wide medium with him fully visible. Soda jerk tilts a glass milk bottle, pouring a thick steady stream into the blender cup over the ice cream — his face focused, posture leaning slightly forward. Character back in frame. Panel 4 — THE BLEND: Dramatic…
 
-### E5 · 动态图生视频音乐可视化工具
+### E6 · 动态图生视频音乐可视化工具
 
 - Creator: @EchoraContinuum
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-bf2bedc93316) · [finished media](https://media.goodcase.ai/media/video/case-bf2bedc93316.mp4) · [poster](https://media.goodcase.ai/media/poster/case-bf2bedc93316.jpg) · [original source](https://x.com/EchoraContinuum/status/2079917613149503813)
@@ -67,7 +76,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > generate an interesting music video using this image as first frame,be professional and use dynamic visuals
 
-### E6 · 变身蜘蛛侠：单人照片生成超英变身长镜头
+### E7 · 变身蜘蛛侠：单人照片生成超英变身长镜头
 
 - Creator: 卡尔
 - Evidence: [GoodCase](https://goodcase.ai/cases/doc2-spiderman-transform) · [finished media](https://media.goodcase.ai/supabase-legacy/case-media/carl/doc2-spiderman-transform.mp4) · [poster](https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc2-spiderman-transform.jpg) · [original source](https://x.com/aiwarts?gc=doc2-spiderman-transform)
@@ -76,7 +85,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > 视频prompt：时间段:0-1.8秒 画面:年轻亚洲男主佩戴银色头戴式耳机，身穿灰色连帽棒球服、深色长裤，正面坐在打开的窗台上。他突然向后仰，头肩先下沉，双腿越过窗框，直接倒出窗外，不做完整后空翻。运镜:稳定对称的中大全景;男主后倒时，摄影机迅速前推并向下俯冲，穿过窗口跟随人物。 时间段:1.8-3.2秒 画面:窗台距离街道不高，男主短暂下坠，湿润街道与车辆迅速放大。他将身体调整为斜向前方，抬手朝建筑高处射出蛛丝。蛛丝瞬间绷紧，将下坠转化为向前摆荡，与耳机没有任何连接。运镜:贴近人物俯冲，通过短促甩镜进入手腕近景;蛛丝绷紧后沿牵引方向加速，转为贴近街面的追拍。 时间段:3.2-5.7秒 画面:男主沿街道完成一次流畅的钟摆式摆荡，从车辆上方低空掠过。身体顺着惯性自然延伸，衣服和头发受到气流吹动。到达最低点后迅速加速，随后松开蛛丝向前滑行，全程不翻转。运镜:摄影机在侧后方低空追随，沿摆荡弧线先下降再抬升，车辆和路灯快速掠过前景。 时间段:5.7-8秒 画面：顺着惯性向前方（类似物抛物线逻辑）至身体微微下降时，男主立刻再次抬手朝另一侧建筑高处射出蛛丝，蛛丝再次瞬间绷紧，（画面微自然加速）将下坠转化为向前摆荡，与耳机没有任何连接。运镜:贴近人物侧面平移快速跟拍，通过短促甩镜进入手腕近景;蛛丝绷紧后沿牵引方向加速，转为贴近街面的追拍。。 时间段:8～10.3秒 画面:男主贴近建筑外墙滑行，双脚依次踩上墙面和金属消防梯，完成两次快速蹬墙，随后跃向街道。动作具有明确受力与反弹，不进行空翻。运镜:贴近墙面侧向追拍，短暂靠近鞋底落点，再跟随人物向下移动。 时间段:10.3-12.8秒 画面:镜头先呈现湿润人行道的低机位空镜，男主的影子掠入，随后双脚从画面上方落下。棕色靴子落地并溅起少量水花，膝盖自然缓冲，男主立即起身向前奔跑。运镜:落地前保持贴地固定机位;双脚触地后镜头轻微震动，迅速向上摇摄，再转为低机位侧后方追拍。 时间段:12.8-17秒 画面:男主继续奔跑，一辆黄色出租车从镜头前方驶过并短暂遮挡。车辆移开后，男主已经来到道路另一侧，踩住低矮护栏向前跃起，同时射出第3道蛛丝，蛛丝迅速绷紧，男主连接蛛丝的手用力一拉，整个身体被迅速牵引向建筑屋顶，双脚再次踩上墙面，完成两次快速蹬墙，随后跃向建筑楼顶。运镜:低机位追拍，利用出租车完成遮挡;随后侧向跟随男主跃起并向上仰拍，利用建筑墙面掠过衔接屋顶。 时间段:17-19.2秒 画面:男主落在屋顶水洼旁，以低位蹲姿缓冲，一只手触碰水面，产生克制的水花与涟漪。他缓慢起身，先看向摄影机，再平静地望向远处城市。运镜:从低位中景平稳上升并轻微前推至中近景;男主转头时镜头停止移动。 时间段：19.2-20.8秒 画面:男主转身面向纽约天际线。摄影机移动至侧后方并拉远，由人物中近景扩大为屋顶大全景，远处高楼与尖顶摩天楼进入画面，最后停留半秒并自然淡出。运镜:稳定后拉并轻微横移，最后固定机位停留。
 
-### E7 · GPT Image 2 + MiniMax H3 球员数据面板开场动画
+### E8 · GPT Image 2 + MiniMax H3 球员数据面板开场动画
 
 - Creator: @aimikoda
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-2-minimax-h3-f6dfbd41c76d) · [finished media](https://media.goodcase.ai/cases/3baed4a81407.mp4) · [poster](https://media.goodcase.ai/cases/c0434c7779ba.jpg) · [original source](https://x.com/aimikoda/status/2086122377633575169)
@@ -98,11 +107,12 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 单图生成的雨林赛车一镜到底追逐 | Umesh | [GoodCase](https://goodcase.ai/cases/30s-one-take-rainforest-race-chase-from-single-image) | [Media](https://media.goodcase.ai/cases/16a077baa7df.mp4) | [Original](https://x.com/umesh_ai/status/2103382240571138220) | E1 |
 | Apartment Arrival Storyboard Animation | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) | [Media](https://media.goodcase.ai/media/video/apartment-arrival-storyboard-animation.mp4) | [Original](https://x.com/Just_sharon7/status/2083912532692001128) | E2 |
-| 写实男性网红故事板 | @Shorelyn_ | [GoodCase](https://goodcase.ai/cases/case-58e736edb65c) | [Media](https://media.goodcase.ai/media/video/case-58e736edb65c.mp4) | [Original](https://x.com/Shorelyn_/status/2079066277650600170) | E3 |
-| 皮克斯风格奶昔故事板动画 | @gptproto | [GoodCase](https://goodcase.ai/cases/case-749c98da9b7d) | [Media](https://media.goodcase.ai/media/video/case-749c98da9b7d.mp4) | [Original](https://x.com/gptproto/status/2071501518679998922) | E4 |
-| 动态图生视频音乐可视化工具 | @EchoraContinuum | [GoodCase](https://goodcase.ai/cases/case-bf2bedc93316) | [Media](https://media.goodcase.ai/media/video/case-bf2bedc93316.mp4) | [Original](https://x.com/EchoraContinuum/status/2079917613149503813) | E5 |
-| 变身蜘蛛侠：单人照片生成超英变身长镜头 | 卡尔 | [GoodCase](https://goodcase.ai/cases/doc2-spiderman-transform) | [Media](https://media.goodcase.ai/supabase-legacy/case-media/carl/doc2-spiderman-transform.mp4) | [Original](https://x.com/aiwarts?gc=doc2-spiderman-transform) | E6 |
-| GPT Image 2 + MiniMax H3 球员数据面板开场动画 | @aimikoda | [GoodCase](https://goodcase.ai/cases/gpt-image-2-minimax-h3-f6dfbd41c76d) | [Media](https://media.goodcase.ai/cases/3baed4a81407.mp4) | [Original](https://x.com/aimikoda/status/2086122377633575169) | E7 |
+| 韩国女孩街头自卫后平安回家 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-minimax-h3-ai-1503048ca0ff) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-minimax-h3-ai-1503048ca0ff.mp4) | [Original](https://x.com/ayzalnooor24521/status/2092118838859190377) | E3 |
+| 写实男性网红故事板 | @Shorelyn_ | [GoodCase](https://goodcase.ai/cases/case-58e736edb65c) | [Media](https://media.goodcase.ai/media/video/case-58e736edb65c.mp4) | [Original](https://x.com/Shorelyn_/status/2079066277650600170) | E4 |
+| 皮克斯风格奶昔故事板动画 | @gptproto | [GoodCase](https://goodcase.ai/cases/case-749c98da9b7d) | [Media](https://media.goodcase.ai/media/video/case-749c98da9b7d.mp4) | [Original](https://x.com/gptproto/status/2071501518679998922) | E5 |
+| 动态图生视频音乐可视化工具 | @EchoraContinuum | [GoodCase](https://goodcase.ai/cases/case-bf2bedc93316) | [Media](https://media.goodcase.ai/media/video/case-bf2bedc93316.mp4) | [Original](https://x.com/EchoraContinuum/status/2079917613149503813) | E6 |
+| 变身蜘蛛侠：单人照片生成超英变身长镜头 | 卡尔 | [GoodCase](https://goodcase.ai/cases/doc2-spiderman-transform) | [Media](https://media.goodcase.ai/supabase-legacy/case-media/carl/doc2-spiderman-transform.mp4) | [Original](https://x.com/aiwarts?gc=doc2-spiderman-transform) | E7 |
+| GPT Image 2 + MiniMax H3 球员数据面板开场动画 | @aimikoda | [GoodCase](https://goodcase.ai/cases/gpt-image-2-minimax-h3-f6dfbd41c76d) | [Media](https://media.goodcase.ai/cases/3baed4a81407.mp4) | [Original](https://x.com/aimikoda/status/2086122377633575169) | E8 |
 
 ## Derivation boundary
 
