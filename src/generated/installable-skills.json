@@ -156,10 +156,10 @@
     "slug": "code-rendered-explainer-video",
     "kind": "shared",
     "category": "video",
-    "caseCount": 7,
-    "creatorCount": 7,
-    "verifiedAt": "2026-10-04T14:07:34.674Z",
-    "packageSha256": "b29f4cdaa3137d78e51f0f0382ed2459c167807c87a87df7d6e9ae04bdc57488"
+    "caseCount": 6,
+    "creatorCount": 6,
+    "verifiedAt": "2026-10-04T15:15:22.956Z",
+    "packageSha256": "b6f5fca37e990aa3e59baa135070d0891d5296c638d04e82f2897d97f9c4dc02"
   },
   {
     "slug": "editorial-portrait-composition",
