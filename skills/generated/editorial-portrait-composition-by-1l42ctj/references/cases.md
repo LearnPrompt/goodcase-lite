@@ -6,7 +6,7 @@ This is an unofficial synthesis of a recurring method found in 7 published Cases
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 梦幻时尚 Midjourney 提示词：粉色水下睁眼呼吸的丝绸女子
+### E1 · 梦幻时尚：粉色水下睁眼呼吸的丝绸女子
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-28c303b19cd6) · [finished media](https://media.goodcase.ai/cases/c21ff270c312.webp) · [original source](https://www.douyin.com/note/7660844902058779237?gc=05)
@@ -16,7 +16,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Underwater fashion editorial, a young woman submerged in pale pink-tinted water breathing naturally with eyes open, she wears a thin white silk dress that has lost all gravity in water the fabric billows around her as soft cloud-pillows, individual silk threads float freely creating cloud-like formations, she exhales and the bubbles rising from her lips are tiny glowing stars each bubble contains stellar light, her long dark hair spreads like ink in water with bioluminescent micro-organisms twinkling between strands, god rays from surface pierce down through pink water in curved shafts, water caustics dance across her skin AND across the floating silk creating "water tattooing" on both body and fabric, she is calm breathing as if water is air, haute couture underwater editorial, dreamcore, hyperrealistic
 > --chaos 5 --ar 9:16 --raw --stylize 300 --weird 5 --hd --profile atdyz8g
 
-### E2 · 梦幻时尚 Midjourney 提示词：花园梦境从裙摆开始溶解
+### E2 · 梦幻时尚：花园梦境从裙摆开始溶解
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-33b47043176c) · [finished media](https://media.goodcase.ai/cases/5f01e8b3be89.webp) · [original source](https://www.douyin.com/note/7660844902058779237?gc=04)
@@ -26,7 +26,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > A woman standing in a dreamlike garden scene, the edges of the entire frame are dissolving into pure white colors fade from edges inward, the center still holds the dream in vivid color, her fingertips are becoming transparent, the KEY fashion detail: her dream-gown is also dissolving from the hem upward, dream-fabric (petals/chiffon/gradient/light) is gradually fading back into plain white cotton sleep shirt haute couture returning to the simplest fabric, she reaches toward the white edge and touches it a ripple of white emanates, she looks directly at camera for the first time "remember this for me", haute couture dreamcore dissolving, the sadness of a beautiful dream and a beautiful dress both ending, 35mm, color palette: center saturated dream colors
 > --chaos 5 --ar 9:16 --raw --stylize 300 --weird 5 --hd --profile atdyz8g
 
-### E3 · 梦幻时尚 Midjourney 提示词：风把梦的颜料画在她脸上又擦掉
+### E3 · 梦幻时尚：风把梦的颜料画在她脸上又擦掉
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-64ce1536d39e) · [finished media](https://media.goodcase.ai/cases/de9140bc42a2.webp) · [original source](https://www.douyin.com/note/7660844902058779237?gc=02)
@@ -36,7 +36,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Profile close up, 90 degree side view, 85mm. Young Asian woman turning her face toward the wind. The wind carries dream pigment - as it sweeps her cheek, it leaves ultra faint watercolor streaks (lavender purple / rose pink / honey gold) that dissolve after 3 seconds; the wind paints then erases its own painting. Each hair strand blown by wind has tiny light particles at the tips - dream residue, hair as the wind's brush. A single petal fragment rests on her lower lip - not lip tint, but dream debris that landed there. Expression: "being touched by a dream, not wind." Dual lighting: left = cool lavender (environmental dream light), right = warm gold (wind carried dream light). Color palette: warm pearl skin / watercolor wind traces (lavender/pink/gold) / hair tip light particles / lavender ambient. Haute couture dreamcore beauty editorial.
 > --chaos 5--ar9:16--raw --stylize 300--weird 5--hd --profile atdyz8g
 
-### E4 · 梦幻时尚 Midjourney 提示词：极光镜面湖面上赤脚走出的莲花涟漪
+### E4 · 梦幻时尚：极光镜面湖面上赤脚走出的莲花涟漪
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-7cc1657bcb9b) · [finished media](https://media.goodcase.ai/cases/7a5e768070d3.webp) · [original source](https://www.douyin.com/note/7660844902058779237?gc=06)
@@ -46,7 +46,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Full body wide shot, a young woman walking barefoot on a perfectly mirror-still infinite lake surface, the water reflects an aurora-filled sky so perfectly that the horizon line is invisible sky and water are one, each footstep creates a ripple that blooms into the shape of a flower lotus-like concentric petals in iridescent colors, she wears a silver-grey liquid silk column dress the top half is dry structured silk, from the knee down the fabric progressively dissolves into the water surface the submerged hem becomes translucent and merges with the mirror water you cannot tell where her dress ends and the water begins, the V-shaped wake her dress creates on the water surface looks like a boat trail, her posture is relaxed and unhurried a couture stroll across impossible ground, distant aurora curtains, haute couture dreamcore
 > --chaos 5 --ar 9:16 --raw --stylize 300 --weird 5 --hd --profile atdyz8g
 
-### E5 · 梦幻时尚 Midjourney 提示词：云海上金色时刻独舞的女子
+### E5 · 梦幻时尚：云海上金色时刻独舞的女子
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-96e2c2288525) · [finished media](https://media.goodcase.ai/cases/2d14ea3df354.webp) · [original source](https://www.douyin.com/note/7660844902058779237?gc=03)
@@ -56,7 +56,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > A woman dancing alone on top of a sea of clouds at golden hour, mid-spin graceful arabesque belonging to no known dance, she wears an impossibly light pale gold chiffon gown the chiffon IS cloud fabric: weightless, translucent, wind-shaped, when spinning the dress forms a perfect circle disc and the boundary between dress hem and cloud surface vanishes chiffon becomes cloud becomes chiffon, the sun is BELOW the cloud line its light shoots upward creating textbook fashion editorial golden rim light silhouette her edges burn gold, no stage no audience no ground only clouds, chiffon, and her, eyes closed in private joy, haute couture dreamcore, the freedom of weightless dance and weightless fabric, 35mm anamorphic, golden hour from below, color palette: gold sunset / cloud-chiffon white / pale gold chiffon / blue-purple sky above
 > --chaos 5 --ar 9:16 --raw --stylize 300 --weird 5 --hd --profile atdyz8g
 
-### E6 · 梦幻时尚 Midjourney 提示词：腰部缎面渐变成蝴蝶群的裙摆
+### E6 · 梦幻时尚：腰部缎面渐变成蝴蝶群的裙摆
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-f15b74a03c87) · [finished media](https://media.goodcase.ai/cases/f0433ea6a935.webp) · [original source](https://www.douyin.com/note/7660844902058779237?gc=07)
@@ -66,7 +66,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Full body editorial shot, woman standing in soft golden light void. Gown: structured champagne satin bodice; from waist down the dress IS thousands of white and pale gold butterflies - densely packed at waist simulating fabric scales, progressively loosening downward until hem is a cloud of freely flying butterflies. Some butterflies spiral upward creating a living aura. Pose: right hand extended with one butterfly perched on fingertip, left arm relaxed. Loose updo with free strands. Waist to hem transition is a gradient from fashion to nature. Dress silhouette alive, expanding and contracting. Haute couture dreamcore, impossible beauty. 85mm lens, shallow depth of field, soft diffused lighting, magazine cover composition. Color palette: champagne satin / honey gold butterflies / blush pink aura / warm skin.
 > --chaos 5 --ar 9:16 --raw --stylize 300 --weird 5 --hd --profile atdyz8g
 
-### E7 · 梦幻时尚 Midjourney 提示词：走进金色光线帘幕的白丝绸女子
+### E7 · 梦幻时尚：走进金色光线帘幕的白丝绸女子
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-feb06df984ee) · [finished media](https://media.goodcase.ai/cases/afcc2974c2cc.webp) · [original source](https://www.douyin.com/note/7660844902058779237?gc=01)
@@ -80,13 +80,13 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 梦幻时尚 Midjourney 提示词：粉色水下睁眼呼吸的丝绸女子 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-28c303b19cd6) | [Media](https://media.goodcase.ai/cases/c21ff270c312.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=05) | E1 |
-| 梦幻时尚 Midjourney 提示词：花园梦境从裙摆开始溶解 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-33b47043176c) | [Media](https://media.goodcase.ai/cases/5f01e8b3be89.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=04) | E2 |
-| 梦幻时尚 Midjourney 提示词：风把梦的颜料画在她脸上又擦掉 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-64ce1536d39e) | [Media](https://media.goodcase.ai/cases/de9140bc42a2.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=02) | E3 |
-| 梦幻时尚 Midjourney 提示词：极光镜面湖面上赤脚走出的莲花涟漪 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-7cc1657bcb9b) | [Media](https://media.goodcase.ai/cases/7a5e768070d3.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=06) | E4 |
-| 梦幻时尚 Midjourney 提示词：云海上金色时刻独舞的女子 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-96e2c2288525) | [Media](https://media.goodcase.ai/cases/2d14ea3df354.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=03) | E5 |
-| 梦幻时尚 Midjourney 提示词：腰部缎面渐变成蝴蝶群的裙摆 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-f15b74a03c87) | [Media](https://media.goodcase.ai/cases/f0433ea6a935.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=07) | E6 |
-| 梦幻时尚 Midjourney 提示词：走进金色光线帘幕的白丝绸女子 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-feb06df984ee) | [Media](https://media.goodcase.ai/cases/afcc2974c2cc.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=01) | E7 |
+| 梦幻时尚：粉色水下睁眼呼吸的丝绸女子 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-28c303b19cd6) | [Media](https://media.goodcase.ai/cases/c21ff270c312.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=05) | E1 |
+| 梦幻时尚：花园梦境从裙摆开始溶解 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-33b47043176c) | [Media](https://media.goodcase.ai/cases/5f01e8b3be89.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=04) | E2 |
+| 梦幻时尚：风把梦的颜料画在她脸上又擦掉 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-64ce1536d39e) | [Media](https://media.goodcase.ai/cases/de9140bc42a2.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=02) | E3 |
+| 梦幻时尚：极光镜面湖面上赤脚走出的莲花涟漪 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-7cc1657bcb9b) | [Media](https://media.goodcase.ai/cases/7a5e768070d3.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=06) | E4 |
+| 梦幻时尚：云海上金色时刻独舞的女子 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-96e2c2288525) | [Media](https://media.goodcase.ai/cases/2d14ea3df354.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=03) | E5 |
+| 梦幻时尚：腰部缎面渐变成蝴蝶群的裙摆 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-f15b74a03c87) | [Media](https://media.goodcase.ai/cases/f0433ea6a935.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=07) | E6 |
+| 梦幻时尚：走进金色光线帘幕的白丝绸女子 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-feb06df984ee) | [Media](https://media.goodcase.ai/cases/afcc2974c2cc.webp) | [Original](https://www.douyin.com/note/7660844902058779237?gc=01) | E7 |
 
 ## Derivation boundary
 

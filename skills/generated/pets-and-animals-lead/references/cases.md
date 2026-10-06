@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 46 published Cases across 29 creators.
+This workflow is derived from 48 published Cases across 30 creators.
 
 ## Operating rule
 
@@ -196,8 +196,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 狐狸在森林溪流边自拍漫游 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | [Media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) | [Original](https://x.com/MrDasOnX/status/2089969922617266257) | E— |
 | 粉色兔女郎旋身近镜亲吻 | @KeorUnreal | [GoodCase](https://goodcase.ai/cases/nano-banana-cinematic-10-second-continuous-shot-starting-exactly-from-the-uploaded-photo-a-20c619b4f3cd) | [Media](https://media.goodcase.ai/cases/5203b8430296.mp4) | [Original](https://x.com/KeorUnreal/status/2100921858811998355) | E— |
 | 战壕里戴钢盔的橘猫士兵 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-a-15-second-vertical-9-16-photorealistic-cinematic-video-of-a-cute-orang-ed0d127d5ff9) | [Media](https://media.goodcase.ai/cases/19db95d5d39e.mp4) | [Original](https://x.com/Aiwithmaha/status/2105847315609293134) | E— |
-| 江畔野餐偷吃炸鸡的虎帽猫 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-short-film-photorealistic-korean-riverside-picnic-aesth-3b0868a31904) | [Media](https://media.goodcase.ai/cases/36e7026af2a1.mp4) | [Original](https://x.com/Zyrellix/status/2100081464469787115) | E— |
-| 废墟卧室中的白发女子与巨型黑猫 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3) | [Media](https://media.goodcase.ai/cases/b00b46531982.mp4) | [Original](https://x.com/Zyrellix/status/2097594855946113177) | E— |
+| 头巾女孩与小鸭兔子的月夜提灯漫游 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-magical-3d-animated-fairy-tale-scene-featuring-a-young-girl-wearing-a-black-h-cf1194730635) | [Media](https://media.goodcase.ai/cases/4cf1caaf2d0c.mp4) | [Original](https://x.com/Zyrellix/status/2106604455151980846) | E— |
+| 月夜竹林中的武士猫大战忍者 | @Elvorya | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-15-second-photorealistic-cinematic-fantasy-action-sequence-featuring-a-b55a1fd3c9b6) | [Media](https://media.goodcase.ai/cases/94b7cf311fed.mp4) | [Original](https://x.com/Elvorya/status/2106237323046486362) | E— |
 
 ## Derivation boundary
 

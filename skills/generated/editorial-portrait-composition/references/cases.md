@@ -1,12 +1,28 @@
 # Case evidence
 
-This workflow is derived from 65 published Cases across 41 creators.
+This workflow is derived from 67 published Cases across 42 creators.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 3D CG 东方奇幻少女肖像
+### E1 · 学院风萌童肖像与三视图
+
+- Creator: 灵感啵啵
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-bjd-64299322825d) · [finished media](https://media.goodcase.ai/cases/8c2cb34d64e7.webp) · [original source](https://www.xiaohongshu.com/explore/6ab48443000000001b01f756?xsec_token=YBEHLI7o2Vud1alscc-4rwga27724JGmsy3-UJX_vHWlI=)
+- Summary: AI漫剧小正太四视图（附提示词） 模型：GPTImage2.5 🕸️：灵感啵啵（可一键get同款） 提示词： 纯白色干净背景，横版人物设定图，正面大头特写，右侧依次排列人物全身正面、标准正侧面、背面三视图；3D 半写实国漫建模，BJD 人偶般精致瓷感肤质，漫剧角色设计，电影级柔光质感，超高清细节。 软萌治愈系小男孩角…
+- Prompt excerpt:
+
+> 纯白色干净背景，横版人物设定图，正面大头特写，右侧依次排列人物全身正面、标准正侧面、背面三视图；3D 半写实国漫建模，BJD 人偶般精致瓷感肤质，漫剧角色设计，电影级柔光质感，超高清细节。
+>
+> 软萌治愈系小男孩角色，约 3 岁幼态年龄感，圆润饱满婴儿肥小脸，暖调奶白细腻肌肤，脸颊带淡淡粉调红晕。超大棕色瞳孔，眼型圆润无辜，眼神清澈专注，晶莹眼白，纤长微翘睫毛，眼睑微红，浅棕自然细眉，小巧圆润鼻头，樱桃小嘴微张，唇色淡粉带水润光泽。蓬松柔软的黑色短发，发丝略带自然凌乱感，头顶轻盈炸毛，碎发贴近额角与脸侧。身形娇小幼态，比例圆润可爱，站姿安静乖巧，整体气质软甜、纯净、治愈、亲近。
+>
+> 奶白色柔软针织马甲，胸前带小熊刺绣徽章，内搭浅蓝色小翻领衬衫，系藏青色细格纹小领带；深灰蓝宽松五分短裤，裤腿带浅白条纹边饰；奶白拼雾蓝中筒袜，袜口有小熊图案；米白拼深蓝魔术贴宝宝鞋，鞋面带圆润小铆钉与柔软皮革质感，搭配浅米色迷你双肩小书包。整体配色奶白、雾蓝、浅灰蓝，清新柔和，低饱和甜系学院风。
+>
+> 清透自然幼态肤质，粉嫩苹果肌腮红，水润淡粉唇色，柔和自然光，侧逆光勾勒头发边缘金色光晕，面部光线均匀明亮，浅景深，奶白色背景，色彩清新淡雅，低饱和暖调，精致唯美，细腻真实，电影摄影质感。
+> #AI生图[话题]# #萌娃[话题]# #漫剧[话题]# #ai漫剧萌娃[话题]##人物四视图[话题]# #人物一致性[话题]# #小正太[话题]# #人物设计[话题]# #ai关键词[话题]# #image25[话题]#
+
+### E2 · 3D CG 东方奇幻少女肖像
 
 - Creator: @liyue_ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) · [finished media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) · [original source](https://x.com/liyue_ai/status/2081409414918262965)
@@ -33,7 +49,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic soft lighting, PBR materials, subsurface scattering skin…
 
-### E2 · 昭和日杂美学人像:90 年代日系杂志胶片感,中英双语提示词
+### E3 · 昭和日杂美学人像:90 年代日系杂志胶片感,中英双语提示词
 
 - Creator: ✂️奥利oli
 - Evidence: [GoodCase](https://goodcase.ai/cases/90-251783eee4c4) · [finished media](https://media.goodcase.ai/supabase-legacy/case-posters/dy-note-7658151707444120842-0.jpg) · [original source](https://www.douyin.com/note/7658151707444120842)
@@ -42,7 +58,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Extreme close-up shot, young East Asian girl with messy wet black hair, head tilted sideways against rough concrete wall, eyes softly closed, slightly parted lips under running tap water, clear stream of water pouring straight down from metal faucet onto her face, tiny water droplets covering her skin and hair, glistening dewy skin, lush blurred green foliage background, bright harsh summer natural sunlight, 90s Showa Japanese youth magazine film photography, shot on 35mm color negative film, warm saturated retro color palette, thick natural film grain, sharp focus on facial texture and flowing water, soft shallow depth of field, candid summer refreshing atmosphere, lifelike moist skin texture Negative: heavy makeup, Western facial features, cartoon, CGI, blurry, distorted face, oversaturated neon color, plastic smooth fake skin, ugly facial features, extra limbs, messy broken composition, digital filter
 
-### E3 · 干净的高调美妆肖像
+### E4 · 干净的高调美妆肖像
 
 - Creator: @AiPhotoDesigner
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) · [finished media](https://media.goodcase.ai/media/image/case-0511c6f3368b.jpg) · [original source](https://x.com/AiPhotoDesigner/status/2081613584493125717)
@@ -51,7 +67,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > 縦長9:16、白い室内で撮影した極めて明るく清潔なフォトリアルの美容ポートレート。実在人物ではない架空の成人日本人女性、見た目は{argument name="年齢" default="23〜28歳"}。顔を画面中央に大きく配置し、頭頂から胸上までのタイトなクローズアップ。肩をわずかに右へ傾け、首を少し左へ倒し、カメラへ正面の視線。額・両目・鼻・口・顎がすべて画面内に入り、髪は左右へ長く流れて縦構図を埋める。{argument name="ヘアスタイル" default="黒に近い艶のあるロングヘア"}、胸より下まで続く長さ、中央より少し左の分け目。額には空気を含んだ細いシースルーバング、頬の横に数本の繊細な毛束、毛先は緩いウェーブ。大きすぎないダークブラウンの瞳、自然な二重、繊細な上下まつ毛、ピーチベージュのアイメイク、薄いコーラルチーク。口を少し開いた自然な笑顔で整った上の歯が見える。淡いピンクの艶リップ。丸みのある頬と滑らかな顎、健康的で明るい肌。ただし毛穴、産毛、唇の縦じわ、虹彩の細部は残す。衣装は{argument name="服装" default="白〜アイボリーの柔らかいコットンブラウス"}。丸い襟ぐり、胸元に細かなギャザーと小さな白ボタン。アクセサリーなし。背景は完全な白ではなく、白い壁と窓光が溶けたごく淡いグレー。被写体の右後方から柔らかな逆光、顔の正面は大きな白いレフ板で均一に起こす。高キーだが白飛びさせず、髪の黒と瞳の輪郭を残す。85〜105mm相当、f/2.2、目線の高さ、瞳に最優先でピント。顔のパースを歪ませず、背景だけ滑らかにぼかす。ビューティー広告の精密さと自然光ポートレートの親近感を両立。文字、ロゴ、透かし、アクセサリー、派手なネイル、余分な歯、左右で異なる瞳、過度に巨大な目、蝋人形の肌、強い輪郭補正、イラスト感、3DCG感を入れない。
 
-### E4 · 咖啡馆里的生动肖像
+### E5 · 咖啡馆里的生动肖像
 
 - Creator: @aatif_j
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) · [finished media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) · [original source](https://x.com/aatif_j/status/2081492288836981123)
@@ -60,7 +76,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > This vertical portrait captures a {argument name="subject" default="charming, handsome young man with wavy dark hair"}, laughing heartily while engaged in a lively conversation at a {argument name="setting" default="rustic, cozy cafe"}. He is dressed in a casual {argument name="clothing" default="olive green linen shirt"} and is seated at a worn wooden table, where a freshly brewed cup of coffee rests beside a notebook. The warm, inviting atmosphere is enhanced by soft ambient lighting, string lights glowing in the background, and the blurred silhouettes of other patrons, creating an authentic and candid sense of a relaxed afternoon spent with a friend.
 
-### E5 · 充满奇趣的动漫生活肖像与涂鸦阴影
+### E6 · 充满奇趣的动漫生活肖像与涂鸦阴影
 
 - Creator: @Taaruk_
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) · [original source](https://x.com/Taaruk_/status/2080197768178720865)
@@ -69,7 +85,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Wholesome anime-inspired lifestyle portrait of a {argument name="character" default="cute young woman with a short pastel-pink bob haircut"}, wearing an oversized vintage red plaid flannel shirt, baggy blue jeans, and classic canvas sneakers, interacting with a {argument name="pet" default="fluffy gray-and-white British Shorthair cat wearing a tiny plaid bandana"}. They are bathed in warm golden-hour sunlight against a clean beige wall, creating long, soft shadows. The magical twist: their shadows transform into playful hand-drawn manga doodles—the girl's shadow becomes an adorable chibi anime version of herself striking a joyful pose, while the cat's shadow becomes a funny cartoon cat waving, dancing, or reaching toward her. Pencil-sketch style with expressive line art, motion marks, hearts, stars, butterflies, and playful doodles integrated naturally into the shadows. Cozy slice-of-life aesthetic, {argument name="style" default="Studio Ghibli × modern manga illustration"}, minimalist background, soft cinematic lighting, authentic candid emotion, ultra-detailed fur, natural skin tones, dreamy atmosphere, whimsical storytelling, premium editorial photography, 50mm lens, shallow depth of field, Kodak Portra 400 colors, ultra-photorealistic, 8K, masterpiece.
 
-### E6 · 豪华汽车杂志风人像
+### E7 · 豪华汽车杂志风人像
 
 - Creator: @vireonixx
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) · [finished media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) · [original source](https://x.com/vireonixx/status/2081388724076818568)
@@ -78,7 +94,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create a premium luxury automotive editorial portrait of a stylish {argument name="subject" default="man in his mid-20s"} during a daytime drive. He has an athletic build, fair skin with warm-neutral undertones, an oval face with a sharp angular jawline, well-defined facial features, moderately prominent cheekbones, a straight nose, medium lips, thick groomed eyebrows, and a short, neatly trimmed beard and mustache. His {argument name="hair style" default="dark brown medium-length hair is styled in a voluminous brushed-back side part"} with a smooth texture and a slight natural wave. His expression is calm, focused, and confident as he looks toward the road. Dress him in a {argument name="clothing" default="black leather jacket layered over a light beige zip-up collared sweatshirt"}, styled in a refined quiet luxury aesthetic. He wears black rectangular sunglasses with silver metal temples, and a visible seatbelt completes the authentic driving scene. He is seated in the driver's seat of a modern luxury vehicle, captured in a three-quarter profile with his head turned slightly to the left. His posture is upright, composed, and effortless, while his hands remain outside the frame. The interior features a clean, premium cabin with a headrest, dashboard, side window, and roof liner subtly visible in the background. Illuminate the scene with soft natural golden-hour sunlight entering from the driver's side window, creating warm highlights across his face and clothing while gentle shadows define his facial structure and enhance depth. Use a moderately shallow depth of field to k…
 
-### E7 · 草莓冰棒与夏日时尚
+### E8 · 草莓冰棒与夏日时尚
 
 - Creator: @CyberTotal2026
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) · [finished media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) · [original source](https://x.com/CyberTotal2026/status/2080445103932649638)
@@ -109,41 +125,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > ネガティブ：
 > 未成年に見える人物、不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、アイスとの接触不良、不自然な重力、極端な身体変形、下着の露出、光源と矛盾する影、文字化け、ロゴ、透かし、過度な美肌補正、プラスチックのような肌。
 
-### E8 · 高对比度电影感人像
-
-- Creator: @aatif_j
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-45ce17868767) · [finished media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) · [original source](https://x.com/aatif_j/status/2080212276188152302)
-- Summary: 一个用于黑白面部特写的高细节提示词，强调张力、电影感颗粒效果以及自然的头发动态。
-- Prompt excerpt:
-
-> Black and white contrast photo
->
-> Extremely close-up shot of half of a {argument name="subject" default="girl's"} face
->
-> She is wearing a {argument name="clothing" default="black turtleneck"}
->
-> Cinematic effect with added grain.
->
-> Do not change facial features
->
-> In the frame only the face up to the eyebrows and the neck
->
-> Face straight and eyes look into the camera with slight tension
->
-> Hair loose voluminous and some strands and hairs blowing in the wind
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 3D CG 东方奇幻少女肖像 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) | [Original](https://x.com/liyue_ai/status/2081409414918262965) | E1 |
-| 昭和日杂美学人像:90 年代日系杂志胶片感,中英双语提示词 | ✂️奥利oli | [GoodCase](https://goodcase.ai/cases/90-251783eee4c4) | [Media](https://media.goodcase.ai/supabase-legacy/case-posters/dy-note-7658151707444120842-0.jpg) | [Original](https://www.douyin.com/note/7658151707444120842) | E2 |
-| 干净的高调美妆肖像 | @AiPhotoDesigner | [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) | [Media](https://media.goodcase.ai/media/image/case-0511c6f3368b.jpg) | [Original](https://x.com/AiPhotoDesigner/status/2081613584493125717) | E3 |
-| 咖啡馆里的生动肖像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) | [Original](https://x.com/aatif_j/status/2081492288836981123) | E4 |
-| 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E5 |
-| 豪华汽车杂志风人像 | @vireonixx | [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) | [Media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) | [Original](https://x.com/vireonixx/status/2081388724076818568) | E6 |
-| 草莓冰棒与夏日时尚 | @CyberTotal2026 | [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) | [Media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) | [Original](https://x.com/CyberTotal2026/status/2080445103932649638) | E7 |
-| 高对比度电影感人像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) | [Original](https://x.com/aatif_j/status/2080212276188152302) | E8 |
+| 学院风萌童肖像与三视图 | 灵感啵啵 | [GoodCase](https://goodcase.ai/cases/3d-bjd-64299322825d) | [Media](https://media.goodcase.ai/cases/8c2cb34d64e7.webp) | [Original](https://www.xiaohongshu.com/explore/6ab48443000000001b01f756?xsec_token=YBEHLI7o2Vud1alscc-4rwga27724JGmsy3-UJX_vHWlI=) | E1 |
+| 3D CG 东方奇幻少女肖像 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) | [Original](https://x.com/liyue_ai/status/2081409414918262965) | E2 |
+| 昭和日杂美学人像:90 年代日系杂志胶片感,中英双语提示词 | ✂️奥利oli | [GoodCase](https://goodcase.ai/cases/90-251783eee4c4) | [Media](https://media.goodcase.ai/supabase-legacy/case-posters/dy-note-7658151707444120842-0.jpg) | [Original](https://www.douyin.com/note/7658151707444120842) | E3 |
+| 干净的高调美妆肖像 | @AiPhotoDesigner | [GoodCase](https://goodcase.ai/cases/case-0511c6f3368b) | [Media](https://media.goodcase.ai/media/image/case-0511c6f3368b.jpg) | [Original](https://x.com/AiPhotoDesigner/status/2081613584493125717) | E4 |
+| 咖啡馆里的生动肖像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) | [Original](https://x.com/aatif_j/status/2081492288836981123) | E5 |
+| 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E6 |
+| 豪华汽车杂志风人像 | @vireonixx | [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) | [Media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) | [Original](https://x.com/vireonixx/status/2081388724076818568) | E7 |
+| 草莓冰棒与夏日时尚 | @CyberTotal2026 | [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) | [Media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) | [Original](https://x.com/CyberTotal2026/status/2080445103932649638) | E8 |
+| 高对比度电影感人像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) | [Original](https://x.com/aatif_j/status/2080212276188152302) | E— |
 | 奢华摄影棚时尚大片 | @john_my07 | [GoodCase](https://goodcase.ai/cases/case-59c91a376d70) | [Media](https://media.goodcase.ai/media/image/case-59c91a376d70.jpg) | [Original](https://x.com/john_my07/status/2080344542885335240) | E— |
 | 照片人像自然美颜优化 | 数字生命卡兹克 | [GoodCase](https://goodcase.ai/cases/case-5a2d1946332d) | [Media](https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261002/6aba0f9c0000000015013521/media-img-01.webp) | [Original](https://www.xiaohongshu.com/explore/6aba0f9c0000000015013521?xsec_token=YBgKHx2esTLwSJsKQUuQ_m8HUEdGsWty-VDeylITSv-AQ=&gc=6aba0f9c0000000015013521-1) | E— |
 | 电影感艺术自然人像 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) | [Media](https://media.goodcase.ai/media/image/case-5fe2c52283f0.jpg) | [Original](https://x.com/Taaruk_/status/2081597935947792465) | E— |
@@ -155,7 +149,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 黑白时尚编辑人像 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/case-9d64f52eb770) | [Media](https://media.goodcase.ai/media/image/case-9d64f52eb770.jpg) | [Original](https://x.com/ChillaiKalan__/status/2081615969274012153) | E— |
 | 夏日缘侧肖像 | @akinonnon_kan | [GoodCase](https://goodcase.ai/cases/case-b2269baeb516) | [Media](https://media.goodcase.ai/media/image/case-b2269baeb516.jpg) | [Original](https://x.com/akinonnon_kan/status/2081579986348306817) | E— |
 | 圆形墙面镂空中的影棚肖像 | @Arminn_Ai | [GoodCase](https://goodcase.ai/cases/case-c69378856fa6) | [Media](https://media.goodcase.ai/media/image/case-c69378856fa6.jpg) | [Original](https://x.com/Arminn_Ai/status/2081438772709781579) | E— |
-| 地中海游艇俱乐部时尚大片 | @pictsbyai | [GoodCase](https://goodcase.ai/cases/case-d17519ec36a7) | [Media](https://media.goodcase.ai/cases/59227512be80.jpg) | [Original](https://x.com/pictsbyai/status/2091802189161447609) | E— |
 
 ## Derivation boundary
 

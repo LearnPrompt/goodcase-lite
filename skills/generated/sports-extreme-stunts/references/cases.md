@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 24 published Cases across 21 creators.
+This workflow is derived from 25 published Cases across 22 creators.
 
 ## Operating rule
 
@@ -308,6 +308,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Seedance 单板滑雪地形公园流畅滑行短片 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) | [Original](https://x.com/nawalsehar/status/2088854230626865490) | E— |
 | 捡到钱立刻花掉的街头反转喜剧 | @john87445528 | [GoodCase](https://goodcase.ai/cases/seedance-14-77-9-16-576-1024-30fps-de6ac984ad6a) | [Media](https://media.goodcase.ai/cases/e919fe07e326.mp4) | [Original](https://x.com/john87445528/status/2097656268856905862) | E— |
 | 水上闯关决胜前意外落水 | @Inshrah_ali_ | [GoodCase](https://goodcase.ai/cases/seedance-15-second-ultra-realistic-live-water-game-show-scene-ad357b3bb052) | [Media](https://media.goodcase.ai/cases/050883318d18.mp4) | [Original](https://x.com/Inshrah_ali_/status/2098621065039647016) | E— |
+| 微缩女子的便利店跑酷冒险 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd) | [Media](https://media.goodcase.ai/cases/e57a891dd0ed.mp4) | [Original](https://x.com/AIwithkhan/status/2106397932304191969) | E— |
 | Seedance 2.5 悬崖翼装跳伞环海一镜到底 | @mrdejie | [GoodCase](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-f1696dad13bc.mp4) | [Original](https://x.com/mrdejie/status/2085996752809927146) | E— |
 | Seedance：不会有人认为这是真的吧？😄 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/seedance-269d1fc95820) | [Media](https://media.goodcase.ai/media/video/seedance-269d1fc95820.mp4) | [Original](https://x.com/johnAGI168/status/2095025524586193105) | E— |
 | 少女滑板穿行海滨山城 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-anime-style-scene-of-a-young-female-traveler-skateboarding-downhill-9d0ffb3a7366) | [Media](https://media.goodcase.ai/cases/232730361fc7.mp4) | [Original](https://x.com/CaliraVal/status/2099357883133726827) | E— |
@@ -315,7 +316,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 金色雪山上的白衣滑雪女郎 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0) | [Media](https://media.goodcase.ai/cases/ed05261f6296.mp4) | [Original](https://x.com/noorlewisx/status/2096826123330138410) | E— |
 | 自行车快递员穿梭都市 | @Elvorya | [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5) | [Media](https://media.goodcase.ai/cases/678ddbe216a4.mp4) | [Original](https://x.com/Elvorya/status/2102622012351131832) | E— |
 | 吉隆坡崩塌都市极限逃生 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c) | [Media](https://media.goodcase.ai/cases/1634f009339b.mp4) | [Original](https://x.com/Xaroon_x/status/2097267405399396457) | E— |
-| 街头篮球场的宿敌对决 | @abulu8 | [GoodCase](https://goodcase.ai/cases/seedance-mark-antony-as-basketball-players-in-an-epic-cartoon-showdown-with-bgm-eb4a6e19a56e) | [Media](https://media.goodcase.ai/cases/54335a9e9446.mp4) | [Original](https://x.com/abulu8/status/2101679333022851346) | E— |
 
 ## Derivation boundary
 
