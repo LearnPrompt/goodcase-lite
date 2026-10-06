@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to Just_sharon7. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Just_sharon7. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -51,7 +51,40 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > she attacks again. Image1 narrowly sidesteps, pivots outside the attack angle, and @Image2 turns toward him, briefly exposing th…
 
-### E3 · 烟歇遇袭的庭院女侠
+### E3 · 隧道追逐与海边旧梦：她拥抱怪物恋人
+
+- Creator: @Just_sharon7
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-monster-was-once-the-love-of-her-life-1bb15d3221de) · [finished media](https://media.goodcase.ai/cases/a47fe6ff4c86.mp4) · [poster](https://media.goodcase.ai/cases/4f9237295f95.jpg) · [original source](https://x.com/Just_sharon7/status/2106808592523571360)
+- Summary: The monster was once the love of her life. Seedance 2.5 on Higgsfield Prompt Create a 27-second ultra-realistic cinematic psychological thriller sequence with a…
+- Prompt excerpt:
+
+> The monster was once the love of her life.
+>
+> Seedance 2.5 on Higgsfield
+>
+> Prompt
+>
+> Create a 27-second ultra-realistic cinematic psychological thriller sequence with a dramatic transition between a terrifying present moment and a beautiful romantic memory.
+>
+> Overall visual style: premium Hollywood psychological thriller, photorealistic live action, realistic skin texture and pores, natural hair movement, believable fabric physics, dramatic practical lighting, shallow depth of field, subtle film grain, anamorphic cinematic composition, realistic motion blur, strong emotional acting. 2.39:1 widescreen. No text, no subtitles, no logos.
+>
+> CHARACTERS
+>
+> Woman: Young woman in her mid-20s with long dark-brown hair, expressive brown eyes and natural realistic features. She wears an elegant sleeveless fitted black dress. Keep her face, hairstyle, clothing and body proportions perfectly consistent.
+>
+> Man: Young man in his late 20s, tall and lean, dark hair, wearing an elegant white dinner jacket, white shirt, black bow tie and black trousers.
+>
+> In the frightening present-day scenes, the man appears severely transformed: his exposed hand and portions of his skin are dark, charred and corpse-like, with rough burned texture and unnatural gray-black fingers. Keep the effect cinematic rather than excessively graphic.
+>
+> 00:00–00:06 — TERRIFYING CHASE
+>
+> Open inside a long underground pedestrian tunnel with cold turquoise-green fluorescent lighting, tiled walls, concrete ceiling beams and repeating rectangular ceiling lights disappearing into the distance.
+>
+> The woman runs desperately toward camera.
+>
+> Her…
+
+### E4 · 烟歇遇袭的庭院女侠
 
 - Creator: @Just_sharon7
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712) · [finished media](https://media.goodcase.ai/cases/41811c276a36.mp4) · [poster](https://media.goodcase.ai/cases/4ef9719a2fa7.jpg) · [original source](https://x.com/Just_sharon7/status/2105196278217150537)
@@ -78,7 +111,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 现代战争 FPS 实机画面 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/fps-287977d45ea5) | [Media](https://media.goodcase.ai/cases/411b189c5435.webm) | [Original](https://x.com/Just_sharon7/status/2083064417798025721) | E1 |
 | Seedance 2.5 同人对打：Sharon 大战 Sharon | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-8085c03efbb0) | [Media](https://media.goodcase.ai/cases/c6c009bc0dd4.mp4) | [Original](https://x.com/Just_sharon7/status/2088878042034868640) | E2 |
-| 烟歇遇袭的庭院女侠 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712) | [Media](https://media.goodcase.ai/cases/41811c276a36.mp4) | [Original](https://x.com/Just_sharon7/status/2105196278217150537) | E3 |
+| 隧道追逐与海边旧梦：她拥抱怪物恋人 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-monster-was-once-the-love-of-her-life-1bb15d3221de) | [Media](https://media.goodcase.ai/cases/a47fe6ff4c86.mp4) | [Original](https://x.com/Just_sharon7/status/2106808592523571360) | E3 |
+| 烟歇遇袭的庭院女侠 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712) | [Media](https://media.goodcase.ai/cases/41811c276a36.mp4) | [Original](https://x.com/Just_sharon7/status/2105196278217150537) | E4 |
 
 ## Derivation boundary
 

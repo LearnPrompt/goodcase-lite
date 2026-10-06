@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 34 published Cases across 19 creators.
+This workflow is derived from 33 published Cases across 18 creators.
 
 ## Operating rule
 
@@ -136,16 +136,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silence.
 
-### E7 · cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic
-
-- Creator: @cocktailpeanut
-- Evidence: [GoodCase](https://goodcase.ai/cases/cinematic-sci-fi-suspense-video-a-realistic-spaceship-crew-in-full-futuristic) · [finished media](https://media.goodcase.ai/cases/dfe92e389553.webm) · [poster](https://media.goodcase.ai/cases/1d2a943ae1f8.jpg) · [original source](https://x.com/cocktailpeanut/status/2085498501384024495)
-- Summary: 由原作者公开 X 帖提供并已核验视频结果的 MiniMax H3电影叙事提示词。
-- Prompt excerpt:
-
-> cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic uniforms follows a mysterious distress signal and boards a dark, abandoned spacecraft drifting in space. Flashlights cut through darkness as they move cautiously through narrow metallic corridors. Warning lights flicker, metal creaks, and their boots echo on the floor. One crew member says, "Signal's coming from deeper inside." They enter a large chamber filled with hundreds of empty cryogenic pods, all open and abandoned. Another crew member says nervously, "Where did everyone go?" They approach a final closed door at the far end. The captain slowly opens it, and instead of another ship compartment, it reveals a completely normal present-day elementary school classroom in bright daylight. Children sit at desks, backpacks on the floor, colorful posters on the walls, and a teacher at the front turns to the crew and scolds them: "You're late again. Take your seats." The astronauts stand frozen in confusion at the doorway. Realistic tone, smooth camera movement, strong suspense buildup, with the final reveal clear, sudden, and absurd. Include realistic audio: radio static, low ship hum, footsteps, pod machinery ambience, door hiss, then ordinary classroom sounds and the teacher's voice.
-
-### E8 · 列车车厢丧尸感染爆发
+### E7 · 列车车厢丧尸感染爆发
 
 - Creator: @doctorwasif
 - Evidence: [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) · [finished media](https://media.goodcase.ai/cases/6af197589643.mp4) · [poster](https://media.goodcase.ai/cases/068a44904e52.jpg) · [original source](https://x.com/doctorwasif/status/2093550743945105687)
@@ -182,6 +173,18 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 27.5–30s: Survivors slam the next door shut and stare in horror as the infe…
 
+### E8 · 午夜电梯里的镜像追猎
+
+- Creator: @saniaspeaks_
+- Evidence: [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136) · [finished media](https://media.goodcase.ai/media/video/saniaspeaks-seedance-ai-575658372136.mp4) · [poster](https://media.goodcase.ai/media/poster/saniaspeaks-seedance-ai-575658372136.jpg) · [original source](https://x.com/saniaspeaks_/status/2091483449815126134)
+- Summary: Made with seedance 2.5 Prompt: Create a highly realistic cinematic horror sequence set inside a quiet apartment building
+- Prompt excerpt:
+
+> Create a highly realistic cinematic horror sequence set inside a quiet apartment building late at night. A young woman enters an empty elevator alone, wearing simple casual clothes, with natural realistic facial features and subtle nervous expressions. The elevator moves strangely, stopping at several floors. Every time the doors open, the exact same long, empty apartment corridor appears outside, dimly lit by flickering ceiling lights. She becomes increasingly confused and frightened, repeatedly pressing the elevator buttons and looking down the corridor.
+> On the final stop, the elevator doors slowly slide open. At the far end of the corridor stands another young woman who looks exactly identical to her, motionless and staring directly at her. The atmosphere becomes completely silent. The woman inside the elevator slowly steps forward, unable to understand what she is seeing. The identical woman suddenly tilts her head at an unnatural angle and takes one slow step toward her.
+> Without warning, the corridor woman violently charges toward her with extremely fast, unnatural movement. The original woman screams and tries to retreat into the elevator, but the other woman tackles her and both fall to the floor. The corridor woman grabs her and aggressively drags her backward across the floor while the original woman desperately tries to hold onto the elevator doorway. The elevator lights flicker rapidly, casting harsh moving shadows across both faces.
+> The original woman manages to reach one hand toward the elevator control panel, desperately trying to press the door-close button.…
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -192,9 +195,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 暗黑超现实镜面反射恐怖短片 | @Nexustechai1 | [GoodCase](https://goodcase.ai/cases/case-50692082320d) | [Media](https://media.goodcase.ai/media/video/case-50692082320d.mp4) | [Original](https://x.com/Nexustechai1/status/2081527386508611807) | E4 |
 | 末日韩式天台恐怖片 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/case-b529ffbdfd9a) | [Media](https://media.goodcase.ai/cases/f957750571e1.mp4) | [Original](https://x.com/doctorwasif/status/2090305873373810874) | E5 |
 | 消散的绳索吊桥峡谷 | @zyvaoz | [GoodCase](https://goodcase.ai/cases/case-f46706b10233) | [Media](https://media.goodcase.ai/media/video/case-f46706b10233.mp4) | [Original](https://x.com/zyvaoz/status/2081398750996746385) | E6 |
-| cinematic sci-fi suspense video. A realistic spaceship crew in full futuristic | @cocktailpeanut | [GoodCase](https://goodcase.ai/cases/cinematic-sci-fi-suspense-video-a-realistic-spaceship-crew-in-full-futuristic) | [Media](https://media.goodcase.ai/cases/dfe92e389553.webm) | [Original](https://x.com/cocktailpeanut/status/2085498501384024495) | E7 |
-| 列车车厢丧尸感染爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) | [Media](https://media.goodcase.ai/cases/6af197589643.mp4) | [Original](https://x.com/doctorwasif/status/2093550743945105687) | E8 |
-| 午夜电梯里的镜像追猎 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136) | [Media](https://media.goodcase.ai/media/video/saniaspeaks-seedance-ai-575658372136.mp4) | [Original](https://x.com/saniaspeaks_/status/2091483449815126134) | E— |
+| 列车车厢丧尸感染爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) | [Media](https://media.goodcase.ai/cases/6af197589643.mp4) | [Original](https://x.com/doctorwasif/status/2093550743945105687) | E7 |
+| 午夜电梯里的镜像追猎 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136) | [Media](https://media.goodcase.ai/media/video/saniaspeaks-seedance-ai-575658372136.mp4) | [Original](https://x.com/saniaspeaks_/status/2091483449815126134) | E8 |
 | 夜班列车感染爆发实录 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b) | [Media](https://media.goodcase.ai/cases/8ee95ce14625.mp4) | [Original](https://x.com/doctorwasif/status/2098639106712784933) | E— |
 | 深夜电梯中的丧尸镜像与女子逃生 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) | [Media](https://media.goodcase.ai/cases/be3c091a914d.mp4) | [Original](https://x.com/AIwithSynthia/status/2105862212422074725) | E— |
 | 韩屋烛影驱邪仪式 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) | [Media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) | [Original](https://x.com/doctorwasif/status/2097533759944090052) | E— |
@@ -206,6 +208,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 韩屋驱邪仪式后的未尽阴影 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) | [Media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) | [Original](https://x.com/AIwithSynthia/status/2099836457430974932) | E— |
 | 神秘能量席卷高中走廊 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-create-a-high-end-cinematic-live-action-scene-inside-a-modern-american-high-sch-5470a0729ac7) | [Media](https://media.goodcase.ai/cases/e816d2f9e73c.mp4) | [Original](https://x.com/itsSaira_1/status/2098646751205019978) | E— |
 | 商场丧尸爆发中的保安与幸存者 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) | [Media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) | [Original](https://x.com/auqibhabib/status/2104107269206237325) | E— |
+| 实验室寄生感染危机 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) | [Media](https://media.goodcase.ai/cases/55154fddc144.mp4) | [Original](https://x.com/AIwithSynthia/status/2101161634022474024) | E— |
 
 ## Derivation boundary
 

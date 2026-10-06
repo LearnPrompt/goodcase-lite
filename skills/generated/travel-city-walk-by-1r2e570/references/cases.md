@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to Zyrellix. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Zyrellix. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -29,7 +29,18 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics.
 
-### E3 · 地中海悬崖上的茉莉橄榄香氛
+### E3 · 头巾女孩与小鸭兔子的月夜提灯漫游
+
+- Creator: @Zyrellix
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-magical-3d-animated-fairy-tale-scene-featuring-a-young-girl-wearing-a-black-h-cf1194730635) · [finished media](https://media.goodcase.ai/cases/4cf1caaf2d0c.mp4) · [poster](https://media.goodcase.ai/cases/2a36c8531837.jpg) · [original source](https://x.com/Zyrellix/status/2106604455151980846)
+- Summary: A little journey into a magical world filled with moonlight wonder and adorable friends. Made with seedance 2.5 @Flovaai Prompt: A magical 3D animated fairy-tal…
+- Prompt excerpt:
+
+> A magical 3D animated fairy-tale scene featuring a young girl wearing a black hijab and a beautiful vintage rose-pink dress, accompanied by a cute fluffy yellow duckling and a tiny brown rabbit. Inside a cozy cottage bedroom, moonlight shines through a round window filled with pink roses. The duckling and rabbit join the girl as she picks up a glowing lantern and opens the wooden cottage door. They walk together through a charming village under a bright full moon, surrounded by thatched-roof cottages, blooming roses, glowing fireflies, and a beautiful starry sky. The girl gently kneels beside the adorable animals near a giant magical tree with a tiny round wooden door glowing warmly from within. Cinematic camera movements, expressive characters, detailed textures, soft moonlight, warm lantern lighting, vibrant colors, whimsical fantasy atmosphere, smooth character animation, consistent character designs, high-quality Pixar-style 3D animation, enchanting storytelling, 16:9 widescreen, 4K quality.
+>
+> #FlovaAI #CPP
+
+### E4 · 地中海悬崖上的茉莉橄榄香氛
 
 - Creator: @Zyrellix
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-cd1e800467b5) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-cd1e800467b5.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-cd1e800467b5.jpg) · [original source](https://x.com/Zyrellix/status/2091760321866186908)
@@ -44,7 +55,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 穿行日式寺院与巴厘圣境的织染华服 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-luxury-fashion-film-30-seconds-photorealistic-4k-shallow-depth-7b3125ffca7b) | [Media](https://media.goodcase.ai/cases/3ef9a07096a6.mp4) | [Original](https://x.com/Zyrellix/status/2104423200520388786) | E1 |
 | 伊斯坦布尔旅拍漫游 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-continuous-4k-travel-vlog-video-featuring-a-young-east-asian-woman-with-long-763d933f6152) | [Media](https://media.goodcase.ai/cases/173f6dd36b17.mp4) | [Original](https://x.com/Zyrellix/status/2096817125864484954) | E2 |
-| 地中海悬崖上的茉莉橄榄香氛 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-cd1e800467b5) | [Media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-cd1e800467b5.mp4) | [Original](https://x.com/Zyrellix/status/2091760321866186908) | E3 |
+| 头巾女孩与小鸭兔子的月夜提灯漫游 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-magical-3d-animated-fairy-tale-scene-featuring-a-young-girl-wearing-a-black-h-cf1194730635) | [Media](https://media.goodcase.ai/cases/4cf1caaf2d0c.mp4) | [Original](https://x.com/Zyrellix/status/2106604455151980846) | E3 |
+| 地中海悬崖上的茉莉橄榄香氛 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-cd1e800467b5) | [Media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-cd1e800467b5.mp4) | [Original](https://x.com/Zyrellix/status/2091760321866186908) | E4 |
 
 ## Derivation boundary
 

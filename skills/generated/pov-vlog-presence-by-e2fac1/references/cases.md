@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to saniaspeaks_. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 6 published Cases attributed to saniaspeaks_. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -42,7 +42,35 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Ultra-realistic casual smartphone travel vlog of one consistent young Korean woman in her early 20s taking a train journey for the first time, speaking natural fluent English with accurate lip synchronization. Everything is filmed by her own hand on a real smartphone and must feel like an authentic personal social-media vlog, never cinematic or professionally filmed. Use mostly arm-length selfie footage with occasional natural switches to the rear camera, including slight hand shakes, awkward framing, walking jolts, autofocus hunting, exposure changes, motion blur, fingers near the lens, realistic train vibrations, window reflections, and authentic phone-camera quality. She starts at a busy station platform and excitedly says, “Okay guys, I’m taking the train today! Let’s go!” while showing the arriving train, then boards saying, “I made it!” She finds her window seat and says, “And I got a window seat!” As the train starts moving, she films outside and says, “We’re moving!” She casually shows a snack and drink, takes a bite, and says, “Everything tastes better on a train.” She then films beautiful passing scenery of trees, small towns, and distant mountains, quietly saying, “This view is so beautiful.” Finally, back in selfie mode with the moving scenery behind her, she smiles and says, “I think train journeys might be my new favorite thing. See you guys next time. Bye!” before waving and lowering the phone. Include realistic station announcements, train sounds, footsteps, passenger conversations, blinking, breathing, and spontaneous reactions. The same woman must remain p…
 
-### E4 · 韩国偶像 VHS 美妆 Vlog
+### E4 · 千禧年初东京女孩的健身日常
+
+- Creator: @saniaspeaks_
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-little-old-school-workout-session-0961a80c4b9b) · [finished media](https://media.goodcase.ai/cases/0a4491314480.mp4) · [poster](https://media.goodcase.ai/cases/c78ca7501f3e.jpg) · [original source](https://x.com/saniaspeaks_/status/2106247874296062303)
+- Summary: A little old school workout session.🏋️‍♀️ Seedance 2.5 on @openart_ai Prompt Create a highly photorealistic 30-second early-2000s Japanese gym day vlog featuri…
+- Prompt excerpt:
+
+> A little old school workout session.🏋️‍♀️
+>
+> Seedance 2.5 on @openart_ai
+>
+> Prompt
+> Create a highly photorealistic 30-second early-2000s Japanese gym day vlog featuring ONE consistent young Japanese woman from the provided character reference. Preserve her exact face, hairstyle, hair length, body proportions, outfit, shoes and accessories throughout. No identity drift, outfit/hairstyle changes.
+>
+> ERA LOCK — JAPAN 2003–2004: Authentic Tokyo neighborhood, period-accurate gym, old equipment, lockers, paper notices, vending machines, older cars, early-2000s sportswear and interiors. No smartphones, smartwatches, wireless earbuds, modern machines, LED screens or modern branding.
+>
+> CAMERA / REALISM: Genuine friend-recorded MiniDV camcorder footage. Handheld, imperfect framing, slight shake, autofocus hunting, exposure shifts, soft DV detail, digital noise and natural motion blur. Use varied front, side, three-quarter, medium, occasional close-up, mirror and brief OTS shots. Camera sometimes walks beside her or films from in front. Not cinematic, DSLR, 4K, VHS or a retro filter.
+>
+> EXACT STORY — KEEP THIS ORDER
+>
+> 0–4s: In her Japanese bedroom, she picks up gym bag, packs towel + water bottle, puts on sneakers and leaves apartment.
+> 4–7s: Walks through a normal Tokyo neighborhood toward the gym, mostly front/side angles.
+> 7–9s: Arrives at small period-accurate gym, pauses, opens door, enters.
+> 9–11s: Reception desk → greets staff → checks in → enters gym area.
+> 11–13s: Puts gym bag in locker, closes it and keeps the key.
+> 13–16s: Warm-up on old treadmill, natural front/side shots.
+> 16–19s: Simp…
+
+### E5 · 韩国偶像 VHS 美妆 Vlog
 
 - Creator: @saniaspeaks_
 - Evidence: [GoodCase](https://goodcase.ai/cases/vhs-vlog-92566eb90120) · [finished media](https://media.goodcase.ai/cases/c3f74dcdc2f5.webm) · [poster](https://media.goodcase.ai/cases/b6975c0aebd6.jpg) · [original source](https://x.com/saniaspeaks_/status/2083043197937209852)
@@ -51,7 +79,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mirror-mounted vanity shots. CHASE, a Korean idol in her 20s with long black hair and dewy skin, casually picks up the fictional Lumina Velvet Lip Tint (frosted pink tube, gold cap) at a mall beauty store, saying, "Okay, everyone's talking about this shade." She heads home, opens and swatches the lipstick, applies it smoothly in warm vanity lighting, admires the glossy finish, smiles at the mirror, then looks into the camera for a glowing close-up reveal and says, "Okay wow... Lumina Velvet Lip Tint, you've got a new fan."
 
-### E5 · 东京手机美食 Vlog
+### E6 · 东京手机美食 Vlog
 
 - Creator: @saniaspeaks_
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2) · [finished media](https://media.goodcase.ai/media/video/vlog-b7d2a3d9d7f2.mp4) · [poster](https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg) · [original source](https://x.com/saniaspeaks_/status/2088605003112235033)
@@ -67,8 +95,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 复古 16mm 健身有氧 Vlog | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310) | [Media](https://media.goodcase.ai/media/video/16mm-vlog-c8cfec0d8310.mp4) | [Original](https://x.com/saniaspeaks_/status/2080999754859991152) | E1 |
 | 东京巷弄草莓甜点探店 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/minimax-h3-both-minimax-h3-max-and-minimax-h3-currently-offer-unlimited-generations-on-a855c3e827df) | [Media](https://media.goodcase.ai/cases/b7093653fd81.mp4) | [Original](https://x.com/saniaspeaks_/status/2095470203576430875) | E2 |
 | 韩国女孩首次火车旅行自拍日志 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-69dfe9e3c10e) | [Media](https://media.goodcase.ai/cases/c5a3649f1187.mp4) | [Original](https://x.com/saniaspeaks_/status/2094635608849166589) | E3 |
-| 韩国偶像 VHS 美妆 Vlog | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/vhs-vlog-92566eb90120) | [Media](https://media.goodcase.ai/cases/c3f74dcdc2f5.webm) | [Original](https://x.com/saniaspeaks_/status/2083043197937209852) | E4 |
-| 东京手机美食 Vlog | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2) | [Media](https://media.goodcase.ai/media/video/vlog-b7d2a3d9d7f2.mp4) | [Original](https://x.com/saniaspeaks_/status/2088605003112235033) | E5 |
+| 千禧年初东京女孩的健身日常 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-little-old-school-workout-session-0961a80c4b9b) | [Media](https://media.goodcase.ai/cases/0a4491314480.mp4) | [Original](https://x.com/saniaspeaks_/status/2106247874296062303) | E4 |
+| 韩国偶像 VHS 美妆 Vlog | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/vhs-vlog-92566eb90120) | [Media](https://media.goodcase.ai/cases/c3f74dcdc2f5.webm) | [Original](https://x.com/saniaspeaks_/status/2083043197937209852) | E5 |
+| 东京手机美食 Vlog | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2) | [Media](https://media.goodcase.ai/media/video/vlog-b7d2a3d9d7f2.mp4) | [Original](https://x.com/saniaspeaks_/status/2088605003112235033) | E6 |
 
 ## Derivation boundary
 
