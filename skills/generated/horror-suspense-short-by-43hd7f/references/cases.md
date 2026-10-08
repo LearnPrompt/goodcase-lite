@@ -1,12 +1,49 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to auqibhabib. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to auqibhabib. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 日本公路巴士感染者突袭
+### E1 · 黄昏郊区街头的感染突袭与邻里反击
+
+- Creator: @auqibhabib
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e) · [finished media](https://media.goodcase.ai/cases/8f39846baced.mp4) · [poster](https://media.goodcase.ai/cases/c3e3f99fd4c6.jpg) · [original source](https://x.com/auqibhabib/status/2107346452494381298)
+- Summary: Sudden outbreak on quiet suburban street, residents fight back and contain the threat. Seedance 2.5 Prompt: Cinematic horror-action short film, opens with an in…
+- Prompt excerpt:
+
+> Cinematic horror-action short film, opens with an instant attack, no slow build, grounded practical-effects style, maximum dynamic camera work. Setting: a quiet suburban street at dusk, a small group of neighbors gathered outside their homes. Muted authentic color grading, natural diegetic sound throughout, tension score entering immediately.
+> >
+> > **[0-1s]** Hard cut: a man stumbles out from between two houses, collapsing onto the street, convulsing violently.
+> >
+> > **[1-2s]** Nearby neighbors rush toward him to help, unaware of the danger.
+> >
+> > **[2-3s]** He suddenly lunges up, grabbing the nearest person by the arm.
+> >
+> > **[3-4s]** She screams, pulling back as his grip holds firm, veins darkening rapidly across his skin.
+> >
+> > **[4-5s]** He pulls her down, the group scattering in fear and confusion.
+> >
+> > **[5-6s]** She convulses hard on the pavement, veins spreading fast across her neck.
+> >
+> > **[6-7s]** She rises seconds later, eyes clouded, joining him, both turning toward the others.
+> >
+> > **[7-8s]** Loud cries of fear erupt through the street as neighbors scramble for their homes.
+> >
+> > **[8-9s]** The two infected move fast, catching a third neighbor near his front gate.
+> >
+> > **[9-10s]** He goes down, convulsing, rising moments later as one of them.
+> >
+> > **[10-11s]** Wide shot: panic spreads further down the street, people slamming doors and windows shut.
+> >
+> > **[11-12s]** A man grabs a baseball bat from his garage, stepping out cautiously.
+> >
+> > **[12-13s]** The three infected turn toward him, moving fast across the street.
+> >
+> > **[13-14s]** He swings hard at the first, a solid impact k…
+
+### E2 · 日本公路巴士感染者突袭
 
 - Creator: @auqibhabib
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) · [finished media](https://media.goodcase.ai/cases/167033959b74.mp4) · [poster](https://media.goodcase.ai/cases/f5434503545d.jpg) · [original source](https://x.com/auqibhabib/status/2102265619416768799)
@@ -39,7 +76,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > >
 > > **[11-12s]** They r…
 
-### E2 · 实验室寄生体感染突袭
+### E3 · 实验室寄生体感染突袭
 
 - Creator: @auqibhabib
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) · [finished media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) · [poster](https://media.goodcase.ai/cases/5929c428cd08.jpg) · [original source](https://x.com/auqibhabib/status/2099725768310009982)
@@ -70,7 +107,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > >
 > > **[10-11s]** The two infected charge fast, jerky inhuman movement…
 
-### E3 · 商场丧尸爆发中的保安与幸存者
+### E4 · 商场丧尸爆发中的保安与幸存者
 
 - Creator: @auqibhabib
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) · [finished media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) · [poster](https://media.goodcase.ai/cases/be466ebf5501.jpg) · [original source](https://x.com/auqibhabib/status/2104107269206237325)
@@ -96,9 +133,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 日本公路巴士感染者突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) | [Media](https://media.goodcase.ai/cases/167033959b74.mp4) | [Original](https://x.com/auqibhabib/status/2102265619416768799) | E1 |
-| 实验室寄生体感染突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) | [Media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) | [Original](https://x.com/auqibhabib/status/2099725768310009982) | E2 |
-| 商场丧尸爆发中的保安与幸存者 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) | [Media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) | [Original](https://x.com/auqibhabib/status/2104107269206237325) | E3 |
+| 黄昏郊区街头的感染突袭与邻里反击 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e) | [Media](https://media.goodcase.ai/cases/8f39846baced.mp4) | [Original](https://x.com/auqibhabib/status/2107346452494381298) | E1 |
+| 日本公路巴士感染者突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) | [Media](https://media.goodcase.ai/cases/167033959b74.mp4) | [Original](https://x.com/auqibhabib/status/2102265619416768799) | E2 |
+| 实验室寄生体感染突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) | [Media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) | [Original](https://x.com/auqibhabib/status/2099725768310009982) | E3 |
+| 商场丧尸爆发中的保安与幸存者 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) | [Media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) | [Original](https://x.com/auqibhabib/status/2104107269206237325) | E4 |
 
 ## Derivation boundary
 

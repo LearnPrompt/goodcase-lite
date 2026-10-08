@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 33 published Cases across 18 creators.
+This workflow is derived from 35 published Cases across 18 creators.
 
 ## Operating rule
 
@@ -198,6 +198,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 列车车厢丧尸感染爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) | [Media](https://media.goodcase.ai/cases/6af197589643.mp4) | [Original](https://x.com/doctorwasif/status/2093550743945105687) | E7 |
 | 午夜电梯里的镜像追猎 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136) | [Media](https://media.goodcase.ai/media/video/saniaspeaks-seedance-ai-575658372136.mp4) | [Original](https://x.com/saniaspeaks_/status/2091483449815126134) | E8 |
 | 夜班列车感染爆发实录 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b) | [Media](https://media.goodcase.ai/cases/8ee95ce14625.mp4) | [Original](https://x.com/doctorwasif/status/2098639106712784933) | E— |
+| 黄昏郊区街头的感染突袭与邻里反击 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e) | [Media](https://media.goodcase.ai/cases/8f39846baced.mp4) | [Original](https://x.com/auqibhabib/status/2107346452494381298) | E— |
+| 大学实验室感染失控，学生变成丧尸 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd) | [Media](https://media.goodcase.ai/cases/dbdca4f6279f.mp4) | [Original](https://x.com/AIwithSynthia/status/2106955772395659431) | E— |
 | 深夜电梯中的丧尸镜像与女子逃生 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) | [Media](https://media.goodcase.ai/cases/be3c091a914d.mp4) | [Original](https://x.com/AIwithSynthia/status/2105862212422074725) | E— |
 | 韩屋烛影驱邪仪式 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) | [Media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) | [Original](https://x.com/doctorwasif/status/2097533759944090052) | E— |
 | 少女携信穿越镜像威尼斯 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-dynamic-action-video-prompt-visual-surrealism-a-young-east-asian-wo-c6db1f2d25e4) | [Media](https://media.goodcase.ai/cases/91fdbf2add37.mp4) | [Original](https://x.com/laviniavelle/status/2101881835290845251) | E— |
@@ -207,8 +209,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 实验室寄生体感染突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) | [Media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) | [Original](https://x.com/auqibhabib/status/2099725768310009982) | E— |
 | 韩屋驱邪仪式后的未尽阴影 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) | [Media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) | [Original](https://x.com/AIwithSynthia/status/2099836457430974932) | E— |
 | 神秘能量席卷高中走廊 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-create-a-high-end-cinematic-live-action-scene-inside-a-modern-american-high-sch-5470a0729ac7) | [Media](https://media.goodcase.ai/cases/e816d2f9e73c.mp4) | [Original](https://x.com/itsSaira_1/status/2098646751205019978) | E— |
-| 商场丧尸爆发中的保安与幸存者 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) | [Media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) | [Original](https://x.com/auqibhabib/status/2104107269206237325) | E— |
-| 实验室寄生感染危机 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) | [Media](https://media.goodcase.ai/cases/55154fddc144.mp4) | [Original](https://x.com/AIwithSynthia/status/2101161634022474024) | E— |
 
 ## Derivation boundary
 
