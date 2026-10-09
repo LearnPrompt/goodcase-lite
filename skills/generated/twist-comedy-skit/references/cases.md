@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 35 published Cases across 26 creators.
+This workflow is derived from 37 published Cases across 27 creators.
 
 ## Operating rule
 
@@ -162,8 +162,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 纽约街头怪事连发的单镜头随拍 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-137e0e907dfd) | [Media](https://media.goodcase.ai/cases/c35679d1d0c6.mp4) | [Original](https://x.com/oggii_0/status/2093568957727064554) | E— |
 | 捡到钱立刻花掉的街头反转喜剧 | @john87445528 | [GoodCase](https://goodcase.ai/cases/seedance-14-77-9-16-576-1024-30fps-de6ac984ad6a) | [Media](https://media.goodcase.ai/cases/e919fe07e326.mp4) | [Original](https://x.com/john87445528/status/2097656268856905862) | E— |
 | 混乱教室中走向镜头的少女 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db) | [Media](https://media.goodcase.ai/cases/299e494253cd.mp4) | [Original](https://x.com/Aiwithmaha/status/2100787710424416603) | E— |
-| 米奇耳女孩智取土耳其冰淇淋 | @sophiaparkerr_ | [GoodCase](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8) | [Media](https://media.goodcase.ai/cases/bb6e4d4897bc.mp4) | [Original](https://x.com/sophiaparkerr_/status/2096542775709692255) | E— |
-| 女子破窗反将嘲笑者拉出地铁 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1) | [Media](https://media.goodcase.ai/cases/93018061e73f.mp4) | [Original](https://x.com/AIwithkhan/status/2097168171367338428) | E— |
+| 大学实验室感染失控，学生变成丧尸 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd) | [Media](https://media.goodcase.ai/cases/dbdca4f6279f.mp4) | [Original](https://x.com/AIwithSynthia/status/2106955772395659431) | E— |
+| 金发女子在警察训练室上演搞笑武打 | @sipteaandcoffee | [GoodCase](https://goodcase.ai/cases/seedance-2-5-i-m-practicing-something-906da86a4a69) | [Media](https://media.goodcase.ai/cases/9a5cb6cba0bd.mp4) | [Original](https://x.com/sipteaandcoffee/status/2107512973292138801) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 9 published Cases across 6 creators.
+This workflow is derived from 10 published Cases across 7 creators.
 
 ## Operating rule
 
@@ -52,7 +52,35 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 😌🥲😘
 
-### E3 · 照片与剪纸重构的双联编辑海报
+### E3 · 原景照片与纸上手绘的上下对照封面
+
+- Creator: @harboriis
+- Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-2-5-create-one-independent-high-end-editorial-poster-for-each-uploaded-photo-0f4da33ca46e) · [finished media](https://media.goodcase.ai/cases/04ba7bc46882.jpg) · [original source](https://x.com/harboriis/status/2107346549542203400)
+- Summary: GPT Image 2.5 on ChatGPT Prompt: Create one independent high-end editorial poster for each uploaded photo. Never combine photos. FORMAT Strict 3:4 vertical comp…
+- Prompt excerpt:
+
+> Create one independent high-end editorial poster for each uploaded photo. Never combine photos.
+>
+> FORMAT
+> Strict 3:4 vertical composition with an exact 50/50 horizontal split. The top and bottom halves must be equal in height and visually connected as one refined editorial cover.
+>
+> TOP HALF: ORIGINAL PHOTO
+> Use the original photo faithfully. Preserve the subject, identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and color mood. Keep it fully photorealistic with only subtle premium editorial color grading. Never stylize, distort, replace, or alter the main subject. Extend only surrounding background when necessary, seamlessly and naturally.
+>
+> BOTTOM HALF: HAND-DRAWN ILLUSTRATION
+> Reinterpret the same scene as a minimalist handmade paper illustration. Preserve the recognizable subject, silhouette, pose, key objects, and main visual story.
+>
+> Use delicate imperfect lines, simple acrylic-style flat color shapes, visible brush marks, rough paper texture, organic edges, and subtle handmade imperfections. Keep the illustration small and centered, occupying about 10–20% of the bottom half, with generous negative space.
+>
+> Use a rough white, warm off-white, or pale natural paper background with only minimal environmental details.
+>
+> COLOR
+> Extract colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors. Use controlled flat color blocks while maintaining subtle paper grain and brush texture.
+>
+> TYPOGRAPHY
+> Optional minimal editorial text only when appropriate, such as a short title, keyword, location, o…
+
+### E4 · 照片与剪纸重构的双联编辑海报
 
 - Creator: @Maercihh
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-gpt-image-2-0-on-chatgpt-9e41be11645d) · [finished media](https://media.goodcase.ai/cases/f0229d607d52.jpg) · [original source](https://x.com/Maercihh/status/2100894656162926689)
@@ -82,7 +110,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > COLOR & MATERIAL
 > Extract the most distinctive and recognizable colors from the o…
 
-### E4 · 照片与图解双联海报
+### E5 · 照片与图解双联海报
 
 - Creator: @Sairah_0
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-please-create-a-separate-independently-designed-premium-poster-from-each-uploa-a4750dc40de5) · [finished media](https://media.goodcase.ai/cases/458f3937d0b1.jpg) · [original source](https://x.com/Sairah_0/status/2105177817688539320)
@@ -101,7 +129,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Emphasize economy of line: if a structure can be explained with a single line, do not use unnecessary st…
 
-### E5 · 原景与复古网点重构
+### E6 · 原景与复古网点重构
 
 - Creator: @theanu_Sayss
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-use-each-uploaded-image-as-the-only-visual-source-create-one-independent-poster-be07b4861636) · [finished media](https://media.goodcase.ai/cases/060d08069b9a.jpg) · [original source](https://x.com/theanu_Sayss/status/2098459664140652850)
@@ -110,7 +138,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Use each uploaded image as the only visual source.Create one independent poster per upload and output each separately.Never combine images.Role:You are an art director skilled in vintage offset print,comic halftones,pop posters,and magazine-style visual distillation. Design a vertical 3:4 print-quality diptych poster with an editorial collectible feel.Format:Split the canvas into two strictly equal horizontal panels,top 50% and bottom 50%,with an exact 1:1 division.Upper panel:Present the uploaded reference image in the top half.Keep the original subject,scene identity,main objects,gesture,spatial relationships,and emotional atmosphere recognizable.Preserve it as image-based rather than https://t.co/yd6fQLU2cV may crop naturally to fit the panel,but never stretch,distort,mirror,replace,or redesign the subject.Apply only restrained editorial grading and subtle print refinement.Lower panel:Transform the same source into a retro offset-halftone pop poster.Extract the strongest action,the clearest object silhouettes,the main emotional tension,and the essential color relationships from the upper image.Rebuild them with bold black outlines,large flat color fields,visible halftone dots,slight registration misalignment,minor ink spread,small printing imperfections,and controlled burst-like negative space.The lower half should be more distilled and graphic than the upper half,yet still instantly recognizable as the same scene or https://t.co/dv3ALeMvDu:Blend vintage offset lithography,pop-graphic poster design,magazine cover composition,indie publication aesthetics,and restrained co…
 
-### E6 · 照片流入手绘童话世界
+### E7 · 照片流入手绘童话世界
 
 - Creator: @Sairah_0
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-image-as-the-primary-reference-and-transform-it-into-a-vertica-9cedcb5ccd93) · [finished media](https://media.goodcase.ai/cases/08837f08f19a.jpg) · [original source](https://x.com/Sairah_0/status/2103754244843024629)
@@ -129,7 +157,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > The photograph and illustration must feel like one continuous visual story, not two sep…
 
-### E7 · 暖阳家庭记忆剪贴画
+### E8 · 暖阳家庭记忆剪贴画
 
 - Creator: @Sairah_0
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-photo-as-the-exact-visual-reference-and-transform-it-into-a-no-dad5db12db3f) · [finished media](https://media.goodcase.ai/cases/82c51c602df3.jpg) · [original source](https://x.com/Sairah_0/status/2102261738280489425)
@@ -157,33 +185,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > •The miniature scene should occupy only about 25–35% of the lower section, leaving generous negative space around it.
 > •Make it feel like a tiny memory captured on paper rather than a conv…
 
-### E8 · 照片与几何抽象的上下对照
-
-- Creator: @Sairah_0
-- Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-using-the-uploaded-photo-create-a-vertical-3-4-before-and-after-comparison-p-ba90e0d7bd09) · [finished media](https://media.goodcase.ai/cases/9cb0dffaf703.jpg) · [original source](https://x.com/Sairah_0/status/2101888385627598947)
-- Summary: GPT Image 2 On ChatGPT Prompt: Using the uploaded photo, create a vertical 3:4 “before-and-after” comparison poster. If multiple photos are uploaded, create one…
-- Prompt excerpt:
-
-> Using the uploaded photo, create a vertical 3:4 “before-and-after” comparison poster. If multiple photos are uploaded, create one separate poster for each photo; do not mix different photos on the same page. The upper and lower sections should each occupy exactly half of the total height, with a seamless transition between them. Do not add borders, arrows, or “Before” / “After” labels.
->
-> 【TOP SECTION: ORIGINAL PHOTO】
-> The top section should use the uploaded original photo, filling the full width of the canvas. Preserve the original subject, pose/action, scene, natural lighting, and dominant color palette. Only allow subtle overall color adjustments; do not change the atmosphere or add any filter effects. Maintain the photo’s original aspect ratio and do not stretch the subject. To fit the top section, you may crop unimportant edges; if cropping would remove the main subject, prioritize adding a small amount of background instead, but never invent or alter the subject or key elements of the scene.
->
-> 【BOTTOM SECTION: GEOMETRIC ABSTRACT】
-> Using the same photo from the top section as the only reference, recreate the core subject and a few key environmental elements as a hard-edged, geometric, flat-style illustration. Do not add any people, animals, objects, or actions that were not present in the original photo. Preserve the core subject’s left/right position, pose, direction, interactions, and major occlusion relationships from the photo so that the top and bottom sections appear visually aligned at first glance; however, there is no need to reproduce the image pixel-for-pixel…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 复杂四象限纸上世界复合提示 | @0x00_Krypt | [GoodCase](https://goodcase.ai/cases/case-5a37ec622965) | [Media](https://media.goodcase.ai/media/image/case-5a37ec622965.jpg) | [Original](https://x.com/0x00_Krypt/status/2002320422046724291) | E1 |
 | 手工线艺可视化地图 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-cdaaabdc9f7f) | [Media](https://media.goodcase.ai/cases/1fddd5e73701.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2093543076367389130) | E2 |
-| 照片与剪纸重构的双联编辑海报 | @Maercihh | [GoodCase](https://goodcase.ai/cases/gpt-image-gpt-image-2-0-on-chatgpt-9e41be11645d) | [Media](https://media.goodcase.ai/cases/f0229d607d52.jpg) | [Original](https://x.com/Maercihh/status/2100894656162926689) | E3 |
-| 照片与图解双联海报 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-please-create-a-separate-independently-designed-premium-poster-from-each-uploa-a4750dc40de5) | [Media](https://media.goodcase.ai/cases/458f3937d0b1.jpg) | [Original](https://x.com/Sairah_0/status/2105177817688539320) | E4 |
-| 原景与复古网点重构 | @theanu_Sayss | [GoodCase](https://goodcase.ai/cases/gpt-image-use-each-uploaded-image-as-the-only-visual-source-create-one-independent-poster-be07b4861636) | [Media](https://media.goodcase.ai/cases/060d08069b9a.jpg) | [Original](https://x.com/theanu_Sayss/status/2098459664140652850) | E5 |
-| 照片流入手绘童话世界 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-image-as-the-primary-reference-and-transform-it-into-a-vertica-9cedcb5ccd93) | [Media](https://media.goodcase.ai/cases/08837f08f19a.jpg) | [Original](https://x.com/Sairah_0/status/2103754244843024629) | E6 |
-| 暖阳家庭记忆剪贴画 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-photo-as-the-exact-visual-reference-and-transform-it-into-a-no-dad5db12db3f) | [Media](https://media.goodcase.ai/cases/82c51c602df3.jpg) | [Original](https://x.com/Sairah_0/status/2102261738280489425) | E7 |
-| 照片与几何抽象的上下对照 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-using-the-uploaded-photo-create-a-vertical-3-4-before-and-after-comparison-p-ba90e0d7bd09) | [Media](https://media.goodcase.ai/cases/9cb0dffaf703.jpg) | [Original](https://x.com/Sairah_0/status/2101888385627598947) | E8 |
+| 原景照片与纸上手绘的上下对照封面 | @harboriis | [GoodCase](https://goodcase.ai/cases/gpt-image-2-5-create-one-independent-high-end-editorial-poster-for-each-uploaded-photo-0f4da33ca46e) | [Media](https://media.goodcase.ai/cases/04ba7bc46882.jpg) | [Original](https://x.com/harboriis/status/2107346549542203400) | E3 |
+| 照片与剪纸重构的双联编辑海报 | @Maercihh | [GoodCase](https://goodcase.ai/cases/gpt-image-gpt-image-2-0-on-chatgpt-9e41be11645d) | [Media](https://media.goodcase.ai/cases/f0229d607d52.jpg) | [Original](https://x.com/Maercihh/status/2100894656162926689) | E4 |
+| 照片与图解双联海报 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-please-create-a-separate-independently-designed-premium-poster-from-each-uploa-a4750dc40de5) | [Media](https://media.goodcase.ai/cases/458f3937d0b1.jpg) | [Original](https://x.com/Sairah_0/status/2105177817688539320) | E5 |
+| 原景与复古网点重构 | @theanu_Sayss | [GoodCase](https://goodcase.ai/cases/gpt-image-use-each-uploaded-image-as-the-only-visual-source-create-one-independent-poster-be07b4861636) | [Media](https://media.goodcase.ai/cases/060d08069b9a.jpg) | [Original](https://x.com/theanu_Sayss/status/2098459664140652850) | E6 |
+| 照片流入手绘童话世界 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-image-as-the-primary-reference-and-transform-it-into-a-vertica-9cedcb5ccd93) | [Media](https://media.goodcase.ai/cases/08837f08f19a.jpg) | [Original](https://x.com/Sairah_0/status/2103754244843024629) | E7 |
+| 暖阳家庭记忆剪贴画 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-photo-as-the-exact-visual-reference-and-transform-it-into-a-no-dad5db12db3f) | [Media](https://media.goodcase.ai/cases/82c51c602df3.jpg) | [Original](https://x.com/Sairah_0/status/2102261738280489425) | E8 |
+| 照片与几何抽象的上下对照 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-using-the-uploaded-photo-create-a-vertical-3-4-before-and-after-comparison-p-ba90e0d7bd09) | [Media](https://media.goodcase.ai/cases/9cb0dffaf703.jpg) | [Original](https://x.com/Sairah_0/status/2101888385627598947) | E— |
 | 搞笑丑涂鸦 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/real-case-09-oggii-0) | [Media](https://goodcase.ai/media/goodcase/Xnip2026-05-17_17-34-13.jpg) | [Original](https://x.com/oggii_0/status/2055125487014564227) | E— |
 
 ## Derivation boundary
