@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 21 published Cases across 17 creators.
+This workflow is derived from 22 published Cases across 17 creators.
 
 ## Operating rule
 
@@ -187,6 +187,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 摩托车疾驰山间公路 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) | [Media](https://media.goodcase.ai/cases/e74284637136.mp4) | [Original](https://x.com/Just_sharon7/status/2091546827212636576) | E— |
 | Karakoram Motorcycle Commercial | @AI_with_Antonio | [GoodCase](https://goodcase.ai/cases/karakoram-motorcycle-commercial) | [Media](https://media.goodcase.ai/cases/f702b148dbed.mp4) | [Original](https://x.com/AI_with_Antonio/status/2088599346908365227) | E— |
 | 第一视角凌空组装黑色兰博基尼 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) | [Media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) | [Original](https://x.com/MissDelulu9/status/2091423578197737772) | E— |
+| 跑车、摩托、坦克与战机变身机甲 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a) | [Media](https://media.goodcase.ai/cases/2d97c43f9b67.mp4) | [Original](https://x.com/laviniavelle/status/2108404878590857384) | E— |
 | 东京高速粉色喷气拖拉机狂飙 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a) | [Media](https://media.goodcase.ai/cases/83c13fe0b2e2.mp4) | [Original](https://x.com/laviniavelle/status/2100806296949903511) | E— |
 | 飞踢转场奔向午夜机车 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-bedroom-chaos-turns-into-midnight-confidence-with-a-seamless-transition-that-hi-641d5d0012fa) | [Media](https://media.goodcase.ai/cases/435be5073dcc.mp4) | [Original](https://x.com/Just_sharon7/status/2099332819768291755) | E— |
 | 日本公路巴士感染者突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) | [Media](https://media.goodcase.ai/cases/167033959b74.mp4) | [Original](https://x.com/auqibhabib/status/2102265619416768799) | E— |
@@ -195,7 +196,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 红牛洒满公路后车流集体起飞 | @azed_ai | [GoodCase](https://goodcase.ai/cases/seedance-created-a-complete-red-bull-commercial-using-seedance-2-5-on-3ee7e5338cba) | [Media](https://media.goodcase.ai/cases/f0e3aecf4cfb.mp4) | [Original](https://x.com/azed_ai/status/2100947530431520915) | E— |
 | 庭院吊床与清洗摩托的午后 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00) | [Media](https://media.goodcase.ai/cases/5a19fec06723.mp4) | [Original](https://x.com/doctorwasif/status/2099836703729172540) | E— |
 | The Downhill Slingshot 🏎️💨 | @yourPlugAI | [GoodCase](https://goodcase.ai/cases/the-downhill-slingshot-2f4b789c3e24) | [Media](https://media.goodcase.ai/cases/460ca4f77a31.webm) | [Original](https://x.com/yourPlugAI/status/2086528067019698388) | E— |
-| 末日沙漠战车空中激战 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) | [Media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) | [Original](https://x.com/Zyrellix/status/2092438692820295703) | E— |
 
 ## Derivation boundary
 

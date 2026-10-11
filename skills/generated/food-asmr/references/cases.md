@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 30 published Cases across 24 creators.
+This workflow is derived from 31 published Cases across 25 creators.
 
 ## Operating rule
 
@@ -222,11 +222,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 手工烘焙坊电影感商业广告 | @AIwithAliya | [GoodCase](https://goodcase.ai/cases/case-f62d402ccdf6) | [Media](https://media.goodcase.ai/cases/78746d0ff2ee.mp4) | [Original](https://x.com/AIwithAliya/status/2090780603872624826) | E— |
 | 吉卜力工作室风格牛角面包烘焙坊 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/case-fecae6e34928) | [Media](https://media.goodcase.ai/media/video/case-fecae6e34928.mp4) | [Original](https://x.com/Ciri_ai/status/2080302214640468225) | E— |
 | 韩国夜市街头美食旅行随拍 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-b695c8946a86) | [Media](https://media.goodcase.ai/cases/717010b96b02.mp4) | [Original](https://x.com/Ciri_ai/status/2091842148970996054) | E— |
+| Food Craving Product Launch Film | @ultimaxbt | [GoodCase](https://goodcase.ai/cases/food-craving-product-launch-film) | [Media](https://media.goodcase.ai/cases/0eaabc265730.mp4) | [Original](https://x.com/ultimaxbt/status/2108210884799549714) | E— |
 | 动漫风格：制作印度蒸米糕（Idli）的烹饪流程 | @snskritinaruka | [GoodCase](https://goodcase.ai/cases/idli-4a8ed49d4ad9) | [Media](https://media.goodcase.ai/media/video/idli-4a8ed49d4ad9.mp4) | [Original](https://x.com/snskritinaruka/status/2074761846444503180) | E— |
 | 酒店房间深夜关东煮试吃 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e) | [Media](https://media.goodcase.ai/cases/8294a68bb1e4.mp4) | [Original](https://x.com/Just_sharon7/status/2089919950161113353) | E— |
 | GPT Image 2 + Seedance 看饿人的吃播短片 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698) | [Media](https://media.goodcase.ai/cases/f0a5f53703c2.mp4) | [Original](https://x.com/Just_sharon7/status/2089737554061148465) | E— |
 | 韩国女生辣味挑战崩溃实录 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) | [Media](https://media.goodcase.ai/media/video/oggii-0-seedance-ai-5ed8176ffb89.mp4) | [Original](https://x.com/oggii_0/status/2094267751477232053) | E— |
-| Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程 | @abxxai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-gopro-94a73eef1dbf.mp4) | [Original](https://x.com/abxxai/status/2087189194720657649) | E— |
 
 ## Derivation boundary
 

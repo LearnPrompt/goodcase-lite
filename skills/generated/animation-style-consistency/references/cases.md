@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 55 published Cases across 44 creators.
+This workflow is derived from 56 published Cases across 45 creators.
 
 ## Operating rule
 
@@ -181,6 +181,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 西部通俗动漫风卡点片头 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/935100-f9ba9e52dba1) | [Media](https://media.goodcase.ai/cases/840540ee62cd.webm) | [Original](https://x.com/doctorwasif/status/2085599659326935100) | E— |
 | 粉彩霓虹少女刺客动画片头 | @AIwithAliya | [GoodCase](https://goodcase.ai/cases/aiwithaliya-minimax-h3-ai-8a417a457e76) | [Media](https://media.goodcase.ai/media/video/aiwithaliya-minimax-h3-ai-8a417a457e76.mp4) | [Original](https://x.com/AIwithAliya/status/2094108309011980339) | E— |
 | Seedance 吉卜力风治愈料理动画 | @AiwithLariab | [GoodCase](https://goodcase.ai/cases/aiwithlariab-seedance-ai-801301860e89) | [Media](https://media.goodcase.ai/media/video/aiwithlariab-seedance-ai-801301860e89.mp4) | [Original](https://x.com/AiwithLariab/status/2088848553863233935) | E— |
+| Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake | AI_with_qamar | [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) | [Media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) | [Original](https://x.com/q_a_i_m_01/status/2106092164250059051) | E— |
 | 动漫花卉书签 ASMR | @noorwithwifi | [GoodCase](https://goodcase.ai/cases/asmr-b99180475dc6) | [Media](https://media.goodcase.ai/media/video/asmr-b99180475dc6.mp4) | [Original](https://x.com/noorwithwifi/status/2076415711375970372) | E— |
 | Seedance 双角色 3D 卡通：小蝴蝶的十四秒 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-4a336f514777) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-4a336f514777.mp4) | [Original](https://x.com/ayzalnooor24521/status/2089559741718548578) | E— |
 | 月光池塘里的迷你青蛙大厨 | @Caden_Flux | [GoodCase](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f) | [Media](https://media.goodcase.ai/media/video/caden-flux-seedance-ai-473fedbbc75f.mp4) | [Original](https://x.com/Caden_Flux/status/2091396961329131999) | E— |
@@ -188,7 +189,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 皮克斯风格美妆日常动画 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-136ee03cbf81) | [Media](https://media.goodcase.ai/cases/3d3f82a6b864.mp4) | [Original](https://x.com/laviniavelle/status/2092193228803952975) | E— |
 | 黏土风格海盗鸭冒险 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-21aab321f762) | [Media](https://media.goodcase.ai/media/video/case-21aab321f762.mp4) | [Original](https://x.com/CharaspowerAI/status/2078072313686184334) | E— |
 | 硬核科幻动漫剪辑 | @itsPixieVerse | [GoodCase](https://goodcase.ai/cases/case-251215797a14) | [Media](https://media.goodcase.ai/media/video/case-251215797a14.mp4) | [Original](https://x.com/itsPixieVerse/status/2081161446671651074) | E— |
-| 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E— |
 
 ## Derivation boundary
 

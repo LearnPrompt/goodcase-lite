@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 59 published Cases across 38 creators.
+This workflow is derived from 61 published Cases across 40 creators.
 
 ## Operating rule
 
@@ -42,7 +42,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Negative: No CGI look, plastic skin, identity drift, distorted anatomy, extra limbs, warped archit…
 
-### E3 · 少女在日本山巅记录春日风光
+### E3 · Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake
+
+- Creator: AI_with_qamar
+- Evidence: [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) · [finished media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) · [poster](https://media.goodcase.ai/cases/dc4b7506f7ef.jpg) · [original source](https://x.com/q_a_i_m_01/status/2106092164250059051)
+- Summary: A 15-second 9:16 Japanese-anime clip: the camera opens on a close-up of white daisies, then follows a young man on a small scooter racing downhill along a winding flower trail past a turquoise alpine lake and snowy peaks, petals flying, until he launches off a wooden ramp at golden hour. One short paragraph prompt covers subject, landscape, camera path, motion blur and style. The author did not name the video model.
+- Prompt excerpt:
+
+> A cinematic anime-style scene of a young man riding a small scooter down a winding mountain trail covered with beautiful white daisies. Vast turquoise-blue alpine lake, dramatic snow-capped mountains, lush green hills and colorful wildflowers surround him. The camera starts with a close-up of the flowers, then smoothly follows behind the rider as he accelerates downhill. Strong sense of speed with dynamic motion blur, flowers and petals flying through the air. He reaches a small wooden ramp and launches into the air over the breathtaking mountain landscape, with petals floating around him. Dreamy golden-hour lighting, vibrant colors, detailed Japanese anime aesthetic, smooth fluid animation, atmospheric depth, cinematic camera movement, 9:16 vertical, highly detailed, magical adventurous mood, seamless motion, no text, no watermark.
+
+### E4 · 少女在日本山巅记录春日风光
 
 - Creator: @ayzalnooor24521
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-890aad58385a.jpg) · [original source](https://x.com/ayzalnooor24521/status/2093192618599755890)
@@ -51,7 +60,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create a credited 14-second cinematic video on Japanese mountain view, featuring a consistent young East-Asian woman with long dark hair, a beige sweater, and a backpack arriving at a breathtaking mountain viewpoint. She calmly raises her smartphone and starts recording the stunning scenery around her. The camera smoothly follows her movement and transitions into a beautiful panoramic view of the lush green valley. A red cable car glides naturally across the mountainside while soft pink cherry blossoms move gently in the breeze. The camera reveals a traditional Japanese multi-tiered pagoda surrounded by peaceful mountain scenery. Wide cinematic shots capture majestic snow-capped peaks under soft natural daylight. End with the woman smiling peacefully while filming the expansive landscape on her phone, creating a refreshing and adventurous travel moment.
 
-### E4 · 夏日热带度假村漫游
+### E5 · 夏日热带度假村漫游
 
 - Creator: @CaliraVal
 - Evidence: [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-c1907f5f9753) · [finished media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-c1907f5f9753.mp4) · [poster](https://media.goodcase.ai/media/poster/caliraval-minimax-h3-ai-c1907f5f9753.jpg) · [original source](https://x.com/CaliraVal/status/2092464771874664617)
@@ -75,7 +84,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Negative prompt: bikini, lingerie, revealing clothes, cleavage, transparent clothing, nudity, sexualized poses, seductive behavior, exaggerated…
 
-### E5 · 阿马尔菲海岸奢华珠宝广告
+### E6 · 阿马尔菲海岸奢华珠宝广告
 
 - Creator: @Just_sharon7
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-e53b614b0f42) · [finished media](https://media.goodcase.ai/media/video/case-e53b614b0f42.mp4) · [poster](https://media.goodcase.ai/media/poster/case-e53b614b0f42.jpg) · [original source](https://x.com/Just_sharon7/status/2080973878705434901)
@@ -97,7 +106,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 6–9s
 > She gracefully sits inside the convertible. Cl…
 
-### E6 · 欧洲古城清晨咖啡漫游
+### E7 · 欧洲古城清晨咖啡漫游
 
 - Creator: @ChillaiKalan__
 - Evidence: [GoodCase](https://goodcase.ai/cases/chillaikalan-seedance-ai-c67e26cea7cb) · [finished media](https://media.goodcase.ai/cases/3eaaebad9ec5.mp4) · [poster](https://media.goodcase.ai/cases/693702114cbc.jpg) · [original source](https://x.com/ChillaiKalan__/status/2094280707422191705)
@@ -118,7 +127,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > She carries a small compact vlog camera, held naturally at arm's length during selfie…
 
-### E7 · 韩国夜市街头美食旅行随拍
+### E8 · 韩国夜市街头美食旅行随拍
 
 - Creator: @Ciri_ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-b695c8946a86) · [finished media](https://media.goodcase.ai/cases/717010b96b02.mp4) · [poster](https://media.goodcase.ai/cases/d0e3772d205d.jpg) · [original source](https://x.com/Ciri_ai/status/2091842148970996054)
@@ -141,27 +150,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 00:04–00:08 — THE FOOD STALLS
 > She arrives at a bustli…
 
-### E8 · Elon Musk Starship Journey
-
-- Creator: @Amrutraj4
-- Evidence: [GoodCase](https://goodcase.ai/cases/elon-musk-starship-journey) · [finished media](https://media.goodcase.ai/media/video/elon-musk-starship-journey.mp4) · [poster](https://media.goodcase.ai/media/poster/elon-musk-starship-journey.jpg) · [original source](https://x.com/Amrutraj4/status/2081432217482641861)
-- Summary: A video prompt depicting Elon Musk traveling to Mars inside a Starship and interacting with an AI.
-- Prompt excerpt:
-
-> Elon Musk sitting inside the Starship spacecraft while travelling to Mars, speaking with an AI
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 90s West Coast Documentary Realism | @techhalla | [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) | [Media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) | [Original](https://x.com/techhalla/status/2086469019146592294) | E1 |
 | 耳机少女的日本漫游 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/aiwithsynthia-seedance-ai-ab4f303de473) | [Media](https://media.goodcase.ai/cases/f88e407bd41b.mp4) | [Original](https://x.com/AIwithSynthia/status/2094640515895460285) | E2 |
-| 少女在日本山巅记录春日风光 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) | [Original](https://x.com/ayzalnooor24521/status/2093192618599755890) | E3 |
-| 夏日热带度假村漫游 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-c1907f5f9753) | [Media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-c1907f5f9753.mp4) | [Original](https://x.com/CaliraVal/status/2092464771874664617) | E4 |
-| 阿马尔菲海岸奢华珠宝广告 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/case-e53b614b0f42) | [Media](https://media.goodcase.ai/media/video/case-e53b614b0f42.mp4) | [Original](https://x.com/Just_sharon7/status/2080973878705434901) | E5 |
-| 欧洲古城清晨咖啡漫游 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/chillaikalan-seedance-ai-c67e26cea7cb) | [Media](https://media.goodcase.ai/cases/3eaaebad9ec5.mp4) | [Original](https://x.com/ChillaiKalan__/status/2094280707422191705) | E6 |
-| 韩国夜市街头美食旅行随拍 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-b695c8946a86) | [Media](https://media.goodcase.ai/cases/717010b96b02.mp4) | [Original](https://x.com/Ciri_ai/status/2091842148970996054) | E7 |
-| Elon Musk Starship Journey | @Amrutraj4 | [GoodCase](https://goodcase.ai/cases/elon-musk-starship-journey) | [Media](https://media.goodcase.ai/media/video/elon-musk-starship-journey.mp4) | [Original](https://x.com/Amrutraj4/status/2081432217482641861) | E8 |
+| Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake | AI_with_qamar | [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) | [Media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) | [Original](https://x.com/q_a_i_m_01/status/2106092164250059051) | E3 |
+| 少女在日本山巅记录春日风光 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) | [Original](https://x.com/ayzalnooor24521/status/2093192618599755890) | E4 |
+| 夏日热带度假村漫游 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-c1907f5f9753) | [Media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-c1907f5f9753.mp4) | [Original](https://x.com/CaliraVal/status/2092464771874664617) | E5 |
+| 阿马尔菲海岸奢华珠宝广告 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/case-e53b614b0f42) | [Media](https://media.goodcase.ai/media/video/case-e53b614b0f42.mp4) | [Original](https://x.com/Just_sharon7/status/2080973878705434901) | E6 |
+| 欧洲古城清晨咖啡漫游 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/chillaikalan-seedance-ai-c67e26cea7cb) | [Media](https://media.goodcase.ai/cases/3eaaebad9ec5.mp4) | [Original](https://x.com/ChillaiKalan__/status/2094280707422191705) | E7 |
+| 韩国夜市街头美食旅行随拍 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-b695c8946a86) | [Media](https://media.goodcase.ai/cases/717010b96b02.mp4) | [Original](https://x.com/Ciri_ai/status/2091842148970996054) | E8 |
+| Elon Musk Starship Journey | @Amrutraj4 | [GoodCase](https://goodcase.ai/cases/elon-musk-starship-journey) | [Media](https://media.goodcase.ai/media/video/elon-musk-starship-journey.mp4) | [Original](https://x.com/Amrutraj4/status/2081432217482641861) | E— |
 | 韩国女子雨雪漫游伦敦巴黎莫斯科 | @HustleXR | [GoodCase](https://goodcase.ai/cases/hustlexr-seedance-ai-23a0d0b1e1ff) | [Media](https://media.goodcase.ai/cases/d1d0e766e8bc.mp4) | [Original](https://x.com/HustleXR/status/2092492677384437909) | E— |
 | 三位女孩漫游日本传统市场 | @Lianaalane | [GoodCase](https://goodcase.ai/cases/lianaalane-seedance-ai-57edf326d97f) | [Media](https://media.goodcase.ai/cases/e4a1743e7974.mp4) | [Original](https://x.com/Lianaalane/status/2093213626664706410) | E— |
 | 夕阳海滩上戴墨镜的女子仰望天空 | KTCML | [GoodCase](https://goodcase.ai/cases/midjourney-detailed-prompt-best-for-midjourney-v6-dall-e-3-a-side-profile-shot-of-a-y-fcb55d576e6e) | [Media](https://media.goodcase.ai/cases/a11ccf92e1fc.mp4) | [Original](https://www.tiktok.com/@kyitharchanmyaelwinnn/video/7691970313613004063) | E— |
@@ -173,7 +174,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | MiniMax H3 GLACIA 冰晶网页交互演示视频 | @Cia0_exe | [GoodCase](https://goodcase.ai/cases/minimax-h3-glacia-2fde7e8c6f96) | [Media](https://media.goodcase.ai/media/video/minimax-h3-glacia-2fde7e8c6f96.mp4) | [Original](https://x.com/Cia0_exe/status/2083180088775045626) | E— |
 | 挪威海岸与高山草甸之旅 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/minimax-h3-photoreal-travel-cinema-16-9-24fps-spherical-35-50mm-180-shutter-fine-grai-afdeb7fd218d) | [Media](https://media.goodcase.ai/cases/fa13d89ef50f.mp4) | [Original](https://x.com/ChillaiKalan__/status/2095776947922141390) | E— |
 | 狐狸在森林溪流边自拍漫游 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | [Media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) | [Original](https://x.com/MrDasOnX/status/2089969922617266257) | E— |
-| 韩国山间夏日露营 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-531c19980c39) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-531c19980c39.mp4) | [Original](https://x.com/nawalsehar/status/2092482623490916552) | E— |
 
 ## Derivation boundary
 
