@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 26 published Cases across 23 creators.
+This workflow is derived from 27 published Cases across 24 creators.
 
 ## Operating rule
 
@@ -40,7 +40,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > At one point, the main character confronts another girl at extremely close range and creates a powerful…
 
-### E3 · 高山雪场女子单板腾跃
+### E3 · Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake
+
+- Creator: AI_with_qamar
+- Evidence: [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) · [finished media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) · [poster](https://media.goodcase.ai/cases/dc4b7506f7ef.jpg) · [original source](https://x.com/q_a_i_m_01/status/2106092164250059051)
+- Summary: A 15-second 9:16 Japanese-anime clip: the camera opens on a close-up of white daisies, then follows a young man on a small scooter racing downhill along a winding flower trail past a turquoise alpine lake and snowy peaks, petals flying, until he launches off a wooden ramp at golden hour. One short paragraph prompt covers subject, landscape, camera path, motion blur and style. The author did not name the video model.
+- Prompt excerpt:
+
+> A cinematic anime-style scene of a young man riding a small scooter down a winding mountain trail covered with beautiful white daisies. Vast turquoise-blue alpine lake, dramatic snow-capped mountains, lush green hills and colorful wildflowers surround him. The camera starts with a close-up of the flowers, then smoothly follows behind the rider as he accelerates downhill. Strong sense of speed with dynamic motion blur, flowers and petals flying through the air. He reaches a small wooden ramp and launches into the air over the breathtaking mountain landscape, with petals floating around him. Dreamy golden-hour lighting, vibrant colors, detailed Japanese anime aesthetic, smooth fluid animation, atmospheric depth, cinematic camera movement, 9:16 vertical, highly detailed, magical adventurous mood, seamless motion, no text, no watermark.
+
+### E4 · 高山雪场女子单板腾跃
 
 - Creator: @ayzalnooor24521
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-db77eb406bfb.jpg) · [original source](https://x.com/ayzalnooor24521/status/2094243156225315270)
@@ -53,7 +62,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > She then hits a large snow jump, launching into a high aerial with a stylish mid-air grab and rotation, snowboard visible against the deep blue sky and distant mountain ranges. Snow particles and powder spray trail behind her as she flies. Bright sunlight creates lens flares and sharp shadows on the pristine white snow.
 > High-energy, professional ski-film aesthetic, smooth camera movement, crisp details, vibrant colors, 15-second duration.
 
-### E4 · Boa Hancock Water Obstacle Race Prompt
+### E5 · Boa Hancock Water Obstacle Race Prompt
 
 - Creator: @Chengzilhy
 - Evidence: [GoodCase](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt) · [finished media](https://media.goodcase.ai/media/video/boa-hancock-water-obstacle-race-prompt.mp4) · [poster](https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg) · [original source](https://x.com/Chengzilhy/status/2087458506123465088)
@@ -215,7 +224,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 前方出现巨大的水上 Fishbone Reverse 反向鱼骨障…
 
-### E5 · 女单板滑雪者高山飞跃
+### E6 · 女单板滑雪者高山飞跃
 
 - Creator: @CaliraVal
 - Evidence: [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-235e5ee0b958) · [finished media](https://media.goodcase.ai/cases/662ea00b9012.mp4) · [poster](https://media.goodcase.ai/cases/309b9e7684a4.jpg) · [original source](https://x.com/CaliraVal/status/2094640598733234488)
@@ -228,7 +237,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Use realistic snow physics, natural body movement, detailed mountain textures, crisp sunlight, cinematic camera movement, slight motion blur, dramatic wide-angle aerial shots, and an energetic luxury sports-commercial aesthetic. Vertical 9:16, ultra-realistic, high detail, smooth transitions, natural lighting, 4K cinematic quality.
 
-### E6 · 街头球场变向突破暴扣
+### E7 · 街头球场变向突破暴扣
 
 - Creator: @im_shahid7
 - Evidence: [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf) · [finished media](https://media.goodcase.ai/cases/8d884fea7647.mp4) · [poster](https://media.goodcase.ai/cases/54d3a5538fe4.jpg) · [original source](https://x.com/im_shahid7/status/2092933907218092451)
@@ -247,7 +256,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Static Description
 > An empty urban street basketball court with a faded free…
 
-### E7 · 粉黑街头少女极限跑酷揭幕
+### E8 · 粉黑街头少女极限跑酷揭幕
 
 - Creator: @AIwithJessica
 - Evidence: [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14) · [finished media](https://media.goodcase.ai/media/video/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14.mp4) · [poster](https://media.goodcase.ai/media/poster/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14.jpg) · [original source](https://x.com/AIwithJessica/status/2094944595511779578)
@@ -256,54 +265,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create an explosive, motion-graphics-driven character reveal trailer in 16:9, exactly 13 distinct cuts, 24fps. BTS is a cool, composed anime streetwear girl with long voluminous wavy hair that is jet-black at the roots and mid-lengths with vivid hot-pink streaks and highlights throughout, messy side-swept bangs, a high messy ponytail secured by a black scrunchie with a pink accent bow, ocean-blue eyes with sharp winged black eyeliner, a slim black choker printed with pink “BTS”, an oversized white zip-up hooded windbreaker covered in pink BTS logos, pink stripes and sleeve text, a white crop top centered with a large pink BTS emblem, matching white cargo-style pants with pink BTS branding down the legs and pink drawstring details, chunky white-and-pink platform sneakers, and a pink BTS tote bag. Preserve her exact face, proportions, hairstyle, outfit, materials, accessories and colors throughout; never redesign her. This film is 80% bold graphic design in motion and 20% character action: giant kinetic typography, hard-edged shapes, split-screens, flat color fields, barcode strips, UI ticks, halftone, speed lines, butterfly trails and shutter flashes. Palette: hot pink, lavender-purple, white, black, silver-grey (BTS logo gradient). Style: premium AAA motion-graphics title sequence x K-pop streetwear campaign film. Every graphic element moves fast and snaps hard on the beat. CUT 01 | 0.00-1.00s - Pure graphics: a massive hot-pink circle slams onto a white field, two black bars wipe across, tiny UI ticks and a barcode strip flicker; the letters B, T and S punch in one after a…
 
-### E8 · 女孩被萌犬追成街头跑酷
-
-- Creator: @MissDelulu9
-- Evidence: [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-cc2834a3dc87) · [finished media](https://media.goodcase.ai/media/video/missdelulu9-seedance-ai-cc2834a3dc87.mp4) · [poster](https://media.goodcase.ai/media/poster/missdelulu9-seedance-ai-cc2834a3dc87.jpg) · [original source](https://x.com/MissDelulu9/status/2092578120591446348)
-- Summary: She vs The Dog 👀 Made with Seedance 2.5 Prompt: Create a 15-second realistic smartphone video in 16:9 aspect ratio. Sty
-- Prompt excerpt:
-
-> Create a 15-second realistic smartphone video in 16:9 aspect ratio.
->
-> Style: authentic Gen-Z Indonesian comedy, spontaneous iPhone home-video footage, natural daylight.
->
-> SHOT 1- 0:00–0:02
-> A girl casually walks along a small Indonesian residential street. She suddenly notices a medium-sized pet dog ahead and stops. Her relaxed expression instantly turns nervous.
->
-> SHOT 2-0:02–0:04
-> Quick handheld pan from the girl to the dog and back. She slowly steps backward and says: “Uh... don't come closer, okay...” The dog looks curious and harmless.
->
-> SHOT 3-0:04–0:06
-> The dog playfully runs a few steps toward her. She panics: “AAAAA RUN!” The camera operator reacts and moves backward.
->
-> SHOT 4-0:06–0:08
-> She suddenly runs away, looking back over her shoulder. The iPhone camera follows while running, creating natural shaky footage. Her white fitted T-shirt, light-blue short denim shorts, and white low-profile slippers move naturally.
->
-> SHOT 5-0:08–0:10
-> Side close-up while she runs. She looks back and screams: “BRO, IT'S FOLLOWING ME!” The camera shakes as the friend behind the camera laughs.
->
-> SHOT 6-0:10–0:13
-> The camera widens as she runs toward her friend, waving her hands: “DON'T LAUGH! HELP ME, BRO!” The dog follows playfully without attacking, biting, or touching her.
->
-> SHOT 7- 0:13–0:15
-> She reaches a safe spot, bends over briefly to catch her breath, then looks at the camera with an annoyed and embarrassed expression: “I was literally just passing by, why did that turn into cardio?!” The friend bursts out laughing. Abrupt cut.
->
-> CAMERA & REALISM
->
-> Amateur one-handed iPhone recording. Natura…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 女骑手穿越险峻山径抵达山谷 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) | [Media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) | [Original](https://x.com/aiwithaly/status/2092111337686262077) | E1 |
 | 紫发少女的校园篮球馆超能决战 | @AiwithElisia | [GoodCase](https://goodcase.ai/cases/aiwithelisia-seedance-ai-45d48a1479db) | [Media](https://media.goodcase.ai/media/video/aiwithelisia-seedance-ai-45d48a1479db.mp4) | [Original](https://x.com/AiwithElisia/status/2092484929523482818) | E2 |
-| 高山雪场女子单板腾跃 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) | [Original](https://x.com/ayzalnooor24521/status/2094243156225315270) | E3 |
-| Boa Hancock Water Obstacle Race Prompt | @Chengzilhy | [GoodCase](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt) | [Media](https://media.goodcase.ai/media/video/boa-hancock-water-obstacle-race-prompt.mp4) | [Original](https://x.com/Chengzilhy/status/2087458506123465088) | E4 |
-| 女单板滑雪者高山飞跃 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-235e5ee0b958) | [Media](https://media.goodcase.ai/cases/662ea00b9012.mp4) | [Original](https://x.com/CaliraVal/status/2094640598733234488) | E5 |
-| 街头球场变向突破暴扣 | @im_shahid7 | [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf) | [Media](https://media.goodcase.ai/cases/8d884fea7647.mp4) | [Original](https://x.com/im_shahid7/status/2092933907218092451) | E6 |
-| 粉黑街头少女极限跑酷揭幕 | @AIwithJessica | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14) | [Media](https://media.goodcase.ai/media/video/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14.mp4) | [Original](https://x.com/AIwithJessica/status/2094944595511779578) | E7 |
-| 女孩被萌犬追成街头跑酷 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-cc2834a3dc87) | [Media](https://media.goodcase.ai/media/video/missdelulu9-seedance-ai-cc2834a3dc87.mp4) | [Original](https://x.com/MissDelulu9/status/2092578120591446348) | E8 |
+| Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake | AI_with_qamar | [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) | [Media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) | [Original](https://x.com/q_a_i_m_01/status/2106092164250059051) | E3 |
+| 高山雪场女子单板腾跃 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) | [Original](https://x.com/ayzalnooor24521/status/2094243156225315270) | E4 |
+| Boa Hancock Water Obstacle Race Prompt | @Chengzilhy | [GoodCase](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt) | [Media](https://media.goodcase.ai/media/video/boa-hancock-water-obstacle-race-prompt.mp4) | [Original](https://x.com/Chengzilhy/status/2087458506123465088) | E5 |
+| 女单板滑雪者高山飞跃 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-235e5ee0b958) | [Media](https://media.goodcase.ai/cases/662ea00b9012.mp4) | [Original](https://x.com/CaliraVal/status/2094640598733234488) | E6 |
+| 街头球场变向突破暴扣 | @im_shahid7 | [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf) | [Media](https://media.goodcase.ai/cases/8d884fea7647.mp4) | [Original](https://x.com/im_shahid7/status/2092933907218092451) | E7 |
+| 粉黑街头少女极限跑酷揭幕 | @AIwithJessica | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14) | [Media](https://media.goodcase.ai/media/video/minimax-h3-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-8086c66abb14.mp4) | [Original](https://x.com/AIwithJessica/status/2094944595511779578) | E8 |
+| 女孩被萌犬追成街头跑酷 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-cc2834a3dc87) | [Media](https://media.goodcase.ai/media/video/missdelulu9-seedance-ai-cc2834a3dc87.mp4) | [Original](https://x.com/MissDelulu9/status/2092578120591446348) | E— |
 | 女子车手险胜山地自行车决赛 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-9cff7acb6229.mp4) | [Original](https://x.com/nawalsehar/status/2094294374381441152) | E— |
 | Seedance 单板滑雪地形公园流畅滑行短片 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) | [Original](https://x.com/nawalsehar/status/2088854230626865490) | E— |
 | 捡到钱立刻花掉的街头反转喜剧 | @john87445528 | [GoodCase](https://goodcase.ai/cases/seedance-14-77-9-16-576-1024-30fps-de6ac984ad6a) | [Media](https://media.goodcase.ai/cases/e919fe07e326.mp4) | [Original](https://x.com/john87445528/status/2097656268856905862) | E— |
@@ -315,7 +289,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 少女滑板穿行海滨山城 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-anime-style-scene-of-a-young-female-traveler-skateboarding-downhill-9d0ffb3a7366) | [Media](https://media.goodcase.ai/cases/232730361fc7.mp4) | [Original](https://x.com/CaliraVal/status/2099357883133726827) | E— |
 | 迷你涂鸦女孩的桌面滑板之旅 | @harboriis | [GoodCase](https://goodcase.ai/cases/seedance-a-miniature-hand-drawn-2d-animated-girl-with-messy-black-hair-an-orange-shirt-f86eb9a18721) | [Media](https://media.goodcase.ai/cases/bd837ff629a8.mp4) | [Original](https://x.com/harboriis/status/2104106520808157221) | E— |
 | 金色雪山上的白衣滑雪女郎 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0) | [Media](https://media.goodcase.ai/cases/ed05261f6296.mp4) | [Original](https://x.com/noorlewisx/status/2096826123330138410) | E— |
-| 自行车快递员穿梭都市 | @Elvorya | [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5) | [Media](https://media.goodcase.ai/cases/678ddbe216a4.mp4) | [Original](https://x.com/Elvorya/status/2102622012351131832) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to auqibhabib. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to auqibhabib. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -43,7 +43,38 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > >
 > > **[13-14s]** He swings hard at the first, a solid impact k…
 
-### E2 · 日本公路巴士感染者突袭
+### E2 · 夜间演唱会丧尸暴发，吉他手护队友脱险
+
+- Creator: @auqibhabib
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-set-at-an-outdoor-music-concert-at-night-op-5b999d32c341) · [finished media](https://media.goodcase.ai/cases/2d203b4f7090.mp4) · [poster](https://media.goodcase.ai/cases/299f094194dc.jpg) · [original source](https://x.com/auqibhabib/status/2108459477649543194)
+- Summary: Sudden outbreak at outdoor concert, band member fights off attackers on stage before security regains control. Seedance 2.5 Prompt: Cinematic horror-action shor…
+- Prompt excerpt:
+
+> Cinematic horror-action short film set at an outdoor music concert at night, opens with an instant hook, grounded realistic style, maximum dynamic camera work. Setting: a concert stage with lights and speakers, a large crowd of attendees facing the stage, a live band performing. CHARACTER LOCK: the main character is a guitarist on stage, mid-20s, leather jacket, consistent in every shot. Muted concert-lighting color grading with colorful stage lights cutting through darkness, natural diegetic sound throughout, tension score entering immediately.
+> >
+> > **[0-1s]** Hard cut: a man in the crowd suddenly collapses, convulsing hard near the front barrier.
+> >
+> > **[1-2s]** Nearby fans back away in confusion as his skin pales and veins darken rapidly.
+> >
+> > **[2-3s]** He rises fast, lunging at the person beside him, pulling her down into the crowd.
+> >
+> > **[3-4s]** Screaming erupts near the stage, the crowd pushing back in a wave of panic.
+> >
+> > **[4-5s]** She convulses hard, rising seconds later alongside him, both turning toward the crowd.
+> >
+> > **[5-6s]** The guitarist on stage stops playing, staring down in alarm as the chaos spreads below.
+> >
+> > **[6-7s]** More people fall and rise infected, the front section of the crowd dissolving into chaos.
+> >
+> > **[7-8s]** Security guards rush in, trying to hold a line, but the infected break through fast.
+> >
+> > **[8-9s]** One infected climbs onto the stage, lunging toward the drummer.
+> >
+> > **[9-10s]** The guitarist grabs a stage prop knife used in their performance, gripping it tightly.
+> >
+> > **[10-11s]** He steps in, driving the infected back with a firm st…
+
+### E3 · 日本公路巴士感染者突袭
 
 - Creator: @auqibhabib
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) · [finished media](https://media.goodcase.ai/cases/167033959b74.mp4) · [poster](https://media.goodcase.ai/cases/f5434503545d.jpg) · [original source](https://x.com/auqibhabib/status/2102265619416768799)
@@ -76,7 +107,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > >
 > > **[11-12s]** They r…
 
-### E3 · 实验室寄生体感染突袭
+### E4 · 实验室寄生体感染突袭
 
 - Creator: @auqibhabib
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) · [finished media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) · [poster](https://media.goodcase.ai/cases/5929c428cd08.jpg) · [original source](https://x.com/auqibhabib/status/2099725768310009982)
@@ -107,7 +138,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > >
 > > **[10-11s]** The two infected charge fast, jerky inhuman movement…
 
-### E4 · 商场丧尸爆发中的保安与幸存者
+### E5 · 商场丧尸爆发中的保安与幸存者
 
 - Creator: @auqibhabib
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) · [finished media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) · [poster](https://media.goodcase.ai/cases/be466ebf5501.jpg) · [original source](https://x.com/auqibhabib/status/2104107269206237325)
@@ -134,9 +165,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 黄昏郊区街头的感染突袭与邻里反击 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e) | [Media](https://media.goodcase.ai/cases/8f39846baced.mp4) | [Original](https://x.com/auqibhabib/status/2107346452494381298) | E1 |
-| 日本公路巴士感染者突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) | [Media](https://media.goodcase.ai/cases/167033959b74.mp4) | [Original](https://x.com/auqibhabib/status/2102265619416768799) | E2 |
-| 实验室寄生体感染突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) | [Media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) | [Original](https://x.com/auqibhabib/status/2099725768310009982) | E3 |
-| 商场丧尸爆发中的保安与幸存者 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) | [Media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) | [Original](https://x.com/auqibhabib/status/2104107269206237325) | E4 |
+| 夜间演唱会丧尸暴发，吉他手护队友脱险 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-set-at-an-outdoor-music-concert-at-night-op-5b999d32c341) | [Media](https://media.goodcase.ai/cases/2d203b4f7090.mp4) | [Original](https://x.com/auqibhabib/status/2108459477649543194) | E2 |
+| 日本公路巴士感染者突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) | [Media](https://media.goodcase.ai/cases/167033959b74.mp4) | [Original](https://x.com/auqibhabib/status/2102265619416768799) | E3 |
+| 实验室寄生体感染突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) | [Media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) | [Original](https://x.com/auqibhabib/status/2099725768310009982) | E4 |
+| 商场丧尸爆发中的保安与幸存者 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) | [Media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) | [Original](https://x.com/auqibhabib/status/2104107269206237325) | E5 |
 
 ## Derivation boundary
 
