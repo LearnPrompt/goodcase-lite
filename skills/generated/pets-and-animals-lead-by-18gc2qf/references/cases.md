@@ -1,12 +1,24 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 14 published Cases attributed to Zarnab_with_Ai. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 15 published Cases attributed to Zarnab_with_Ai. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 六只萌趣雏鸟的星期动画
+### E1 · 萌娃与爱犬闹厨房，爸爸踩香蕉皮滑倒
+
+- Creator: @Zarnab_with_Ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2d09fa99a65e) · [finished media](https://media.goodcase.ai/cases/48d646d566b8.mp4) · [poster](https://media.goodcase.ai/cases/f6f7ba3e361b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2110558398492348605)
+- Summary: Made with seedance 2.5 Prompt 👇 Create an ultra-realistic, cinematic 3D animated family comedy featuring an adorable chubby baby wearing a blue teddy-bear romp…
+- Prompt excerpt:
+
+> Made with seedance 2.5
+>
+> Prompt 👇
+> Create an ultra-realistic, cinematic 3D animated family comedy featuring an adorable chubby baby wearing a blue teddy-bear romper, a beautiful mother in a white sweater, a father in a dark business suit, and a playful golden-brown dog. Inside a cozy modern home, the baby creates a funny mess in the kitchen, plays with toys, and giggles mischievously. The curious dog follows the baby around while the mother reacts with surprise and amusement. Suddenly, the distracted father enters while looking at his phone, accidentally slips on a banana peel, and falls harmlessly onto a soft mat. The baby bursts into laughter as the father makes an exaggerated shocked expression. End with the baby smiling innocently while the father looks confused. Maintain consistent character faces, clothing, and proportions, with expressive facial animations, realistic textures, smooth movements, cinematic lighting, and perfectly timed comedic sound effects. Pixar-style 3D animation, vertical 9:16, 1080p, family-friendly, high-quality rendering.
+
+### E2 · 六只萌趣雏鸟的星期动画
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-a843b4058e78) · [finished media](https://media.goodcase.ai/cases/f96c43b69975.mp4) · [poster](https://media.goodcase.ai/cases/957c81cb6968.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2107426089652117759)
@@ -18,7 +30,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Prompt 👇
 > Create a cute 3D animated weekly video featuring adorable fluffy baby birds, one bird for each day from Monday to Saturday. Each scene has a different colorful bird standing in the center against a soft pastel background, with the day name displayed clearly at the top in large playful bubble letters. Monday: a tiny fluffy owl, Tuesday: a cute orange-breasted bird, Wednesday: a bright yellow canary, Thursday: a fluffy blue bird, Friday: a cute wide-eyed owl, Saturday: an adorable pink flamingo. Use soft studio lighting, rounded cartoon proportions, big expressive eyes, fluffy detailed feathers, charming innocent expressions, subtle sparkling particles, smooth gentle movements, clean minimal background, cute children’s animation style, high-quality 3D rendering. End with the pink flamingo happily waving its wings with “Bye Bye” text at the top. Vertical 9:16, smooth animation, consistent character quality.
 
-### E2 · 麦田里鸭宝宝与蓝象的黄昏奇遇
+### E3 · 麦田里鸭宝宝与蓝象的黄昏奇遇
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-1c477a159370) · [finished media](https://media.goodcase.ai/cases/1a70540e7299.mp4) · [poster](https://media.goodcase.ai/cases/8d83518fa370.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2103672061613019181)
@@ -38,7 +50,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Style: high-quality cinematic 3D animation, adorable character design, soft realistic textures, expressive eyes, warm golden-hour lighting, detailed wheat field, gentle depth of field, smooth camera movements, wholesome emotional atmosphere, Pixar-inspired family-friendly animation, cinematic composition, vibrant natural colors, ultra-detailed 4K.
 
-### E3 · 沙发上嬉闹亲吻的兔子情侣
+### E4 · 沙发上嬉闹亲吻的兔子情侣
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) · [finished media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) · [poster](https://media.goodcase.ai/cases/270ba8ecea3b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099683790717325390)
@@ -54,7 +66,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plants and framed artwork in the background, expressive faces, detailed fluffy fur, cinematic camera movement, shallow depth of field, adorable comedic atmosphere, polished Pixar-style 3D animation, highly detailed, smooth natural motion, 4K quality.
 
-### E4 · 公鸡激流营救三只小鸡
+### E5 · 公鸡激流营救三只小鸡
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) · [finished media](https://media.goodcase.ai/cases/63ac781c7ae7.mp4) · [poster](https://media.goodcase.ai/cases/deaf63c43f9d.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2097272507518587145)
@@ -78,7 +90,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Style: photorealistic cinematic fantasy, high-end animated movie…
 
-### E5 · 花园小鸡从斗气到和好
+### E6 · 花园小鸡从斗气到和好
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-39f1d416f818) · [finished media](https://media.goodcase.ai/cases/73dd0426c053.mp4) · [poster](https://media.goodcase.ai/cases/8e79bbb41ddd.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099452153039593546)
@@ -106,7 +118,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > ANIMATION:
 > Natural, smooth character movement with believable walking, tiny head movements, blinking, subtle feather motion, expressive eyes, wing gestures, and adorable comedic timing. Emphasize the emotional progre…
 
-### E6 · 海滩上水獭为海龟叠石塔
+### E7 · 海滩上水獭为海龟叠石塔
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) · [finished media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-4baf2c6b5a8c.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2095823249968148533)
@@ -124,7 +136,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > End with a wide cinematic shot of the tiny turtle sitting beside the tall stack of smooth stones while the otter lies playfully on the sand. Cute comedic timing, expressive characters, soft rounded shapes, detailed fur, realistic sand and ocean textures, warm sunlight, gentle shadows, charming Pixar-like 3D animation, cinematic camera movement, shallow depth of field, high-quality character animation, wholesome and funny mood, smooth motion, vertical 9:16 composition, ultra-detailed 3D render, 4…
 
-### E7 · 蓝天下俏皮眨眼的奶油小兔
+### E8 · 蓝天下俏皮眨眼的奶油小兔
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4cfd04335a3a) · [finished media](https://media.goodcase.ai/cases/d81859c9ebc9.mp4) · [poster](https://media.goodcase.ai/cases/90afb6103701.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099809558894112907)
@@ -150,47 +162,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Lighting: bright natural daylight, soft warm highlights, gentle shadows, clean and vibran…
 
-### E8 · 沙发上相拥亲吻的萌兔
-
-- Creator: @Zarnab_with_Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) · [finished media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) · [poster](https://media.goodcase.ai/cases/ae82336c097b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2098728793703899603)
-- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by si…
-- Prompt excerpt:
-
-> Made with seedance 2.5
->
-> Prompt 👇
-> Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by side on a cozy beige sofa in a warm, elegant living room.
->
-> CHARACTERS:
-> A fluffy cream-colored bunny wearing a simple blue T-shirt and a small gold necklace with a bunny-shaped pendant.
-> A fluffy pastel-pink bunny wearing a delicate gold necklace and a cute pink bow on her head.
-> Both bunnies have large expressive brown eyes, soft fluffy fur, tiny noses, chubby cheeks with a natural rosy blush, and charming childlike expressions.
->
-> SCENE & ACTION:
-> Start with both bunnies sitting on separate sofa cushions, facing each other and exchanging sweet, slightly shy glances. Their expressions gradually become playful and affectionate.
->
-> The cream bunny leans closer toward the pink bunny. The pink bunny also moves closer until their noses gently touch, followed by a sweet little kiss. They briefly close their eyes and smile affectionately.
->
-> Then show them becoming extra fluffy and excited, with their fur puffing up softly in a cute exaggerated animation. They remain close together, eyes closed, enjoying the affectionate moment.
->
-> End with both bunnies happily hugging each other tightly on the sofa, laughing with their eyes closed and mouths open in pure joy. Their little paws wrap around each other naturally, creating a warm, adorable friendship/romantic moment.
->
-> VISUAL STYLE:
-> Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 六只萌趣雏鸟的星期动画 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-a843b4058e78) | [Media](https://media.goodcase.ai/cases/f96c43b69975.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2107426089652117759) | E1 |
-| 麦田里鸭宝宝与蓝象的黄昏奇遇 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-1c477a159370) | [Media](https://media.goodcase.ai/cases/1a70540e7299.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2103672061613019181) | E2 |
-| 沙发上嬉闹亲吻的兔子情侣 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) | [Media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099683790717325390) | E3 |
-| 公鸡激流营救三只小鸡 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) | [Media](https://media.goodcase.ai/cases/63ac781c7ae7.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097272507518587145) | E4 |
-| 花园小鸡从斗气到和好 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-39f1d416f818) | [Media](https://media.goodcase.ai/cases/73dd0426c053.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099452153039593546) | E5 |
-| 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E6 |
-| 蓝天下俏皮眨眼的奶油小兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4cfd04335a3a) | [Media](https://media.goodcase.ai/cases/d81859c9ebc9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099809558894112907) | E7 |
-| 沙发上相拥亲吻的萌兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) | [Media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | E8 |
+| 萌娃与爱犬闹厨房，爸爸踩香蕉皮滑倒 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2d09fa99a65e) | [Media](https://media.goodcase.ai/cases/48d646d566b8.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2110558398492348605) | E1 |
+| 六只萌趣雏鸟的星期动画 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-a843b4058e78) | [Media](https://media.goodcase.ai/cases/f96c43b69975.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2107426089652117759) | E2 |
+| 麦田里鸭宝宝与蓝象的黄昏奇遇 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-1c477a159370) | [Media](https://media.goodcase.ai/cases/1a70540e7299.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2103672061613019181) | E3 |
+| 沙发上嬉闹亲吻的兔子情侣 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) | [Media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099683790717325390) | E4 |
+| 公鸡激流营救三只小鸡 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) | [Media](https://media.goodcase.ai/cases/63ac781c7ae7.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097272507518587145) | E5 |
+| 花园小鸡从斗气到和好 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-39f1d416f818) | [Media](https://media.goodcase.ai/cases/73dd0426c053.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099452153039593546) | E6 |
+| 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E7 |
+| 蓝天下俏皮眨眼的奶油小兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4cfd04335a3a) | [Media](https://media.goodcase.ai/cases/d81859c9ebc9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2099809558894112907) | E8 |
+| 沙发上相拥亲吻的萌兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) | [Media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | E— |
 | 蓝围巾小鸭的桃园甜蜜时光 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-85d87b5e88f3) | [Media](https://media.goodcase.ai/cases/5d0e6b1fba6a.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2104397688511103374) | E— |
 | 樱花园中手捧郁金香的白色萌宠 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268) | [Media](https://media.goodcase.ai/cases/ce4e0cbd0f39.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2102218121881014697) | E— |
 | 夕阳海滩上小猫赠玫瑰相拥 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-cf24080a2c69) | [Media](https://media.goodcase.ai/cases/3c01aba89658.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2101633366311219260) | E— |
