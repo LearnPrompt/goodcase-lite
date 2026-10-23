@@ -1,12 +1,29 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to ZaraIrahh. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to ZaraIrahh. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · Seedance 六十秒健身日常 day-in-life vlog
+### E1 · 女子自拍掉落手机，从热带海滩来到瑞士雪山
+
+- Creator: @ZaraIrahh
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-ultra-realistic-continuous-pov-selfie-vlog-natural-handheld-smartphone-footage-fa0e48541d32) · [finished media](https://media.goodcase.ai/cases/1b0ec2ae0047.mp4) · [poster](https://media.goodcase.ai/cases/5211445033f3.jpg) · [original source](https://x.com/ZaraIrahh/status/2111047780722688154)
+- Summary: The smoothest vacation switch you’ve ever seen 🌊❄️ Created with Seedance 2.5 on @openart_ai Prompt: Ultra-realistic continuous POV selfie vlog, natural handhel…
+- Prompt excerpt:
+
+> Ultra-realistic continuous POV selfie vlog, natural handheld smartphone footage, one identical woman <<image throughout, preserve the exact same face and identity. Duration: 10 seconds.
+>
+> 0–3 seconds — Tropical Beach: The woman walks casually along a beautiful tropical beach under warm sunlight, filming herself in selfie-vlog style. She wears a stylish, lightweight beach outfit, suitable for a sunny vacation. Turquoise ocean waves and white sand behind her. Natural walking movement, cheerful expression, slight handheld camera shake.
+>
+> 3–5 seconds — Phone Drop Transition: Suddenly, her phone slips from her hand and falls toward the sand. The camera tumbles naturally, showing chaotic shaky footage, strong motion blur, a briefly tilted upside-down view, then the lens becomes completely dark as the phone lands. Realistic muffled movement, no artificial transition effects.
+>
+> 5–7 seconds — Seamless Location Change: In the darkness, create a perfectly hidden match cut. The phone is picked up in Switzerland, with absolutely no visible transition between locations. The camera rises naturally from a low angle, revealing the same woman now wearing a stylish winter outfit: a warm cream-colored coat, knitted scarf, winter trousers, and boots. Her face and identity remain exactly the same. The lighting shifts naturally from warm tropical sunlight to crisp alpine daylight.
+>
+> 7–10 seconds — Swiss Alps Reveal: She lifts the phone into the exact same selfie-vlog angle and continues walking as if nothing happened. Behind her are magnificent Swiss Alps, snow-capped mountain peaks, a spectacular wa…
+
+### E2 · Seedance 六十秒健身日常 day-in-life vlog
 
 - Creator: @ZaraIrahh
 - Evidence: [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b) · [finished media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-3f362e9e352b.mp4) · [poster](https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-3f362e9e352b.jpg) · [original source](https://x.com/ZaraIrahh/status/2089569072526823464)
@@ -47,7 +64,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > In the bathroom, she…
 
-### E2 · Seedance 三十秒健身房日常 vlog
+### E3 · Seedance 三十秒健身房日常 vlog
 
 - Creator: @ZaraIrahh
 - Evidence: [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-b7601661378a) · [finished media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-b7601661378a.mp4) · [poster](https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-b7601661378a.jpg) · [original source](https://x.com/ZaraIrahh/status/2089195912119943367)
@@ -85,7 +102,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > She enters the gym while holding her phone at arm’s length, smiling into the front camera. She briefly sweeps the phone toward the wor…
 
-### E3 · 猫咪自拍记录温馨的一天
+### E4 · 猫咪自拍记录温馨的一天
 
 - Creator: @ZaraIrahh
 - Evidence: [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867) · [finished media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-f89372941867.mp4) · [poster](https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg) · [original source](https://x.com/ZaraIrahh/status/2091385137133219971)
@@ -141,9 +158,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| Seedance 六十秒健身日常 day-in-life vlog | @ZaraIrahh | [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b) | [Media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-3f362e9e352b.mp4) | [Original](https://x.com/ZaraIrahh/status/2089569072526823464) | E1 |
-| Seedance 三十秒健身房日常 vlog | @ZaraIrahh | [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-b7601661378a) | [Media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-b7601661378a.mp4) | [Original](https://x.com/ZaraIrahh/status/2089195912119943367) | E2 |
-| 猫咪自拍记录温馨的一天 | @ZaraIrahh | [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867) | [Media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-f89372941867.mp4) | [Original](https://x.com/ZaraIrahh/status/2091385137133219971) | E3 |
+| 女子自拍掉落手机，从热带海滩来到瑞士雪山 | @ZaraIrahh | [GoodCase](https://goodcase.ai/cases/seedance-2-5-ultra-realistic-continuous-pov-selfie-vlog-natural-handheld-smartphone-footage-fa0e48541d32) | [Media](https://media.goodcase.ai/cases/1b0ec2ae0047.mp4) | [Original](https://x.com/ZaraIrahh/status/2111047780722688154) | E1 |
+| Seedance 六十秒健身日常 day-in-life vlog | @ZaraIrahh | [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b) | [Media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-3f362e9e352b.mp4) | [Original](https://x.com/ZaraIrahh/status/2089569072526823464) | E2 |
+| Seedance 三十秒健身房日常 vlog | @ZaraIrahh | [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-b7601661378a) | [Media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-b7601661378a.mp4) | [Original](https://x.com/ZaraIrahh/status/2089195912119943367) | E3 |
+| 猫咪自拍记录温馨的一天 | @ZaraIrahh | [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867) | [Media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-f89372941867.mp4) | [Original](https://x.com/ZaraIrahh/status/2091385137133219971) | E4 |
 
 ## Derivation boundary
 
