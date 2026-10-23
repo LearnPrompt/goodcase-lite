@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 36 published Cases across 18 creators.
+This workflow is derived from 38 published Cases across 19 creators.
 
 ## Operating rule
 
@@ -200,15 +200,15 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 夜班列车感染爆发实录 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b) | [Media](https://media.goodcase.ai/cases/8ee95ce14625.mp4) | [Original](https://x.com/doctorwasif/status/2098639106712784933) | E— |
 | 黄昏郊区街头的感染突袭与邻里反击 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e) | [Media](https://media.goodcase.ai/cases/8f39846baced.mp4) | [Original](https://x.com/auqibhabib/status/2107346452494381298) | E— |
 | 夜间演唱会丧尸暴发，吉他手护队友脱险 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-set-at-an-outdoor-music-concert-at-night-op-5b999d32c341) | [Media](https://media.goodcase.ai/cases/2d203b4f7090.mp4) | [Original](https://x.com/auqibhabib/status/2108459477649543194) | E— |
+| 女子在列车内抱紧幼犬，窗外丧尸围城 | @john_my07 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-1080p-ultra-realistic-live-action-zombie-apocalypse-video-8c4af4550666) | [Media](https://media.goodcase.ai/cases/f7512c056812.mp4) | [Original](https://x.com/john_my07/status/2110365712560902198) | E— |
 | 大学实验室感染失控，学生变成丧尸 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd) | [Media](https://media.goodcase.ai/cases/dbdca4f6279f.mp4) | [Original](https://x.com/AIwithSynthia/status/2106955772395659431) | E— |
 | 深夜电梯中的丧尸镜像与女子逃生 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) | [Media](https://media.goodcase.ai/cases/be3c091a914d.mp4) | [Original](https://x.com/AIwithSynthia/status/2105862212422074725) | E— |
+| 粉发女子在午夜公路爆炸前从容走来 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1) | [Media](https://media.goodcase.ai/cases/47b3836c7b6b.mp4) | [Original](https://x.com/Just_sharon7/status/2110990656105807984) | E— |
 | 韩屋烛影驱邪仪式 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) | [Media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) | [Original](https://x.com/doctorwasif/status/2097533759944090052) | E— |
 | 少女携信穿越镜像威尼斯 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-dynamic-action-video-prompt-visual-surrealism-a-young-east-asian-wo-c6db1f2d25e4) | [Media](https://media.goodcase.ai/cases/91fdbf2add37.mp4) | [Original](https://x.com/laviniavelle/status/2101881835290845251) | E— |
 | 深夜药店的扭曲异变 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-a-girl-enters-a-small-late-night-medical-drug-store-holding-a-prescription-tir-dc48c521bdae) | [Media](https://media.goodcase.ai/cases/e9696f2750ae.mp4) | [Original](https://x.com/AIwithkhan/status/2101329280651391384) | E— |
 | 飞踢转场奔向午夜机车 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-bedroom-chaos-turns-into-midnight-confidence-with-a-seamless-transition-that-hi-641d5d0012fa) | [Media](https://media.goodcase.ai/cases/435be5073dcc.mp4) | [Original](https://x.com/Just_sharon7/status/2099332819768291755) | E— |
 | 日本公路巴士感染者突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) | [Media](https://media.goodcase.ai/cases/167033959b74.mp4) | [Original](https://x.com/auqibhabib/status/2102265619416768799) | E— |
-| 实验室寄生体感染突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) | [Media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) | [Original](https://x.com/auqibhabib/status/2099725768310009982) | E— |
-| 韩屋驱邪仪式后的未尽阴影 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) | [Media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) | [Original](https://x.com/AIwithSynthia/status/2099836457430974932) | E— |
 
 ## Derivation boundary
 

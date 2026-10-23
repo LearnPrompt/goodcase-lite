@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 53 published Cases across 30 creators.
+This workflow is derived from 59 published Cases across 34 creators.
 
 ## Operating rule
 
@@ -195,9 +195,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 橘猫的柔彩动态个性秀 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-elegant-motion-graphics-driven-personality-reveal-short-in-16-9-exac-899747600e79) | [Media](https://media.goodcase.ai/cases/8474b7c70be7.mp4) | [Original](https://x.com/Chaemate_/status/2099698470500401562) | E— |
 | 狐狸在森林溪流边自拍漫游 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | [Media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) | [Original](https://x.com/MrDasOnX/status/2089969922617266257) | E— |
 | 粉色兔女郎旋身近镜亲吻 | @KeorUnreal | [GoodCase](https://goodcase.ai/cases/nano-banana-cinematic-10-second-continuous-shot-starting-exactly-from-the-uploaded-photo-a-20c619b4f3cd) | [Media](https://media.goodcase.ai/cases/5203b8430296.mp4) | [Original](https://x.com/KeorUnreal/status/2100921858811998355) | E— |
+| 女子为巨型布偶猫洗澡吹毛 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-2-0-30-second-ultra-realistic-cinematic-video-prompt-create-a-heartwarming-funny-c91743ef3579) | [Media](https://media.goodcase.ai/cases/6909650e7197.mp4) | [Original](https://x.com/Aiwithmaha/status/2110921969420177453) | E— |
 | 女孩与巨型白狗吉祥物的球场嬉戏 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-2-0-basketball-gets-a-whole-lot-more-fun-with-a-giant-fluffy-opponent-1b871f4125da) | [Media](https://media.goodcase.ai/cases/5c9d1624612e.mp4) | [Original](https://x.com/ayzalnooor24521/status/2107340030536741222) | E— |
 | 战壕里戴钢盔的橘猫士兵 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-a-15-second-vertical-9-16-photorealistic-cinematic-video-of-a-cute-orang-ed0d127d5ff9) | [Media](https://media.goodcase.ai/cases/19db95d5d39e.mp4) | [Original](https://x.com/Aiwithmaha/status/2105847315609293134) | E— |
-| 小猫骑士驾驶巨型机甲迎战巨龙 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-a-cinematic-30-second-fantasy-sci-fi-action-sequence-with-photorealistic-4c14be56b8c0) | [Media](https://media.goodcase.ai/cases/78914d26fcc7.mp4) | [Original](https://x.com/ayzalnooor24521/status/2108045351143997517) | E— |
 
 ## Derivation boundary
 
