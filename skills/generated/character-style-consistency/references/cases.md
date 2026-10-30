@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 24 published Cases across 18 creators.
+This workflow is derived from 28 published Cases across 22 creators.
 
 ## Operating rule
 
@@ -213,7 +213,44 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Wholesome anime-inspired lifestyle portrait of a {argument name="character" default="cute young woman with a short pastel-pink bob haircut"}, wearing an oversized vintage red plaid flannel shirt, baggy blue jeans, and classic canvas sneakers, interacting with a {argument name="pet" default="fluffy gray-and-white British Shorthair cat wearing a tiny plaid bandana"}. They are bathed in warm golden-hour sunlight against a clean beige wall, creating long, soft shadows. The magical twist: their shadows transform into playful hand-drawn manga doodles—the girl's shadow becomes an adorable chibi anime version of herself striking a joyful pose, while the cat's shadow becomes a funny cartoon cat waving, dancing, or reaching toward her. Pencil-sketch style with expressive line art, motion marks, hearts, stars, butterflies, and playful doodles integrated naturally into the shadows. Cozy slice-of-life aesthetic, {argument name="style" default="Studio Ghibli × modern manga illustration"}, minimalist background, soft cinematic lighting, authentic candid emotion, ultra-detailed fur, natural skin tones, dreamy atmosphere, whimsical storytelling, premium editorial photography, 50mm lens, shallow depth of field, Kodak Portra 400 colors, ultra-photorealistic, 8K, masterpiece.
 
-### E7 · 三格人物设定参考图标准化模板
+### E7 · 手写备忘录食谱插画
+
+- Creator: @AIGuideNote
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-215bdf3b4e8d) · [finished media](https://media.goodcase.ai/cases/162983bde008.jpg) · [original source](https://x.com/AIGuideNote/status/2098528281293381651)
+- Summary: 一个用于生成温暖的 2D 手写风格信息图食谱页面的提示词，背景为网格纸，包含食材清单和带有可爱插图的分步说明。
+- Prompt excerpt:
+
+> 【入力データ】
+> ・左ページの料理名: {argument name="左ページの料理名" default="グリーンカレー"}
+> ・左ページの材料リスト: {ingredientsLeft}
+> ・左ページの調理手順: ①{stepLeft1} → ②{stepLeft2} → ③{stepLeft3}
+> ・右ページの料理名: {argument name="右ページの料理名" default="トムヤムクン"}
+> ・右ページの材料リスト: {ingredientsRight}
+> ・右ページの調理手順: ①{stepRight1} → ②{stepRight2} → ③{stepRight3}
+> ・全体のカラーテーマ: {argument name="カラーテーマ" default="オーガニック・ナチュラルカラー"}
+>
+> 【構造とレイアウトの指定】
+> ・スタイル: 薄いグリッド線（方眼）や温かみのある紙の質感が表現された、1枚の味のあるオフホワイトのメモ帳用紙（方眼紙）の上に描かれた、フラットな2Dの手書き風インフォグラフィックレシピ図解。
+> ・背景と構図の制約: 物理的な本、立体的な手帳の輪郭、ページの厚み、影、木のテーブルなどのリアルな写真背景要素は描かないでください（Absolutely NO wooden table, NO realistic book mockup, NO book thickness, NO notebook pages, NO realistic photo background. It must be a flat 2D vector layout directly on the textured grid notepad paper canvas）。
+> ・左側のレイアウト:
+>   - 上部に大きく「{dishLeft}」という手書きの日本語タイトル。
+>   - その下に、入力された材料リスト「{ingredientsLeft}」を綺麗な縦並び（箇条書き）の手書き日本語とシンプルな食材イラストで描画。
+>   - 下半分には、調理手順「①{stepLeft1} → ②{stepLeft2} → ③{stepLeft3}」を横方向または縦方向の矢印フローで配置。各ステップの内容（例：切る、炒める、煮込むなど）と完全に整合する可愛い手描きイラストを配置。
+>   - 左下に完成した美味しそうな「{dishLeft}」の料理イラストを配置。
+> ・右側のレイアウト:
+>   - 上部に大きく「{dishRight}」という手書きの日本語タイトル。
+>   - その下に、入力された材料リスト「{ingredientsRight}」を手書きの日本語とシンプルな食材イラストで描画。
+>   - 下半分には、調理手順「①{stepRight1} → ②{stepRight2} → ③{stepRight3}」を横方向または縦方向の矢印フローで配置。各ステップの内容（例：切る、炒める、煮込むなど）と完全に整合する可愛い手描きイラストを配置。
+>   - 右下に完成した美味しそうな「{dishRight}」の料理イラストを配置.
+> ・色彩: 「{colorTheme}」を基調とした、優しく暖かみのあるオーガニックな色合い。
+>
+> 【品質および除外の制約（必須）】
+> ・画像の中に、日付（例: 「8/7」など）、曜日（例: 「SUN」など）、カレンダー枠、日付スタンプ等の日付関連要素は絶対に描かないでください（NO date stamp, NO calendar, NO day of the week, NO timeline stamp）。
+> ・フォントは手書き風の親しみやすい日本語フォント（ゴシックまたは丸文字）で、入力された日本語を崩れやスペルミスなく正確に描画してください。
+>
+> ・アス…
+
+### E8 · 三格人物设定参考图标准化模板
 
 - Creator: @johnAGI168
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-265600f07f14) · [finished media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) · [original source](https://x.com/johnAGI168/status/2077766771025530962)
@@ -229,15 +266,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 三格统一背景：平坦均匀的 18% 中灰无缝背景，单一色值，无渐变无衰减 (flat 18% gray seamless)。无方向无阴影的正面照明，四周补光均匀一致，无主光侧、无阴影侧、无轮廓光、无发光、无边缘光 (shadowless frontal illumination)，背景无任何投影，脚下无接触阴影 (zero cast shadow)，三格光照完全一致。
 > 真实照片级质感 (photorealistic)，皮肤可见细腻均匀毛孔与次表面散射 (subsurface scattering)，发丝根根分明 (strand-level hair)，天鹅绒、蕾丝、丝袜织物纹理清晰 (fabric weave)，轻微胶片颗粒 (theatrical grain)。真实人类，真实相机拍摄，绝非塑料感、绝非渲染、绝非 CGI、无 AI 磨皮、无过度平滑。
 
-### E8 · 奇幻涂鸦艺术自拍
-
-- Creator: @Taaruk_
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) · [finished media](https://media.goodcase.ai/media/image/case-346fdb4f9c0f.jpg) · [original source](https://x.com/Taaruk_/status/2080303309739675712)
-- Summary: 一个将写实低角度自拍与趣味手绘涂鸦艺术及吉卜力工作室美学相结合的创意提示词。
-- Prompt excerpt:
-
-> Dreamy low-angle selfie portrait of a young woman with long flowing {argument name="hair color" default="chestnut-brown"} hair and soft wispy bangs, wearing a cozy oversized {argument name="sweater color" default="cream"} knit sweater, looking gently into the camera with a calm expression. Captured outdoors beneath a deep {argument name="sky color" default="cobalt-blue"} sky filled with dramatic fluffy cumulus clouds. The scene blends photorealism with whimsical hand-drawn doodle art: the clouds are transformed into playful cartoon illustrations with smiling sun, cute stars, fluffy outlined clouds, tiny hearts, sparkles, and colorful manga-style doodles seamlessly integrated into the sky. Bright natural daylight, soft breeze moving the hair, vibrant yet pastel color palette, joyful and nostalgic aesthetic, Studio Ghibli × modern kawaii illustration, watercolor marker textures mixed with clean black ink outlines, minimal composition, cozy slice-of-life mood, ultra-detailed face, natural lighting, premium editorial illustration, highly detailed, whimsical storytelling, 8K, masterpiece.
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -248,8 +276,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 混合 3D 矢量插画风格 | @HustleXR | [GoodCase](https://goodcase.ai/cases/3d-de7f41148805) | [Media](https://media.goodcase.ai/cases/64b6032d791a.jpg) | [Original](https://x.com/HustleXR/status/2091492763397411268) | E4 |
 | 通用 AI 角色设定图生成器 | @ai_lifehack55 | [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) | [Media](https://media.goodcase.ai/media/image/ai-5054adb51999.jpg) | [Original](https://x.com/ai_lifehack55/status/2081581961081246064) | E5 |
 | 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E6 |
-| 三格人物设定参考图标准化模板 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/case-265600f07f14) | [Media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) | [Original](https://x.com/johnAGI168/status/2077766771025530962) | E7 |
-| 奇幻涂鸦艺术自拍 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) | [Media](https://media.goodcase.ai/media/image/case-346fdb4f9c0f.jpg) | [Original](https://x.com/Taaruk_/status/2080303309739675712) | E8 |
+| 手写备忘录食谱插画 | @AIGuideNote | [GoodCase](https://goodcase.ai/cases/case-215bdf3b4e8d) | [Media](https://media.goodcase.ai/cases/162983bde008.jpg) | [Original](https://x.com/AIGuideNote/status/2098528281293381651) | E7 |
+| 三格人物设定参考图标准化模板 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/case-265600f07f14) | [Media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) | [Original](https://x.com/johnAGI168/status/2077766771025530962) | E8 |
+| 奇幻涂鸦艺术自拍 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) | [Media](https://media.goodcase.ai/media/image/case-346fdb4f9c0f.jpg) | [Original](https://x.com/Taaruk_/status/2080303309739675712) | E— |
+| 风格化武术动漫少女 | @lovimg_com | [GoodCase](https://goodcase.ai/cases/case-35a46763637e) | [Media](https://media.goodcase.ai/cases/24dce7753a27.jpg) | [Original](https://x.com/lovimg_com/status/2096954809534570766) | E— |
+| 超现实糖果娃娃角色提示词 | @RAYSITI | [GoodCase](https://goodcase.ai/cases/case-407fc0599ae5) | [Media](https://media.goodcase.ai/cases/e235057a6469.jpg) | [Original](https://x.com/RAYSITI/status/2107599888636862834) | E— |
 | 奇幻动物水岸插画 | @churvikv | [GoodCase](https://goodcase.ai/cases/case-44ce700abede) | [Media](https://media.goodcase.ai/media/image/case-44ce700abede.jpg) | [Original](https://x.com/churvikv/status/2090182449149977021) | E— |
 | 现实与漫画壁画的融合 | @Arina_hoqe | [GoodCase](https://goodcase.ai/cases/case-490a5435c063) | [Media](https://media.goodcase.ai/media/image/case-490a5435c063.jpg) | [Original](https://x.com/Arina_hoqe/status/2081179727734456415) | E— |
 | 复古双色调编辑插画 | @HustleXR | [GoodCase](https://goodcase.ai/cases/case-7e29a0c188a4) | [Media](https://media.goodcase.ai/media/image/case-7e29a0c188a4.jpg) | [Original](https://x.com/HustleXR/status/2080180351885017314) | E— |
@@ -259,9 +290,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 美术编辑肖像插画 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/aatif_j/status/2080399938278801700) | E— |
 | 部落奇幻女战士与猫头鹰肖像 | @Aqib__786Ai | [GoodCase](https://goodcase.ai/cases/case-dd0e6108eade) | [Media](https://media.goodcase.ai/cases/347112a1d6c6.jpg) | [Original](https://x.com/Aqib__786Ai/status/2091027228645552456) | E— |
 | Dark Fantasy Battlefield Warrior | @Madhuribhai | [GoodCase](https://goodcase.ai/cases/dark-fantasy-battlefield-warrior) | [Media](https://media.goodcase.ai/cases/d39fc1d10414.jpg) | [Original](https://x.com/Madhuribhai/status/2085769307217391725) | E— |
-| 照片转插画海报 GPT Image 2 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-2-a61e119c8951) | [Media](https://media.goodcase.ai/cases/47eec88d89ee.jpg) | [Original](https://x.com/Sairah_0/status/2102630825842118730) | E— |
-| 复古极简旅行生活插画海报 | @Naiknelofar788 | [GoodCase](https://goodcase.ai/cases/gpt-image-a-sophisticated-minimalist-lifestyle-art-poster-featuring-person-subject-m-6f9f4b65ad5a) | [Media](https://media.goodcase.ai/cases/1a7327c8ca6d.jpg) | [Original](https://x.com/Naiknelofar788/status/2101161664892829838) | E— |
-| 巨型角色扮演者困在微缩豪宅 | @livybabie | [GoodCase](https://goodcase.ai/cases/gpt-image-create-a-hyper-realistic-cinematic-cosplay-photograph-of-a-clearly-adult-woman-62b74321e905) | [Media](https://media.goodcase.ai/cases/f7e7102648ff.jpg) | [Original](https://x.com/livybabie/status/2103643051033764189) | E— |
 
 ## Derivation boundary
 

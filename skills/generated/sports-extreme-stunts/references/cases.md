@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 27 published Cases across 24 creators.
+This workflow is derived from 31 published Cases across 27 creators.
 
 ## Operating rule
 
@@ -282,13 +282,13 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Seedance 单板滑雪地形公园流畅滑行短片 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) | [Media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) | [Original](https://x.com/nawalsehar/status/2088854230626865490) | E— |
 | 捡到钱立刻花掉的街头反转喜剧 | @john87445528 | [GoodCase](https://goodcase.ai/cases/seedance-14-77-9-16-576-1024-30fps-de6ac984ad6a) | [Media](https://media.goodcase.ai/cases/e919fe07e326.mp4) | [Original](https://x.com/john87445528/status/2097656268856905862) | E— |
 | 水上闯关决胜前意外落水 | @Inshrah_ali_ | [GoodCase](https://goodcase.ai/cases/seedance-15-second-ultra-realistic-live-water-game-show-scene-ad357b3bb052) | [Media](https://media.goodcase.ai/cases/050883318d18.mp4) | [Original](https://x.com/Inshrah_ali_/status/2098621065039647016) | E— |
+| 白衣女子在山间碧湖高桩上腾跃 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-it-30-second-video-featuring-a-breathtaking-cinematic-acrobatic-performa-d8c6b0e19d99) | [Media](https://media.goodcase.ai/cases/e3e323cb5411.mp4) | [Original](https://x.com/ayzalnooor24521/status/2113128549930729895) | E— |
+| 女子在雨后山间茶园跑酷激战十名蒙面人 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/seedance-2-5-16-9-widescreen-cinematic-live-action-15-seconds-high-momentum-parkour-fight-41e698499a8d) | [Media](https://media.goodcase.ai/cases/75b94a2833b2.mp4) | [Original](https://x.com/Chaemate_/status/2113558308514922850) | E— |
 | 微缩女子的便利店跑酷冒险 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd) | [Media](https://media.goodcase.ai/cases/e57a891dd0ed.mp4) | [Original](https://x.com/AIwithkhan/status/2106397932304191969) | E— |
 | 女子在夜间粉色球场滑着滑板打网球 | @AIwithNatalia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5) | [Media](https://media.goodcase.ai/cases/6d94ac862edd.mp4) | [Original](https://x.com/AIwithNatalia/status/2107056982163402833) | E— |
 | Seedance 2.5 悬崖翼装跳伞环海一镜到底 | @mrdejie | [GoodCase](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-f1696dad13bc.mp4) | [Original](https://x.com/mrdejie/status/2085996752809927146) | E— |
-| Seedance：不会有人认为这是真的吧？😄 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/seedance-269d1fc95820) | [Media](https://media.goodcase.ai/media/video/seedance-269d1fc95820.mp4) | [Original](https://x.com/johnAGI168/status/2095025524586193105) | E— |
-| 少女滑板穿行海滨山城 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-anime-style-scene-of-a-young-female-traveler-skateboarding-downhill-9d0ffb3a7366) | [Media](https://media.goodcase.ai/cases/232730361fc7.mp4) | [Original](https://x.com/CaliraVal/status/2099357883133726827) | E— |
-| 迷你涂鸦女孩的桌面滑板之旅 | @harboriis | [GoodCase](https://goodcase.ai/cases/seedance-a-miniature-hand-drawn-2d-animated-girl-with-messy-black-hair-an-orange-shirt-f86eb9a18721) | [Media](https://media.goodcase.ai/cases/bd837ff629a8.mp4) | [Original](https://x.com/harboriis/status/2104106520808157221) | E— |
-| 金色雪山上的白衣滑雪女郎 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0) | [Media](https://media.goodcase.ai/cases/ed05261f6296.mp4) | [Original](https://x.com/noorlewisx/status/2096826123330138410) | E— |
+| 小女孩滑着滑板去搭校车 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-c3ee1b92a0e5) | [Media](https://media.goodcase.ai/cases/3073787a381c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2110193320047898957) | E— |
+| 直升机追踪洛杉矶街头越野摩托特技骑手 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f) | [Media](https://media.goodcase.ai/cases/22fa18ce284e.mp4) | [Original](https://x.com/CharaspowerAI/status/2111517673276240251) | E— |
 
 ## Derivation boundary
 
