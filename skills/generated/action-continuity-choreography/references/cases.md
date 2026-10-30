@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 85 published Cases across 61 creators.
+This workflow is derived from 95 published Cases across 64 creators.
 
 ## Operating rule
 
@@ -167,6 +167,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 韩国社区动作喜剧场景 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/case-1e4f684b45b0) | [Media](https://media.goodcase.ai/cases/955088198bf2.mp4) | [Original](https://x.com/AIwithSynthia/status/2097532372921229702) | E7 |
 | 动画海盗动作序列 | @itsshara_ai | [GoodCase](https://goodcase.ai/cases/case-30f9477f562c) | [Media](https://media.goodcase.ai/media/video/case-30f9477f562c.mp4) | [Original](https://x.com/itsshara_ai/status/2079565454436426187) | E8 |
 | 凤凰骑士变身序列 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-4306bf4e075c) | [Media](https://media.goodcase.ai/media/video/case-4306bf4e075c.mp4) | [Original](https://x.com/LudovicCreator/status/2081092171428401560) | E— |
+| 整体视频参考@视频 舞蹈动作，人物长相@图，衣服@图。 | w无霜 | [GoodCase](https://goodcase.ai/cases/case-761b6c9253e3) | [Media](https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261014/6ac77dc1000000001500cff3/media-video.mp4) | [Original](https://www.xiaohongshu.com/explore/6ac77dc1000000001500cff3?xsec_token=YB4ZxSZHGStoh9WC_gmg0xiRDf3Ng4hno22sdhGIFi5T4=&gc=6ac77dc1000000001500cff3-2) | E— |
 | 屋顶追逐动作短语 | @LANDCASTER_92 | [GoodCase](https://goodcase.ai/cases/case-8f7479c32251) | [Media](https://media.goodcase.ai/media/video/case-8f7479c32251.mp4) | [Original](https://x.com/LANDCASTER_92/status/2081432738683314614) | E— |
 | 电影级未来感动漫剑术对决 | @haruuraeadss | [GoodCase](https://goodcase.ai/cases/case-a9ab0266f96a) | [Media](https://media.goodcase.ai/media/video/case-a9ab0266f96a.mp4) | [Original](https://x.com/haruuraeadss/status/2081317622927577411) | E— |
 | 废墟之桥上的史诗骑士之战 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/case-b1405ee458d3) | [Media](https://media.goodcase.ai/media/video/case-b1405ee458d3.mp4) | [Original](https://x.com/CharaspowerAI/status/2081031751598535092) | E— |
@@ -177,7 +178,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 珠宝精品店武术动作大片 | @mimu_ai1 | [GoodCase](https://goodcase.ai/cases/case-d0f11d1ff17c) | [Media](https://media.goodcase.ai/cases/829eb48c60a3.mp4) | [Original](https://x.com/mimu_ai1/status/2091215411341930633) | E— |
 | 夜间追逐电影级镜头 | @bmx_ai13 | [GoodCase](https://goodcase.ai/cases/case-d30f8318a084) | [Media](https://media.goodcase.ai/media/video/case-d30f8318a084.mp4) | [Original](https://x.com/bmx_ai13/status/2081091640857702427) | E— |
 | 黑板火柴人空手道对决 | @mrdejie | [GoodCase](https://goodcase.ai/cases/case-de248f679b06) | [Media](https://media.goodcase.ai/media/video/case-de248f679b06.mp4) | [Original](https://x.com/mrdejie/status/2079463899305476233) | E— |
-| 武术道场实战演练视频提示词 | @xmliisu | [GoodCase](https://goodcase.ai/cases/case-ef6d0376e02b) | [Media](https://media.goodcase.ai/cases/0ee926e46e5a.mp4) | [Original](https://x.com/xmliisu/status/2097596867500515494) | E— |
 
 ## Derivation boundary
 
