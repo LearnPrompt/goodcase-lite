@@ -1,12 +1,38 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to itxabdullaa. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to itxabdullaa. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 废墟街头火焰术引爆全城
+### E1 · 暴雪中守护幼龙的金色猫咪骑士
+
+- Creator: @itxabdullaa
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-breathtaking-24-second-live-action-fantasy-short-featuring-a-tiny-gold-8bc28535dc6b) · [finished media](https://media.goodcase.ai/cases/e43fade1f805.mp4) · [poster](https://media.goodcase.ai/cases/51dbdca51c11.jpg) · [original source](https://x.com/itxabdullaa/status/2110942575523922012)
+- Summary: THE DRAGON’S TINIEST RIVAL 🐉⚔️ Epic fantasy brought to life with Seedance 2.5 on @ImagineArt_X @imagineart_creo Prompt: Duration: 24 seconds | Format: 16:9 | S…
+- Prompt excerpt:
+
+> Duration: 24 seconds | Format: 16:9 | Style: Photorealistic cinematic fantasy
+>
+> Create a breathtaking 24-second live-action fantasy short featuring a tiny golden British Shorthair kitten knight with enormous dark eyes, realistic fluffy fur, a pink ribbon, silver medieval armor, an ivory cape, and a miniature sword. Maintain identical character appearance, proportions, and accessories throughout.
+>
+> SCENE 1 (0–5s): THE DISCOVERY
+> During a violent snowstorm, the kitten struggles through ancient frozen ruins. A gigantic black dragon claw crashes into the snow behind it. The terrified kitten discovers a mysterious golden-glowing dragon egg as the colossal dragon's amber eyes emerge through the blizzard.
+>
+> SCENE 2 (5–9s): THE CHOICE
+> Instead of fleeing, the kitten raises its tiny sword to protect the egg. The dragon spreads its enormous wings, blocking the moon. A golden crack appears in the egg, making the dragon suddenly stop in surprise.
+>
+> SCENE 3 (9–15s): THE REVELATION
+> The egg hatches, revealing a tiny black dragon with miniature horns and amber eyes. The kitten gently touches the hatchling, while the colossal dragon lowers its head gratefully. Golden sunrise light breaks through the storm.
+>
+> SCENE 4 (15–20s): THE PROTECTOR
+> A massive avalanche rushes toward them. The kitten shields the hatchling beneath its ivory cape as the enormous dragon spreads its leathery wings, protecting them from the crashing snow and ice.
+>
+> SCENE 5 (20–24s): THE BOND
+> At sunrise, the exhausted kitten cradles the sleeping hatchling beside the colossal dragon. The dragon gently closes its amber eyes and exhal…
+
+### E2 · 废墟街头火焰术引爆全城
 
 - Creator: @itxabdullaa
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f) · [finished media](https://media.goodcase.ai/cases/381b6848a667.mp4) · [poster](https://media.goodcase.ai/cases/5e41917cd901.jpg) · [original source](https://x.com/itxabdullaa/status/2103698890516308313)
@@ -40,7 +66,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 7.2–7.7 SECONDS — TARGET…
 
-### E2 · 追逐三明治引发桌面图标大乱
+### E3 · 追逐三明治引发桌面图标大乱
 
 - Creator: @itxabdullaa
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-things-got-out-of-control-the-moment-scooby-spotted-the-sandwich-cf23bc2cdfd4) · [finished media](https://media.goodcase.ai/cases/60586b428caa.mp4) · [poster](https://media.goodcase.ai/cases/13f4d11074d6.jpg) · [original source](https://x.com/itxabdullaa/status/2102239560914841864)
@@ -81,7 +107,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 7.8–10s:
 > After restoring the last icon, the dog hides behind the human. The dog peeks out nervously…
 
-### E3 · 花天狂骨枯松心中决战
+### E4 · 花天狂骨枯松心中决战
 
 - Creator: @itxabdullaa
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962) · [finished media](https://media.goodcase.ai/cases/42c043fad41c.mp4) · [poster](https://media.goodcase.ai/cases/2b89a640f391.jpg) · [original source](https://x.com/itxabdullaa/status/2102609881677107243)
@@ -123,9 +149,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 废墟街头火焰术引爆全城 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f) | [Media](https://media.goodcase.ai/cases/381b6848a667.mp4) | [Original](https://x.com/itxabdullaa/status/2103698890516308313) | E1 |
-| 追逐三明治引发桌面图标大乱 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-things-got-out-of-control-the-moment-scooby-spotted-the-sandwich-cf23bc2cdfd4) | [Media](https://media.goodcase.ai/cases/60586b428caa.mp4) | [Original](https://x.com/itxabdullaa/status/2102239560914841864) | E2 |
-| 花天狂骨枯松心中决战 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962) | [Media](https://media.goodcase.ai/cases/42c043fad41c.mp4) | [Original](https://x.com/itxabdullaa/status/2102609881677107243) | E3 |
+| 暴雪中守护幼龙的金色猫咪骑士 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-breathtaking-24-second-live-action-fantasy-short-featuring-a-tiny-gold-8bc28535dc6b) | [Media](https://media.goodcase.ai/cases/e43fade1f805.mp4) | [Original](https://x.com/itxabdullaa/status/2110942575523922012) | E1 |
+| 废墟街头火焰术引爆全城 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f) | [Media](https://media.goodcase.ai/cases/381b6848a667.mp4) | [Original](https://x.com/itxabdullaa/status/2103698890516308313) | E2 |
+| 追逐三明治引发桌面图标大乱 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-things-got-out-of-control-the-moment-scooby-spotted-the-sandwich-cf23bc2cdfd4) | [Media](https://media.goodcase.ai/cases/60586b428caa.mp4) | [Original](https://x.com/itxabdullaa/status/2102239560914841864) | E3 |
+| 花天狂骨枯松心中决战 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962) | [Media](https://media.goodcase.ai/cases/42c043fad41c.mp4) | [Original](https://x.com/itxabdullaa/status/2102609881677107243) | E4 |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to CaliraVal. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 6 published Cases attributed to CaliraVal. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -77,7 +77,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > SCENE 1 — EPIC BEACH ESTABLISHING SHOT:
 > Start with a breathtaking aerial wide shot of a tropical beach surrounded by…
 
-### E4 · 落日古城漫游与街角咖啡
+### E4 · 东亚女孩的伊斯坦布尔漫游：清真寺与海峡日落
+
+- Creator: @CaliraVal
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-ai-video-prompt-with-english-lipsync-a-beautiful-young-east-asian-w-716402cadd7d) · [finished media](https://media.goodcase.ai/cases/58c408d8af50.mp4) · [poster](https://media.goodcase.ai/cases/982231200bc8.jpg) · [original source](https://x.com/CaliraVal/status/2112051825830662430)
+- Summary: Lost in the beauty of Istanbul, wishing this moment could last forever. Created with seedance 2.5 on @FishCreativeHQ Prompt: Cinematic AI Video Prompt (with Eng…
+- Prompt excerpt:
+
+> Cinematic AI Video Prompt (with English Lipsync):A beautiful young East Asian woman with long flowing black hair, soft natural makeup, and a gentle smile, wearing a white cropped top and loose beige shorts with an open white shirt, exploring Istanbul in a high-end cinematic travel vlog style. She speaks naturally in English with clear lip movements matching the dialogue. Golden hour and soft daylight lighting, shallow depth of field, smooth cinematic camera movements, filmic color grading with warm tones, subtle lens flares, and realistic textures. Consistent character throughout. Dialogue (English lipsync): Close-up with microphone: “Stop… I’m gonna cry.” Walking selfie in the square: “This place is unreal… I can’t believe I’m actually here.” Inside the mosque looking up: “Look at this… it’s so beautiful.” Galata Tower and ferry: “Golden hour in Istanbul hits different.” Street market and cafe: “Just walking around, soaking it all in.” Sunset by the water: “This is the kind of moment I never want to end.” Sequence: Close-up of her speaking into a fuzzy microphone with Hagia Sophia softly blurred in the background Dynamic selfie-style walk through the busy square in front of the Blue Mosque and Hagia Sophia Low-angle shot inside a grand mosque as she looks up at the massive ornate domes and arches Elegant shot of her leaning on a railing at Galata Tower during sunset, hair blowing in the wind Ferry ride on the Bosphorus with Galata Tower and the city skyline behind her Walking through a charming Istanbul street market, adjusting her open shirt Warm cafe close-up of her hold…
+
+### E5 · 落日古城漫游与街角咖啡
 
 - Creator: @CaliraVal
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3) · [finished media](https://media.goodcase.ai/cases/53b3da3e9d4f.mp4) · [poster](https://media.goodcase.ai/cases/b6616f3bcc10.jpg) · [original source](https://x.com/CaliraVal/status/2097184908250845406)
@@ -102,7 +111,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tr…
 
-### E5 · 年轻女子抵达机场登机启程
+### E6 · 年轻女子抵达机场登机启程
 
 - Creator: @CaliraVal
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-travel-video-of-a-stylish-young-woman-arrivin-b321bf4210a0) · [finished media](https://media.goodcase.ai/cases/6336780ee0d7.mp4) · [poster](https://media.goodcase.ai/cases/69785ecda416.jpg) · [original source](https://x.com/CaliraVal/status/2097601187734561047)
@@ -118,8 +127,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 夏日热带度假村漫游 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-c1907f5f9753) | [Media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-c1907f5f9753.mp4) | [Original](https://x.com/CaliraVal/status/2092464771874664617) | E1 |
 | 金色海岸漫步时光 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-fashion-film-set-on-a-breathtaking-coastal-landscape-83b287d8aae4) | [Media](https://media.goodcase.ai/cases/577910827af2.mp4) | [Original](https://x.com/CaliraVal/status/2096833346555023816) | E2 |
 | 白衣女子的热带海岸漫步 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/minimax-h3-created-with-minimax-h3-10c606612cf6) | [Media](https://media.goodcase.ai/cases/d621aec9e022.mp4) | [Original](https://x.com/CaliraVal/status/2104438855785136257) | E3 |
-| 落日古城漫游与街角咖啡 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3) | [Media](https://media.goodcase.ai/cases/53b3da3e9d4f.mp4) | [Original](https://x.com/CaliraVal/status/2097184908250845406) | E4 |
-| 年轻女子抵达机场登机启程 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-travel-video-of-a-stylish-young-woman-arrivin-b321bf4210a0) | [Media](https://media.goodcase.ai/cases/6336780ee0d7.mp4) | [Original](https://x.com/CaliraVal/status/2097601187734561047) | E5 |
+| 东亚女孩的伊斯坦布尔漫游：清真寺与海峡日落 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-ai-video-prompt-with-english-lipsync-a-beautiful-young-east-asian-w-716402cadd7d) | [Media](https://media.goodcase.ai/cases/58c408d8af50.mp4) | [Original](https://x.com/CaliraVal/status/2112051825830662430) | E4 |
+| 落日古城漫游与街角咖啡 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3) | [Media](https://media.goodcase.ai/cases/53b3da3e9d4f.mp4) | [Original](https://x.com/CaliraVal/status/2097184908250845406) | E5 |
+| 年轻女子抵达机场登机启程 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-travel-video-of-a-stylish-young-woman-arrivin-b321bf4210a0) | [Media](https://media.goodcase.ai/cases/6336780ee0d7.mp4) | [Original](https://x.com/CaliraVal/status/2097601187734561047) | E6 |
 
 ## Derivation boundary
 

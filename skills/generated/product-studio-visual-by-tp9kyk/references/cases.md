@@ -1,12 +1,21 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to Maddox_Digital. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Maddox_Digital. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 草地山丘上的极简主义产品摄影
+### E1 · 超现实美妆产品卷发筒
+
+- Creator: @Maddox_Digital
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-6ec2162f3f24) · [finished media](https://media.goodcase.ai/cases/3f4f4391ff7d.jpg) · [original source](https://x.com/Maddox_Digital/status/2088836197498143054)
+- Summary: 一个充满趣味与超现实感的商业摄影提示词，将产品管体作为超大号卷发筒，呈现高端美妆美学。
+- Prompt excerpt:
+
+> Studio product photo shot from behind of a person with {argument name="hair color" default="light brown"} wavy/curled hair styled into large voluminous curls, viewed from the back of the head down to the shoulders. Multiple identical product tubes — {argument name="product" default="product from uploaded photo"} — are inserted into the hair like oversized velcro rollers/curlers, tucked between the curls at various angles all across the head, roughly 3-4 tubes visible, creating a playful surreal "product as hair roller" concept. The person wears a solid {argument name="shirt color" default="green"} collared top/shirt with a popped collar. Background is a flat, solid muted olive-green studio backdrop matching the tonal palette of the outfit. Even, soft studio lighting with minimal shadows, clean commercial beauty-photography look, slightly desaturated warm color grading. Composition is centered and vertical, tight crop from mid-shoulders up, no face visible — only the back of the head and hair. Photorealistic, high-end beauty/cosmetics advertising style, aspect ratio 3:4.
+
+### E2 · 草地山丘上的极简主义产品摄影
 
 - Creator: @Maddox_Digital
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-9eb937c02956) · [finished media](https://media.goodcase.ai/media/image/case-9eb937c02956.jpg) · [original source](https://x.com/Maddox_Digital/status/2077931238674096250)
@@ -15,7 +24,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Minimalist product photography, {argument name="subject" default="product from uploaded photo"} placed on top of a {argument name="setting" default="small rounded green grassy hill"}, positioned low in frame with vast empty sky taking up most of the composition, small wooden side table beside it with a single ceramic coffee cup, soft warm golden hour lighting, clear pale blue sky gradient transitioning to warm cream near the horizon, serene and calm atmosphere, negative space composition, vertical mobile wallpaper format, photorealistic, soft natural shadows, muted earthy color palette, high-end editorial product photography, 8k resolution
 
-### E2 · Cinematic Product Advertisement with Spider Web
+### E3 · Cinematic Product Advertisement with Spider Web
 
 - Creator: @Maddox_Digital
 - Evidence: [GoodCase](https://goodcase.ai/cases/cinematic-product-advertisement-with-spider-web) · [finished media](https://media.goodcase.ai/cases/9da9710a9641.jpg) · [original source](https://x.com/Maddox_Digital/status/2086994618517000244)
@@ -24,7 +33,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Using the uploaded product as the exact reference, preserve its original shape, branding, packaging, label, logo, colors, proportions and details. Do not redesign, replace or modify the product in any way. Create a premium minimalist advertising composition in a {argument name="aspect ratio" default="panoramic 21:9"} format. Use a seamless studio background matching the {argument name="background color" default="dominant color of the product"} with a soft radial gradient and subtle vignette. On the far left, place a {argument name="hand gesture" default="generic red web-pattern glove performing a web-shooting hand gesture"}. A realistic white spider web shoots horizontally across the frame, maintaining identical thickness across approximately 80% of its length. Only near the product should the web naturally wrap around, attach to, interact with, or visually blend into the product in a clean and satisfying way while preserving the product's original appearance. The web should remain the same width throughout the composition and create a smooth, seamless transition from left to right. Keep the composition clean with plenty of negative space. Luxury commercial product photography, ultra-realistic, premium advertising aesthetic, soft studio lighting, realistic shadows, ultra-sharp focus, glossy details, 8K, highly detailed, photorealistic.
 
-### E3 · Raspberry Shell Product Photography
+### E4 · Raspberry Shell Product Photography
 
 - Creator: @Maddox_Digital
 - Evidence: [GoodCase](https://goodcase.ai/cases/raspberry-shell-product-photography) · [finished media](https://media.goodcase.ai/media/image/raspberry-shell-product-photography.jpg) · [original source](https://x.com/Maddox_Digital/status/2088441415907041644)
@@ -37,9 +46,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 草地山丘上的极简主义产品摄影 | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/case-9eb937c02956) | [Media](https://media.goodcase.ai/media/image/case-9eb937c02956.jpg) | [Original](https://x.com/Maddox_Digital/status/2077931238674096250) | E1 |
-| Cinematic Product Advertisement with Spider Web | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/cinematic-product-advertisement-with-spider-web) | [Media](https://media.goodcase.ai/cases/9da9710a9641.jpg) | [Original](https://x.com/Maddox_Digital/status/2086994618517000244) | E2 |
-| Raspberry Shell Product Photography | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/raspberry-shell-product-photography) | [Media](https://media.goodcase.ai/media/image/raspberry-shell-product-photography.jpg) | [Original](https://x.com/Maddox_Digital/status/2088441415907041644) | E3 |
+| 超现实美妆产品卷发筒 | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/case-6ec2162f3f24) | [Media](https://media.goodcase.ai/cases/3f4f4391ff7d.jpg) | [Original](https://x.com/Maddox_Digital/status/2088836197498143054) | E1 |
+| 草地山丘上的极简主义产品摄影 | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/case-9eb937c02956) | [Media](https://media.goodcase.ai/media/image/case-9eb937c02956.jpg) | [Original](https://x.com/Maddox_Digital/status/2077931238674096250) | E2 |
+| Cinematic Product Advertisement with Spider Web | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/cinematic-product-advertisement-with-spider-web) | [Media](https://media.goodcase.ai/cases/9da9710a9641.jpg) | [Original](https://x.com/Maddox_Digital/status/2086994618517000244) | E3 |
+| Raspberry Shell Product Photography | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/raspberry-shell-product-photography) | [Media](https://media.goodcase.ai/media/image/raspberry-shell-product-photography.jpg) | [Original](https://x.com/Maddox_Digital/status/2088441415907041644) | E4 |
 
 ## Derivation boundary
 

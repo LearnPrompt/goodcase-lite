@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 31 published Cases across 25 creators.
+This workflow is derived from 34 published Cases across 27 creators.
 
 ## Operating rule
 
@@ -226,7 +226,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 动漫风格：制作印度蒸米糕（Idli）的烹饪流程 | @snskritinaruka | [GoodCase](https://goodcase.ai/cases/idli-4a8ed49d4ad9) | [Media](https://media.goodcase.ai/media/video/idli-4a8ed49d4ad9.mp4) | [Original](https://x.com/snskritinaruka/status/2074761846444503180) | E— |
 | 酒店房间深夜关东煮试吃 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e) | [Media](https://media.goodcase.ai/cases/8294a68bb1e4.mp4) | [Original](https://x.com/Just_sharon7/status/2089919950161113353) | E— |
 | GPT Image 2 + Seedance 看饿人的吃播短片 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698) | [Media](https://media.goodcase.ai/cases/f0a5f53703c2.mp4) | [Original](https://x.com/Just_sharon7/status/2089737554061148465) | E— |
-| 韩国女生辣味挑战崩溃实录 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) | [Media](https://media.goodcase.ai/media/video/oggii-0-seedance-ai-5ed8176ffb89.mp4) | [Original](https://x.com/oggii_0/status/2094267751477232053) | E— |
+| 儿子烘焙失手后带纸杯蛋糕为母亲庆生 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/kling-a-young-east-asian-man-named-ming-tries-to-bake-a-birthday-cake-for-his-beloved-35149163a076) | [Media](https://media.goodcase.ai/cases/f98287db0240.mp4) | [Original](https://x.com/aiwithaly/status/2115085490475217187) | E— |
 
 ## Derivation boundary
 

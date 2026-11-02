@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 71 published Cases across 46 creators.
+This workflow is derived from 72 published Cases across 46 creators.
 
 ## Operating rule
 
@@ -152,11 +152,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 护发精华美妆广告 | @noorlewisx | [GoodCase](https://goodcase.ai/cases/case-3484642788b0) | [Media](https://media.goodcase.ai/cases/195c4f5f9843.mp4) | [Original](https://x.com/noorlewisx/status/2092478694078251087) | E— |
 | 奢华无线耳机产品展示 | @LudovicCreator | [GoodCase](https://goodcase.ai/cases/case-3b061b619d01) | [Media](https://media.goodcase.ai/cases/6d76adba9a18.webm) | [Original](https://x.com/LudovicCreator/status/2082783319075291312) | E— |
 | 写实风格中国辣条商业广告 | @kentdhani | [GoodCase](https://goodcase.ai/cases/case-571927740e2f) | [Media](https://media.goodcase.ai/media/video/case-571927740e2f.mp4) | [Original](https://x.com/kentdhani/status/2080945278392406294) | E— |
+| 高预算敞篷跑车商业广告 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/case-6aa3c63f7d5d) | [Media](https://media.goodcase.ai/cases/604c4a99e8a8.mp4) | [Original](https://x.com/Just_sharon7/status/2111825290150527310) | E— |
 | 触感剪纸风格产品展示 | @thesocialalpha_ | [GoodCase](https://goodcase.ai/cases/case-7aea1313f63b) | [Media](https://media.goodcase.ai/media/video/case-7aea1313f63b.mp4) | [Original](https://x.com/thesocialalpha_/status/2073075642996777159) | E— |
 | 可口可乐时尚转场广告 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/case-887d0484c2ce) | [Media](https://media.goodcase.ai/media/video/case-887d0484c2ce.mp4) | [Original](https://x.com/johnAGI168/status/2079810430252331482) | E— |
 | 超高端香水电影级广告 | @SadiaMalik182 | [GoodCase](https://goodcase.ai/cases/case-91461617e987) | [Media](https://media.goodcase.ai/cases/2722820a0df4.webm) | [Original](https://x.com/SadiaMalik182/status/2082776032042783085) | E— |
 | 写实风格无线耳机广告 | @hiapi_ai | [GoodCase](https://goodcase.ai/cases/case-96017ad7706f) | [Media](https://media.goodcase.ai/media/video/case-96017ad7706f.mp4) | [Original](https://x.com/hiapi_ai/status/2081294040415482322) | E— |
-| “水光肌” 美容精华液广告 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/case-98ee40004d15) | [Media](https://media.goodcase.ai/cases/fc83139eadfa.mp4) | [Original](https://x.com/laviniavelle/status/2092417476265144705) | E— |
 
 ## Derivation boundary
 

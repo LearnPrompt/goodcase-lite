@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 36 published Cases across 27 creators.
+This workflow is derived from 40 published Cases across 29 creators.
 
 ## Operating rule
 
@@ -158,12 +158,12 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 夜街橡胶脸搞怪变形 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-8424f361fbe0) | [Media](https://media.goodcase.ai/cases/8476e6827a3f.mp4) | [Original](https://x.com/johnAGI168/status/2091182791467684197) | E— |
 | Seedance 三十秒 3D 动画喜剧：妈妈断了 WiFi 之后 | @JuliaClarky | [GoodCase](https://goodcase.ai/cases/juliaclarky-seedance-ai-f648a434d526) | [Media](https://media.goodcase.ai/cases/8a80979ee021.mp4) | [Original](https://x.com/JuliaClarky/status/2089592644725043368) | E— |
 | 母亲抢走男孩的可丽饼座位 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-20d2026d6f58) | [Media](https://media.goodcase.ai/cases/c7991e390250.mp4) | [Original](https://x.com/Just_sharon7/status/2091529113425297759) | E— |
+| 魔法搅茶失控，烫嘴后吐回杯中 | @MahiraEhan | [GoodCase](https://goodcase.ai/cases/mahiraehan-seedance-2-5-ai-adecfc8190d9) | [Media](https://media.goodcase.ai/cases/bf94fc4af7b4.mp4) | [Original](https://x.com/MahiraEhan/status/2112552026651668836) | E— |
 | Modern Action Comedy Video Prompt | @pyona_ai | [GoodCase](https://goodcase.ai/cases/modern-action-comedy-video-prompt) | [Media](https://media.goodcase.ai/media/video/modern-action-comedy-video-prompt.mp4) | [Original](https://x.com/pyona_ai/status/2088605198973583799) | E— |
 | 纽约街头怪事连发的单镜头随拍 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-137e0e907dfd) | [Media](https://media.goodcase.ai/cases/c35679d1d0c6.mp4) | [Original](https://x.com/oggii_0/status/2093568957727064554) | E— |
 | 捡到钱立刻花掉的街头反转喜剧 | @john87445528 | [GoodCase](https://goodcase.ai/cases/seedance-14-77-9-16-576-1024-30fps-de6ac984ad6a) | [Media](https://media.goodcase.ai/cases/e919fe07e326.mp4) | [Original](https://x.com/john87445528/status/2097656268856905862) | E— |
 | 混乱教室中走向镜头的少女 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db) | [Media](https://media.goodcase.ai/cases/299e494253cd.mp4) | [Original](https://x.com/Aiwithmaha/status/2100787710424416603) | E— |
-| 金发女子在警察训练室上演搞笑武打 | @sipteaandcoffee | [GoodCase](https://goodcase.ai/cases/seedance-2-5-i-m-practicing-something-906da86a4a69) | [Media](https://media.goodcase.ai/cases/9a5cb6cba0bd.mp4) | [Original](https://x.com/sipteaandcoffee/status/2107512973292138801) | E— |
-| 米奇耳女孩智取土耳其冰淇淋 | @sophiaparkerr_ | [GoodCase](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8) | [Media](https://media.goodcase.ai/cases/bb6e4d4897bc.mp4) | [Original](https://x.com/sophiaparkerr_/status/2096542775709692255) | E— |
+| 首尔商场女子反击挑衅男的滑稽闹剧 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-live-action-cinematic-revenge-comedy-video-set-inside-a-busy-seoul-sho-f288abf91c48) | [Media](https://media.goodcase.ai/cases/75760acf3a1d.mp4) | [Original](https://x.com/AIwithkhan/status/2111296614904336739) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to laviniavelle. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to laviniavelle. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -17,7 +17,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > #polloai
 
-### E2 · 茶中蓝焰凤凰唤醒女子战甲飞跃霓虹都市
+### E2 · 红发女英雄逃离石像巨人，开启浮岛秘境
+
+- Creator: @laviniavelle
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-fantasy-adventure-video-featuring-a-brave-red-haired-heroine-wearin-f5606a6f6186) · [finished media](https://media.goodcase.ai/cases/e01476c511ff.mp4) · [poster](https://media.goodcase.ai/cases/ef681e97342d.jpg) · [original source](https://x.com/laviniavelle/status/2109868479713083637)
+- Summary: A brave heroine faces ancient stone giants with the power of magic Beyond the gates a breathtaking fantasy world awaits. Made with Seedance 2.5 Prompt: A cinema…
+- Prompt excerpt:
+
+> A cinematic fantasy adventure video featuring a brave red-haired heroine wearing a brown leather jacket and dark pants, running through a snowy forest while holding a glowing magical staff. She is being pursued by giant, menacing stone golems with glowing purple eyes and cracks of fire on their bodies. She enters ancient ruins, activates glowing magical runes on a stone pillar, and summons a golden circular shield barrier to block the attacking golems. After defending herself, she turns, opens massive stone gates, and reveals a breathtaking magical landscape with floating islands, cascading waterfalls, rivers, and a vibrant starry purple sky in the distance. Cinematic lighting, epic orchestral fantasy music, 4k resolution.
+
+### E3 · 茶中蓝焰凤凰唤醒女子战甲飞跃霓虹都市
 
 - Creator: @laviniavelle
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-8k-video-sequence-30-seconds-an-elegant-east-asian-woman-in-a-dark-n-a7ec912255dc) · [finished media](https://media.goodcase.ai/cases/cb077a8ee481.mp4) · [poster](https://media.goodcase.ai/cases/78dc59b5f802.jpg) · [original source](https://x.com/laviniavelle/status/2107709472944906671)
@@ -26,7 +35,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Cinematic 8K video sequence, 30 seconds An elegant East Asian woman in a dark navy cheongsam sits in a luxury high rise tea room at golden hour sunset overlooking a city Close up of her teacup as steam forms a glowing blue spectral energy phoenix that emerges from the tea. The light phoenix enters her chest, swirling blue energy transforming her dress into sleek black cyberpunk tactical armor She stands on a skyscraper rooftop at night surrounded by neon billboards, flying vehicles and floating particles She sprints and leaps off the rooftop edge stepping onto a glowing blue energy platform mid air to leap across the city Lands gracefully on another high rooftop as a massive blue energy phoenix spreads its wings behind her before she turns to face the camera.
 
-### E3 · 冰夜屋顶魔法少女激战
+### E4 · 冰夜屋顶魔法少女激战
 
 - Creator: @laviniavelle
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-high-action-sequence-set-on-an-icy-school-rooftop-at-night-ef6584386b8e) · [finished media](https://media.goodcase.ai/cases/e61c8769f607.mp4) · [poster](https://media.goodcase.ai/cases/f110657f948e.jpg) · [original source](https://x.com/laviniavelle/status/2096437174942204277)
@@ -35,7 +44,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Cinematic high-action sequence set on an icy school rooftop at night. A cool anime style female student with light pastel purple short hair, a gray blazer with a blue bow, and a lollipop in her mouth effortlessly dodges attacks using magical ice powers Fast paced camera tracking dynamic fight choreography freezing water mid-air shattering ice structures dramatic rooftop lighting against a dark cityscape sharp ice particle VFX ultra-realistic 8k resolution, 60fps cinematic look.
 
-### E4 · 云端未来文明
+### E5 · 云端未来文明
 
 - Creator: @laviniavelle
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-fantasy-world-built-entirely-above-the-clouds-170fd4f7927d) · [finished media](https://media.goodcase.ai/cases/fbf492cec752.mp4) · [poster](https://media.goodcase.ai/cases/c627e3b36b84.jpg) · [original source](https://x.com/laviniavelle/status/2097622617968751012)
@@ -49,9 +58,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 红瞳女术士巨石摧毁城堡 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/laviniavelle-seedance-ai-2e945550d885) | [Media](https://media.goodcase.ai/cases/2fa159db7ee5.mp4) | [Original](https://x.com/laviniavelle/status/2094262382478737792) | E1 |
-| 茶中蓝焰凤凰唤醒女子战甲飞跃霓虹都市 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-8k-video-sequence-30-seconds-an-elegant-east-asian-woman-in-a-dark-n-a7ec912255dc) | [Media](https://media.goodcase.ai/cases/cb077a8ee481.mp4) | [Original](https://x.com/laviniavelle/status/2107709472944906671) | E2 |
-| 冰夜屋顶魔法少女激战 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-high-action-sequence-set-on-an-icy-school-rooftop-at-night-ef6584386b8e) | [Media](https://media.goodcase.ai/cases/e61c8769f607.mp4) | [Original](https://x.com/laviniavelle/status/2096437174942204277) | E3 |
-| 云端未来文明 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-fantasy-world-built-entirely-above-the-clouds-170fd4f7927d) | [Media](https://media.goodcase.ai/cases/fbf492cec752.mp4) | [Original](https://x.com/laviniavelle/status/2097622617968751012) | E4 |
+| 红发女英雄逃离石像巨人，开启浮岛秘境 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-fantasy-adventure-video-featuring-a-brave-red-haired-heroine-wearin-f5606a6f6186) | [Media](https://media.goodcase.ai/cases/e01476c511ff.mp4) | [Original](https://x.com/laviniavelle/status/2109868479713083637) | E2 |
+| 茶中蓝焰凤凰唤醒女子战甲飞跃霓虹都市 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-8k-video-sequence-30-seconds-an-elegant-east-asian-woman-in-a-dark-n-a7ec912255dc) | [Media](https://media.goodcase.ai/cases/cb077a8ee481.mp4) | [Original](https://x.com/laviniavelle/status/2107709472944906671) | E3 |
+| 冰夜屋顶魔法少女激战 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-high-action-sequence-set-on-an-icy-school-rooftop-at-night-ef6584386b8e) | [Media](https://media.goodcase.ai/cases/e61c8769f607.mp4) | [Original](https://x.com/laviniavelle/status/2096437174942204277) | E4 |
+| 云端未来文明 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-fantasy-world-built-entirely-above-the-clouds-170fd4f7927d) | [Media](https://media.goodcase.ai/cases/fbf492cec752.mp4) | [Original](https://x.com/laviniavelle/status/2097622617968751012) | E5 |
 
 ## Derivation boundary
 

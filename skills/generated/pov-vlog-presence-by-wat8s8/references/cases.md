@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to AIwithkhan. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to AIwithkhan. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -21,7 +21,26 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > After finishing her workout, she drinks water, sits cross-legged on the yoga mat for mindful breathing, smiles peacefully, then returns home. She prepares a fresh st…
 
-### E2 · 韩国女孩的社区健身房日常
+### E2 · 2003年首尔女孩买菜浇花的日常清晨
+
+- Creator: @AIwithkhan
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-korean-home-video-from-around-2003-recorde-ae76b144ae8e) · [finished media](https://media.goodcase.ai/cases/b53391b65a67.mp4) · [poster](https://media.goodcase.ai/cases/38a046136cab.jpg) · [original source](https://x.com/AIwithkhan/status/2110223635667439793)
+- Summary: My kind morning routine 🙂 Made using Seedance 2.5 Prompt : Create a 30-second, ultra-realistic Korean home video from around 2003, recorded casually by a frien…
+- Prompt excerpt:
+
+> Create a 30-second,  ultra-realistic Korean home video from around 2003, recorded casually by a friend on an early-2000s consumer DV camcorder. It must feel like raw personal footage of an ordinary morning, never a professionally directed film.
+>
+> CHARACTER: A young adult Korean woman in her early 20s, natural beauty, realistic skin texture, minimal makeup and long black hair loosely tied in a messy side ponytail. She wears a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and a simple silver necklace. Keep her face, hairstyle, outfit and proportions consistent throughout.
+>
+> STORY: She brushes her teeth in a small bathroom, rinses her face and dries it with a towel. She grabs a reusable shopping bag and leaves home to visit a nearby neighborhood shop. She buys fresh bread and a bottle of milk, then walks back home carrying the groceries.
+>
+> In the kitchen, she places the groceries on the counter and prepares a simple breakfast. She steps onto the balcony, casually waves to a couple of neighbors and waters her potted plants. Some water spills onto the concrete, and she laughs softly before moving a plant into the sunlight.
+>
+> She returns to the kitchen, pours a glass of milk and eats bread near the open window. Before the video ends, she notices her friend filming, smiles naturally, gives a small wave and says, “Have a nice day!”
+>
+> CAMERA & FOOTAGE: Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder. Authentic 4:3 MiniDV recording, handheld shake, imperfect framing, late camera reactions, accidental zooms, autofocu…
+
+### E3 · 韩国女孩的社区健身房日常
 
 - Creator: @AIwithkhan
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16) · [finished media](https://media.goodcase.ai/cases/9f8dfd486cd9.mp4) · [poster](https://media.goodcase.ai/cases/11e9d6612c78.jpg) · [original source](https://x.com/AIwithkhan/status/2104408252670939438)
@@ -44,7 +63,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Camera: Raw early-2000s consumer DV-…
 
-### E3 · 首尔夏夜 Vlog
+### E4 · 首尔夏夜 Vlog
 
 - Creator: @AIwithkhan
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) · [finished media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) · [poster](https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg) · [original source](https://x.com/AIwithkhan/status/2092971211169100048)
@@ -58,8 +77,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 电影感晨间健身日常 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-3bdeb046587d) | [Media](https://media.goodcase.ai/media/video/case-3bdeb046587d.mp4) | [Original](https://x.com/AIwithkhan/status/2081222954659234074) | E1 |
-| 韩国女孩的社区健身房日常 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16) | [Media](https://media.goodcase.ai/cases/9f8dfd486cd9.mp4) | [Original](https://x.com/AIwithkhan/status/2104408252670939438) | E2 |
-| 首尔夏夜 Vlog | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) | [Media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) | [Original](https://x.com/AIwithkhan/status/2092971211169100048) | E3 |
+| 2003年首尔女孩买菜浇花的日常清晨 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-korean-home-video-from-around-2003-recorde-ae76b144ae8e) | [Media](https://media.goodcase.ai/cases/b53391b65a67.mp4) | [Original](https://x.com/AIwithkhan/status/2110223635667439793) | E2 |
+| 韩国女孩的社区健身房日常 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16) | [Media](https://media.goodcase.ai/cases/9f8dfd486cd9.mp4) | [Original](https://x.com/AIwithkhan/status/2104408252670939438) | E3 |
+| 首尔夏夜 Vlog | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/vlog-c8171f712492) | [Media](https://media.goodcase.ai/media/video/vlog-c8171f712492.mp4) | [Original](https://x.com/AIwithkhan/status/2092971211169100048) | E4 |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 34 published Cases across 20 creators.
+This workflow is derived from 39 published Cases across 24 creators.
 
 ## Operating rule
 
@@ -98,7 +98,44 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 构图节奏不同
 > 整体完成度高，适合直接用于电商提案或社交媒体展示
 
-### E6 · 枫糖浆商业广告项目
+### E6 · 高级液态玻璃 Bento 网格产品信息图，含 8 个模块
+
+- Creator: @MansiSanghani1
+- Evidence: [GoodCase](https://goodcase.ai/cases/bento-8-a1c6fd3c7c70) · [finished media](https://media.goodcase.ai/cases/b52ced2fa193.png) · [original source](https://x.com/MansiSanghani1/status/2013550795224961492)
+- Summary: 使用 bento grid 8 模块布局创建信息图，用户可以指定食品、药品、科技等类别中的任何产品名称，选择语言、背景样式和主网格样式。
+- Prompt excerpt:
+
+> Input Variable: [insert product name]
+> Language: [insert language]
+>
+> System Instruction:
+> Create an image of premium liquid glass Bento grid product infographic with 8 modules (card 2 to 8 show text titles only).
+> 1) Product Analysis:
+> → Identify product's dominant natural color → "hero color"
+> → Identify category: FOOD / MEDICINE / TECH
+> 2) Color Palette (derived from hero):
+> → Product + accents: full saturation hero color
+> → Icons, borders: muted hero (30-40% saturation, never black)
+> 3) Visual Style:
+> → Hero product: real photography (authentic, premium), 3D Glass version [choose one]
+> → Cards: Apple liquid glass (85-90% transparent) with Whisper-thin borders and Subtle drop shadow for floating depth and reflecting the background color
+> → Background stays behind cards and high blur where cards are [choose one]:
+>   - Ethereal: product essence, light caustics, abstract glow
+>   - Macro: product texture close-up, heavily blurred
+>   - Pattern: product repeated softly at 10-15% opacity
+>   - Context: relevant environment, blurred + desaturated
+> → Add subtle motion effect
+> → Asymmetric Bento grid, 16:9 landscape
+> → Hero card: 28-30% | Info modules: 70-72%
+> 4) Module Content (8 Cards):
+> M1 — Hero: Product displayed as real photo / 3D glass / stylized interpretation (choose one)in beautiful form + product name label
+> M2 — Core Benefits: 4 unique benefits + hero-color icons
+> M3 — How to Use: 4 usage methods + icons
+> M4 — Key Metrics: 5 EXACT data points
+> Format: [icon] [Label] [Bold Value] [Unit]
+> FOOD: Calories: [X] kcal/100g, Carbs: [X]g (fiber [X]g, sugar [X]g), Protein: [X]g, [Key Vitamin]: [X]mg ([X]% D…
+
+### E7 · 枫糖浆商业广告项目
 
 - Creator: @Strength04_X
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-0ade8f99f80d) · [finished media](https://media.goodcase.ai/cases/ca0e0a2befbc.jpg) · [original source](https://x.com/Strength04_X/status/2096833097740493050)
@@ -151,109 +188,18 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Ultra-realistic food advertising, realistic syrup viscosity, glossy golden texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.
 
-### E7 · 高端披萨商业广告分镜脚本
+### E8 · 奇多零食广告人像
 
-- Creator: @Strength04_X
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-2485fd339050) · [finished media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) · [original source](https://x.com/Strength04_X/status/2094649803682750838)
-- Summary: 一份全面的冷冻食品广告宣传活动分镜脚本提示词，包含详细的摄像机角度和专业的食品摄影风格。
+- Creator: @Sheldon056
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-11020401ca1c) · [finished media](https://media.goodcase.ai/cases/bb3581c70f30.jpg) · [original source](https://x.com/Sheldon056/status/2106587208916566057)
+- Summary: 用于生成一张影棚人像的提示词：人物手持奇多薯片袋微笑，采用鱼眼镜头效果及充满活力的橙色背景。
 - Prompt excerpt:
 
-> TITLE: Premium {argument name="product" default="Frozen Pizza"} Product Commercial Storyboard
->
-> FORMAT:
-> • Single-page premium storyboard
-> • 3:4 Portrait ratio
-> • Cinematic frozen food advertising campaign
-> • 8 completely different product-focused scenes
-> • Product remains the main visual hero
-> • Premium advertising agency presentation
->
-> HEADER:
-> • Bold editorial typography
-> • Information cards:
->   - Duration: {argument name="duration" default="20 Seconds"}
->   - Style: Cinematic Food Commercial
->   - Product: Frozen Pizza
->   - Audio: Oven Crackle + Cheese ASMR
-> • Why This Style Works section
-> • Warm cream, tomato red and golden yellow aesthetic
-> • Minimal pizza-themed decorative details
->
-> STORYBOARD:
-> 1. Frozen pizza box standing upright on a clean kitchen counter, front packaging perfectly visible
-> 2. Pizza being removed from its packaging, showing detailed toppings and cheese
-> 3. Pizza sliding onto a hot oven tray, dramatic close-up of the crust
-> 4. Oven door closing as the pizza begins baking, warm orange oven glow
-> 5. Extreme macro of cheese bubbling and melting across the toppings
-> 6. Freshly baked pizza coming out of the oven with visible steam
-> 7. Pizza cutter slicing through the crispy crust, melted cheese stretching between slices
-> 8. Final hero product shot with the original pizza box beside the finished pizza
->
-> EVERY PANEL:
-> • Scene number
-> • Duration badge
-> • Camera direction
-> • Visual
-> • Action
-> • Product detail
->
-> CAMERA:
-> Overhead food photography, extreme macro, slow-motion cheese melt, low-angle crust shot, controlled push-in, steam close-up, cinematic final packshot.
->
-> STYLE:
-> Ultra-realistic f…
-
-### E8 · 高端零食广告项目
-
-- Creator: @Strength04_X
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) · [finished media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) · [original source](https://x.com/Strength04_X/status/2095782580071411770)
-- Summary: 一份针对脆薯条广告的高度详细的项目提示词，包含电影级产品镜头、高端零食美学以及侧重 ASMR 的场景描述。
-- Prompt excerpt:
-
-> Premium {argument name="snack type" default="Crunchy Potato Sticks"} Product Commercial Storyboard
->
-> FORMAT:
-> • Single-page premium storyboard
-> • 3:4 Portrait ratio
-> • Modern snack food campaign
-> • 8 cinematic product-focused scenes
-> • Product remains the main hero
-> • Premium advertising agency presentation
->
-> HEADER:
-> • Bold contemporary typography
-> • Information cards:
->   - Duration: 20 Seconds
->   - Style: {argument name="commercial style" default="High-End Snack Commercial"}
->   - Product: Crunchy Potato Sticks
->   - Audio: Crisp Crunch + Fast ASMR
-> • Why This Style Works section
-> • {argument name="color palette" default="Golden yellow, cream and black"} aesthetic
-> • Minimal geometric snack-inspired accents
->
-> STORYBOARD:
-> 1. Premium snack tube standing dramatically on a glossy surface
-> 2. Container opening with crunchy potato sticks visible inside
-> 3. Potato sticks cascading out in slow motion
-> 4. Extreme macro revealing ridges, seasoning and crispy surface
-> 5. Seasoning particles floating around the product
-> 6. Several sticks snapping together with tiny crumbs suspended in air
-> 7. Potato sticks arranged in a dramatic circular composition around the package
-> 8. Final hero product shot with the package, overflowing snack sticks and controlled crumb explosion
->
-> EVERY PANEL:
-> • Scene number
-> • Duration badge
-> • Camera direction
-> • Visual
-> • Action
-> • Product detail
->
-> CAMERA:
-> High-speed photography, extreme macro, slow-motion product movement, floating crumb capture, low-angle product shot, dramatic push-in, clean hero framing.
->
-> STYLE:
-> Ultra-realistic snack advertising, incredibly detailed crispy texture, reali…
+> Studio portrait of one smiling person holding a Cheetos Crunchy orange chips bag close to the camera, both the bag and the person’s head in the foreground. Captured with an ultra-wide fisheye lens for a playful, youthful, energetic feel.
+> The model wears a glossy bright orange puffer jacket over a white t-shirt.
+> Background in a vibrant orange gradient with light yellow accents, bold and fun.
+> Soft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.
+> Expressive smile, fun street-commercial aesthetic.
 
 ## Evidence index
 
@@ -264,21 +210,21 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | AI 直出 Logo 集：Triple Cat 三只小猫涂鸦风宠物咖啡馆标志 | Abu | [GoodCase](https://goodcase.ai/cases/ai-logo-triple-cat-7eac3df5199d) | [Media](https://media.goodcase.ai/cases/0bc6c6cf72c0.webp) | [Original](https://www.douyin.com/note/7677943724332400241?gc=logo-triple-cat) | E3 |
 | Arctic Mint Gum 商业摄影 | @komorimedia | [GoodCase](https://goodcase.ai/cases/arctic-mint-gum-debd6203b36e) | [Media](https://media.goodcase.ai/media/image/arctic-mint-gum-debd6203b36e.jpg) | [Original](https://x.com/komorimedia/status/2081430171371094472) | E4 |
 | Batch Product Poster Proposal Generator | @derek_wall90176 | [GoodCase](https://goodcase.ai/cases/batch-product-poster-proposal-generator) | [Media](https://media.goodcase.ai/media/image/batch-product-poster-proposal-generator.jpg) | [Original](https://x.com/derek_wall90176/status/2080480065998192970) | E5 |
-| 枫糖浆商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-0ade8f99f80d) | [Media](https://media.goodcase.ai/cases/ca0e0a2befbc.jpg) | [Original](https://x.com/Strength04_X/status/2096833097740493050) | E6 |
-| 高端披萨商业广告分镜脚本 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2485fd339050) | [Media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) | [Original](https://x.com/Strength04_X/status/2094649803682750838) | E7 |
-| 高端零食广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) | [Media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) | [Original](https://x.com/Strength04_X/status/2095782580071411770) | E8 |
+| 高级液态玻璃 Bento 网格产品信息图，含 8 个模块 | @MansiSanghani1 | [GoodCase](https://goodcase.ai/cases/bento-8-a1c6fd3c7c70) | [Media](https://media.goodcase.ai/cases/b52ced2fa193.png) | [Original](https://x.com/MansiSanghani1/status/2013550795224961492) | E6 |
+| 枫糖浆商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-0ade8f99f80d) | [Media](https://media.goodcase.ai/cases/ca0e0a2befbc.jpg) | [Original](https://x.com/Strength04_X/status/2096833097740493050) | E7 |
+| 奇多零食广告人像 | @Sheldon056 | [GoodCase](https://goodcase.ai/cases/case-11020401ca1c) | [Media](https://media.goodcase.ai/cases/bb3581c70f30.jpg) | [Original](https://x.com/Sheldon056/status/2106587208916566057) | E8 |
+| 产品参考表工作流 | @OlatundeAI | [GoodCase](https://goodcase.ai/cases/case-2440dea2825f) | [Media](https://media.goodcase.ai/cases/e2cd7814e971.jpg) | [Original](https://x.com/OlatundeAI/status/2101379401703116870) | E— |
+| 高端披萨商业广告分镜脚本 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2485fd339050) | [Media](https://media.goodcase.ai/cases/c409f4bfa2df.jpg) | [Original](https://x.com/Strength04_X/status/2094649803682750838) | E— |
+| 高端零食广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-2ed7fbb78b7f) | [Media](https://media.goodcase.ai/cases/f1181f3e4a85.jpg) | [Original](https://x.com/Strength04_X/status/2095782580071411770) | E— |
 | 悬浮美食商业广告活动 | @SimplyAnnisa | [GoodCase](https://goodcase.ai/cases/case-42cc22c8eb26) | [Media](https://media.goodcase.ai/media/image/case-42cc22c8eb26.jpg) | [Original](https://x.com/SimplyAnnisa/status/2077676593284354149) | E— |
 | 专业牛肉塔可产品摄影 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-4c1226bfd0d2) | [Media](https://media.goodcase.ai/cases/8c3e85abe656.jpg) | [Original](https://x.com/Strength04_X/status/2091192289385451787) | E— |
 | 极简主义蓝色香水广告 | @ShamiWeb3 | [GoodCase](https://goodcase.ai/cases/case-5182e7e62bbb) | [Media](https://media.goodcase.ai/media/image/case-5182e7e62bbb.jpg) | [Original](https://x.com/ShamiWeb3/status/2078074982337515555) | E— |
 | 剪贴簿风格韩式美食广告 | @kingofdairyque | [GoodCase](https://goodcase.ai/cases/case-5a706b064073) | [Media](https://media.goodcase.ai/media/image/case-5a706b064073.jpg) | [Original](https://x.com/kingofdairyque/status/2081580288971337797) | E— |
 | 椰子水产品项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6693b0463c5f) | [Media](https://media.goodcase.ai/cases/3a29eacbeaef.jpg) | [Original](https://x.com/Strength04_X/status/2094760813794111843) | E— |
+| 超现实美妆产品卷发筒 | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/case-6ec2162f3f24) | [Media](https://media.goodcase.ai/cases/3f4f4391ff7d.jpg) | [Original](https://x.com/Maddox_Digital/status/2088836197498143054) | E— |
 | 高端意大利面商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-6ed1595b6d70) | [Media](https://media.goodcase.ai/cases/714a09d39d81.jpg) | [Original](https://x.com/Strength04_X/status/2095411329461100949) | E— |
 | 奢侈品集群主提示词 | @zazzygfx | [GoodCase](https://goodcase.ai/cases/case-7098c85a0922) | [Media](https://media.goodcase.ai/media/image/case-7098c85a0922.jpg) | [Original](https://x.com/zazzygfx/status/2079258961417732263) | E— |
-| 高端方便面广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-89ac12ec6d58) | [Media](https://media.goodcase.ai/cases/12214a4b9bd3.jpg) | [Original](https://x.com/Strength04_X/status/2090019696779387173) | E— |
-| 高端酸奶商业广告项目 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/case-9243db8ae17e) | [Media](https://media.goodcase.ai/cases/500ca353eec3.jpg) | [Original](https://x.com/Strength04_X/status/2096204332895261103) | E— |
-| 无需提示词室内电商专用产品一键生图细节无损工作流高清放大 | 北洛 | [GoodCase](https://goodcase.ai/cases/case-9c747054ceeb) | [Media](https://media.goodcase.ai/media/image/case-9c747054ceeb.gif) | [Original](https://www.liblib.art/modelinfo/6b7e46cb84234be5b614d014f6d1a0ed) | E— |
-| 奢华护肤品广告 | @ai__lyra | [GoodCase](https://goodcase.ai/cases/case-9cff1d540398) | [Media](https://media.goodcase.ai/cases/ab36d235045b.jpg) | [Original](https://x.com/ai__lyra/status/2082457952901018006) | E— |
-| 草地山丘上的极简主义产品摄影 | @Maddox_Digital | [GoodCase](https://goodcase.ai/cases/case-9eb937c02956) | [Media](https://media.goodcase.ai/media/image/case-9eb937c02956.jpg) | [Original](https://x.com/Maddox_Digital/status/2077931238674096250) | E— |
+| 奢华巧克力广告静物摄影 | @AiwithLucas_ | [GoodCase](https://goodcase.ai/cases/case-78cda65ecfe0) | [Media](https://media.goodcase.ai/cases/c77443b747ee.jpg) | [Original](https://x.com/AiwithLucas_/status/2089231817916420518) | E— |
 
 ## Derivation boundary
 
