@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 35 published Cases across 4 creators.
+This workflow is derived from 36 published Cases across 5 creators.
 
 ## Operating rule
 
@@ -24,7 +24,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A {argument name="subject" default="romantic digital art scene featuring a couple in silhouette"} standing close together on a {argument name="location" default="rocky shoreline at twilight"}, their bodies forming a heart-shaped space between them that glows with a bright, warm light. In the background, a small, cozy cabin with glowing windows sits atop a rocky island surrounded by dark, reflective water. Above the island, a massive, golden {argument name="event" default="solar eclipse"} dominates the night sky, casting a radiant, ethereal ring of light and shimmering golden reflections across the calm lake surface. The atmosphere is serene, magical, and deeply intimate, with a rich color palette of deep blues, warm ambers, and glowing golden highlights.
 
-### E3 · 加拉塔大桥上渔民的电影剪影
+### E3 · 结合参考图像的科幻电影剧照
+
+- Creator: @Gertywood5
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-69c3e4ebf4ae) · [finished media](https://media.goodcase.ai/cases/ef043d7e1796.png) · [original source](https://x.com/Gertywood5/status/2107715555411247528)
+- Summary: 一个用于生成电影感科幻电影剧照的提示词，利用多张参考图像进行角色定位和风格迁移。适用于基于现有照片创建场景一致性。
+- Prompt excerpt:
+
+> still from a hollywood scifi movie. over the shoulder of the man in image 1. he's on frame left in the foreground. woman from image 2 is on frame right in focus. setting is a different angle of image 3. use image 4 as the influence for the color grade, the lighting, the style, and the film stock type.
+
+### E4 · 加拉塔大桥上渔民的电影剪影
 
 - Creator: @ozansihay
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-d49e624b6918) · [finished media](https://media.goodcase.ai/media/image/case-d49e624b6918.jpg) · [original source](https://x.com/ozansihay/status/2001003144566681621)
@@ -33,7 +42,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A cinematic silhouette shot of local fishermen lining the Galata Bridge in Istanbul during sunset. In the foreground, a weary fisherman leans against the railing, looking at the sea. The background features the hazy, dreamlike silhouette of the Süleymaniye Mosque and seagulls flying over the Golden Horn. Warm orange and deep blue color palette. Shot on Sony A7R IV with Sony FE 85mm f/1.4 GM lens at f/1.8. Atmospheric haze, emotional storytelling, award-winning travel photography.
 
-### E4 · 维伦纽瓦风格：橙色尘暴里的巨型人形废墟雕像
+### E5 · 维伦纽瓦风格：橙色尘暴里的巨型人形废墟雕像
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-0180760ef4f5) · [finished media](https://media.goodcase.ai/cases/647096dcb7de.webp) · [original source](https://www.douyin.com/note/7662696971782366181?gc=02)
@@ -43,7 +52,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > A lone figure in a dark coat walking through the ruins of a vast eroded city massive human statue sculptures weathered to bare silhouettes, broken arms and torsos standing as amber-colored monuments, everything covered in thick radioactive orange dust, the sky is uniform amber with no visible sun light permeates equally from all directions as if the world is suspended in amber, the figure's silhouette nearly dissolving into the orange haze, abandoned ruined Las Vegas aesthetic, Denis Villeneuve Blade Runner 2049 aesthetic, Roger Deakins cinematography style, anamorphic lens, 35mm film grain, atmospheric dust density, desaturated orange-amber monochrome color palette, 8K ultra-detailed dust and surface texture, medium-wide tracking shot, centered composition
 > --chaos 5--ar16:9--raw --stylize 300--weird 5--hd --profile 5yaqzj8
 
-### E5 · 维伦纽瓦风格：粗野主义穹顶里唯一一束光打在一个人身上
+### E6 · 维伦纽瓦风格：粗野主义穹顶里唯一一束光打在一个人身上
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-082b67cb59b7) · [finished media](https://media.goodcase.ai/cases/1118f9a8c44e.webp) · [original source](https://www.douyin.com/note/7662696971782366181?gc=06)
@@ -53,7 +62,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Interior of a massive brutalist concrete dome structure so large that clouds form inside water vapor condensing near the apex creating thin mist floating at mid-height, a single shaft of golden light from a circular oculus at the top shining straight down onto a single tiny human figure standing at the exact center, the figure enveloped in the light beam like a spotlight target, surrounding concrete space stretches endlessly into darkness, monumental architectural scale, Denis Villeneuve film aesthetic, Roger Deakins cinematography style, anamorphic lens, 35mm film grain, volumetric light beam with visible dust particles, desaturated concrete grey and warm gold light contrast, 8K ultra-detailed concrete texture, extreme wide shot from elevated angle, centered symmetrical composition
 > --chaos 5 --ar 16:9 --raw --stylize 300 --weird 5 --hd --profile 5yaqzj8
 
-### E6 · 王家卫视觉：夕阳把整面墙烧成琥珀色
+### E7 · 王家卫视觉：夕阳把整面墙烧成琥珀色
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-0b7968577021) · [finished media](https://media.goodcase.ai/cases/41de22b0fbb8.webp) · [original source](https://www.douyin.com/note/7659293669942732389?gc=07)
@@ -63,7 +72,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Sunset light burning through a window onto an empty wall, the light is intense amber-orange like fire, a single framed photograph on the wall catching the dying light, long shadows stretching across wooden floor, dust illuminated like embers, the room is being consumed by golden fire-light, Wong Kar-wai cinematography, Ashes of Time reference, extreme warm color grade bleeding to desaturation at edges, 35mm anamorphic, heavy grain, apocalyptic beauty
 > --ar 16:9 --chaos 10 --weird 4 --v 8 --stylize 550 --style raw
 
-### E7 · 王家卫视觉：整条街都在动只有她站定
+### E8 · 王家卫视觉：整条街都在动只有她站定
 
 - Creator: 赵一帆_
 - Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-223a4241e73a) · [finished media](https://media.goodcase.ai/cases/c4dc0f97bfb9.webp) · [original source](https://www.douyin.com/note/7659293669942732389?gc=03)
@@ -73,28 +82,19 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > One person standing perfectly still in the center of a blurred crowd rushing past on a neon-lit Tokyo street at night, motion blur streaks of pedestrians and car lights surrounding the sharp still figure, long exposure effect, Wong Kar-wai cinematography, Chungking Express energy, neon magenta and amber color grade, telephoto 85mm lens, 35mm anamorphic, step-printing, the loneliness of being surrounded by everyone
 > --ar 16:9 --chaos 10 --weird 4 --v 8 --stylize 500 --style raw
 
-### E8 · 岩井俊二盛夏感：老杂货铺前的汽水局
-
-- Creator: 赵一帆_
-- Evidence: [GoodCase](https://goodcase.ai/cases/midjourney-243d5283a68d) · [finished media](https://media.goodcase.ai/cases/4f4b8e34bc83.webp) · [original source](https://www.douyin.com/note/7667528024413750757?gc=04)
-- Summary: 两人坐在铺子外的矮箱子上碰汽水瓶,男生呛到强忍笑,旧冰柜和手写价签堆在身后。学怎么用一个笨拙的小动作代替甜蜜台词。 出自抖音创作者赵一帆_「岩井俊二盛夏感」组图第 4 张，Prompt 从图片下方的 Prompt Test 卡片逐字转录。 作者抖音号 _IvanChiu，卡片水印 _IVANCHIU 即作者署名。 其中 --hd 是作者当时使用的旧版参数，新版 Midjourney 可删去。
-- Prompt excerpt:
-
-> Two Chinese teenagers in school uniforms sitting side by side on low crates outside a weathered roadside shop under a faded green awning, cold glass soda bottles covered in condensation, girl pressing her bottle playfully against the boy's hand, boy choking on soda and trying not to laugh, old ice chest and handwritten price signs behind them, humid summer air, soft reflected daylight in shade, candid imperfect moment, gentle 35mm film grain, muted green and pale amber palette
-> --chaos 5 --ar 16:9 --raw --stylize 300 --weird 5 --hd --profile c3ua65m
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 电影感挪威故事世界关键帧 | @insmind_com | [GoodCase](https://goodcase.ai/cases/case-5298acff970e) | [Media](https://media.goodcase.ai/media/image/case-5298acff970e.jpg) | [Original](https://x.com/insmind_com/status/2080284385706991650) | E1 |
 | 浪漫日食海岸剪影 | @churvikv | [GoodCase](https://goodcase.ai/cases/case-59b9154e52d3) | [Media](https://media.goodcase.ai/media/image/case-59b9154e52d3.jpg) | [Original](https://x.com/churvikv/status/2090546825421795662) | E2 |
-| 加拉塔大桥上渔民的电影剪影 | @ozansihay | [GoodCase](https://goodcase.ai/cases/case-d49e624b6918) | [Media](https://media.goodcase.ai/media/image/case-d49e624b6918.jpg) | [Original](https://x.com/ozansihay/status/2001003144566681621) | E3 |
-| 维伦纽瓦风格：橙色尘暴里的巨型人形废墟雕像 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-0180760ef4f5) | [Media](https://media.goodcase.ai/cases/647096dcb7de.webp) | [Original](https://www.douyin.com/note/7662696971782366181?gc=02) | E4 |
-| 维伦纽瓦风格：粗野主义穹顶里唯一一束光打在一个人身上 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-082b67cb59b7) | [Media](https://media.goodcase.ai/cases/1118f9a8c44e.webp) | [Original](https://www.douyin.com/note/7662696971782366181?gc=06) | E5 |
-| 王家卫视觉：夕阳把整面墙烧成琥珀色 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-0b7968577021) | [Media](https://media.goodcase.ai/cases/41de22b0fbb8.webp) | [Original](https://www.douyin.com/note/7659293669942732389?gc=07) | E6 |
-| 王家卫视觉：整条街都在动只有她站定 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-223a4241e73a) | [Media](https://media.goodcase.ai/cases/c4dc0f97bfb9.webp) | [Original](https://www.douyin.com/note/7659293669942732389?gc=03) | E7 |
-| 岩井俊二盛夏感：老杂货铺前的汽水局 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-243d5283a68d) | [Media](https://media.goodcase.ai/cases/4f4b8e34bc83.webp) | [Original](https://www.douyin.com/note/7667528024413750757?gc=04) | E8 |
+| 结合参考图像的科幻电影剧照 | @Gertywood5 | [GoodCase](https://goodcase.ai/cases/case-69c3e4ebf4ae) | [Media](https://media.goodcase.ai/cases/ef043d7e1796.png) | [Original](https://x.com/Gertywood5/status/2107715555411247528) | E3 |
+| 加拉塔大桥上渔民的电影剪影 | @ozansihay | [GoodCase](https://goodcase.ai/cases/case-d49e624b6918) | [Media](https://media.goodcase.ai/media/image/case-d49e624b6918.jpg) | [Original](https://x.com/ozansihay/status/2001003144566681621) | E4 |
+| 维伦纽瓦风格：橙色尘暴里的巨型人形废墟雕像 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-0180760ef4f5) | [Media](https://media.goodcase.ai/cases/647096dcb7de.webp) | [Original](https://www.douyin.com/note/7662696971782366181?gc=02) | E5 |
+| 维伦纽瓦风格：粗野主义穹顶里唯一一束光打在一个人身上 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-082b67cb59b7) | [Media](https://media.goodcase.ai/cases/1118f9a8c44e.webp) | [Original](https://www.douyin.com/note/7662696971782366181?gc=06) | E6 |
+| 王家卫视觉：夕阳把整面墙烧成琥珀色 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-0b7968577021) | [Media](https://media.goodcase.ai/cases/41de22b0fbb8.webp) | [Original](https://www.douyin.com/note/7659293669942732389?gc=07) | E7 |
+| 王家卫视觉：整条街都在动只有她站定 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-223a4241e73a) | [Media](https://media.goodcase.ai/cases/c4dc0f97bfb9.webp) | [Original](https://www.douyin.com/note/7659293669942732389?gc=03) | E8 |
+| 岩井俊二盛夏感：老杂货铺前的汽水局 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-243d5283a68d) | [Media](https://media.goodcase.ai/cases/4f4b8e34bc83.webp) | [Original](https://www.douyin.com/note/7667528024413750757?gc=04) | E— |
 | 岩井俊二盛夏感：雨雾隧道里推车同行的少年 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-27f6bf55be45) | [Media](https://media.goodcase.ai/cases/e5c57cca9285.webp) | [Original](https://www.douyin.com/note/7667528024413750757?gc=05) | E— |
 | 诺兰×维伦纽瓦氛围：太空舱窗口里的巨型台风 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-2ca3a1f2b3f6) | [Media](https://media.goodcase.ai/cases/c23409672ace.webp) | [Original](https://www.douyin.com/note/7662288983381493179?gc=01) | E— |
 | 是枝裕和电影感：凌晨便利店冷柜前犹豫的男人 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-326e7c92ff54) | [Media](https://media.goodcase.ai/cases/a6539b5d5f01.webp) | [Original](https://www.douyin.com/note/7657493484462696827?gc=06) | E— |
@@ -106,7 +106,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 王家卫视觉：暴雨夜里一动不动仰头的人 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-5ca4f369f685) | [Media](https://media.goodcase.ai/cases/b44b118cc1cd.webp) | [Original](https://www.douyin.com/note/7659293669942732389?gc=02) | E— |
 | 岩井俊二盛夏感：蓝色时刻空荡海岸边回头的少女 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-6114becac34e) | [Media](https://media.goodcase.ai/cases/1cfa22c6339f.webp) | [Original](https://www.douyin.com/note/7667528024413750757?gc=01) | E— |
 | 王家卫视觉：黄昏木桌上伸向威士忌的手 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-6203a5506af4) | [Media](https://media.goodcase.ai/cases/e1d51f199575.webp) | [Original](https://www.douyin.com/note/7659293669942732389?gc=04) | E— |
-| 岩井俊二盛夏感：稻田土路上二人骑行 | 赵一帆_ | [GoodCase](https://goodcase.ai/cases/midjourney-63c84a4e8a97) | [Media](https://media.goodcase.ai/cases/1ee6f4f1fef8.webp) | [Original](https://www.douyin.com/note/7667528024413750757?gc=03) | E— |
 
 ## Derivation boundary
 

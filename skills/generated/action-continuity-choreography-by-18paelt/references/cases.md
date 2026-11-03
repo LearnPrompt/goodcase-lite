@@ -1,12 +1,37 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to itsSaira_1. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to itsSaira_1. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 黑衣剑客烈焰横扫暗影兽群
+### E1 · 金甲骑士在废墟教堂中抵御恶魔
+
+- Creator: @itsSaira_1
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-0-3s-opening-shot-low-angle-wide-close-up-of-a-wounded-woman-lying-on-a-crac-da74981b52ae) · [finished media](https://media.goodcase.ai/cases/845e7ff323a0.mp4) · [poster](https://media.goodcase.ai/cases/5c410994d4f4.jpg) · [original source](https://x.com/itsSaira_1/status/2111672000200724504)
+- Summary: “When evil rises, the light stands its ground.✨ Created with Seedance 2.5 Prompt: EXACT VIDEO RECREATION PROMPT — 31 SECONDS 0–3s | Opening shot: Low-angle wide…
+- Prompt excerpt:
+
+> EXACT VIDEO RECREATION PROMPT — 31 SECONDS
+>
+> 0–3s | Opening shot: Low-angle wide close-up of a wounded woman lying on a cracked stone floor inside a ruined Gothic cathedral. Dark horned monsters and twisting tentacles loom in the background. Slow cinematic camera movement.
+>
+> 3–5s | Rising movement: The woman pushes herself up from the floor, raising one arm as a bright white magical blade of light forms in her hand. Medium shot, smooth upward camera movement.
+>
+> 5–7s | Magical activation: She kneels and grips the vertical white energy blade touching the floor. A brilliant golden circular rune spreads beneath her, illuminating the stone floor. Low wide shot.
+>
+> 7–10s | Cathedral reveal: Camera tilts sharply upward, revealing towering broken Gothic arches, a shattered roof, moonlit clouds and dark creatures silhouetted above. Transition to the golden-armored warrior emerging through red smoke.
+>
+> 10–12s | Helmet close-up: Tight frontal close-up of a fully enclosed dark metal knight helmet, narrow black eye slit, engraved steel plates. Slow camera push-in.
+>
+> 12–15s | Golden knight reveal: Cut to a heroic low-angle shot of a knight wearing ornate gold-and-silver armor, carrying a large shield with a glowing golden sun emblem and a heavy war hammer. He stands inside the ruined cathedral.
+>
+> 15–18s | First magical attack: The knight raises his shield and releases an intense white-gold energy blast. Bright light fills the frame. Camera tracks the blast, with sparks and magical particles.
+>
+> 18–20s | Energy impact: The white magical blast expands into a brilliant screen-filling flash. Strong bl…
+
+### E2 · 黑衣剑客烈焰横扫暗影兽群
 
 - Creator: @itsSaira_1
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9) · [finished media](https://media.goodcase.ai/cases/c49cb4626203.mp4) · [poster](https://media.goodcase.ai/cases/6304957c914f.jpg) · [original source](https://x.com/itsSaira_1/status/2099006619988459985)
@@ -20,7 +45,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > #aicreater
 > #seedance25
 
-### E2 · 未来公路上的机车与超跑追逐
+### E3 · 未来公路上的机车与超跑追逐
 
 - Creator: @itsSaira_1
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea) · [finished media](https://media.goodcase.ai/cases/750a092b1670.mp4) · [poster](https://media.goodcase.ai/cases/1917351d85cd.jpg) · [original source](https://x.com/itsSaira_1/status/2104064261005709551)
@@ -49,7 +74,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Negative prompt: blurry, low quality, distorted proportions, extra limbs, deformed hands, warped motorcycle frame, flickering lights, inconsistent lighting, cartoonish, low-…
 
-### E3 · 末日公路女骑士逃离外星战舰
+### E4 · 末日公路女骑士逃离外星战舰
 
 - Creator: @itsSaira_1
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152) · [finished media](https://media.goodcase.ai/cases/d7ba735094ad.mp4) · [poster](https://media.goodcase.ai/cases/b48c78c785ba.jpg) · [original source](https://x.com/itsSaira_1/status/2104789066562547945)
@@ -71,7 +96,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 11 (24-26s): Driver POV down the highway, collapsed overpass and debris ahead, lone black car in the lane.
 > 12 (27-28s): Wide side shot, bike launch…
 
-### E4 · 少女以异能摧毁坦克军团
+### E5 · 少女以异能摧毁坦克军团
 
 - Creator: @itsSaira_1
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05) · [finished media](https://media.goodcase.ai/cases/e90172ccddd5.mp4) · [poster](https://media.goodcase.ai/cases/e28bdc9038b1.jpg) · [original source](https://x.com/itsSaira_1/status/2101205826895827053)
@@ -108,10 +133,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 黑衣剑客烈焰横扫暗影兽群 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9) | [Media](https://media.goodcase.ai/cases/c49cb4626203.mp4) | [Original](https://x.com/itsSaira_1/status/2099006619988459985) | E1 |
-| 未来公路上的机车与超跑追逐 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea) | [Media](https://media.goodcase.ai/cases/750a092b1670.mp4) | [Original](https://x.com/itsSaira_1/status/2104064261005709551) | E2 |
-| 末日公路女骑士逃离外星战舰 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152) | [Media](https://media.goodcase.ai/cases/d7ba735094ad.mp4) | [Original](https://x.com/itsSaira_1/status/2104789066562547945) | E3 |
-| 少女以异能摧毁坦克军团 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05) | [Media](https://media.goodcase.ai/cases/e90172ccddd5.mp4) | [Original](https://x.com/itsSaira_1/status/2101205826895827053) | E4 |
+| 金甲骑士在废墟教堂中抵御恶魔 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-0-3s-opening-shot-low-angle-wide-close-up-of-a-wounded-woman-lying-on-a-crac-da74981b52ae) | [Media](https://media.goodcase.ai/cases/845e7ff323a0.mp4) | [Original](https://x.com/itsSaira_1/status/2111672000200724504) | E1 |
+| 黑衣剑客烈焰横扫暗影兽群 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9) | [Media](https://media.goodcase.ai/cases/c49cb4626203.mp4) | [Original](https://x.com/itsSaira_1/status/2099006619988459985) | E2 |
+| 未来公路上的机车与超跑追逐 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea) | [Media](https://media.goodcase.ai/cases/750a092b1670.mp4) | [Original](https://x.com/itsSaira_1/status/2104064261005709551) | E3 |
+| 末日公路女骑士逃离外星战舰 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152) | [Media](https://media.goodcase.ai/cases/d7ba735094ad.mp4) | [Original](https://x.com/itsSaira_1/status/2104789066562547945) | E4 |
+| 少女以异能摧毁坦克军团 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05) | [Media](https://media.goodcase.ai/cases/e90172ccddd5.mp4) | [Original](https://x.com/itsSaira_1/status/2101205826895827053) | E5 |
 
 ## Derivation boundary
 

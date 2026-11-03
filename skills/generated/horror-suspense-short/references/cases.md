@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 36 published Cases across 18 creators.
+This workflow is derived from 42 published Cases across 22 creators.
 
 ## Operating rule
 
@@ -92,7 +92,30 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 2–5s: On the bass hit, he punches the mirror. Time shifts to extreme slow motion at the moment of impact. The glass cracks in a radial spiderweb pattern from his fist outward. Each crack emits a thin line of white light. Macro detail: his knuckles pressing into the fracture point, glass beginning to separate, light bleeding through. The shards start to lift outward toward the camera, each one containing a different version of his reflection — one laughing, one screaming, one calm, one looking away. Bass reverberates with a metallic distortion.
 > 5–9s: The music drives forward. He steps through the broken mirror frame into a mirrored void — infinite reflections of himself stretching in every direction. Camera pulls back into an extreme wide shot revealing thousands of copies. He walks forward, each copy mirroring his movement but one beat delayed, creating a cascading wave effect. Camera tracks alongside him in a smooth lateral dol…
 
-### E5 · 末日韩式天台恐怖片
+### E5 · 韩国惊悚片电梯恐怖续写提示词
+
+- Creator: @navi_Ai2
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-5be984665a55) · [finished media](https://media.goodcase.ai/cases/3740eeb93988.mp4) · [poster](https://media.goodcase.ai/cases/bd59842ddacc.jpg) · [original source](https://x.com/navi_Ai2/status/2115811148796678209)
+- Summary: 使用 Seedance 2.5 生成的悬疑续写提示词，讲述一名男子在电梯中通过手机屏幕看到自己分身（doppelganger）的韩国真人惊悚故事。
+- Prompt excerpt:
+
+> Create an original 30-second continuation of Part 1, in 16:9 widescreen, 4K photorealistic Korean live-action thriller.
+>
+> Continue from the exact final frame of Part 1. Use the same Korean man, identical face, hairstyle, dark jacket, backpack, and apartment building.
+>
+> 0–8 seconds: He enters the dark elevator and shines his phone flashlight around. The walls are covered with handwritten notes bearing tomorrow's date. One note reads, “You never left.”
+>
+> 8–16 seconds: His phone suddenly displays live footage of the corridor. In the video, another version of him stands directly behind him. He turns around immediately, but the real corridor is empty.
+>
+> 16–23 seconds: The phone screen glitches. His double moves close to the camera and whispers, “You're watching the wrong side.” The screen goes black, leaving only his reflection.
+>
+> 23–30 seconds: In the dark phone screen, his reflection begins smiling while he remains terrified. The reflection slowly raises its hand and points behind him. He hears a metallic click and turns sharply. The elevator doors begin closing, but a smiling version of him is visible in the narrowing gap. Cut to black with a final heavy metallic sound.
+>
+> Ultra-realistic Korean cinema, consistent character identity, natural acting, suspenseful pacing, detailed environments, realistic reflections, cinematic lighting, and professional sound design.
+>
+> No existing movie references, no copyrighted characters, no logos, no watermarks, no random transitions, no distorted anatomy. Exactly 30 seconds, horizontal 16:9.
+
+### E6 · 末日韩式天台恐怖片
 
 - Creator: @doctorwasif
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-b529ffbdfd9a) · [finished media](https://media.goodcase.ai/cases/f957750571e1.mp4) · [poster](https://media.goodcase.ai/cases/eaeddab55dea.jpg) · [original source](https://x.com/doctorwasif/status/2090305873373810874)
@@ -112,7 +135,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 11. 12.6–14s: She grabs railing inches behind him; he slips toward stairwell.
 > 12. 14–15s: Stairwell door slams shut; she crashes against it snarling beneath flickering lights. Realistic Korean rooftop horror, cinematic handheld camera, intense motion blur.
 
-### E6 · 消散的绳索吊桥峡谷
+### E7 · 消散的绳索吊桥峡谷
 
 - Creator: @zyvaoz
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-f46706b10233) · [finished media](https://media.goodcase.ai/media/video/case-f46706b10233.mp4) · [poster](https://media.goodcase.ai/media/poster/case-f46706b10233.jpg) · [original source](https://x.com/zyvaoz/status/2081398750996746385)
@@ -136,7 +159,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silence.
 
-### E7 · 列车车厢丧尸感染爆发
+### E8 · 列车车厢丧尸感染爆发
 
 - Creator: @doctorwasif
 - Evidence: [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) · [finished media](https://media.goodcase.ai/cases/6af197589643.mp4) · [poster](https://media.goodcase.ai/cases/068a44904e52.jpg) · [original source](https://x.com/doctorwasif/status/2093550743945105687)
@@ -173,18 +196,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 27.5–30s: Survivors slam the next door shut and stare in horror as the infe…
 
-### E8 · 午夜电梯里的镜像追猎
-
-- Creator: @saniaspeaks_
-- Evidence: [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136) · [finished media](https://media.goodcase.ai/media/video/saniaspeaks-seedance-ai-575658372136.mp4) · [poster](https://media.goodcase.ai/media/poster/saniaspeaks-seedance-ai-575658372136.jpg) · [original source](https://x.com/saniaspeaks_/status/2091483449815126134)
-- Summary: Made with seedance 2.5 Prompt: Create a highly realistic cinematic horror sequence set inside a quiet apartment building
-- Prompt excerpt:
-
-> Create a highly realistic cinematic horror sequence set inside a quiet apartment building late at night. A young woman enters an empty elevator alone, wearing simple casual clothes, with natural realistic facial features and subtle nervous expressions. The elevator moves strangely, stopping at several floors. Every time the doors open, the exact same long, empty apartment corridor appears outside, dimly lit by flickering ceiling lights. She becomes increasingly confused and frightened, repeatedly pressing the elevator buttons and looking down the corridor.
-> On the final stop, the elevator doors slowly slide open. At the far end of the corridor stands another young woman who looks exactly identical to her, motionless and staring directly at her. The atmosphere becomes completely silent. The woman inside the elevator slowly steps forward, unable to understand what she is seeing. The identical woman suddenly tilts her head at an unnatural angle and takes one slow step toward her.
-> Without warning, the corridor woman violently charges toward her with extremely fast, unnatural movement. The original woman screams and tries to retreat into the elevator, but the other woman tackles her and both fall to the floor. The corridor woman grabs her and aggressively drags her backward across the floor while the original woman desperately tries to hold onto the elevator doorway. The elevator lights flicker rapidly, casting harsh moving shadows across both faces.
-> The original woman manages to reach one hand toward the elevator control panel, desperately trying to press the door-close button.…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -193,22 +204,22 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 丧尸列车爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/case-3b1796c66ab4) | [Media](https://media.goodcase.ai/media/video/case-3b1796c66ab4.mp4) | [Original](https://x.com/doctorwasif/status/2094285140247896553) | E2 |
 | 末日幸存者与感染犬 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-44b9dbf5729c) | [Media](https://media.goodcase.ai/media/video/case-44b9dbf5729c.mp4) | [Original](https://x.com/AIwithkhan/status/2095351192054595892) | E3 |
 | 暗黑超现实镜面反射恐怖短片 | @Nexustechai1 | [GoodCase](https://goodcase.ai/cases/case-50692082320d) | [Media](https://media.goodcase.ai/media/video/case-50692082320d.mp4) | [Original](https://x.com/Nexustechai1/status/2081527386508611807) | E4 |
-| 末日韩式天台恐怖片 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/case-b529ffbdfd9a) | [Media](https://media.goodcase.ai/cases/f957750571e1.mp4) | [Original](https://x.com/doctorwasif/status/2090305873373810874) | E5 |
-| 消散的绳索吊桥峡谷 | @zyvaoz | [GoodCase](https://goodcase.ai/cases/case-f46706b10233) | [Media](https://media.goodcase.ai/media/video/case-f46706b10233.mp4) | [Original](https://x.com/zyvaoz/status/2081398750996746385) | E6 |
-| 列车车厢丧尸感染爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) | [Media](https://media.goodcase.ai/cases/6af197589643.mp4) | [Original](https://x.com/doctorwasif/status/2093550743945105687) | E7 |
-| 午夜电梯里的镜像追猎 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136) | [Media](https://media.goodcase.ai/media/video/saniaspeaks-seedance-ai-575658372136.mp4) | [Original](https://x.com/saniaspeaks_/status/2091483449815126134) | E8 |
+| 韩国惊悚片电梯恐怖续写提示词 | @navi_Ai2 | [GoodCase](https://goodcase.ai/cases/case-5be984665a55) | [Media](https://media.goodcase.ai/cases/3740eeb93988.mp4) | [Original](https://x.com/navi_Ai2/status/2115811148796678209) | E5 |
+| 末日韩式天台恐怖片 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/case-b529ffbdfd9a) | [Media](https://media.goodcase.ai/cases/f957750571e1.mp4) | [Original](https://x.com/doctorwasif/status/2090305873373810874) | E6 |
+| 消散的绳索吊桥峡谷 | @zyvaoz | [GoodCase](https://goodcase.ai/cases/case-f46706b10233) | [Media](https://media.goodcase.ai/media/video/case-f46706b10233.mp4) | [Original](https://x.com/zyvaoz/status/2081398750996746385) | E7 |
+| 列车车厢丧尸感染爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) | [Media](https://media.goodcase.ai/cases/6af197589643.mp4) | [Original](https://x.com/doctorwasif/status/2093550743945105687) | E8 |
+| 午夜电梯里的镜像追猎 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136) | [Media](https://media.goodcase.ai/media/video/saniaspeaks-seedance-ai-575658372136.mp4) | [Original](https://x.com/saniaspeaks_/status/2091483449815126134) | E— |
 | 夜班列车感染爆发实录 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b) | [Media](https://media.goodcase.ai/cases/8ee95ce14625.mp4) | [Original](https://x.com/doctorwasif/status/2098639106712784933) | E— |
+| 雨夜门廊上的诡异南瓜灯与惊恐男子 | @nawalsehar | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-terrifying-halloween-night-unfolds-on-a-rain-soaked-wooden-porch-where-a-rea-1d5d12feaa79) | [Media](https://media.goodcase.ai/cases/73c176774b2b.mp4) | [Original](https://x.com/nawalsehar/status/2115022630004851185) | E— |
 | 黄昏郊区街头的感染突袭与邻里反击 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e) | [Media](https://media.goodcase.ai/cases/8f39846baced.mp4) | [Original](https://x.com/auqibhabib/status/2107346452494381298) | E— |
 | 夜间演唱会丧尸暴发，吉他手护队友脱险 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-set-at-an-outdoor-music-concert-at-night-op-5b999d32c341) | [Media](https://media.goodcase.ai/cases/2d203b4f7090.mp4) | [Original](https://x.com/auqibhabib/status/2108459477649543194) | E— |
+| 女子在列车内抱紧幼犬，窗外丧尸围城 | @john_my07 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-1080p-ultra-realistic-live-action-zombie-apocalypse-video-8c4af4550666) | [Media](https://media.goodcase.ai/cases/f7512c056812.mp4) | [Original](https://x.com/john_my07/status/2110365712560902198) | E— |
+| 暮色中的英式豪宅区遭丧尸围困 | @JuliaClarky | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-aaa-quality-cinematic-zombie-apocalypse-gam-0a75029b0a3d) | [Media](https://media.goodcase.ai/cases/fb6ddf54d317.mp4) | [Original](https://x.com/JuliaClarky/status/2116066465379922312) | E— |
 | 大学实验室感染失控，学生变成丧尸 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd) | [Media](https://media.goodcase.ai/cases/dbdca4f6279f.mp4) | [Original](https://x.com/AIwithSynthia/status/2106955772395659431) | E— |
+| 黑裙女子在鬼村遭南瓜怪物追逐 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-halloween-horror-video-starring-a-beautiful-young-adu-26616ed017f9) | [Media](https://media.goodcase.ai/cases/9e234fe10127.mp4) | [Original](https://x.com/AIwithSynthia/status/2115064426315530749) | E— |
 | 深夜电梯中的丧尸镜像与女子逃生 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) | [Media](https://media.goodcase.ai/cases/be3c091a914d.mp4) | [Original](https://x.com/AIwithSynthia/status/2105862212422074725) | E— |
+| 粉发女子在午夜公路爆炸前从容走来 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1) | [Media](https://media.goodcase.ai/cases/47b3836c7b6b.mp4) | [Original](https://x.com/Just_sharon7/status/2110990656105807984) | E— |
 | 韩屋烛影驱邪仪式 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) | [Media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) | [Original](https://x.com/doctorwasif/status/2097533759944090052) | E— |
-| 少女携信穿越镜像威尼斯 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-dynamic-action-video-prompt-visual-surrealism-a-young-east-asian-wo-c6db1f2d25e4) | [Media](https://media.goodcase.ai/cases/91fdbf2add37.mp4) | [Original](https://x.com/laviniavelle/status/2101881835290845251) | E— |
-| 深夜药店的扭曲异变 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-a-girl-enters-a-small-late-night-medical-drug-store-holding-a-prescription-tir-dc48c521bdae) | [Media](https://media.goodcase.ai/cases/e9696f2750ae.mp4) | [Original](https://x.com/AIwithkhan/status/2101329280651391384) | E— |
-| 飞踢转场奔向午夜机车 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-bedroom-chaos-turns-into-midnight-confidence-with-a-seamless-transition-that-hi-641d5d0012fa) | [Media](https://media.goodcase.ai/cases/435be5073dcc.mp4) | [Original](https://x.com/Just_sharon7/status/2099332819768291755) | E— |
-| 日本公路巴士感染者突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) | [Media](https://media.goodcase.ai/cases/167033959b74.mp4) | [Original](https://x.com/auqibhabib/status/2102265619416768799) | E— |
-| 实验室寄生体感染突袭 | @auqibhabib | [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) | [Media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) | [Original](https://x.com/auqibhabib/status/2099725768310009982) | E— |
-| 韩屋驱邪仪式后的未尽阴影 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) | [Media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) | [Original](https://x.com/AIwithSynthia/status/2099836457430974932) | E— |
 
 ## Derivation boundary
 

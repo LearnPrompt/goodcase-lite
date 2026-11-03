@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 6 published Cases attributed to AIwithSynthia. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 7 published Cases attributed to AIwithSynthia. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -21,7 +21,27 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > The other students freeze before scrambling toward the laboratory exit. The infected woman suddenly becomes completely still, then slowly rotates her head toward them. Her dark veins pulse visibly across her face while her black eyes remai…
 
-### E2 · 深夜电梯中的丧尸镜像与女子逃生
+### E2 · 黑裙女子在鬼村遭南瓜怪物追逐
+
+- Creator: @AIwithSynthia
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-halloween-horror-video-starring-a-beautiful-young-adu-26616ed017f9) · [finished media](https://media.goodcase.ai/cases/9e234fe10127.mp4) · [poster](https://media.goodcase.ai/cases/219492cd886b.jpg) · [original source](https://x.com/AIwithSynthia/status/2115064426315530749)
+- Summary: The Girl Who Awakened the Halloween Curse 🎃 Made using Seedance 2.5 on @CuddlerAI #CuddlerHalloween #Cuddler #CuddlerPartner Prompt : Create an ultra-realistic…
+- Prompt excerpt:
+
+> Create an ultra-realistic Halloween horror video starring a beautiful young adult woman in a fitted black dress and black boots.
+> She walks through a haunted village at midnight, surrounded by glowing jack-o'-lanterns, twisted trees, and thick fog.
+> She discovers a giant black pumpkin beside an abandoned house and cautiously touches its surface.
+> Its eyes suddenly glow orange as every pumpkin around her turns toward her.
+> Black smoke erupts from the ground, and a terrifying pumpkin-headed monster rises behind her.
+> She turns around in terror and runs through the creepy pumpkin-lined pathway.
+> Bats swarm overhead, candles flicker, and ghostly shadows chase her through the fog.
+> She stumbles and discovers the enormous monster standing directly behind her.
+> The creature opens its jagged mouth and lunges toward the camera for a terrifying jump scare.
+> Use cinematic tracking shots, realistic facial expressions, detailed pumpkins, dramatic orange lighting, and volumetric fog.
+> Maintain consistent character appearance, natural movement, escalating suspense, and AAA live-action horror realism.
+> No cartoon, anime, or stylized animation.
+
+### E3 · 深夜电梯中的丧尸镜像与女子逃生
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) · [finished media](https://media.goodcase.ai/cases/be3c091a914d.mp4) · [poster](https://media.goodcase.ai/cases/22c428f45089.jpg) · [original source](https://x.com/AIwithSynthia/status/2105862212422074725)
@@ -34,7 +54,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Negative prompt: Cartoon, anime, stylized CGI, exaggerated gore, distorted anatomy, extra limbs, inconsistent face, unrealistic reflections, floating objects, text, subtitles, watermark.
 
-### E3 · 韩屋驱邪仪式后的未尽阴影
+### E4 · 韩屋驱邪仪式后的未尽阴影
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) · [finished media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) · [poster](https://media.goodcase.ai/cases/5feefb17c82d.jpg) · [original source](https://x.com/AIwithSynthia/status/2099836457430974932)
@@ -47,7 +67,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > End with a wide aftermath shot showing scattered salt, burnt talismans, melted candles, incense smoke, and ritual objects across the floor. Everything appears finished until one untouched talisman begins releasing a faint trail of dark smoke. The camera slowly moves toward it, leaving the supernatural threat unresolved. Realistic Korean folk horror, cinematic lighting, deep shadows, practical fire and smoke, dramatic camera movement, natural acting and sound design, no gore, no subtitles, no watermark, no anime or ca…
 
-### E4 · 实验室寄生感染危机
+### E5 · 实验室寄生感染危机
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) · [finished media](https://media.goodcase.ai/cases/55154fddc144.mp4) · [poster](https://media.goodcase.ai/cases/a0d17a9bf535.jpg) · [original source](https://x.com/AIwithSynthia/status/2101161634022474024)
@@ -60,7 +80,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > She repeatedly strikes the glass while staring directly at him, her completely black eyes and pulsing dark veins clearly visible. Two mo…
 
-### E5 · 昏暗公厕里的双感染者追袭
+### E6 · 昏暗公厕里的双感染者追袭
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921) · [finished media](https://media.goodcase.ai/cases/3952e2969101.mp4) · [poster](https://media.goodcase.ai/cases/4b9a684c1b94.jpg) · [original source](https://x.com/AIwithSynthia/status/2103091393145282775)
@@ -77,7 +97,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Style: photorealistic Korean zombie horror, claustrophobic tiled washroom, wet surfaces, cold fluorescent lighting, realistic skin, dark veins, terrifying eyes, unnatural but believable movements, handheld camera, practical-effects feel, natural reactions, no gore, no graphic injuries, no CGI look, no morphing, no duplicate characters, no distorted anatomy, no subtitles, no text, no watermark.
 
-### E6 · 夜行卧铺列车感染惊魂
+### E7 · 夜行卧铺列车感染惊魂
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) · [finished media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) · [poster](https://media.goodcase.ai/cases/86a341e46f5f.jpg) · [original source](https://x.com/AIwithSynthia/status/2100803982197502368)
@@ -95,11 +115,12 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 大学实验室感染失控，学生变成丧尸 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd) | [Media](https://media.goodcase.ai/cases/dbdca4f6279f.mp4) | [Original](https://x.com/AIwithSynthia/status/2106955772395659431) | E1 |
-| 深夜电梯中的丧尸镜像与女子逃生 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) | [Media](https://media.goodcase.ai/cases/be3c091a914d.mp4) | [Original](https://x.com/AIwithSynthia/status/2105862212422074725) | E2 |
-| 韩屋驱邪仪式后的未尽阴影 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) | [Media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) | [Original](https://x.com/AIwithSynthia/status/2099836457430974932) | E3 |
-| 实验室寄生感染危机 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) | [Media](https://media.goodcase.ai/cases/55154fddc144.mp4) | [Original](https://x.com/AIwithSynthia/status/2101161634022474024) | E4 |
-| 昏暗公厕里的双感染者追袭 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921) | [Media](https://media.goodcase.ai/cases/3952e2969101.mp4) | [Original](https://x.com/AIwithSynthia/status/2103091393145282775) | E5 |
-| 夜行卧铺列车感染惊魂 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) | [Media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) | [Original](https://x.com/AIwithSynthia/status/2100803982197502368) | E6 |
+| 黑裙女子在鬼村遭南瓜怪物追逐 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-halloween-horror-video-starring-a-beautiful-young-adu-26616ed017f9) | [Media](https://media.goodcase.ai/cases/9e234fe10127.mp4) | [Original](https://x.com/AIwithSynthia/status/2115064426315530749) | E2 |
+| 深夜电梯中的丧尸镜像与女子逃生 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) | [Media](https://media.goodcase.ai/cases/be3c091a914d.mp4) | [Original](https://x.com/AIwithSynthia/status/2105862212422074725) | E3 |
+| 韩屋驱邪仪式后的未尽阴影 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) | [Media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) | [Original](https://x.com/AIwithSynthia/status/2099836457430974932) | E4 |
+| 实验室寄生感染危机 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) | [Media](https://media.goodcase.ai/cases/55154fddc144.mp4) | [Original](https://x.com/AIwithSynthia/status/2101161634022474024) | E5 |
+| 昏暗公厕里的双感染者追袭 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921) | [Media](https://media.goodcase.ai/cases/3952e2969101.mp4) | [Original](https://x.com/AIwithSynthia/status/2103091393145282775) | E6 |
+| 夜行卧铺列车感染惊魂 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) | [Media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) | [Original](https://x.com/AIwithSynthia/status/2100803982197502368) | E7 |
 
 ## Derivation boundary
 

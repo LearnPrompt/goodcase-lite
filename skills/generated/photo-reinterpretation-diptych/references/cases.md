@@ -1,12 +1,37 @@
 # Case evidence
 
-This workflow is derived from 10 published Cases across 7 creators.
+This workflow is derived from 13 published Cases across 9 creators.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 复杂四象限纸上世界复合提示
+### E1 · 原照与暖光皮影上下对照海报
+
+- Creator: @daaihq
+- Evidence: [GoodCase](https://goodcase.ai/cases/3-4-1-1-50-a75849d424e7) · [finished media](https://media.goodcase.ai/cases/03b63d852f40.jpg) · [original source](https://x.com/daaihq/status/2112897710147977271)
+- Summary: 这套剪纸风格很不错 调了好久才找到感觉☺️ 提示词👇
+- Prompt excerpt:
+
+> 请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用 3:4 竖版构图，上下两个区域高度严格 1:1，各占画面 50%。
+>
+> 上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影与原有色彩氛围，仅进行轻微高级调色，使其具有艺术摄影与东方展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。
+>
+> 下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，重构为一具**中国传统皮影戏偶 / shadow puppet**，在一面被暖光照亮的半透明宣纸幕布上演出。无论原图是人物、动物、建筑、植物、器物还是风景，都被理解为一个“可以被操纵的角色”：主体被拆分为少量关节部件，以铆钉相连，姿态取自原照片中最有表情的那个瞬间，并配有一两根细长的操纵竹签自画面下方伸入。
+>
+> 不要写实描绘，不要卡通化，而是用皮影的造型语法重新概括：侧面化、平面化、装饰性镂空、云纹与几何雕刻纹样、局部的半透明彩染。保留原物最具识别度的特征，使观者一眼认出，同时感到它被一位老手艺人重新理解和雕刻过。
+>
+> 光影是这件作品的灵魂：幕布后方一盏暖色灯光，使皮影的镂空处透出温暖光点，彩染部分呈现半透明的朱红、靛青、橄榄绿与琥珀黄，皮影边缘带有柔和的投影虚边和轻微光晕，仿佛正在缓慢移动。可以有极轻微的双影或动态虚影，表现戏偶正在演出的一瞬间。
+>
+> 构图以**一幕一偶 + 大量留白**为核心。幕布是一片温暖的米黄或浅琥珀色光场，四周自然暗下，主体只占画面约25%–35%，可偏心或位于黄金分割位置，其余空间保持安静，像戏开场前的停顿。不出现观众、舞台全景或复杂道具。
+>
+> 配色从上方照片中提取 2–3 种最具情绪价值的颜色，转译为皮影彩染的半透明色，与暖灯光场统一；阴影使用深褐与暖墨色，而不是冷黑。
+>
+> 文字少量介入，可以竖排小字的方式写一个“戏名”或一句短句，像戏班手写的节目单，安静落在幕布一角，不限制语种。
+>
+> 整体呈现**皮影镂刻、半透明彩染、暖灯幕布、柔和投影与东方留白**共同构成的光影视觉。核心原则是：把照片里的主角请上幕布，让它用一个姿态演完一整出戏。避免完整写实、满场景堆砌、廉价国潮、塑料质感、3D渲染、卡通感和模板化海报。
+
+### E2 · 复杂四象限纸上世界复合提示
 
 - Creator: @0x00_Krypt
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-5a37ec622965) · [finished media](https://media.goodcase.ai/media/image/case-5a37ec622965.jpg) · [original source](https://x.com/0x00_Krypt/status/2002320422046724291)
@@ -26,7 +51,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > **Lighting:** Soft, even studio lighting revealing the depth of the paper cuts.
 > **Tech:** Octane render, 8k, --ar 16:9 --stylize 400 --no borders, frames, background wall, isolated objects, 3d plastic, seamless texture
 
-### E2 · 手工线艺可视化地图
+### E3 · 手工线艺可视化地图
 
 - Creator: @xiaoxiaodong01
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-cdaaabdc9f7f) · [finished media](https://media.goodcase.ai/cases/1fddd5e73701.jpg) · [original source](https://x.com/xiaoxiaodong01/status/2093543076367389130)
@@ -52,7 +77,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 😌🥲😘
 
-### E3 · 原景照片与纸上手绘的上下对照封面
+### E4 · 原景照片与纸上手绘的上下对照封面
 
 - Creator: @harboriis
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-2-5-create-one-independent-high-end-editorial-poster-for-each-uploaded-photo-0f4da33ca46e) · [finished media](https://media.goodcase.ai/cases/04ba7bc46882.jpg) · [original source](https://x.com/harboriis/status/2107346549542203400)
@@ -80,7 +105,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > TYPOGRAPHY
 > Optional minimal editorial text only when appropriate, such as a short title, keyword, location, o…
 
-### E4 · 照片与剪纸重构的双联编辑海报
+### E5 · 照片与剪纸重构的双联编辑海报
 
 - Creator: @Maercihh
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-gpt-image-2-0-on-chatgpt-9e41be11645d) · [finished media](https://media.goodcase.ai/cases/f0229d607d52.jpg) · [original source](https://x.com/Maercihh/status/2100894656162926689)
@@ -110,7 +135,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > COLOR & MATERIAL
 > Extract the most distinctive and recognizable colors from the o…
 
-### E5 · 照片与图解双联海报
+### E6 · 照片与图解双联海报
 
 - Creator: @Sairah_0
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-please-create-a-separate-independently-designed-premium-poster-from-each-uploa-a4750dc40de5) · [finished media](https://media.goodcase.ai/cases/458f3937d0b1.jpg) · [original source](https://x.com/Sairah_0/status/2105177817688539320)
@@ -129,7 +154,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Emphasize economy of line: if a structure can be explained with a single line, do not use unnecessary st…
 
-### E6 · 原景与复古网点重构
+### E7 · 原景与复古网点重构
 
 - Creator: @theanu_Sayss
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-use-each-uploaded-image-as-the-only-visual-source-create-one-independent-poster-be07b4861636) · [finished media](https://media.goodcase.ai/cases/060d08069b9a.jpg) · [original source](https://x.com/theanu_Sayss/status/2098459664140652850)
@@ -138,7 +163,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Use each uploaded image as the only visual source.Create one independent poster per upload and output each separately.Never combine images.Role:You are an art director skilled in vintage offset print,comic halftones,pop posters,and magazine-style visual distillation. Design a vertical 3:4 print-quality diptych poster with an editorial collectible feel.Format:Split the canvas into two strictly equal horizontal panels,top 50% and bottom 50%,with an exact 1:1 division.Upper panel:Present the uploaded reference image in the top half.Keep the original subject,scene identity,main objects,gesture,spatial relationships,and emotional atmosphere recognizable.Preserve it as image-based rather than https://t.co/yd6fQLU2cV may crop naturally to fit the panel,but never stretch,distort,mirror,replace,or redesign the subject.Apply only restrained editorial grading and subtle print refinement.Lower panel:Transform the same source into a retro offset-halftone pop poster.Extract the strongest action,the clearest object silhouettes,the main emotional tension,and the essential color relationships from the upper image.Rebuild them with bold black outlines,large flat color fields,visible halftone dots,slight registration misalignment,minor ink spread,small printing imperfections,and controlled burst-like negative space.The lower half should be more distilled and graphic than the upper half,yet still instantly recognizable as the same scene or https://t.co/dv3ALeMvDu:Blend vintage offset lithography,pop-graphic poster design,magazine cover composition,indie publication aesthetics,and restrained co…
 
-### E7 · 照片流入手绘童话世界
+### E8 · 照片流入手绘童话世界
 
 - Creator: @Sairah_0
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-image-as-the-primary-reference-and-transform-it-into-a-vertica-9cedcb5ccd93) · [finished media](https://media.goodcase.ai/cases/08837f08f19a.jpg) · [original source](https://x.com/Sairah_0/status/2103754244843024629)
@@ -157,47 +182,22 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > The photograph and illustration must feel like one continuous visual story, not two sep…
 
-### E8 · 暖阳家庭记忆剪贴画
-
-- Creator: @Sairah_0
-- Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-photo-as-the-exact-visual-reference-and-transform-it-into-a-no-dad5db12db3f) · [finished media](https://media.goodcase.ai/cases/82c51c602df3.jpg) · [original source](https://x.com/Sairah_0/status/2102261738280489425)
-- Summary: GPT Image 2 On ChatGPT Prompt: Use the uploaded photo as the exact visual reference and transform it into a nostalgic editorial scrapbook-style artwork. Preserv…
-- Prompt excerpt:
-
-> Use the uploaded photo as the exact visual reference and transform it into a nostalgic editorial scrapbook-style artwork. Preserve the subjects, composition, clothing, poses, objects, and overall scene from the original photo.
->
-> Create a vertical 3:4 composition with a refined, minimalist Japanese-inspired photo-to-illustration aesthetic.
->
-> The final design should be divided into two equal horizontal sections:
->
-> TOP HALF — ORIGINAL PHOTOGRAPH
-> •Place the uploaded original photograph in the upper 50% of the canvas.
-> •Keep it photorealistic and completely unchanged.
-> •Preserve the exact facial features, body proportions, clothing, hairstyle, pose, lighting, environment, furniture, food, blanket, window, and all other recognizable details.
-> •Do not crop important subjects.
-> •Use the original image naturally, with clean edges and no artificial frame.
->
-> BOTTOM HALF — MINIATURE STORYBOOK VERSION
-> •Recreate the exact same scene from the photograph as a small, delicate hand-painted illustration positioned around the center of the lower half.
-> •Keep the same subjects, poses, clothing, objects, perspective, and recognizable composition, but make the entire scene appear like a tiny nostalgic illustration placed on paper.
-> •Use a soft watercolor + colored-pencil + subtle gouache aesthetic.
-> •Delicate imperfect brushwork, lightly textured edges, soft shadows, muted natural colors, slightly faded vintage appearance.
-> •The miniature scene should occupy only about 25–35% of the lower section, leaving generous negative space around it.
-> •Make it feel like a tiny memory captured on paper rather than a conv…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 复杂四象限纸上世界复合提示 | @0x00_Krypt | [GoodCase](https://goodcase.ai/cases/case-5a37ec622965) | [Media](https://media.goodcase.ai/media/image/case-5a37ec622965.jpg) | [Original](https://x.com/0x00_Krypt/status/2002320422046724291) | E1 |
-| 手工线艺可视化地图 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-cdaaabdc9f7f) | [Media](https://media.goodcase.ai/cases/1fddd5e73701.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2093543076367389130) | E2 |
-| 原景照片与纸上手绘的上下对照封面 | @harboriis | [GoodCase](https://goodcase.ai/cases/gpt-image-2-5-create-one-independent-high-end-editorial-poster-for-each-uploaded-photo-0f4da33ca46e) | [Media](https://media.goodcase.ai/cases/04ba7bc46882.jpg) | [Original](https://x.com/harboriis/status/2107346549542203400) | E3 |
-| 照片与剪纸重构的双联编辑海报 | @Maercihh | [GoodCase](https://goodcase.ai/cases/gpt-image-gpt-image-2-0-on-chatgpt-9e41be11645d) | [Media](https://media.goodcase.ai/cases/f0229d607d52.jpg) | [Original](https://x.com/Maercihh/status/2100894656162926689) | E4 |
-| 照片与图解双联海报 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-please-create-a-separate-independently-designed-premium-poster-from-each-uploa-a4750dc40de5) | [Media](https://media.goodcase.ai/cases/458f3937d0b1.jpg) | [Original](https://x.com/Sairah_0/status/2105177817688539320) | E5 |
-| 原景与复古网点重构 | @theanu_Sayss | [GoodCase](https://goodcase.ai/cases/gpt-image-use-each-uploaded-image-as-the-only-visual-source-create-one-independent-poster-be07b4861636) | [Media](https://media.goodcase.ai/cases/060d08069b9a.jpg) | [Original](https://x.com/theanu_Sayss/status/2098459664140652850) | E6 |
-| 照片流入手绘童话世界 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-image-as-the-primary-reference-and-transform-it-into-a-vertica-9cedcb5ccd93) | [Media](https://media.goodcase.ai/cases/08837f08f19a.jpg) | [Original](https://x.com/Sairah_0/status/2103754244843024629) | E7 |
-| 暖阳家庭记忆剪贴画 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-photo-as-the-exact-visual-reference-and-transform-it-into-a-no-dad5db12db3f) | [Media](https://media.goodcase.ai/cases/82c51c602df3.jpg) | [Original](https://x.com/Sairah_0/status/2102261738280489425) | E8 |
+| 原照与暖光皮影上下对照海报 | @daaihq | [GoodCase](https://goodcase.ai/cases/3-4-1-1-50-a75849d424e7) | [Media](https://media.goodcase.ai/cases/03b63d852f40.jpg) | [Original](https://x.com/daaihq/status/2112897710147977271) | E1 |
+| 复杂四象限纸上世界复合提示 | @0x00_Krypt | [GoodCase](https://goodcase.ai/cases/case-5a37ec622965) | [Media](https://media.goodcase.ai/media/image/case-5a37ec622965.jpg) | [Original](https://x.com/0x00_Krypt/status/2002320422046724291) | E2 |
+| 手工线艺可视化地图 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-cdaaabdc9f7f) | [Media](https://media.goodcase.ai/cases/1fddd5e73701.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2093543076367389130) | E3 |
+| 原景照片与纸上手绘的上下对照封面 | @harboriis | [GoodCase](https://goodcase.ai/cases/gpt-image-2-5-create-one-independent-high-end-editorial-poster-for-each-uploaded-photo-0f4da33ca46e) | [Media](https://media.goodcase.ai/cases/04ba7bc46882.jpg) | [Original](https://x.com/harboriis/status/2107346549542203400) | E4 |
+| 照片与剪纸重构的双联编辑海报 | @Maercihh | [GoodCase](https://goodcase.ai/cases/gpt-image-gpt-image-2-0-on-chatgpt-9e41be11645d) | [Media](https://media.goodcase.ai/cases/f0229d607d52.jpg) | [Original](https://x.com/Maercihh/status/2100894656162926689) | E5 |
+| 照片与图解双联海报 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-please-create-a-separate-independently-designed-premium-poster-from-each-uploa-a4750dc40de5) | [Media](https://media.goodcase.ai/cases/458f3937d0b1.jpg) | [Original](https://x.com/Sairah_0/status/2105177817688539320) | E6 |
+| 原景与复古网点重构 | @theanu_Sayss | [GoodCase](https://goodcase.ai/cases/gpt-image-use-each-uploaded-image-as-the-only-visual-source-create-one-independent-poster-be07b4861636) | [Media](https://media.goodcase.ai/cases/060d08069b9a.jpg) | [Original](https://x.com/theanu_Sayss/status/2098459664140652850) | E7 |
+| 照片流入手绘童话世界 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-image-as-the-primary-reference-and-transform-it-into-a-vertica-9cedcb5ccd93) | [Media](https://media.goodcase.ai/cases/08837f08f19a.jpg) | [Original](https://x.com/Sairah_0/status/2103754244843024629) | E8 |
+| 暖阳家庭记忆剪贴画 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-use-the-uploaded-photo-as-the-exact-visual-reference-and-transform-it-into-a-no-dad5db12db3f) | [Media](https://media.goodcase.ai/cases/82c51c602df3.jpg) | [Original](https://x.com/Sairah_0/status/2102261738280489425) | E— |
 | 照片与几何抽象的上下对照 | @Sairah_0 | [GoodCase](https://goodcase.ai/cases/gpt-image-using-the-uploaded-photo-create-a-vertical-3-4-before-and-after-comparison-p-ba90e0d7bd09) | [Media](https://media.goodcase.ai/cases/9cb0dffaf703.jpg) | [Original](https://x.com/Sairah_0/status/2101888385627598947) | E— |
+| 暖阳场景的摄影与手绘双联海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/nano-banana-create-a-premium-editorial-poster-featuring-a-two-part-visual-composition-7ae4da60ca4d) | [Media](https://media.goodcase.ai/cases/3eaa7367596a.jpg) | [Original](https://x.com/ChillaiKalan__/status/2111332272670417236) | E— |
+| 摄影与黑白手绘上下对照海报 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/nano-banana-using-the-uploaded-reference-image-create-a-single-high-resolution-vertical-2-f58410d7ed67) | [Media](https://media.goodcase.ai/cases/9a5b3bf2a127.jpg) | [Original](https://x.com/ChillaiKalan__/status/2110581440085987751) | E— |
 | 搞笑丑涂鸦 | @oggii_0 | [GoodCase](https://goodcase.ai/cases/real-case-09-oggii-0) | [Media](https://goodcase.ai/media/goodcase/Xnip2026-05-17_17-34-13.jpg) | [Original](https://x.com/oggii_0/status/2055125487014564227) | E— |
 
 ## Derivation boundary

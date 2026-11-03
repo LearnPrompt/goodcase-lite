@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to Xaroon_x. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Xaroon_x. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -31,7 +31,38 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > **00:11–00:14** SLOW MOTION, low rear three-quarter, 35mm, slow orbit. The hero swerves clear and the red coupe clips a truck, spins and rolls once. The whole crash stays fully in frame, clear and sharp, with glass and debris glittering in the sun. Rack f…
 
-### E2 · 云海坠落宇航员唤醒巨型飞船
+### E2 · 摩托骑士公路追击绑匪营救女子
+
+- Creator: @Xaroon_x
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5) · [finished media](https://media.goodcase.ai/cases/ad17462a0159.mp4) · [poster](https://media.goodcase.ai/cases/45e13252a14d.jpg) · [original source](https://x.com/Xaroon_x/status/2115374004529664166)
+- Summary: From a high-speed superbike chase to an epic martial arts showdown. Exploring Seedance 2.5 on @frameo_ai to create my latest cinematic Al sequence. #MadeWithFra…
+- Prompt excerpt:
+
+> ASPHALT RESCUE — 30-SECOND CINEMATIC ACTION FILM
+>
+> FORMAT: 30 seconds, 16:9, photorealistic Hollywood action, 60fps where supported. Golden-hour lighting, realistic physics, natural motion blur, tire smoke, cinematic camera movement.
+>
+> CHARACTER LOCK:
+> @image1 = Hero. Preserve exact face, hairstyle, beard, body, and outfit. He rides a black-and-red superbike; no helmet unless shown in reference.
+> @image2 = Four masked male kidnappers in black tactical clothing, each with a distinct build.
+> @image3 = Kidnapped woman in a light-colored outfit.
+> @image4 = Golden-hour highway, exit ramp, and empty industrial road.
+> Vehicle: Same black armored SUV throughout. No identity drift, clones, or costume changes.
+>
+> TIMELINE:
+>
+> 00:00–00:05 — ABDUCTION & CHASE
+> Aerial 24mm shot: black SUV speeds through busy highway traffic. The bound woman pounds on the rear window. Low tracking shot reveals @image1 accelerating toward the SUV on his superbike. Engines roar, horns blare, percussion builds.
+>
+> 00:05–00:10 — HIGHWAY DANGER
+> Side tracking shot: hero narrowly threads between two trucks in controlled slow motion. The SUV brakes suddenly. Hero performs a controlled stoppie, swerves past it, and ducks as a masked attacker swings a metal pipe. Tire screeches and metal clangs.
+>
+> 00:10–00:15 — ESCAPE & HEROIC BLOCK
+> SUV exits onto an empty industrial road. Hero follows, lands a short controlled shoulder jump, overtakes the SUV, and performs a sliding 180-degree stop across its path. Dust and tire smoke rise. SUV stops just short of the bike. Music drops nearly silent at impact.
+>
+> 00:15–00:22 — MARTIAL ARTS SHOWDO…
+
+### E3 · 云海坠落宇航员唤醒巨型飞船
 
 - Creator: @Xaroon_x
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) · [finished media](https://media.goodcase.ai/cases/f54522516fc0.mp4) · [poster](https://media.goodcase.ai/cases/f79a3ebc0ccd.jpg) · [original source](https://x.com/Xaroon_x/status/2101313046383821093)
@@ -54,7 +85,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Photorealistic high-budget Hollywood science-fiction film. ARRI Alexa cinematic look, realistic skin and metal textures, physically accurate reflections, volumetric clouds, atmospheric haze, HDR, cinematic depth of field, subtle film grain, realistic motion blur and natural light…
 
-### E3 · 武士挥刀撕裂空间
+### E4 · 武士挥刀撕裂空间
 
 - Creator: @Xaroon_x
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62) · [finished media](https://media.goodcase.ai/media/video/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.jpg) · [original source](https://x.com/Xaroon_x/status/2096602048556900579)
@@ -86,8 +117,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 夕阳下黑色轿车的追逐与枪战 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab) | [Media](https://media.goodcase.ai/cases/75e713901ea3.mp4) | [Original](https://x.com/Xaroon_x/status/2107838928992489968) | E1 |
-| 云海坠落宇航员唤醒巨型飞船 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) | [Media](https://media.goodcase.ai/cases/f54522516fc0.mp4) | [Original](https://x.com/Xaroon_x/status/2101313046383821093) | E2 |
-| 武士挥刀撕裂空间 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62) | [Media](https://media.goodcase.ai/media/video/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.mp4) | [Original](https://x.com/Xaroon_x/status/2096602048556900579) | E3 |
+| 摩托骑士公路追击绑匪营救女子 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5) | [Media](https://media.goodcase.ai/cases/ad17462a0159.mp4) | [Original](https://x.com/Xaroon_x/status/2115374004529664166) | E2 |
+| 云海坠落宇航员唤醒巨型飞船 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) | [Media](https://media.goodcase.ai/cases/f54522516fc0.mp4) | [Original](https://x.com/Xaroon_x/status/2101313046383821093) | E3 |
+| 武士挥刀撕裂空间 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62) | [Media](https://media.goodcase.ai/media/video/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.mp4) | [Original](https://x.com/Xaroon_x/status/2096602048556900579) | E4 |
 
 ## Derivation boundary
 

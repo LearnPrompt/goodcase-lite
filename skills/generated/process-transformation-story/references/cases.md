@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 40 published Cases across 36 creators.
+This workflow is derived from 42 published Cases across 38 creators.
 
 ## Operating rule
 
@@ -238,9 +238,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Seedance 进阶工作流演示：Prompt 之外的制作全流程 | @ethancole_ai | [GoodCase](https://goodcase.ai/cases/ethancole-ai-seedance-ai-c8e1a1b52569) | [Media](https://media.goodcase.ai/cases/20efbe9c2034.mp4) | [Original](https://x.com/ethancole_ai/status/2089756837474107511) | E— |
 | 动漫风格：制作印度蒸米糕（Idli）的烹饪流程 | @snskritinaruka | [GoodCase](https://goodcase.ai/cases/idli-4a8ed49d4ad9) | [Media](https://media.goodcase.ai/media/video/idli-4a8ed49d4ad9.mp4) | [Original](https://x.com/snskritinaruka/status/2074761846444503180) | E— |
 | iPhone-shot Street Dance Music Video | @applete77191758 | [GoodCase](https://goodcase.ai/cases/iphone-shot-street-dance-music-video) | [Media](https://media.goodcase.ai/cases/f55826cdc6bb.mp4) | [Original](https://x.com/applete77191758/status/2087212818047340844) | E— |
+| 儿子烘焙失手后带纸杯蛋糕为母亲庆生 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/kling-a-young-east-asian-man-named-ming-tries-to-bake-a-birthday-cake-for-his-beloved-35149163a076) | [Media](https://media.goodcase.ai/cases/f98287db0240.mp4) | [Original](https://x.com/aiwithaly/status/2115085490475217187) | E— |
 | 双手从零制作主体的延时过程 | @aimikoda | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-creation-film-follows-one-maker-reconstructing-the-main-subject-sho-779c59e726b4) | [Media](https://media.goodcase.ai/cases/2968eb50fc18.mp4) | [Original](https://x.com/aimikoda/status/2095141166962311555) | E— |
 | 从空白画布到完整角色的创作速绘 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-a-15-second-fast-paced-character-creation-timelapse-inside-a-professiona-241237731fca) | [Media](https://media.goodcase.ai/cases/757c7248432e.mp4) | [Original](https://x.com/Chaemate_/status/2095770134313128023) | E— |
-| 铅笔绘制梳妆台前的女子 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/minimax-h3-i-drew-myself-with-the-help-of-minimax-h3-on-092d28f2afb1) | [Media](https://media.goodcase.ai/media/video/minimax-h3-i-drew-myself-with-the-help-of-minimax-h3-on-092d28f2afb1.mp4) | [Original](https://x.com/Just_sharon7/status/2095473707611553897) | E— |
 
 ## Derivation boundary
 
