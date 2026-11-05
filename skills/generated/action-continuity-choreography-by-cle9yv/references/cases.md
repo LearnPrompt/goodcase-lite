@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Xaroon_x. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to Xaroon_x. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -62,7 +62,39 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 00:15–00:22 — MARTIAL ARTS SHOWDO…
 
-### E3 · 云海坠落宇航员唤醒巨型飞船
+### E3 · 满月下浮空神殿的双武士对决
+
+- Creator: @Xaroon_x
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-protagonist-c124d946274c) · [finished media](https://media.goodcase.ai/cases/57828cbaead4.mp4) · [poster](https://media.goodcase.ai/cases/360f933d9283.jpg) · [original source](https://x.com/Xaroon_x/status/2117623327179280408)
+- Summary: From imagination to cinematic anime action. Explore stunning character animation, dynamic sword combat and spectacular VFX with Seedance 2.5 on @WizstarAI. #Wiz…
+- Prompt excerpt:
+
+> THE LAST BLADE — EPIC ANIME SWORD BATTLE
+>
+> Duration: Exactly 30 seconds | 16:9 | Premium cinematic anime | 60 FPS target.
+>
+> REFERENCES:
+> @image1 = Protagonist. Preserve exact recognizable face, curly brown hair, beard and body proportions in anime style. Outfit: black samurai coat, silver dragon shoulder armor, charcoal kimono, crimson waist sash, black trousers and armored boots. Weapon: Kurogane, a silver katana with blue energy.
+>
+> @image2 = Akuma, the Void Emperor. Tall muscular supernatural samurai, pale grey skin, glowing violet eyes, long silver hair, black obsidian armor, crimson cape and purple-energy katana named Void Reaver.
+>
+> @image3 = Sky Temple of Eternal Moon. Floating Japanese temple, circular cracked stone battlefield, cherry blossoms, golden lanterns, waterfalls, floating mountains and enormous full moon.
+>
+> TIMELINE:
+>
+> 00:00–00:03: Epic wide reveal of the moonlit temple. Both warriors face each other, swords ready. Camera slowly pushes forward.
+>
+> 00:03–00:06: Both dash forward. Horizontal slash, diagonal counter and overhead block. Swords collide, releasing blue and purple energy explosions.
+>
+> 00:06–00:09: Akuma performs five rapid sword attacks. Protagonist blocks, dodges and slides underneath the final strike. Sparks fly.
+>
+> 00:09–00:12: Protagonist activates blue dragon energy and performs three spinning katana cuts, forcing Akuma backward.
+>
+> 00:12–00:15: Akuma unleashes a massive purple crescent energy slash that tears through the stone battlefield. Protagonist blocks defensively.
+>
+> 00:15–00:18: Intense multi-angle sword duel. Protagonist performs sliding attacks, s…
+
+### E4 · 云海坠落宇航员唤醒巨型飞船
 
 - Creator: @Xaroon_x
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) · [finished media](https://media.goodcase.ai/cases/f54522516fc0.mp4) · [poster](https://media.goodcase.ai/cases/f79a3ebc0ccd.jpg) · [original source](https://x.com/Xaroon_x/status/2101313046383821093)
@@ -85,7 +117,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > STYLE:
 > Photorealistic high-budget Hollywood science-fiction film. ARRI Alexa cinematic look, realistic skin and metal textures, physically accurate reflections, volumetric clouds, atmospheric haze, HDR, cinematic depth of field, subtle film grain, realistic motion blur and natural light…
 
-### E4 · 武士挥刀撕裂空间
+### E5 · 武士挥刀撕裂空间
 
 - Creator: @Xaroon_x
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62) · [finished media](https://media.goodcase.ai/media/video/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.jpg) · [original source](https://x.com/Xaroon_x/status/2096602048556900579)
@@ -118,8 +150,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 夕阳下黑色轿车的追逐与枪战 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab) | [Media](https://media.goodcase.ai/cases/75e713901ea3.mp4) | [Original](https://x.com/Xaroon_x/status/2107838928992489968) | E1 |
 | 摩托骑士公路追击绑匪营救女子 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5) | [Media](https://media.goodcase.ai/cases/ad17462a0159.mp4) | [Original](https://x.com/Xaroon_x/status/2115374004529664166) | E2 |
-| 云海坠落宇航员唤醒巨型飞船 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) | [Media](https://media.goodcase.ai/cases/f54522516fc0.mp4) | [Original](https://x.com/Xaroon_x/status/2101313046383821093) | E3 |
-| 武士挥刀撕裂空间 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62) | [Media](https://media.goodcase.ai/media/video/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.mp4) | [Original](https://x.com/Xaroon_x/status/2096602048556900579) | E4 |
+| 满月下浮空神殿的双武士对决 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-protagonist-c124d946274c) | [Media](https://media.goodcase.ai/cases/57828cbaead4.mp4) | [Original](https://x.com/Xaroon_x/status/2117623327179280408) | E3 |
+| 云海坠落宇航员唤醒巨型飞船 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) | [Media](https://media.goodcase.ai/cases/f54522516fc0.mp4) | [Original](https://x.com/Xaroon_x/status/2101313046383821093) | E4 |
+| 武士挥刀撕裂空间 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62) | [Media](https://media.goodcase.ai/media/video/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.mp4) | [Original](https://x.com/Xaroon_x/status/2096602048556900579) | E5 |
 
 ## Derivation boundary
 
