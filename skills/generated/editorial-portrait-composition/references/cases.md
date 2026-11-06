@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 109 published Cases across 69 creators.
+This workflow is derived from 110 published Cases across 69 creators.
 
 ## Operating rule
 
@@ -123,6 +123,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E— |
 | 当繁华褪去：薄纱遮面低头沉思的黑白女子肖像 | 泡面AIGC | [GoodCase](https://goodcase.ai/cases/case-24f8727d36e5) | [Media](https://media.goodcase.ai/supply-media/douyin-accounts-20261021/7673032868087467310/media-img-08.webp) | [Original](https://www.douyin.com/note/7673032868087467310?gc=7673032868087467310-8) | E— |
 | 豪华汽车杂志风人像 | @vireonixx | [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) | [Media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) | [Original](https://x.com/vireonixx/status/2081388724076818568) | E— |
+| 高级时尚编辑风格提示词 | @dreamydigiarts | [GoodCase](https://goodcase.ai/cases/case-2c5f79636757) | [Media](https://media.goodcase.ai/cases/42098516847e.jpg) | [Original](https://x.com/dreamydigiarts/status/2116847725648261496) | E— |
 | 草莓冰棒与夏日时尚 | @CyberTotal2026 | [GoodCase](https://goodcase.ai/cases/case-35f04fe7df2d) | [Media](https://media.goodcase.ai/media/image/case-35f04fe7df2d.jpg) | [Original](https://x.com/CyberTotal2026/status/2080445103932649638) | E— |
 | 表现主义写实混合风格肖像 | @HustleXR | [GoodCase](https://goodcase.ai/cases/case-38b56d40cd1d) | [Media](https://media.goodcase.ai/cases/b09928f6cfd7.jpg) | [Original](https://x.com/HustleXR/status/2096951148515385716) | E— |
 | 高对比度电影感人像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-45ce17868767) | [Media](https://media.goodcase.ai/media/image/case-45ce17868767.jpg) | [Original](https://x.com/aatif_j/status/2080212276188152302) | E— |
@@ -130,7 +131,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 照片人像自然美颜优化 | 数字生命卡兹克 | [GoodCase](https://goodcase.ai/cases/case-5a2d1946332d) | [Media](https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261002/6aba0f9c0000000015013521/media-img-01.webp) | [Original](https://www.xiaohongshu.com/explore/6aba0f9c0000000015013521?xsec_token=YBgKHx2esTLwSJsKQUuQ_m8HUEdGsWty-VDeylITSv-AQ=&gc=6aba0f9c0000000015013521-1) | E— |
 | 电影感艺术自然人像 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) | [Media](https://media.goodcase.ai/media/image/case-5fe2c52283f0.jpg) | [Original](https://x.com/Taaruk_/status/2081597935947792465) | E— |
 | 戏剧性光影的电影感人像 | @SakiH_AI | [GoodCase](https://goodcase.ai/cases/case-63b1ed9d96de) | [Media](https://media.goodcase.ai/cases/454c293239a1.jpg) | [Original](https://x.com/SakiH_AI/status/2111551337435734447) | E— |
-| 极简主义建筑感时尚肖像 | Afrin | [GoodCase](https://goodcase.ai/cases/case-6a9ead1b41ba) | [Media](https://media.goodcase.ai/cases/066d21d5e6f0.jpg) | [Original](https://x.com/i/status/2095765302839755097) | E— |
 
 ## Derivation boundary
 
