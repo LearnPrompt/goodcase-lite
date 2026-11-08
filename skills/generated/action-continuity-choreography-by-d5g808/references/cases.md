@@ -1,12 +1,35 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to itxsarmadd. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to itxsarmadd. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 赤焰枪手突袭战场
+### E1 · 白衣少女剑战巨神与赤龙，战场化为熔岩地狱
+
+- Creator: @itxsarmadd
+- Evidence: [GoodCase](https://goodcase.ai/cases/kling-character-weapon-lock-use-as-rica-s-exact-identity-face-hairstyle-and-appe-a4c321981489) · [finished media](https://media.goodcase.ai/cases/f68586676b37.mp4) · [poster](https://media.goodcase.ai/cases/29b22d6527af.jpg) · [original source](https://x.com/itxsarmadd/status/2118222132597657636)
+- Summary: RICA — THE FALL OF THE GODS. ⚔️🔥 Created with Kling 4.0 on @PixVerse @PixVerseCreator Kling 4.0 is now on PixVerse! Go unlimited for 10 days with Ultra—generat…
+- Prompt excerpt:
+
+> CHARACTER & WEAPON LOCK: Use @image1 as Rica’s exact identity, face, hairstyle and appearance. Use @image2 as her exact sword. Maintain perfect consistency throughout.
+>
+> ENVIRONMENT: A vast elevated green grassland surrounded by rolling hills and distant mountain ranges. Thousands of terrifying humanoid monsters crawl across the battlefield. A colossal evil deity towers over everything, with a muscular body, enormous arms, long black hair, horns and elaborate Chinese divine armor. A gigantic red Chinese dragon with crimson scales, horns, whiskers and claws enters the battle.
+>
+> 0–10 SEC — THE BATTLE BEGINS: Rica relentlessly fights the monster army using supernatural speed and precise sword techniques. The colossal deity attacks with enormous sweeping hands. Rica dodges, vanishes through sheer speed and reappears, running across his fingers, wrists and arms while attacking continuously. The red dragon descends and wraps its massive body around the deity, biting and clawing him. Above the mountains, a burning meteor larger than the mountain range appears and continuously descends.
+>
+> 10–20 SEC — RICA'S ULTIMATE POWERS: Rica performs rapid hand gestures and shouts in Mandarin:
+>
+> - 「天剑降临！」 Thousands of glowing pink swords materialize in the sky and rain down on the battlefield.
+> - 「万枪齐落！」 Hundreds of enormous pink energy spears launch toward the deity.
+> - 「天裂！」 Giant pink dimensional slashes tear across the deity’s body.
+>
+> All attacks overlap while Rica keeps moving, the dragon constricts and attacks, the deity fights back, and the meteor grows closer.
+>
+> 20–25 SEC — FINAL JUDGMENT: Rica…
+
+### E2 · 赤焰枪手突袭战场
 
 - Creator: @itxsarmadd
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-arman-exact-same-identity-throughout-334c97a3dc2f) · [finished media](https://media.goodcase.ai/cases/2623f3a18f10.mp4) · [poster](https://media.goodcase.ai/cases/50f3546b5a07.jpg) · [original source](https://x.com/itxsarmadd/status/2104536535370457576)
@@ -37,7 +60,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Continue directly from Scene 1. Arman descends while firing both pistols. He lands inside a group of enemies and immediately enters relentless close-quarters combat using cross-fire, pivots, shoulder checks, evasive movement and point-blank shots. Enemy pressure increases from all sides. God Speed activates again, launching Arman through smoke and debris into another formation. He reappears in…
 
-### E2 · 冰封巨兽与神速终结斩
+### E3 · 冰封巨兽与神速终结斩
 
 - Creator: @itxsarmadd
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-fusia-exact-same-identity-throughout-d0562ff4eacd) · [finished media](https://media.goodcase.ai/cases/f48e1c2cc4cf.mp4) · [poster](https://media.goodcase.ai/cases/3ae0cbe4032f.jpg) · [original source](https://x.com/itxsarmadd/status/2104896303625105834)
@@ -72,7 +95,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Continue directly from Scene 1. Fusia locks eyes on Boncoz, tightens her grip on the crystalline katana, and drops into a launch stance. God Speed activates through on…
 
-### E3 · 丛林神庙水御伏击战
+### E4 · 丛林神庙水御伏击战
 
 - Creator: @itxsarmadd
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a) · [finished media](https://media.goodcase.ai/cases/d979d6e8f189.mp4) · [poster](https://media.goodcase.ai/cases/9191e59a045c.jpg) · [original source](https://x.com/itxsarmadd/status/2103694941260222603)
@@ -108,9 +131,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 赤焰枪手突袭战场 | @itxsarmadd | [GoodCase](https://goodcase.ai/cases/seedance-arman-exact-same-identity-throughout-334c97a3dc2f) | [Media](https://media.goodcase.ai/cases/2623f3a18f10.mp4) | [Original](https://x.com/itxsarmadd/status/2104536535370457576) | E1 |
-| 冰封巨兽与神速终结斩 | @itxsarmadd | [GoodCase](https://goodcase.ai/cases/seedance-fusia-exact-same-identity-throughout-d0562ff4eacd) | [Media](https://media.goodcase.ai/cases/f48e1c2cc4cf.mp4) | [Original](https://x.com/itxsarmadd/status/2104896303625105834) | E2 |
-| 丛林神庙水御伏击战 | @itxsarmadd | [GoodCase](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a) | [Media](https://media.goodcase.ai/cases/d979d6e8f189.mp4) | [Original](https://x.com/itxsarmadd/status/2103694941260222603) | E3 |
+| 白衣少女剑战巨神与赤龙，战场化为熔岩地狱 | @itxsarmadd | [GoodCase](https://goodcase.ai/cases/kling-character-weapon-lock-use-as-rica-s-exact-identity-face-hairstyle-and-appe-a4c321981489) | [Media](https://media.goodcase.ai/cases/f68586676b37.mp4) | [Original](https://x.com/itxsarmadd/status/2118222132597657636) | E1 |
+| 赤焰枪手突袭战场 | @itxsarmadd | [GoodCase](https://goodcase.ai/cases/seedance-arman-exact-same-identity-throughout-334c97a3dc2f) | [Media](https://media.goodcase.ai/cases/2623f3a18f10.mp4) | [Original](https://x.com/itxsarmadd/status/2104536535370457576) | E2 |
+| 冰封巨兽与神速终结斩 | @itxsarmadd | [GoodCase](https://goodcase.ai/cases/seedance-fusia-exact-same-identity-throughout-d0562ff4eacd) | [Media](https://media.goodcase.ai/cases/f48e1c2cc4cf.mp4) | [Original](https://x.com/itxsarmadd/status/2104896303625105834) | E3 |
+| 丛林神庙水御伏击战 | @itxsarmadd | [GoodCase](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a) | [Media](https://media.goodcase.ai/cases/d979d6e8f189.mp4) | [Original](https://x.com/itxsarmadd/status/2103694941260222603) | E4 |
 
 ## Derivation boundary
 

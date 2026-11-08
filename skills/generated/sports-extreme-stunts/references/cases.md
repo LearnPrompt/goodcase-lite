@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 32 published Cases across 28 creators.
+This workflow is derived from 37 published Cases across 32 creators.
 
 ## Operating rule
 
@@ -286,9 +286,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 女子在雨后山间茶园跑酷激战十名蒙面人 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/seedance-2-5-16-9-widescreen-cinematic-live-action-15-seconds-high-momentum-parkour-fight-41e698499a8d) | [Media](https://media.goodcase.ai/cases/75b94a2833b2.mp4) | [Original](https://x.com/Chaemate_/status/2113558308514922850) | E— |
 | 微缩女子的家电卖场跑酷冒险 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-9ea78de4a893) | [Media](https://media.goodcase.ai/cases/66f3c9b854f4.mp4) | [Original](https://x.com/AIwithSynthia/status/2115416926092746987) | E— |
 | 微缩女子的便利店跑酷冒险 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd) | [Media](https://media.goodcase.ai/cases/e57a891dd0ed.mp4) | [Original](https://x.com/AIwithkhan/status/2106397932304191969) | E— |
+| 女子夜奔地铁滑入安全区闸门 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-korean-zombie-survival-thriller-ci-f278c2a5757d) | [Media](https://media.goodcase.ai/cases/b6fec33460fd.mp4) | [Original](https://x.com/doctorwasif/status/2117239135169908817) | E— |
 | 女子在夜间粉色球场滑着滑板打网球 | @AIwithNatalia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5) | [Media](https://media.goodcase.ai/cases/6d94ac862edd.mp4) | [Original](https://x.com/AIwithNatalia/status/2107056982163402833) | E— |
-| Seedance 2.5 悬崖翼装跳伞环海一镜到底 | @mrdejie | [GoodCase](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc) | [Media](https://media.goodcase.ai/media/video/seedance-2-5-f1696dad13bc.mp4) | [Original](https://x.com/mrdejie/status/2085996752809927146) | E— |
-| 小女孩滑着滑板去搭校车 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-c3ee1b92a0e5) | [Media](https://media.goodcase.ai/cases/3073787a381c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2110193320047898957) | E— |
+| 中世纪庭院里少女与绿龙共制薄饼 | @Arzoo12sh | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-stunning-30-second-cinematic-fantasy-video-in-ultra-realistic-4k-quali-52d799367a5f) | [Media](https://media.goodcase.ai/cases/00589177b3dd.mp4) | [Original](https://x.com/Arzoo12sh/status/2117089440489431112) | E— |
 
 ## Derivation boundary
 

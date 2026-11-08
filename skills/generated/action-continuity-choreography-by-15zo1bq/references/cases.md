@@ -1,12 +1,41 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to itxabdullaa. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to itxabdullaa. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 暴雪中守护幼龙的金色猫咪骑士
+### E1 · 草原上两名武者的高速飞踢对决
+
+- Creator: @itxabdullaa
+- Evidence: [GoodCase](https://goodcase.ai/cases/kling-use-as-eddy-and-as-jack-29d2bb893f7d) · [finished media](https://media.goodcase.ai/cases/979254f1f2e3.mp4) · [poster](https://media.goodcase.ai/cases/9b3ea72a89b9.jpg) · [original source](https://x.com/itxabdullaa/status/2117966196683456710)
+- Summary: Two superpowered fighters. One explosive battlefield. Zero time to breathe!🔥 Created with Kling 4.0 on @PixVerse @PixVerseCreator Kling 4.0 is now on PixVerse!…
+- Prompt excerpt:
+
+> Use @image1 as Eddy and @image2 as Jack. Preserve exact faces, hairstyles, clothing, proportions and identities.
+>
+> LOCATION: Vast green grassland with uneven terrain, exposed soil and distant mountains. No buildings or structures.
+>
+> ACTION: Create a brutally fast, fluid superpower fight with The Raid intensity. Both fighters have explosive strength, supernatural speed, aerial mobility and instant teleportation. They charge simultaneously and collide.
+>
+> FIGHT SEQUENCE:
+>
+> 00–05s: Close-up of Eddy's eyes. He charges with a roundhouse kick. Jack dodges, sweeps his leg and launches him airborne with a rising kick.
+>
+> 05–10s: They exchange aerial kicks. Eddy crashes into the grass, teleports behind Jack and attacks with an axe kick. Jack blocks, blasting soil outward, then counters.
+>
+> 10–15s: Eddy sends Jack flying with a side kick. Jack teleports behind him with a jumping knee. Eddy twists and counters with a spinning kick, throwing Jack across the field.
+>
+> 15–20s: Jack attacks with an aerial heel kick. Eddy blocks and counters with a rising knee. They exchange midair strikes, collide shoulder-first and Eddy throws Jack overhead.
+>
+> 20–25s: Jack launches a spinning kick. Eddy teleports away, sweeps his legs and dodges a descending heel kick. Eddy counters with a flying roundhouse.
+>
+> 25–30s: Jack teleports above Eddy and dives with a flying knee. Both unleash rapid punches, knees and spinning kicks. At 29.6s, simultaneous full-power strikes collide, creating a massive shockwave that flattens the grass and blasts soil outward. Both fly apart, conscious and ready to continue. No winner.
+>
+> MOVE…
+
+### E2 · 暴雪中守护幼龙的金色猫咪骑士
 
 - Creator: @itxabdullaa
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-breathtaking-24-second-live-action-fantasy-short-featuring-a-tiny-gold-8bc28535dc6b) · [finished media](https://media.goodcase.ai/cases/e43fade1f805.mp4) · [poster](https://media.goodcase.ai/cases/51dbdca51c11.jpg) · [original source](https://x.com/itxabdullaa/status/2110942575523922012)
@@ -32,7 +61,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > SCENE 5 (20–24s): THE BOND
 > At sunrise, the exhausted kitten cradles the sleeping hatchling beside the colossal dragon. The dragon gently closes its amber eyes and exhal…
 
-### E2 · 废墟街头火焰术引爆全城
+### E3 · 废墟街头火焰术引爆全城
 
 - Creator: @itxabdullaa
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f) · [finished media](https://media.goodcase.ai/cases/381b6848a667.mp4) · [poster](https://media.goodcase.ai/cases/5e41917cd901.jpg) · [original source](https://x.com/itxabdullaa/status/2103698890516308313)
@@ -66,7 +95,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 7.2–7.7 SECONDS — TARGET…
 
-### E3 · 追逐三明治引发桌面图标大乱
+### E4 · 追逐三明治引发桌面图标大乱
 
 - Creator: @itxabdullaa
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-things-got-out-of-control-the-moment-scooby-spotted-the-sandwich-cf23bc2cdfd4) · [finished media](https://media.goodcase.ai/cases/60586b428caa.mp4) · [poster](https://media.goodcase.ai/cases/13f4d11074d6.jpg) · [original source](https://x.com/itxabdullaa/status/2102239560914841864)
@@ -107,7 +136,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 7.8–10s:
 > After restoring the last icon, the dog hides behind the human. The dog peeks out nervously…
 
-### E4 · 花天狂骨枯松心中决战
+### E5 · 花天狂骨枯松心中决战
 
 - Creator: @itxabdullaa
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962) · [finished media](https://media.goodcase.ai/cases/42c043fad41c.mp4) · [poster](https://media.goodcase.ai/cases/2b89a640f391.jpg) · [original source](https://x.com/itxabdullaa/status/2102609881677107243)
@@ -149,10 +178,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 暴雪中守护幼龙的金色猫咪骑士 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-breathtaking-24-second-live-action-fantasy-short-featuring-a-tiny-gold-8bc28535dc6b) | [Media](https://media.goodcase.ai/cases/e43fade1f805.mp4) | [Original](https://x.com/itxabdullaa/status/2110942575523922012) | E1 |
-| 废墟街头火焰术引爆全城 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f) | [Media](https://media.goodcase.ai/cases/381b6848a667.mp4) | [Original](https://x.com/itxabdullaa/status/2103698890516308313) | E2 |
-| 追逐三明治引发桌面图标大乱 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-things-got-out-of-control-the-moment-scooby-spotted-the-sandwich-cf23bc2cdfd4) | [Media](https://media.goodcase.ai/cases/60586b428caa.mp4) | [Original](https://x.com/itxabdullaa/status/2102239560914841864) | E3 |
-| 花天狂骨枯松心中决战 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962) | [Media](https://media.goodcase.ai/cases/42c043fad41c.mp4) | [Original](https://x.com/itxabdullaa/status/2102609881677107243) | E4 |
+| 草原上两名武者的高速飞踢对决 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/kling-use-as-eddy-and-as-jack-29d2bb893f7d) | [Media](https://media.goodcase.ai/cases/979254f1f2e3.mp4) | [Original](https://x.com/itxabdullaa/status/2117966196683456710) | E1 |
+| 暴雪中守护幼龙的金色猫咪骑士 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-breathtaking-24-second-live-action-fantasy-short-featuring-a-tiny-gold-8bc28535dc6b) | [Media](https://media.goodcase.ai/cases/e43fade1f805.mp4) | [Original](https://x.com/itxabdullaa/status/2110942575523922012) | E2 |
+| 废墟街头火焰术引爆全城 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f) | [Media](https://media.goodcase.ai/cases/381b6848a667.mp4) | [Original](https://x.com/itxabdullaa/status/2103698890516308313) | E3 |
+| 追逐三明治引发桌面图标大乱 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-things-got-out-of-control-the-moment-scooby-spotted-the-sandwich-cf23bc2cdfd4) | [Media](https://media.goodcase.ai/cases/60586b428caa.mp4) | [Original](https://x.com/itxabdullaa/status/2102239560914841864) | E4 |
+| 花天狂骨枯松心中决战 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962) | [Media](https://media.goodcase.ai/cases/42c043fad41c.mp4) | [Original](https://x.com/itxabdullaa/status/2102609881677107243) | E5 |
 
 ## Derivation boundary
 

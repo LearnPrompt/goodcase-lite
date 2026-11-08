@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 30 published Cases across 24 creators.
+This workflow is derived from 32 published Cases across 26 creators.
 
 ## Operating rule
 
@@ -283,13 +283,13 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 超现实糖果娃娃角色提示词 | @RAYSITI | [GoodCase](https://goodcase.ai/cases/case-407fc0599ae5) | [Media](https://media.goodcase.ai/cases/e235057a6469.jpg) | [Original](https://x.com/RAYSITI/status/2107599888636862834) | E— |
 | 奇幻动物水岸插画 | @churvikv | [GoodCase](https://goodcase.ai/cases/case-44ce700abede) | [Media](https://media.goodcase.ai/media/image/case-44ce700abede.jpg) | [Original](https://x.com/churvikv/status/2090182449149977021) | E— |
 | 现实与漫画壁画的融合 | @Arina_hoqe | [GoodCase](https://goodcase.ai/cases/case-490a5435c063) | [Media](https://media.goodcase.ai/media/image/case-490a5435c063.jpg) | [Original](https://x.com/Arina_hoqe/status/2081179727734456415) | E— |
+| 动漫定格粉彩艺术 | @thierrybezier | [GoodCase](https://goodcase.ai/cases/case-545270702e99) | [Media](https://media.goodcase.ai/cases/976fc8dc1442.jpg) | [Original](https://x.com/thierrybezier/status/2118769805587054692) | E— |
 | 复古双色调编辑插画 | @HustleXR | [GoodCase](https://goodcase.ai/cases/case-7e29a0c188a4) | [Media](https://media.goodcase.ai/media/image/case-7e29a0c188a4.jpg) | [Original](https://x.com/HustleXR/status/2080180351885017314) | E— |
 | 动漫角色设定图生成器 | @ai_lifehack55 | [GoodCase](https://goodcase.ai/cases/case-805ea1d189ef) | [Media](https://media.goodcase.ai/media/image/case-805ea1d189ef.jpg) | [Original](https://x.com/ai_lifehack55/status/2080494791826268265) | E— |
 | 角色战斗动作精灵图 | @Aivy___X | [GoodCase](https://goodcase.ai/cases/case-94e8818b884f) | [Media](https://media.goodcase.ai/cases/530defcee9da.jpg) | [Original](https://x.com/Aivy___X/status/2097572540034302295) | E— |
 | 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E— |
+| 动漫角色拼贴提示词 | @hey_am_cherry | [GoodCase](https://goodcase.ai/cases/case-ba10fec70a28) | [Media](https://media.goodcase.ai/cases/dd35fb92173e.jpg) | [Original](https://x.com/hey_am_cherry/status/2117465842309021716) | E— |
 | 美术编辑肖像插画 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/aatif_j/status/2080399938278801700) | E— |
-| 部落奇幻女战士与猫头鹰肖像 | @Aqib__786Ai | [GoodCase](https://goodcase.ai/cases/case-dd0e6108eade) | [Media](https://media.goodcase.ai/cases/347112a1d6c6.jpg) | [Original](https://x.com/Aqib__786Ai/status/2091027228645552456) | E— |
-| Dark Fantasy Battlefield Warrior | @Madhuribhai | [GoodCase](https://goodcase.ai/cases/dark-fantasy-battlefield-warrior) | [Media](https://media.goodcase.ai/cases/d39fc1d10414.jpg) | [Original](https://x.com/Madhuribhai/status/2085769307217391725) | E— |
 
 ## Derivation boundary
 

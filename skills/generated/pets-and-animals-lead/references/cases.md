@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 64 published Cases across 35 creators.
+This workflow is derived from 66 published Cases across 36 creators.
 
 ## Operating rule
 
@@ -192,12 +192,12 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Cats Chasing via Red Mini Motorcycle | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) | [Media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) | [Original](https://x.com/Just_sharon7/status/2084901309988425731) | E— |
 | 饥饿女孩把仅剩的面包分给流浪小狗 | @ZaraIrahh | [GoodCase](https://goodcase.ai/cases/create-a-30-second-cinematic-3d-animated-short-film-titled-the-last-piece-of-b-51bf68bf458c) | [Media](https://media.goodcase.ai/cases/770d53d0b259.mp4) | [Original](https://x.com/ZaraIrahh/status/2112905579916382583) | E— |
 | 街拍女摄影师抓拍咖啡馆老人与小狗 | @aiwithaly | [GoodCase](https://goodcase.ai/cases/created-with-minimax-h3-11c349) | [Media](https://media.goodcase.ai/cases/c091a3bdd9be.webm) | [Original](https://x.com/aiwithaly/status/2087102541146522089) | E— |
+| 几何小鸟动画与好奇心笔记本实拍混剪 | @fuckscales | [GoodCase](https://goodcase.ai/cases/gpt-image-2-i-just-killed-kurzgesagt-style-with-1-claude-opus-prompt-73dcac7b7966) | [Media](https://media.goodcase.ai/cases/34e42719bf00.mp4) | [Original](https://x.com/fuckscales/status/2118801134924288456) | E— |
 | 猫咪外卖员偷吃披萨后骑车逃跑 | @Strength04_X | [GoodCase](https://goodcase.ai/cases/kling-pov-your-pizza-delivery-guy-ate-your-slice-and-ran-d44b0e2c60a7) | [Media](https://media.goodcase.ai/cases/df5bf5bceb90.mp4) | [Original](https://x.com/Strength04_X/status/2105889942958440671) | E— |
 | 橘猫的柔彩动态个性秀 | @Chaemate_ | [GoodCase](https://goodcase.ai/cases/minimax-h3-create-an-elegant-motion-graphics-driven-personality-reveal-short-in-16-9-exac-899747600e79) | [Media](https://media.goodcase.ai/cases/8474b7c70be7.mp4) | [Original](https://x.com/Chaemate_/status/2099698470500401562) | E— |
 | 狐狸在森林溪流边自拍漫游 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | [Media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) | [Original](https://x.com/MrDasOnX/status/2089969922617266257) | E— |
 | 粉色兔女郎旋身近镜亲吻 | @KeorUnreal | [GoodCase](https://goodcase.ai/cases/nano-banana-cinematic-10-second-continuous-shot-starting-exactly-from-the-uploaded-photo-a-20c619b4f3cd) | [Media](https://media.goodcase.ai/cases/5203b8430296.mp4) | [Original](https://x.com/KeorUnreal/status/2100921858811998355) | E— |
 | 女子为巨型布偶猫洗澡吹毛 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-2-0-30-second-ultra-realistic-cinematic-video-prompt-create-a-heartwarming-funny-c91743ef3579) | [Media](https://media.goodcase.ai/cases/6909650e7197.mp4) | [Original](https://x.com/Aiwithmaha/status/2110921969420177453) | E— |
-| 女孩与巨型白狗吉祥物的球场嬉戏 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-2-0-basketball-gets-a-whole-lot-more-fun-with-a-giant-fluffy-opponent-1b871f4125da) | [Media](https://media.goodcase.ai/cases/5c9d1624612e.mp4) | [Original](https://x.com/ayzalnooor24521/status/2107340030536741222) | E— |
 
 ## Derivation boundary
 

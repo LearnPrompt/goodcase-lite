@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 67 published Cases across 43 creators.
+This workflow is derived from 70 published Cases across 45 creators.
 
 ## Operating rule
 
@@ -15,7 +15,26 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > [STYLE + CAMERA + ATMOSPHERE] Gritty 16mm cinéma vérité, authentic documentary footage from a single continuous handheld take in a lived-in 1990s West Coast neighborhood. Organic film grain, soft golden-hour natural light, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism. Continuous imperfect handheld observation. Completely photorealistic real photography — zero CGI. [TIMELINE SECOND BY SECOND] 0-2s: [Close Handheld Tracking] Black woman in her early 30s walks straight toward camera down the quiet residential street. Short textured undercut, dark lipstick, gold chains, black open oversized blazer over fitted tank, baggy black cargos, sneakers. Sunglasses on. Hands in pockets, powerful casual stride. Camera stays tight on her upper body and face, bouncing with every step. Palm trees and pastel low-rise apartments frame the background. 2-4s: [Unsteady Following] She continues without breaking pace. A young guy sitting on a low wall nods at her; she returns a short, knowing nod without slowing. Camera stays close and imperfect, drifting slightly to her side then back. Soft golden light hits the gold chains and the side of her face. 4-6s: [Raw Side Tracking] A woman in a red top approaches from the sidewalk. Brief exchange — the woman says something quiet, the dealer gives a small head tilt and keeps walking. Camera follows in continuous handheld, catching the natural street energy and distant people hanging out near a parked 90s car. 6-8s: [Close Imperfect Push] She slows just enough for a quick,…
 
-### E2 · 耳机少女的日本漫游
+### E2 · A heartwarming journey of kindness and love.
+
+- Creator: @ayzalnooor24521
+- Evidence: [GoodCase](https://goodcase.ai/cases/a-heartwarming-journey-of-kindness-and-love) · [finished media](https://media.goodcase.ai/cases/1e7ede62356c.mp4) · [poster](https://media.goodcase.ai/cases/574e210988b7.jpg) · [original source](https://x.com/ayzalnooor24521/status/2118538318178828738)
+- Summary: A heartwarming journey of kindness and love. From a cozy home to a rainy street, one little rescue turns into a beautiful bond between a girl and an adorable ki…
+- Prompt excerpt:
+
+> A heartwarming journey of kindness and love. From a cozy home to a rainy street, one little rescue turns into a beautiful bond between a girl and an adorable kitten.
+>
+> Created with @PixVerse
+>
+> 🔗 Watch the video:
+>
+> https://t.co/bciCAqPi04…
+>
+> Full video prompt in the first comment 👇
+>
+> #PixVerseAI #AIVideo #AIArt #AIStorytelling #KittenRescue
+
+### E3 · 耳机少女的日本漫游
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithsynthia-seedance-ai-ab4f303de473) · [finished media](https://media.goodcase.ai/cases/f88e407bd41b.mp4) · [poster](https://media.goodcase.ai/cases/4f40686a84a0.jpg) · [original source](https://x.com/AIwithSynthia/status/2094640515895460285)
@@ -42,7 +61,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Negative: No CGI look, plastic skin, identity drift, distorted anatomy, extra limbs, warped archit…
 
-### E3 · Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake
+### E4 · Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake
 
 - Creator: AI_with_qamar
 - Evidence: [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) · [finished media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) · [poster](https://media.goodcase.ai/cases/dc4b7506f7ef.jpg) · [original source](https://x.com/q_a_i_m_01/status/2106092164250059051)
@@ -51,7 +70,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A cinematic anime-style scene of a young man riding a small scooter down a winding mountain trail covered with beautiful white daisies. Vast turquoise-blue alpine lake, dramatic snow-capped mountains, lush green hills and colorful wildflowers surround him. The camera starts with a close-up of the flowers, then smoothly follows behind the rider as he accelerates downhill. Strong sense of speed with dynamic motion blur, flowers and petals flying through the air. He reaches a small wooden ramp and launches into the air over the breathtaking mountain landscape, with petals floating around him. Dreamy golden-hour lighting, vibrant colors, detailed Japanese anime aesthetic, smooth fluid animation, atmospheric depth, cinematic camera movement, 9:16 vertical, highly detailed, magical adventurous mood, seamless motion, no text, no watermark.
 
-### E4 · 少女在日本山巅记录春日风光
+### E5 · 少女在日本山巅记录春日风光
 
 - Creator: @ayzalnooor24521
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-890aad58385a.jpg) · [original source](https://x.com/ayzalnooor24521/status/2093192618599755890)
@@ -60,7 +79,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create a credited 14-second cinematic video on Japanese mountain view, featuring a consistent young East-Asian woman with long dark hair, a beige sweater, and a backpack arriving at a breathtaking mountain viewpoint. She calmly raises her smartphone and starts recording the stunning scenery around her. The camera smoothly follows her movement and transitions into a beautiful panoramic view of the lush green valley. A red cable car glides naturally across the mountainside while soft pink cherry blossoms move gently in the breeze. The camera reveals a traditional Japanese multi-tiered pagoda surrounded by peaceful mountain scenery. Wide cinematic shots capture majestic snow-capped peaks under soft natural daylight. End with the woman smiling peacefully while filming the expansive landscape on her phone, creating a refreshing and adventurous travel moment.
 
-### E5 · 夏日热带度假村漫游
+### E6 · 夏日热带度假村漫游
 
 - Creator: @CaliraVal
 - Evidence: [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-c1907f5f9753) · [finished media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-c1907f5f9753.mp4) · [poster](https://media.goodcase.ai/media/poster/caliraval-minimax-h3-ai-c1907f5f9753.jpg) · [original source](https://x.com/CaliraVal/status/2092464771874664617)
@@ -84,7 +103,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Negative prompt: bikini, lingerie, revealing clothes, cleavage, transparent clothing, nudity, sexualized poses, seductive behavior, exaggerated…
 
-### E6 · 阿马尔菲海岸奢华珠宝广告
+### E7 · 阿马尔菲海岸奢华珠宝广告
 
 - Creator: @Just_sharon7
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-e53b614b0f42) · [finished media](https://media.goodcase.ai/media/video/case-e53b614b0f42.mp4) · [poster](https://media.goodcase.ai/media/poster/case-e53b614b0f42.jpg) · [original source](https://x.com/Just_sharon7/status/2080973878705434901)
@@ -106,7 +125,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 6–9s
 > She gracefully sits inside the convertible. Cl…
 
-### E7 · 欧洲古城清晨咖啡漫游
+### E8 · 欧洲古城清晨咖啡漫游
 
 - Creator: @ChillaiKalan__
 - Evidence: [GoodCase](https://goodcase.ai/cases/chillaikalan-seedance-ai-c67e26cea7cb) · [finished media](https://media.goodcase.ai/cases/3eaaebad9ec5.mp4) · [poster](https://media.goodcase.ai/cases/693702114cbc.jpg) · [original source](https://x.com/ChillaiKalan__/status/2094280707422191705)
@@ -127,53 +146,30 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > She carries a small compact vlog camera, held naturally at arm's length during selfie…
 
-### E8 · 韩国夜市街头美食旅行随拍
-
-- Creator: @Ciri_ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-b695c8946a86) · [finished media](https://media.goodcase.ai/cases/717010b96b02.mp4) · [poster](https://media.goodcase.ai/cases/d0e3772d205d.jpg) · [original source](https://x.com/Ciri_ai/status/2091842148970996054)
-- Summary: Made with Seedance 2.5 Prompt: FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacati
-- Prompt excerpt:
-
-> FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog
->
-> Preserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from <<<image_1>>> throughout the entire video. The same woman must appear consistently in every shot.
->
-> VISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.
->
-> Outfit: oversized cream knit cardigan over a plain black turtleneck, straight-leg dark denim jeans, white low-top sneakers, small silver hoop earrings, hair down straight with a loose scarf tied around the neck. The entire video must feel like one genuine recording captured by a friend while traveling through a real neighborhood in Busan, South Korea, not a staged commercial or cinematic recreation.
->
-> 00:00–00:04 — EVENING ARRIVAL
-> The woman walks down a narrow alley near Gwangjang Market, string lights and steam rising from nearby carts, camera bouncing slightly behind her.
-> She glances back at the camera and says:
-> "Okay, I heard this market has the best street food in Busan!"
->
-> 00:04–00:08 — THE FOOD STALLS
-> She arrives at a bustli…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 90s West Coast Documentary Realism | @techhalla | [GoodCase](https://goodcase.ai/cases/90s-west-coast-documentary-realism) | [Media](https://media.goodcase.ai/media/video/90s-west-coast-documentary-realism.mp4) | [Original](https://x.com/techhalla/status/2086469019146592294) | E1 |
-| 耳机少女的日本漫游 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/aiwithsynthia-seedance-ai-ab4f303de473) | [Media](https://media.goodcase.ai/cases/f88e407bd41b.mp4) | [Original](https://x.com/AIwithSynthia/status/2094640515895460285) | E2 |
-| Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake | AI_with_qamar | [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) | [Media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) | [Original](https://x.com/q_a_i_m_01/status/2106092164250059051) | E3 |
-| 少女在日本山巅记录春日风光 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) | [Original](https://x.com/ayzalnooor24521/status/2093192618599755890) | E4 |
-| 夏日热带度假村漫游 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-c1907f5f9753) | [Media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-c1907f5f9753.mp4) | [Original](https://x.com/CaliraVal/status/2092464771874664617) | E5 |
-| 阿马尔菲海岸奢华珠宝广告 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/case-e53b614b0f42) | [Media](https://media.goodcase.ai/media/video/case-e53b614b0f42.mp4) | [Original](https://x.com/Just_sharon7/status/2080973878705434901) | E6 |
-| 欧洲古城清晨咖啡漫游 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/chillaikalan-seedance-ai-c67e26cea7cb) | [Media](https://media.goodcase.ai/cases/3eaaebad9ec5.mp4) | [Original](https://x.com/ChillaiKalan__/status/2094280707422191705) | E7 |
-| 韩国夜市街头美食旅行随拍 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-b695c8946a86) | [Media](https://media.goodcase.ai/cases/717010b96b02.mp4) | [Original](https://x.com/Ciri_ai/status/2091842148970996054) | E8 |
+| A heartwarming journey of kindness and love. | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/a-heartwarming-journey-of-kindness-and-love) | [Media](https://media.goodcase.ai/cases/1e7ede62356c.mp4) | [Original](https://x.com/ayzalnooor24521/status/2118538318178828738) | E2 |
+| 耳机少女的日本漫游 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/aiwithsynthia-seedance-ai-ab4f303de473) | [Media](https://media.goodcase.ai/cases/f88e407bd41b.mp4) | [Original](https://x.com/AIwithSynthia/status/2094640515895460285) | E3 |
+| Anime scooter ride down a daisy-covered mountain trail into a ramp jump over an alpine lake | AI_with_qamar | [GoodCase](https://goodcase.ai/cases/anime-scooter-daisy-mountain-trail-jump) | [Media](https://media.goodcase.ai/cases/413a5fcba20b.mp4) | [Original](https://x.com/q_a_i_m_01/status/2106092164250059051) | E4 |
+| 少女在日本山巅记录春日风光 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) | [Original](https://x.com/ayzalnooor24521/status/2093192618599755890) | E5 |
+| 夏日热带度假村漫游 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/caliraval-minimax-h3-ai-c1907f5f9753) | [Media](https://media.goodcase.ai/media/video/caliraval-minimax-h3-ai-c1907f5f9753.mp4) | [Original](https://x.com/CaliraVal/status/2092464771874664617) | E6 |
+| 阿马尔菲海岸奢华珠宝广告 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/case-e53b614b0f42) | [Media](https://media.goodcase.ai/media/video/case-e53b614b0f42.mp4) | [Original](https://x.com/Just_sharon7/status/2080973878705434901) | E7 |
+| 欧洲古城清晨咖啡漫游 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/chillaikalan-seedance-ai-c67e26cea7cb) | [Media](https://media.goodcase.ai/cases/3eaaebad9ec5.mp4) | [Original](https://x.com/ChillaiKalan__/status/2094280707422191705) | E8 |
+| 韩国夜市街头美食旅行随拍 | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-b695c8946a86) | [Media](https://media.goodcase.ai/cases/717010b96b02.mp4) | [Original](https://x.com/Ciri_ai/status/2091842148970996054) | E— |
 | Elon Musk Starship Journey | @Amrutraj4 | [GoodCase](https://goodcase.ai/cases/elon-musk-starship-journey) | [Media](https://media.goodcase.ai/media/video/elon-musk-starship-journey.mp4) | [Original](https://x.com/Amrutraj4/status/2081432217482641861) | E— |
 | 韩国女子雨雪漫游伦敦巴黎莫斯科 | @HustleXR | [GoodCase](https://goodcase.ai/cases/hustlexr-seedance-ai-23a0d0b1e1ff) | [Media](https://media.goodcase.ai/cases/d1d0e766e8bc.mp4) | [Original](https://x.com/HustleXR/status/2092492677384437909) | E— |
 | 三位女孩漫游日本传统市场 | @Lianaalane | [GoodCase](https://goodcase.ai/cases/lianaalane-seedance-ai-57edf326d97f) | [Media](https://media.goodcase.ai/cases/e4a1743e7974.mp4) | [Original](https://x.com/Lianaalane/status/2093213626664706410) | E— |
 | 夕阳海滩上戴墨镜的女子仰望天空 | KTCML | [GoodCase](https://goodcase.ai/cases/midjourney-detailed-prompt-best-for-midjourney-v6-dall-e-3-a-side-profile-shot-of-a-y-fcb55d576e6e) | [Media](https://media.goodcase.ai/cases/a11ccf92e1fc.mp4) | [Original](https://www.tiktok.com/@kyitharchanmyaelwinnn/video/7691970313613004063) | E— |
+| Midjourney：不露脸、用动画讲What If假设情景 | @daodao166888 | [GoodCase](https://goodcase.ai/cases/midjourney-what-if-19d148876c9a) | [Media](https://media.goodcase.ai/cases/f658b80b126a.mp4) | [Original](https://x.com/daodao166888/status/2117987979100914147) | E— |
 | 金色海岸漫步时光 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-fashion-film-set-on-a-breathtaking-coastal-landscape-83b287d8aae4) | [Media](https://media.goodcase.ai/cases/577910827af2.mp4) | [Original](https://x.com/CaliraVal/status/2096833346555023816) | E— |
 | 穿行日式寺院与巴厘圣境的织染华服 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-luxury-fashion-film-30-seconds-photorealistic-4k-shallow-depth-7b3125ffca7b) | [Media](https://media.goodcase.ai/cases/3ef9a07096a6.mp4) | [Original](https://x.com/Zyrellix/status/2104423200520388786) | E— |
 | 伊斯坦布尔旅拍漫游 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-continuous-4k-travel-vlog-video-featuring-a-young-east-asian-woman-with-long-763d933f6152) | [Media](https://media.goodcase.ai/cases/173f6dd36b17.mp4) | [Original](https://x.com/Zyrellix/status/2096817125864484954) | E— |
 | MiniMax H3 镜落 冰晶碎裂无缝循环特效视频 | @Cia0_exe | [GoodCase](https://goodcase.ai/cases/minimax-h3-be14aed5a842) | [Media](https://media.goodcase.ai/media/video/minimax-h3-be14aed5a842.mp4) | [Original](https://x.com/Cia0_exe/status/2082774526098874724) | E— |
 | 白衣女子的热带海岸漫步 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/minimax-h3-created-with-minimax-h3-10c606612cf6) | [Media](https://media.goodcase.ai/cases/d621aec9e022.mp4) | [Original](https://x.com/CaliraVal/status/2104438855785136257) | E— |
 | MiniMax H3 GLACIA 冰晶网页交互演示视频 | @Cia0_exe | [GoodCase](https://goodcase.ai/cases/minimax-h3-glacia-2fde7e8c6f96) | [Media](https://media.goodcase.ai/media/video/minimax-h3-glacia-2fde7e8c6f96.mp4) | [Original](https://x.com/Cia0_exe/status/2083180088775045626) | E— |
-| 挪威海岸与高山草甸之旅 | @ChillaiKalan__ | [GoodCase](https://goodcase.ai/cases/minimax-h3-photoreal-travel-cinema-16-9-24fps-spherical-35-50mm-180-shutter-fine-grai-afdeb7fd218d) | [Media](https://media.goodcase.ai/cases/fa13d89ef50f.mp4) | [Original](https://x.com/ChillaiKalan__/status/2095776947922141390) | E— |
-| 狐狸在森林溪流边自拍漫游 | @MrDasOnX | [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | [Media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) | [Original](https://x.com/MrDasOnX/status/2089969922617266257) | E— |
 
 ## Derivation boundary
 
