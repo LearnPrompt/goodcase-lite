@@ -1,12 +1,31 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 3 published Cases attributed to ayzalnooor24521. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to ayzalnooor24521. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 少女在日本山巅记录春日风光
+### E1 · A heartwarming journey of kindness and love.
+
+- Creator: @ayzalnooor24521
+- Evidence: [GoodCase](https://goodcase.ai/cases/a-heartwarming-journey-of-kindness-and-love) · [finished media](https://media.goodcase.ai/cases/1e7ede62356c.mp4) · [poster](https://media.goodcase.ai/cases/574e210988b7.jpg) · [original source](https://x.com/ayzalnooor24521/status/2118538318178828738)
+- Summary: A heartwarming journey of kindness and love. From a cozy home to a rainy street, one little rescue turns into a beautiful bond between a girl and an adorable ki…
+- Prompt excerpt:
+
+> A heartwarming journey of kindness and love. From a cozy home to a rainy street, one little rescue turns into a beautiful bond between a girl and an adorable kitten.
+>
+> Created with @PixVerse
+>
+> 🔗 Watch the video:
+>
+> https://t.co/bciCAqPi04…
+>
+> Full video prompt in the first comment 👇
+>
+> #PixVerseAI #AIVideo #AIArt #AIStorytelling #KittenRescue
+
+### E2 · 少女在日本山巅记录春日风光
 
 - Creator: @ayzalnooor24521
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-890aad58385a.jpg) · [original source](https://x.com/ayzalnooor24521/status/2093192618599755890)
@@ -15,7 +34,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create a credited 14-second cinematic video on Japanese mountain view, featuring a consistent young East-Asian woman with long dark hair, a beige sweater, and a backpack arriving at a breathtaking mountain viewpoint. She calmly raises her smartphone and starts recording the stunning scenery around her. The camera smoothly follows her movement and transitions into a beautiful panoramic view of the lush green valley. A red cable car glides naturally across the mountainside while soft pink cherry blossoms move gently in the breeze. The camera reveals a traditional Japanese multi-tiered pagoda surrounded by peaceful mountain scenery. Wide cinematic shots capture majestic snow-capped peaks under soft natural daylight. End with the woman smiling peacefully while filming the expansive landscape on her phone, creating a refreshing and adventurous travel moment.
 
-### E2 · 年轻女子漫步韩国海滨村落与日落海岸
+### E3 · 年轻女子漫步韩国海滨村落与日落海岸
 
 - Creator: @ayzalnooor24521
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-a-30-second-ultra-realistic-cinematic-lifestyle-vlog-featuring-a-beautif-a70d082492a0) · [finished media](https://media.goodcase.ai/cases/68959719796d.mp4) · [poster](https://media.goodcase.ai/cases/efa129d2412b.jpg) · [original source](https://x.com/ayzalnooor24521/status/2109121097803374790)
@@ -34,7 +53,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Scene 5 (24–30 seconds): End with a wide cinematic shot of the girl walking toward the gl…
 
-### E3 · 韩国少女的雪山村庄之旅
+### E4 · 韩国少女的雪山村庄之旅
 
 - Creator: @ayzalnooor24521
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3) · [finished media](https://media.goodcase.ai/cases/f468fcfe83dd.mp4) · [poster](https://media.goodcase.ai/cases/aacb79532b6c.jpg) · [original source](https://x.com/ayzalnooor24521/status/2104443916695347682)
@@ -47,9 +66,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 少女在日本山巅记录春日风光 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) | [Original](https://x.com/ayzalnooor24521/status/2093192618599755890) | E1 |
-| 年轻女子漫步韩国海滨村落与日落海岸 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-a-30-second-ultra-realistic-cinematic-lifestyle-vlog-featuring-a-beautif-a70d082492a0) | [Media](https://media.goodcase.ai/cases/68959719796d.mp4) | [Original](https://x.com/ayzalnooor24521/status/2109121097803374790) | E2 |
-| 韩国少女的雪山村庄之旅 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3) | [Media](https://media.goodcase.ai/cases/f468fcfe83dd.mp4) | [Original](https://x.com/ayzalnooor24521/status/2104443916695347682) | E3 |
+| A heartwarming journey of kindness and love. | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/a-heartwarming-journey-of-kindness-and-love) | [Media](https://media.goodcase.ai/cases/1e7ede62356c.mp4) | [Original](https://x.com/ayzalnooor24521/status/2118538318178828738) | E1 |
+| 少女在日本山巅记录春日风光 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) | [Media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) | [Original](https://x.com/ayzalnooor24521/status/2093192618599755890) | E2 |
+| 年轻女子漫步韩国海滨村落与日落海岸 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-a-30-second-ultra-realistic-cinematic-lifestyle-vlog-featuring-a-beautif-a70d082492a0) | [Media](https://media.goodcase.ai/cases/68959719796d.mp4) | [Original](https://x.com/ayzalnooor24521/status/2109121097803374790) | E3 |
+| 韩国少女的雪山村庄之旅 | @ayzalnooor24521 | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3) | [Media](https://media.goodcase.ai/cases/f468fcfe83dd.mp4) | [Original](https://x.com/ayzalnooor24521/status/2104443916695347682) | E4 |
 
 ## Derivation boundary
 

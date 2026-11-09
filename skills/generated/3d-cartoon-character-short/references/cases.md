@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 29 published Cases across 18 creators.
+This workflow is derived from 30 published Cases across 18 creators.
 
 ## Operating rule
 
@@ -145,10 +145,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 棕色黏土手工变身微缩海盗帆船 | @aynellex | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-15-second-stop-motion-style-miniature-craft-c43cb05be517) | [Media](https://media.goodcase.ai/cases/7b913701291e.mp4) | [Original](https://x.com/aynellex/status/2109504237852139774) | E— |
 | 女子藏身地牢守护三只幼龙 | @Adnan_Ai2 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-66ee33ce05b6) | [Media](https://media.goodcase.ai/cases/8cbcfeb03aeb.mp4) | [Original](https://x.com/Adnan_Ai2/status/2113945930185732358) | E— |
 | 石屋炉火旁，女子悄悄喂养粉色幼龙 | @Adnan_Ai2 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-a5f5eb84df64) | [Media](https://media.goodcase.ai/cases/ed3b2e5bd263.mp4) | [Original](https://x.com/Adnan_Ai2/status/2113451899013996748) | E— |
+| 孕肚里冒出打网球的卡通宝宝 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d9a546c91842) | [Media](https://media.goodcase.ai/cases/abd646af5aae.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2118533471786406031) | E— |
 | 宠物幼龙偷吃晚餐引发庭院闹剧 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-2-5-pure-cinematic-chaos-created-with-seedance-2-5-on-6d2ba401d257) | [Media](https://media.goodcase.ai/cases/76c9584a5d77.mp4) | [Original](https://x.com/itxabdullaa/status/2109603859513712776) | E— |
 | 石屋中少女秘密喂养粉色幼龙 | @SadiaMalik182 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-she-raised-it-in-secret-fed-it-by-hand-968c74bd7401) | [Media](https://media.goodcase.ai/cases/175d30b71143.mp4) | [Original](https://x.com/SadiaMalik182/status/2113908264387981758) | E— |
 | Pixar 风格海盗厨师 ASMR 喜剧短片：Seedance 2.5 逐秒分镜 Prompt | @AiwithNomi | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018) | [Media](https://media.goodcase.ai/cases/8815c71013d6.mp4) | [Original](https://x.com/AiwithNomi/status/2099872759866380704) | E— |
-| 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E— |
 
 ## Derivation boundary
 

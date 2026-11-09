@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Just_sharon7. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to Just_sharon7. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -51,7 +51,17 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > she attacks again. Image1 narrowly sidesteps, pivots outside the attack angle, and @Image2 turns toward him, briefly exposing th…
 
-### E3 · 隧道追逐与海边旧梦：她拥抱怪物恋人
+### E3 · 雪崖上黑衣与银甲女武士对决
+
+- Creator: @Just_sharon7
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-slow-fighting-weak-impacts-graceful-dancing-random-sword-waving-passive-opp-46139dba087e) · [finished media](https://media.goodcase.ai/cases/c80b0ad36abb.mp4) · [poster](https://media.goodcase.ai/cases/07ff00a153ba.jpg) · [original source](https://x.com/Just_sharon7/status/2117569022690762832)
+- Summary: The deadliest battle above the clouds. Seedance 2.5 on @renoiseai @renoiseaijp prompt FROZEN BLADES — THE LAST BREATH EXTREME CINEMATIC SWORD FIGHT — 30 SECONDS…
+- Prompt excerpt:
+
+> Slow fighting, weak impacts, graceful dancing, random sword waving, passive opponents, long pauses, excessive posing, artificial movements, robotic combat, unrealistic anatomy, floating bodies, weightless swords, missing blades, duplicated limbs, changing faces, excessive camera shake, excessive slow motion, cartoon physics, artificial snow, low-detail environments, subtitles, text, logos, watermarks.
+> FINAL CREATIVE GOAL: Make viewers feel that they have witnessed 30 seconds of the most terrifyingly fast, technically brilliant, and visually spectacular female samurai sword combat imaginable. Every impact must feel dangerous. Every dodge must feel like a near-death escape. Every second must escalate the tension. The final sword collision and bridge collapse must deliver a powerful cinematic adrenaline rush.
+
+### E4 · 隧道追逐与海边旧梦：她拥抱怪物恋人
 
 - Creator: @Just_sharon7
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-monster-was-once-the-love-of-her-life-1bb15d3221de) · [finished media](https://media.goodcase.ai/cases/a47fe6ff4c86.mp4) · [poster](https://media.goodcase.ai/cases/4f9237295f95.jpg) · [original source](https://x.com/Just_sharon7/status/2106808592523571360)
@@ -84,7 +94,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Her…
 
-### E4 · 烟歇遇袭的庭院女侠
+### E5 · 烟歇遇袭的庭院女侠
 
 - Creator: @Just_sharon7
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712) · [finished media](https://media.goodcase.ai/cases/41811c276a36.mp4) · [poster](https://media.goodcase.ai/cases/4ef9719a2fa7.jpg) · [original source](https://x.com/Just_sharon7/status/2105196278217150537)
@@ -111,8 +121,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | --- | --- | --- | --- | --- | --- |
 | 现代战争 FPS 实机画面 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/fps-287977d45ea5) | [Media](https://media.goodcase.ai/cases/411b189c5435.webm) | [Original](https://x.com/Just_sharon7/status/2083064417798025721) | E1 |
 | Seedance 2.5 同人对打：Sharon 大战 Sharon | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-8085c03efbb0) | [Media](https://media.goodcase.ai/cases/c6c009bc0dd4.mp4) | [Original](https://x.com/Just_sharon7/status/2088878042034868640) | E2 |
-| 隧道追逐与海边旧梦：她拥抱怪物恋人 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-monster-was-once-the-love-of-her-life-1bb15d3221de) | [Media](https://media.goodcase.ai/cases/a47fe6ff4c86.mp4) | [Original](https://x.com/Just_sharon7/status/2106808592523571360) | E3 |
-| 烟歇遇袭的庭院女侠 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712) | [Media](https://media.goodcase.ai/cases/41811c276a36.mp4) | [Original](https://x.com/Just_sharon7/status/2105196278217150537) | E4 |
+| 雪崖上黑衣与银甲女武士对决 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-slow-fighting-weak-impacts-graceful-dancing-random-sword-waving-passive-opp-46139dba087e) | [Media](https://media.goodcase.ai/cases/c80b0ad36abb.mp4) | [Original](https://x.com/Just_sharon7/status/2117569022690762832) | E3 |
+| 隧道追逐与海边旧梦：她拥抱怪物恋人 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-monster-was-once-the-love-of-her-life-1bb15d3221de) | [Media](https://media.goodcase.ai/cases/a47fe6ff4c86.mp4) | [Original](https://x.com/Just_sharon7/status/2106808592523571360) | E4 |
+| 烟歇遇袭的庭院女侠 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712) | [Media](https://media.goodcase.ai/cases/41811c276a36.mp4) | [Original](https://x.com/Just_sharon7/status/2105196278217150537) | E5 |
 
 ## Derivation boundary
 

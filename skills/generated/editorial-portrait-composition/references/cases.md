@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 110 published Cases across 69 creators.
+This workflow is derived from 114 published Cases across 71 creators.
 
 ## Operating rule
 
@@ -120,6 +120,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 咖啡馆里的生动肖像 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-16c214b85b27) | [Media](https://media.goodcase.ai/media/image/case-16c214b85b27.jpg) | [Original](https://x.com/aatif_j/status/2081492288836981123) | E7 |
 | 男士时尚杂志大片拍摄 | @iamrealsnow | [GoodCase](https://goodcase.ai/cases/case-18401fd311fe) | [Media](https://media.goodcase.ai/cases/007f3dfbabc2.jpg) | [Original](https://x.com/iamrealsnow/status/2097920542284382260) | E8 |
 | 在這广袤天地：藏地仪式面具表演者仰拍肖像 | 泡面AIGC | [GoodCase](https://goodcase.ai/cases/case-1c3a05467f98) | [Media](https://media.goodcase.ai/supply-media/douyin-accounts-20261020/7672751011496250670/media-img-01.webp) | [Original](https://www.douyin.com/note/7672751011496250670?gc=7672751011496250670-1) | E— |
+| 光纤超现实主义人像提示词 | @timedoctor_nft | [GoodCase](https://goodcase.ai/cases/case-1c653d9bb8af) | [Media](https://media.goodcase.ai/cases/2d41c8a49ca7.jpg) | [Original](https://x.com/timedoctor_nft/status/2117611010387222717) | E— |
 | 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E— |
 | 当繁华褪去：薄纱遮面低头沉思的黑白女子肖像 | 泡面AIGC | [GoodCase](https://goodcase.ai/cases/case-24f8727d36e5) | [Media](https://media.goodcase.ai/supply-media/douyin-accounts-20261021/7673032868087467310/media-img-08.webp) | [Original](https://www.douyin.com/note/7673032868087467310?gc=7673032868087467310-8) | E— |
 | 豪华汽车杂志风人像 | @vireonixx | [GoodCase](https://goodcase.ai/cases/case-2a9caf78561c) | [Media](https://media.goodcase.ai/media/image/case-2a9caf78561c.jpg) | [Original](https://x.com/vireonixx/status/2081388724076818568) | E— |
@@ -130,7 +131,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 奢华摄影棚时尚大片 | @john_my07 | [GoodCase](https://goodcase.ai/cases/case-59c91a376d70) | [Media](https://media.goodcase.ai/media/image/case-59c91a376d70.jpg) | [Original](https://x.com/john_my07/status/2080344542885335240) | E— |
 | 照片人像自然美颜优化 | 数字生命卡兹克 | [GoodCase](https://goodcase.ai/cases/case-5a2d1946332d) | [Media](https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261002/6aba0f9c0000000015013521/media-img-01.webp) | [Original](https://www.xiaohongshu.com/explore/6aba0f9c0000000015013521?xsec_token=YBgKHx2esTLwSJsKQUuQ_m8HUEdGsWty-VDeylITSv-AQ=&gc=6aba0f9c0000000015013521-1) | E— |
 | 电影感艺术自然人像 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-5fe2c52283f0) | [Media](https://media.goodcase.ai/media/image/case-5fe2c52283f0.jpg) | [Original](https://x.com/Taaruk_/status/2081597935947792465) | E— |
-| 戏剧性光影的电影感人像 | @SakiH_AI | [GoodCase](https://goodcase.ai/cases/case-63b1ed9d96de) | [Media](https://media.goodcase.ai/cases/454c293239a1.jpg) | [Original](https://x.com/SakiH_AI/status/2111551337435734447) | E— |
 
 ## Derivation boundary
 
