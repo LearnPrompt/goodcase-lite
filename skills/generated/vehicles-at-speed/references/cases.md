@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 30 published Cases across 22 creators.
+This workflow is derived from 31 published Cases across 22 creators.
 
 ## Operating rule
 
@@ -136,11 +136,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 第一视角凌空组装黑色兰博基尼 | @MissDelulu9 | [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) | [Media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) | [Original](https://x.com/MissDelulu9/status/2091423578197737772) | E— |
 | 地下车库中黑色液态金属化为宝马跑车 | @itsSaira_1 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-hyper-realistic-cinematic-shot-in-a-dimly-lit-underground-concrete-parking-g-36e73a5589c3) | [Media](https://media.goodcase.ai/cases/179db7bf7a35.mp4) | [Original](https://x.com/itsSaira_1/status/2109495654607446267) | E— |
 | 跑车、摩托、坦克与战机变身机甲 | @laviniavelle | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a) | [Media](https://media.goodcase.ai/cases/2d97c43f9b67.mp4) | [Original](https://x.com/laviniavelle/status/2108404878590857384) | E— |
+| 落日公路上粉发少女伸手向星空 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-cartoon-appearance-anime-style-artificial-skin-distorted-faces-changing-hai-473dec637d64) | [Media](https://media.goodcase.ai/cases/8564e8545f30.mp4) | [Original](https://x.com/Just_sharon7/status/2118685486122520712) | E— |
 | 白色超跑飞越首尔江面降落楼顶 | @aiwithaayat | [GoodCase](https://goodcase.ai/cases/seedance-2-5-created-a-video-30-second-featuring-a-futuristic-white-supercar-driving-throu-f4b0d3637ef0) | [Media](https://media.goodcase.ai/cases/7dc3776da6dc.mp4) | [Original](https://x.com/aiwithaayat/status/2112025080335339907) | E— |
 | 摩托骑士公路追击绑匪营救女子 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5) | [Media](https://media.goodcase.ai/cases/ad17462a0159.mp4) | [Original](https://x.com/Xaroon_x/status/2115374004529664166) | E— |
 | 印尼女子的庭院闲暇与摩托车清洁日常 | @ai_anelia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-image-main-subject-c31d2523363c) | [Media](https://media.goodcase.ai/cases/24f3d8d8ac33.mp4) | [Original](https://x.com/ai_anelia/status/2117239438942306560) | E— |
 | 粉发女子在午夜公路爆炸前从容走来 | @Just_sharon7 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1) | [Media](https://media.goodcase.ai/cases/47b3836c7b6b.mp4) | [Original](https://x.com/Just_sharon7/status/2110990656105807984) | E— |
-| 直升机追踪洛杉矶街头越野摩托特技骑手 | @CharaspowerAI | [GoodCase](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f) | [Media](https://media.goodcase.ai/cases/22fa18ce284e.mp4) | [Original](https://x.com/CharaspowerAI/status/2111517673276240251) | E— |
 
 ## Derivation boundary
 
