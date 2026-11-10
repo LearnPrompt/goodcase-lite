@@ -53,7 +53,7 @@ curl -s "https://goodcase.ai/api/public/cases/real-case-01-umesh-ai"
 
 用户要用新模型跑 goodcase 题、或让某个模型接受评测时，走这四步：
 
-**第一步：抽题。** 按一级分类（video / web / image / hardware）和二级形态（video 档 text-to-video / ref-to-video；web 档 web-ui / motion-3d / agent-tool）各抽 N 条：有二级形态的按二级抽，默认每个二级形态 3 条；无二级形态的一级分类（image、hardware）按一级抽，默认每个 3 条。用户指定了分类就只抽用户指定的那些。默认 `exclude=motion-3d`——motion-3d 考的是素材和运行时效果不是模型能力，评测默认不算模型头上，用户明确要求才加回来。seed 默认取 `日期YYYYMMDD + 模型名`（如 `20260902-veo3`），必须把实际用的 seed 记下来并告诉用户，方便复现和后续跟站内复测对齐。
+**第一步：抽题。** 按一级分类（video / web / image / hardware）和二级形态（video 档 text-to-video / ref-to-video / code-generated-video；web 档 web-ui / motion-3d / game-3d / agent-tool / scene-3d）各抽 N 条：有二级形态的按二级抽，默认每个二级形态 3 条；无二级形态的一级分类（image、hardware）按一级抽，默认每个 3 条。用户指定了分类就只抽用户指定的那些。默认 `exclude=motion-3d`——motion-3d 考的是素材和运行时效果不是模型能力，评测默认不算模型头上，用户明确要求才加回来。`scene-3d`（2026-11-10 新增的 3D 专区：AI 写代码做出的 Three.js / WebGL / WebGPU / Blender 等可交互 3D 场景）算模型能力，**不**默认排除，也不自动并入 motion-3d；同时带 motion-3d 的那部分仍会被 `exclude=motion-3d` 排除。seed 默认取 `日期YYYYMMDD + 模型名`（如 `20260902-veo3`），必须把实际用的 seed 记下来并告诉用户，方便复现和后续跟站内复测对齐。
 
 ```bash
 # 按二级形态抽样（web-ui，3 条，固定 seed）
@@ -66,7 +66,7 @@ curl -s "https://goodcase.ai/api/public/cases?category=image&sample=3&seed=20260
 curl -s "https://goodcase.ai/api/public/cases?category=web&sample=3&seed=20260902-veo3&exclude=motion-3d,agent-tool"
 ```
 
-`sample` 存在时会忽略 `take`；`sample` 范围 1-50；`seed` 任意字符串，同 seed 同参数同结果，不传则随机且不可复现；抽样命中的响应顶层会回显 `seed` 和 `sample`，核对一下确认没有跑偏。`form` 单值，只接受 `text-to-video` / `ref-to-video` / `web-ui` / `motion-3d` / `agent-tool`，传别的值 400。
+`sample` 存在时会忽略 `take`；`sample` 范围 1-50；`seed` 任意字符串，同 seed 同参数同结果，不传则随机且不可复现；抽样命中的响应顶层会回显 `seed` 和 `sample`，核对一下确认没有跑偏。`form` 单值，只接受 `text-to-video` / `ref-to-video` / `code-generated-video` / `web-ui` / `motion-3d` / `game-3d` / `agent-tool` / `scene-3d`，传别的值 400。
 
 某个二级形态抽出来 `count` 为 0（现状：video 档的 text-to-video / ref-to-video 标签全库还没打全，抽出来大概率是空的），就退回去掉 `form`、按一级分类抽同样条数，`exclude=motion-3d` 和这个 seed 保持不变，报告里给这一档注明"该分类按一级抽题"。
 

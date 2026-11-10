@@ -84,13 +84,14 @@ export const zhCNMessages = {
     stability: "稳定度",
     latest: "最新",
   },
-  // AI 视频分类下的二级筛选。取值与 src/lib/case-video-form.ts 里的两个标签一一对应，
+  // AI 视频分类下的二级筛选。取值与 src/lib/case-video-form.ts 里的标签一一对应，
   // 那边是机器标记（也是 URL 参数值），这边只负责显示。
   videoForm: {
     label: "生成形式",
     all: "全部",
     text: "文生视频",
     ref: "参考生视频",
+    code: "代码动画",
   },
   // 副题按实际产出的窗口档位取用，见 src/lib/weekly-hot.ts 的 WeeklyHotWindow。
   // 线上原帖采集是批量的，七天窗口经常凑不满，副题必须跟着实际档位走，
@@ -370,6 +371,7 @@ export const enMessages = {
     all: "All",
     text: "Text only",
     ref: "With reference",
+    code: "Code-rendered",
   },
   weeklyHot: {
     sectionId: "Hot this week",

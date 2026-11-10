@@ -19,14 +19,27 @@ export const VIDEO_FORM_TAG_TEXT = "text-to-video";
 /** 参考素材生成：首帧图、角色/产品参考图、参考视频、参考音频等任意一种。 */
 export const VIDEO_FORM_TAG_REF = "ref-to-video";
 
-export type VideoForm = "all" | typeof VIDEO_FORM_TAG_TEXT | typeof VIDEO_FORM_TAG_REF;
+/**
+ * 代码渲染：视频本身是写成代码（HTML / GSAP / Three.js / Remotion 等）再渲染出来的，
+ * 没有走视频生成模型。与主站 case-video-form.ts 同值（2026-11-10 H2 分类调整：
+ * 代码动画统一归 AI 视频这一档）。
+ */
+export const VIDEO_FORM_TAG_CODE = "code-generated-video";
+
+export type VideoForm =
+  | "all"
+  | typeof VIDEO_FORM_TAG_TEXT
+  | typeof VIDEO_FORM_TAG_REF
+  | typeof VIDEO_FORM_TAG_CODE;
 
 /** 默认值不写进 URL，避免同一份内容出现两个地址（也就是两个 CDN 缓存键）。 */
 export const DEFAULT_VIDEO_FORM: VideoForm = "all";
 
 /** 未知取值一律兜底成「全部」，不让脏参数筛出空列表。 */
 export function normalizeVideoForm(value?: string | null): VideoForm {
-  return value === VIDEO_FORM_TAG_TEXT || value === VIDEO_FORM_TAG_REF
+  return value === VIDEO_FORM_TAG_TEXT ||
+    value === VIDEO_FORM_TAG_REF ||
+    value === VIDEO_FORM_TAG_CODE
     ? value
     : DEFAULT_VIDEO_FORM;
 }
