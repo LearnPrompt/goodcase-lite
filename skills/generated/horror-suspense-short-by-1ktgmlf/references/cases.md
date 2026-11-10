@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 7 published Cases attributed to AIwithSynthia. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 8 published Cases attributed to AIwithSynthia. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -21,7 +21,24 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > The other students freeze before scrambling toward the laboratory exit. The infected woman suddenly becomes completely still, then slowly rotates her head toward them. Her dark veins pulse visibly across her face while her black eyes remai…
 
-### E2 · 黑裙女子在鬼村遭南瓜怪物追逐
+### E2 · 女囚午夜监狱突然尸变爬行
+
+- Creator: @AIwithSynthia
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-ultra-photorealistic-korean-zombie-horror-sequence-set-inside-a-high-s-cfff73f4b731) · [finished media](https://media.goodcase.ai/cases/374565a2e2d9.mp4) · [poster](https://media.goodcase.ai/cases/767dd94c069a.jpg) · [original source](https://x.com/AIwithSynthia/status/2119275943357546798)
+- Summary: THE HAUNTED PRISONER 😳 Made using Seedance 2.5 Prompt : Create a ultra-photorealistic Korean zombie horror sequence set inside a high-security Korean prison at…
+- Prompt excerpt:
+
+> Create a ultra-photorealistic Korean zombie horror sequence set inside a high-security Korean prison at midnight. A young Korean woman prisoner wearing an authentic orange prison uniform, consisting of an orange short-sleeved prison shirt and matching orange prison trousers, with a prisoner identification number printed on her chest, walks cheerfully through a dimly lit prison corridor. Her dark hair is slightly messy, and she playfully waves at a male prison guard standing near her cell.
+>
+> Suddenly, her cheerful expression disappears. Her eyes slowly turn milky white, dark veins spread across her neck and face, and subtle blood appears around her lips. She begins laughing hysterically, tilting her head at an unnatural angle. The guard approaches her, confused, but she suddenly charges toward the metal bars, violently shaking them with inhuman strength.
+>
+> The guard unlocks the cell door to investigate, and she suddenly lunges at him, knocking him to the floor. She crawls rapidly along the corridor on all fours, her orange prison uniform remaining consistent throughout. Other prisoners scream and bang on their cell doors as emergency alarms activate.
+>
+> A female prison officer rushes out of the control room, only to see the infected prisoner crawling unnaturally across the ceiling. She drops her keys and runs toward the security exit.
+>
+> The lights flicker violently before the entire corridor goes dark. In the final scene, two glowing milky-white eyes appear behind the glass of the security booth. A bloody hand slowly presses against the window as the woman's hysterical laughter e…
+
+### E3 · 黑裙女子在鬼村遭南瓜怪物追逐
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-halloween-horror-video-starring-a-beautiful-young-adu-26616ed017f9) · [finished media](https://media.goodcase.ai/cases/9e234fe10127.mp4) · [poster](https://media.goodcase.ai/cases/219492cd886b.jpg) · [original source](https://x.com/AIwithSynthia/status/2115064426315530749)
@@ -41,7 +58,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Maintain consistent character appearance, natural movement, escalating suspense, and AAA live-action horror realism.
 > No cartoon, anime, or stylized animation.
 
-### E3 · 深夜电梯中的丧尸镜像与女子逃生
+### E4 · 深夜电梯中的丧尸镜像与女子逃生
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) · [finished media](https://media.goodcase.ai/cases/be3c091a914d.mp4) · [poster](https://media.goodcase.ai/cases/22c428f45089.jpg) · [original source](https://x.com/AIwithSynthia/status/2105862212422074725)
@@ -54,7 +71,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Negative prompt: Cartoon, anime, stylized CGI, exaggerated gore, distorted anatomy, extra limbs, inconsistent face, unrealistic reflections, floating objects, text, subtitles, watermark.
 
-### E4 · 韩屋驱邪仪式后的未尽阴影
+### E5 · 韩屋驱邪仪式后的未尽阴影
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) · [finished media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) · [poster](https://media.goodcase.ai/cases/5feefb17c82d.jpg) · [original source](https://x.com/AIwithSynthia/status/2099836457430974932)
@@ -67,7 +84,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > End with a wide aftermath shot showing scattered salt, burnt talismans, melted candles, incense smoke, and ritual objects across the floor. Everything appears finished until one untouched talisman begins releasing a faint trail of dark smoke. The camera slowly moves toward it, leaving the supernatural threat unresolved. Realistic Korean folk horror, cinematic lighting, deep shadows, practical fire and smoke, dramatic camera movement, natural acting and sound design, no gore, no subtitles, no watermark, no anime or ca…
 
-### E5 · 实验室寄生感染危机
+### E6 · 实验室寄生感染危机
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) · [finished media](https://media.goodcase.ai/cases/55154fddc144.mp4) · [poster](https://media.goodcase.ai/cases/a0d17a9bf535.jpg) · [original source](https://x.com/AIwithSynthia/status/2101161634022474024)
@@ -80,7 +97,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > She repeatedly strikes the glass while staring directly at him, her completely black eyes and pulsing dark veins clearly visible. Two mo…
 
-### E6 · 昏暗公厕里的双感染者追袭
+### E7 · 昏暗公厕里的双感染者追袭
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921) · [finished media](https://media.goodcase.ai/cases/3952e2969101.mp4) · [poster](https://media.goodcase.ai/cases/4b9a684c1b94.jpg) · [original source](https://x.com/AIwithSynthia/status/2103091393145282775)
@@ -97,7 +114,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Style: photorealistic Korean zombie horror, claustrophobic tiled washroom, wet surfaces, cold fluorescent lighting, realistic skin, dark veins, terrifying eyes, unnatural but believable movements, handheld camera, practical-effects feel, natural reactions, no gore, no graphic injuries, no CGI look, no morphing, no duplicate characters, no distorted anatomy, no subtitles, no text, no watermark.
 
-### E7 · 夜行卧铺列车感染惊魂
+### E8 · 夜行卧铺列车感染惊魂
 
 - Creator: @AIwithSynthia
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) · [finished media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) · [poster](https://media.goodcase.ai/cases/86a341e46f5f.jpg) · [original source](https://x.com/AIwithSynthia/status/2100803982197502368)
@@ -115,12 +132,13 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 大学实验室感染失控，学生变成丧尸 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd) | [Media](https://media.goodcase.ai/cases/dbdca4f6279f.mp4) | [Original](https://x.com/AIwithSynthia/status/2106955772395659431) | E1 |
-| 黑裙女子在鬼村遭南瓜怪物追逐 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-halloween-horror-video-starring-a-beautiful-young-adu-26616ed017f9) | [Media](https://media.goodcase.ai/cases/9e234fe10127.mp4) | [Original](https://x.com/AIwithSynthia/status/2115064426315530749) | E2 |
-| 深夜电梯中的丧尸镜像与女子逃生 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) | [Media](https://media.goodcase.ai/cases/be3c091a914d.mp4) | [Original](https://x.com/AIwithSynthia/status/2105862212422074725) | E3 |
-| 韩屋驱邪仪式后的未尽阴影 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) | [Media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) | [Original](https://x.com/AIwithSynthia/status/2099836457430974932) | E4 |
-| 实验室寄生感染危机 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) | [Media](https://media.goodcase.ai/cases/55154fddc144.mp4) | [Original](https://x.com/AIwithSynthia/status/2101161634022474024) | E5 |
-| 昏暗公厕里的双感染者追袭 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921) | [Media](https://media.goodcase.ai/cases/3952e2969101.mp4) | [Original](https://x.com/AIwithSynthia/status/2103091393145282775) | E6 |
-| 夜行卧铺列车感染惊魂 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) | [Media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) | [Original](https://x.com/AIwithSynthia/status/2100803982197502368) | E7 |
+| 女囚午夜监狱突然尸变爬行 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-ultra-photorealistic-korean-zombie-horror-sequence-set-inside-a-high-s-cfff73f4b731) | [Media](https://media.goodcase.ai/cases/374565a2e2d9.mp4) | [Original](https://x.com/AIwithSynthia/status/2119275943357546798) | E2 |
+| 黑裙女子在鬼村遭南瓜怪物追逐 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-halloween-horror-video-starring-a-beautiful-young-adu-26616ed017f9) | [Media](https://media.goodcase.ai/cases/9e234fe10127.mp4) | [Original](https://x.com/AIwithSynthia/status/2115064426315530749) | E3 |
+| 深夜电梯中的丧尸镜像与女子逃生 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) | [Media](https://media.goodcase.ai/cases/be3c091a914d.mp4) | [Original](https://x.com/AIwithSynthia/status/2105862212422074725) | E4 |
+| 韩屋驱邪仪式后的未尽阴影 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b) | [Media](https://media.goodcase.ai/cases/3e32e72f7f14.mp4) | [Original](https://x.com/AIwithSynthia/status/2099836457430974932) | E5 |
+| 实验室寄生感染危机 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) | [Media](https://media.goodcase.ai/cases/55154fddc144.mp4) | [Original](https://x.com/AIwithSynthia/status/2101161634022474024) | E6 |
+| 昏暗公厕里的双感染者追袭 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921) | [Media](https://media.goodcase.ai/cases/3952e2969101.mp4) | [Original](https://x.com/AIwithSynthia/status/2103091393145282775) | E7 |
+| 夜行卧铺列车感染惊魂 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) | [Media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) | [Original](https://x.com/AIwithSynthia/status/2100803982197502368) | E8 |
 
 ## Derivation boundary
 

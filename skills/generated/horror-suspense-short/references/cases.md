@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 44 published Cases across 24 creators.
+This workflow is derived from 45 published Cases across 24 creators.
 
 ## Operating rule
 
@@ -217,9 +217,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 暮色中的英式豪宅区遭丧尸围困 | @JuliaClarky | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-aaa-quality-cinematic-zombie-apocalypse-gam-0a75029b0a3d) | [Media](https://media.goodcase.ai/cases/fb6ddf54d317.mp4) | [Original](https://x.com/JuliaClarky/status/2116066465379922312) | E— |
 | 商场女子变身雷电战士迎战丧尸 | @aiwithaayat | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-zombie-apocalypse-action-video-in-de6fcb9d50bc) | [Media](https://media.goodcase.ai/cases/d38e9520bc1f.mp4) | [Original](https://x.com/aiwithaayat/status/2117468811712700511) | E— |
 | 大学实验室感染失控，学生变成丧尸 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd) | [Media](https://media.goodcase.ai/cases/dbdca4f6279f.mp4) | [Original](https://x.com/AIwithSynthia/status/2106955772395659431) | E— |
+| 女囚午夜监狱突然尸变爬行 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-ultra-photorealistic-korean-zombie-horror-sequence-set-inside-a-high-s-cfff73f4b731) | [Media](https://media.goodcase.ai/cases/374565a2e2d9.mp4) | [Original](https://x.com/AIwithSynthia/status/2119275943357546798) | E— |
 | 落日鬼镇枪手快枪解救人质 | @Xaroon_x | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-16-9-photorealistic-hollywood-western-action-sequ-67adba89a852) | [Media](https://media.goodcase.ai/cases/e2c2349d41f8.mp4) | [Original](https://x.com/Xaroon_x/status/2118289645855269290) | E— |
 | 黑裙女子在鬼村遭南瓜怪物追逐 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-halloween-horror-video-starring-a-beautiful-young-adu-26616ed017f9) | [Media](https://media.goodcase.ai/cases/9e234fe10127.mp4) | [Original](https://x.com/AIwithSynthia/status/2115064426315530749) | E— |
-| 深夜电梯中的丧尸镜像与女子逃生 | @AIwithSynthia | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-an-old-apartment-29ede13fb50e) | [Media](https://media.goodcase.ai/cases/be3c091a914d.mp4) | [Original](https://x.com/AIwithSynthia/status/2105862212422074725) | E— |
 
 ## Derivation boundary
 

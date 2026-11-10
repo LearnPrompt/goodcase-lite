@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 33 published Cases across 27 creators.
+This workflow is derived from 36 published Cases across 29 creators.
 
 ## Operating rule
 
@@ -149,7 +149,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > A sophisticated {argument name="subject" default="hybrid human portrait style"} that seamlessly combines the whimsical, glossy dimensional rendering of a premium 3D fantasy illustration with the clean, elegant simplicity of contemporary flat vector portraiture. Depict the human subject with recognizable anatomy, natural facial proportions, authentic expression, and clearly identifiable features, while transforming the overall appearance into a refined stylized illustration. The face should combine smooth dimensional modeling with simplified graphic planes: softly sculpted skin, subtle volumetric shading, delicate highlights, clean angular shapes, and carefully controlled flat-color regions. Use the visual language of premium digital character illustration: luminous expressive eyes, softly rendered skin, smooth flowing hair with layered strands, polished highlights, gentle depth, tactile surfaces, and subtle painterly transitions. At the same time, simplify the rendering with elegant vector-like shapes, clean silhouettes, controlled linework, minimal visual noise, and clearly defined color planes inspired by modern editorial portrait illustration. Integrate {argument name="artistic elements" default="flowing artistic elements around the human figure, such as fluid paint splashes, soft liquid ribbons, abstract organic shapes"}. These elements should feel energetic and three-dimensional, organically emerging from the portrait rather than appearing as a separate background decoration. Hair should combine clean graphic masses with silky dimensional strands and sweeping flowing s…
 
-### E5 · 通用 AI 角色设定图生成器
+### E5 · 3D 名人漫画像模板（Prompt share）
+
+- Creator: @azed_ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/3d-prompt-share-cae3793c8a66) · [finished media](https://media.goodcase.ai/cases/2cb2785cd554.jpg) · [original source](https://x.com/azed_ai/status/2119383710592290824)
+- Summary: azed_ai Prompt share：超写实3D名人漫画像模板，正文含完整可替换 [celebrity] 提示词，附4张示例。
+- Prompt excerpt:
+
+> A hyperrealistic 3D caricature of [celebrity], oversized head, exaggerated yet recognizable facial features, authentic skin pores, fine wrinkles, natural blemishes, subsurface scattering, realistic eyes, detailed hair strands, [signature outfit], [expressive pose], humorous proportions, lifelike human skin shaders, high-resolution PBR textures, photorealistic CGI rendering, cinematic studio lighting, full-body character, clean white background
+
+### E6 · 通用 AI 角色设定图生成器
 
 - Creator: @ai_lifehack55
 - Evidence: [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) · [finished media](https://media.goodcase.ai/media/image/ai-5054adb51999.jpg) · [original source](https://x.com/ai_lifehack55/status/2081581961081246064)
@@ -204,7 +213,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 【06 BUILDING REFERENCE】
 > 06領域全体を、建物正面、入口、屋外広場の構造を一つの構図で確認できる、広角の外観画像1点として使用する。服装タイプと配色方向は06へ反映しない。人物の衣装色、04のテーマカラー、シート全体の差し色からも影響を受けない、中立的な建物参照とする。明るい昼の均一な自然光のもと、広い屋外広場から見た、清潔で現代的な建物正面と自動ガラス入口を描く。夜景、夕景、暖色照明、ライトアップ、強い色調演出、ホテル、レストラン、オフィスなど特定用途を強く連想させる演出は加えない。06内部も分割せず、単一画面・単一視点の1枚として構成する。コラージュ、複数ビュー、上下分割、別角度の併記を行わない。一つの連続した外壁、一つの地上階、一つの連続した地面、一つの建物…
 
-### E6 · 充满奇趣的动漫生活肖像与涂鸦阴影
+### E7 · 充满奇趣的动漫生活肖像与涂鸦阴影
 
 - Creator: @Taaruk_
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) · [finished media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) · [original source](https://x.com/Taaruk_/status/2080197768178720865)
@@ -213,7 +222,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Wholesome anime-inspired lifestyle portrait of a {argument name="character" default="cute young woman with a short pastel-pink bob haircut"}, wearing an oversized vintage red plaid flannel shirt, baggy blue jeans, and classic canvas sneakers, interacting with a {argument name="pet" default="fluffy gray-and-white British Shorthair cat wearing a tiny plaid bandana"}. They are bathed in warm golden-hour sunlight against a clean beige wall, creating long, soft shadows. The magical twist: their shadows transform into playful hand-drawn manga doodles—the girl's shadow becomes an adorable chibi anime version of herself striking a joyful pose, while the cat's shadow becomes a funny cartoon cat waving, dancing, or reaching toward her. Pencil-sketch style with expressive line art, motion marks, hearts, stars, butterflies, and playful doodles integrated naturally into the shadows. Cozy slice-of-life aesthetic, {argument name="style" default="Studio Ghibli × modern manga illustration"}, minimalist background, soft cinematic lighting, authentic candid emotion, ultra-detailed fur, natural skin tones, dreamy atmosphere, whimsical storytelling, premium editorial photography, 50mm lens, shallow depth of field, Kodak Portra 400 colors, ultra-photorealistic, 8K, masterpiece.
 
-### E7 · 手写备忘录食谱插画
+### E8 · 手写备忘录食谱插画
 
 - Creator: @AIGuideNote
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-215bdf3b4e8d) · [finished media](https://media.goodcase.ai/cases/162983bde008.jpg) · [original source](https://x.com/AIGuideNote/status/2098528281293381651)
@@ -250,22 +259,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > ・アス…
 
-### E8 · 三格人物设定参考图标准化模板
-
-- Creator: @johnAGI168
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-265600f07f14) · [finished media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) · [original source](https://x.com/johnAGI168/status/2077766771025530962)
-- Summary: 角色设定参考图案例，将同一粉紫卷发女性拆成正面全身（无头）、背面全身、齐胸大特写三格标准化模板。三格统一18%中灰无缝背景与无阴影正面光，用于锁定角色发型、服装与五官细节。
-- Prompt excerpt:
-
-> 一张三格人物设定参考图，构图为一个横向画面，等分为三个并排的竖直分格 (three-panel character reference sheet)，格与格之间是干净纤细的分隔线，同一位人物、同一套造型在三格中完全一致地呈现。
-> 一位青年女性，纤细匀称身形，甜美清纯气质。粉紫色（灰调玫瑰粉紫）长卷发，齐刘海，大波浪卷发长及腰际，发丝柔顺有光泽，左侧头发处一枚黑色缎面蝴蝶结发夹点缀珍珠串。柔和圆润脸型，饱满脸颊，纤细下颌线；杏眼，深棕色瞳孔，眼神清澈温柔；柔和弯眉，小巧鼻梁，饱满花瓣唇。皮肤白皙透亮水润，脸颊淡淡粉色腮红，妆感自然，裸粉润唇。耳部一对小巧珍珠耳饰，颈部一条纤细银链吊坠。（此段身份描述适用于全部三格）
-> 身穿一件黑色天鹅绒吊带短裙，V 字领口缀白色蕾丝花边，细肩带，收身剪裁贴合纤细曲线，裙摆落在大腿中段；下身黑色半透明丝袜，脚踩黑色高跟鞋。（此段造型描述适用于全部三格）
-> 左格 —— 正面全身，无头。人物身体正对镜头，从肩部以下直到鞋子，双臂自然垂放身侧，双手放松张开，重心均匀落在双脚。没有头部、没有头发——没有任何东西高出肩线，胸前与肩上没有头发垂落。颈部从肩膀向上短短升起，在喉咙根部以一条干净、平整、边缘清晰的水平切口收束，如同无头人台模特——利落的雕塑感切边，边缘清晰可见，不模糊、不虚化、不消散、无烟雾、无残影、无透明、无血迹、无解剖细节。切口之上只有空白的中灰背景。此格保留完整头顶空间——肩线上方留有充足的空白，使人物在画面中的比例与位置与正常全身像一致。
-> 中格 —— 背面全身，带头。同一人物从正后方拍摄，站姿笔直，粉紫色长卷发从背后自然垂落及腰，黑色天鹅绒吊带裙的裙背构造、细肩带交叉、裙摆清晰可见，双臂自然垂放身侧，双手放松，重心均匀落在双脚，从头顶到黑色高跟鞋完整入镜，黑色丝袜包裹修长双腿。
-> 右格 —— 齐胸大特写，身份锁定。同一人物从头顶略上方到锁骨、仅露出裙子最上缘的紧凑构图，脸部占据画面大部分，真正的近景特写。身体正对镜头，头部平视，双眼直视镜头，双唇闭合放松，中性克制的温柔神情，极浅的闭唇微笑。粉紫齐刘海、柔和弯眉、纤长睫毛、饱满花瓣唇的唇部质感、黑蝴蝶结珍珠发夹、银链吊坠，在近距离下全部清晰可辨。
-> 三格统一背景：平坦均匀的 18% 中灰无缝背景，单一色值，无渐变无衰减 (flat 18% gray seamless)。无方向无阴影的正面照明，四周补光均匀一致，无主光侧、无阴影侧、无轮廓光、无发光、无边缘光 (shadowless frontal illumination)，背景无任何投影，脚下无接触阴影 (zero cast shadow)，三格光照完全一致。
-> 真实照片级质感 (photorealistic)，皮肤可见细腻均匀毛孔与次表面散射 (subsurface scattering)，发丝根根分明 (strand-level hair)，天鹅绒、蕾丝、丝袜织物纹理清晰 (fabric weave)，轻微胶片颗粒 (theatrical grain)。真实人类，真实相机拍摄，绝非塑料感、绝非渲染、绝非 CGI、无 AI 磨皮、无过度平滑。
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -274,10 +267,11 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 3D CG 东方奇幻少女肖像 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/3d-cg-c35a17fc041c) | [Media](https://media.goodcase.ai/media/image/3d-cg-c35a17fc041c.jpg) | [Original](https://x.com/liyue_ai/status/2081409414918262965) | E2 |
 | 3D Character Name Sculpture | @varts_works | [GoodCase](https://goodcase.ai/cases/3d-character-name-sculpture) | [Media](https://media.goodcase.ai/media/image/3d-character-name-sculpture.jpg) | [Original](https://x.com/varts_works/status/2085326754806378753) | E3 |
 | 混合 3D 矢量插画风格 | @HustleXR | [GoodCase](https://goodcase.ai/cases/3d-de7f41148805) | [Media](https://media.goodcase.ai/cases/64b6032d791a.jpg) | [Original](https://x.com/HustleXR/status/2091492763397411268) | E4 |
-| 通用 AI 角色设定图生成器 | @ai_lifehack55 | [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) | [Media](https://media.goodcase.ai/media/image/ai-5054adb51999.jpg) | [Original](https://x.com/ai_lifehack55/status/2081581961081246064) | E5 |
-| 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E6 |
-| 手写备忘录食谱插画 | @AIGuideNote | [GoodCase](https://goodcase.ai/cases/case-215bdf3b4e8d) | [Media](https://media.goodcase.ai/cases/162983bde008.jpg) | [Original](https://x.com/AIGuideNote/status/2098528281293381651) | E7 |
-| 三格人物设定参考图标准化模板 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/case-265600f07f14) | [Media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) | [Original](https://x.com/johnAGI168/status/2077766771025530962) | E8 |
+| 3D 名人漫画像模板（Prompt share） | @azed_ai | [GoodCase](https://goodcase.ai/cases/3d-prompt-share-cae3793c8a66) | [Media](https://media.goodcase.ai/cases/2cb2785cd554.jpg) | [Original](https://x.com/azed_ai/status/2119383710592290824) | E5 |
+| 通用 AI 角色设定图生成器 | @ai_lifehack55 | [GoodCase](https://goodcase.ai/cases/ai-5054adb51999) | [Media](https://media.goodcase.ai/media/image/ai-5054adb51999.jpg) | [Original](https://x.com/ai_lifehack55/status/2081581961081246064) | E6 |
+| 充满奇趣的动漫生活肖像与涂鸦阴影 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-1e27ee889af9) | [Media](https://media.goodcase.ai/media/image/case-1e27ee889af9.jpg) | [Original](https://x.com/Taaruk_/status/2080197768178720865) | E7 |
+| 手写备忘录食谱插画 | @AIGuideNote | [GoodCase](https://goodcase.ai/cases/case-215bdf3b4e8d) | [Media](https://media.goodcase.ai/cases/162983bde008.jpg) | [Original](https://x.com/AIGuideNote/status/2098528281293381651) | E8 |
+| 三格人物设定参考图标准化模板 | @johnAGI168 | [GoodCase](https://goodcase.ai/cases/case-265600f07f14) | [Media](https://media.goodcase.ai/media/image/case-265600f07f14.jpg) | [Original](https://x.com/johnAGI168/status/2077766771025530962) | E— |
 | 奇幻涂鸦艺术自拍 | @Taaruk_ | [GoodCase](https://goodcase.ai/cases/case-346fdb4f9c0f) | [Media](https://media.goodcase.ai/media/image/case-346fdb4f9c0f.jpg) | [Original](https://x.com/Taaruk_/status/2080303309739675712) | E— |
 | 风格化武术动漫少女 | @lovimg_com | [GoodCase](https://goodcase.ai/cases/case-35a46763637e) | [Media](https://media.goodcase.ai/cases/24dce7753a27.jpg) | [Original](https://x.com/lovimg_com/status/2096954809534570766) | E— |
 | 超现实糖果娃娃角色提示词 | @RAYSITI | [GoodCase](https://goodcase.ai/cases/case-407fc0599ae5) | [Media](https://media.goodcase.ai/cases/e235057a6469.jpg) | [Original](https://x.com/RAYSITI/status/2107599888636862834) | E— |
@@ -289,7 +283,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 角色战斗动作精灵图 | @Aivy___X | [GoodCase](https://goodcase.ai/cases/case-94e8818b884f) | [Media](https://media.goodcase.ai/cases/530defcee9da.jpg) | [Original](https://x.com/Aivy___X/status/2097572540034302295) | E— |
 | 水彩风格编辑插画海报 | @xiaoxiaodong01 | [GoodCase](https://goodcase.ai/cases/case-95c22c7a7e05) | [Media](https://media.goodcase.ai/media/image/case-95c22c7a7e05.jpg) | [Original](https://x.com/xiaoxiaodong01/status/2089893684527730867) | E— |
 | 动漫角色拼贴提示词 | @hey_am_cherry | [GoodCase](https://goodcase.ai/cases/case-ba10fec70a28) | [Media](https://media.goodcase.ai/cases/dd35fb92173e.jpg) | [Original](https://x.com/hey_am_cherry/status/2117465842309021716) | E— |
-| 美术编辑肖像插画 | @aatif_j | [GoodCase](https://goodcase.ai/cases/case-d489150e5952) | [Media](https://media.goodcase.ai/media/image/case-d489150e5952.jpg) | [Original](https://x.com/aatif_j/status/2080399938278801700) | E— |
 
 ## Derivation boundary
 
