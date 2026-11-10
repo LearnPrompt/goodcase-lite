@@ -28,6 +28,7 @@ import {
   DEFAULT_VIDEO_FORM,
   filterCasesByVideoForm,
   normalizeVideoForm,
+  VIDEO_FORM_TAG_CODE,
   VIDEO_FORM_TAG_REF,
   VIDEO_FORM_TAG_TEXT,
   type VideoForm,
@@ -181,6 +182,7 @@ export default async function CasesPage({
     { value: "all", label: messages.videoForm.all },
     { value: VIDEO_FORM_TAG_TEXT, label: messages.videoForm.text },
     { value: VIDEO_FORM_TAG_REF, label: messages.videoForm.ref },
+    { value: VIDEO_FORM_TAG_CODE, label: messages.videoForm.code },
   ];
   const queryParams = await searchParams;
   const activeFilter = normalizeFilter(queryParams.filter);
