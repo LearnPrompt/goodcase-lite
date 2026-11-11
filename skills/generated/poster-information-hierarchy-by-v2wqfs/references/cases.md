@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Goodmanprotocol. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to Goodmanprotocol. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -48,7 +48,37 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Background: progressively…
 
-### E2 · 和纸胶带拼贴主题剪影
+### E2 · 单板滑雪者劈雪的杂志封面
+
+- Creator: @Goodmanprotocol
+- Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-2-6-create-a-premium-photorealistic-editorial-magazine-poster-inspired-by-high-end-2df7d8c24fc5) · [finished media](https://media.goodcase.ai/cases/c8c602d1e0bf.jpg) · [original source](https://x.com/Goodmanprotocol/status/2119083132691615772)
+- Summary: GPT Image 2.6 Prompt: Create a premium, photorealistic editorial magazine poster inspired by high-end outdoor adventure photography, contemporary sports campaig…
+- Prompt excerpt:
+
+> Create a premium, photorealistic editorial magazine poster inspired by high-end outdoor adventure photography, contemporary sports campaigns, and minimalist Swiss graphic design.
+>
+> CORE CONCEPT: Automatically identify the main subject, activity, environment, and visual characteristics from the provided subject or concept. Transform it into a striking editorial cover that combines dramatic full-frame photography with oversized, bold typography.
+>
+> PHOTOGRAPHY & COMPOSITION: Capture the subject in an extraordinary, visually dynamic moment. Use professional sports and lifestyle photography, realistic anatomy, precise details, natural textures, dramatic environmental elements, and authentic movement.
+>
+> The main photograph should occupy the upper and middle sections of the poster. Use an immersive composition with the subject prominently positioned and the environment providing visual depth.
+>
+> TYPOGRAPHIC DESIGN:
+>
+> - Add an enormous, bold, uppercase headline featuring the main subject or activity.
+> - Use condensed extra-bold sans-serif typography.
+> - Position the headline across the lower-middle portion of the poster.
+> - Allow the subject to overlap and partially obscure the typography, creating an integrated photographic-editorial effect.
+> - Choose typography colors that contrast beautifully with the photograph.
+> - Include subtle microtypography, thin horizontal divider lines, and editorial labels.
+>
+> EDITORIAL DETAILS: Include sophisticated magazine-style elements:
+>
+> - Small uppercase category label at the top.
+> - Edition number: EDITION 01.
+> - Small subtitle describing the activity or enviro…
+
+### E3 · 和纸胶带拼贴主题剪影
 
 - Creator: @Goodmanprotocol
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-create-one-premium-3-4-vertical-washi-tape-collage-artwork-for-country-locat-ce31c974f64b) · [finished media](https://media.goodcase.ai/cases/a014eee8a6c5.jpg) · [original source](https://x.com/Goodmanprotocol/status/2100452165416374277)
@@ -99,7 +129,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Maintain generous negative space around the artwork.…
 
-### E3 · 半影半印的人像旅行拼贴
+### E4 · 半影半印的人像旅行拼贴
 
 - Creator: @Goodmanprotocol
 - Evidence: [GoodCase](https://goodcase.ai/cases/gpt-image-turn-this-portrait-photo-into-a-single-high-end-halftone-travel-collage-poster-d72f910456eb) · [finished media](https://media.goodcase.ai/cases/a583ec40a9ab.jpg) · [original source](https://x.com/Goodmanprotocol/status/2099078060058550703)
@@ -123,7 +153,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > - Color: warm gray paper + black ink + the photo's own muted original colors + the single red accent. Never fully desaturate.
 > - Figure fills roughly 60–88% of the frame widt…
 
-### E4 · 复古旅行海报拼贴
+### E5 · 复古旅行海报拼贴
 
 - Creator: @Goodmanprotocol
 - Evidence: [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) · [finished media](https://goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) · [original source](https://x.com/Goodmanprotocol/status/2055882758845878709)
@@ -223,9 +253,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | Alcohol Marker Travel Poster Prompt | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/alcohol-marker-travel-poster-prompt) | [Media](https://media.goodcase.ai/media/image/alcohol-marker-travel-poster-prompt.jpg) | [Original](https://x.com/Goodmanprotocol/status/2086685317822890146) | E1 |
-| 和纸胶带拼贴主题剪影 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-create-one-premium-3-4-vertical-washi-tape-collage-artwork-for-country-locat-ce31c974f64b) | [Media](https://media.goodcase.ai/cases/a014eee8a6c5.jpg) | [Original](https://x.com/Goodmanprotocol/status/2100452165416374277) | E2 |
-| 半影半印的人像旅行拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-turn-this-portrait-photo-into-a-single-high-end-halftone-travel-collage-poster-d72f910456eb) | [Media](https://media.goodcase.ai/cases/a583ec40a9ab.jpg) | [Original](https://x.com/Goodmanprotocol/status/2099078060058550703) | E3 |
-| 复古旅行海报拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) | [Media](https://goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) | [Original](https://x.com/Goodmanprotocol/status/2055882758845878709) | E4 |
+| 单板滑雪者劈雪的杂志封面 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-2-6-create-a-premium-photorealistic-editorial-magazine-poster-inspired-by-high-end-2df7d8c24fc5) | [Media](https://media.goodcase.ai/cases/c8c602d1e0bf.jpg) | [Original](https://x.com/Goodmanprotocol/status/2119083132691615772) | E2 |
+| 和纸胶带拼贴主题剪影 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-create-one-premium-3-4-vertical-washi-tape-collage-artwork-for-country-locat-ce31c974f64b) | [Media](https://media.goodcase.ai/cases/a014eee8a6c5.jpg) | [Original](https://x.com/Goodmanprotocol/status/2100452165416374277) | E3 |
+| 半影半印的人像旅行拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/gpt-image-turn-this-portrait-photo-into-a-single-high-end-halftone-travel-collage-poster-d72f910456eb) | [Media](https://media.goodcase.ai/cases/a583ec40a9ab.jpg) | [Original](https://x.com/Goodmanprotocol/status/2099078060058550703) | E4 |
+| 复古旅行海报拼贴 | @Goodmanprotocol | [GoodCase](https://goodcase.ai/cases/real-case-05-goodmanprotocol) | [Media](https://goodcase.ai/media/goodcase/Goodmanprotocol-2055882758845878709-04.jpg) | [Original](https://x.com/Goodmanprotocol/status/2055882758845878709) | E5 |
 
 ## Derivation boundary
 
