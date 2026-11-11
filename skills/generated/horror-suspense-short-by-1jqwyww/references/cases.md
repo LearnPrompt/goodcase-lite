@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 7 published Cases attributed to doctorwasif. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 8 published Cases attributed to doctorwasif. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -119,7 +119,41 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > 24–30s: The pounding suddenly stops. Eerie silence. She slowly films the exhausted survivors. The timestamp keeps ticking, signal drops to zero, and the livestream freezes on her frightened face with a final glitch—raw, unresolved found-footage ending.
 
-### E5 · 韩屋烛影驱邪仪式
+### E5 · Seedance 2.5 韩剧家庭晚餐悬疑
+
+- Creator: @doctorwasif
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-e9b287ea6f3a) · [finished media](https://media.goodcase.ai/cases/9fabc55bef30.mp4) · [poster](https://media.goodcase.ai/cases/2f410b5ea446.jpg) · [original source](https://x.com/doctorwasif/status/2118934466953712026)
+- Summary: doctorwasif：韩剧家庭晚餐悬疑完整 Prompt。
+- Prompt excerpt:
+
+> Create a premium, ultra-realistic Korean romantic mystery K-drama scene set during a family dinner in a modern Seoul apartment.
+>
+> CHARACTER CONTINUITY:
+>
+> - Han Seo-yeon (26): Long wavy dark-brown hair, cream blouse, black midi skirt, delicate earrings.
+> - Kang Min-jun (28): Neat black hair, charcoal shirt, black trousers.
+> - Mother: Late 50s, short dark hair, burgundy blouse.
+> - Father: Early 60s, greying hair, navy sweater.
+> - Sister: 24, long black hair, beige cardigan.
+>
+> Maintain identical faces, clothing, hairstyles, and appearances throughout.
+>
+> 12-SHOT STORY:
+>
+> 1. Wide shot: Family dinner around a table filled with traditional Korean dishes. Seo-yeon sits nervously beside Min-jun.
+> 2. Mother asks: "두 사람은 언제 헤어졌니?" (When did you two break up?)
+> 3. Min-jun calmly introduces her: "제 전 여자친구예요." (She's my ex-girlfriend.) Seo-yeon freezes.
+> 4. Sister looks uncomfortable; father keeps eating; mother nods knowingly.
+> 5. Seo-yeon whispers: "지금 뭐라고 했어?" Min-jun replies: "제발 그냥 맞춰 줘. 나중에 설명할게." (Please, just play along. I'll explain later.)
+> 6. Seo-yeon forces a smile and greets his mother: "오랜만에 뵙겠습니다."
+> 7. Sister asks: "언니, 이번에도 오빠랑 다시 만나는 거예요?" (Are you getting back together again?)
+> 8. Mother places an old framed photograph on the table showing Min-jun and Seo-yeon together.
+> 9. Seo-yeon examines it and asks: "이 사진… 언제 찍은 거예요?" Min-jun looks down silently.
+> 10. Mother asks: "이번에는 기억 못 하는 척하는 거니?" (Are you pretending not to remember this time?)
+> 11. Terrified, Seo-yeon asks Min-jun: "우리 전에 만난 적 있어?" (Have we met before?) He says nothing.
+> 12. Extreme close-up of the photograph's back, revealing…
+
+### E6 · 韩屋烛影驱邪仪式
 
 - Creator: @doctorwasif
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) · [finished media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) · [poster](https://media.goodcase.ai/cases/52e979f23a9f.jpg) · [original source](https://x.com/doctorwasif/status/2097533759944090052)
@@ -139,7 +173,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Style: cinematic Korean folk horror, dark wooden interior, warm candlelight, deep shadows, tense atmosphere, realistic, unsettling, dramatic camera movement.
 
-### E6 · 列车玻璃门后的感染者突袭
+### E7 · 列车玻璃门后的感染者突袭
 
 - Creator: @doctorwasif
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5) · [finished media](https://media.goodcase.ai/cases/9027d010bc75.mp4) · [poster](https://media.goodcase.ai/cases/20e977da4dd0.jpg) · [original source](https://x.com/doctorwasif/status/2098081350205194721)
@@ -178,7 +212,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Sho…
 
-### E7 · 夜行卧铺列车感染爆发
+### E8 · 夜行卧铺列车感染爆发
 
 - Creator: @doctorwasif
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e) · [finished media](https://media.goodcase.ai/media/video/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.jpg) · [original source](https://x.com/doctorwasif/status/2095373753983369666)
@@ -209,9 +243,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 末日韩式天台恐怖片 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/case-b529ffbdfd9a) | [Media](https://media.goodcase.ai/cases/f957750571e1.mp4) | [Original](https://x.com/doctorwasif/status/2090305873373810874) | E2 |
 | 列车车厢丧尸感染爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) | [Media](https://media.goodcase.ai/cases/6af197589643.mp4) | [Original](https://x.com/doctorwasif/status/2093550743945105687) | E3 |
 | 夜班列车感染爆发实录 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b) | [Media](https://media.goodcase.ai/cases/8ee95ce14625.mp4) | [Original](https://x.com/doctorwasif/status/2098639106712784933) | E4 |
-| 韩屋烛影驱邪仪式 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) | [Media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) | [Original](https://x.com/doctorwasif/status/2097533759944090052) | E5 |
-| 列车玻璃门后的感染者突袭 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5) | [Media](https://media.goodcase.ai/cases/9027d010bc75.mp4) | [Original](https://x.com/doctorwasif/status/2098081350205194721) | E6 |
-| 夜行卧铺列车感染爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e) | [Media](https://media.goodcase.ai/media/video/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.mp4) | [Original](https://x.com/doctorwasif/status/2095373753983369666) | E7 |
+| Seedance 2.5 韩剧家庭晚餐悬疑 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-2-5-e9b287ea6f3a) | [Media](https://media.goodcase.ai/cases/9fabc55bef30.mp4) | [Original](https://x.com/doctorwasif/status/2118934466953712026) | E5 |
+| 韩屋烛影驱邪仪式 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) | [Media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) | [Original](https://x.com/doctorwasif/status/2097533759944090052) | E6 |
+| 列车玻璃门后的感染者突袭 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5) | [Media](https://media.goodcase.ai/cases/9027d010bc75.mp4) | [Original](https://x.com/doctorwasif/status/2098081350205194721) | E7 |
+| 夜行卧铺列车感染爆发 | @doctorwasif | [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e) | [Media](https://media.goodcase.ai/media/video/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.mp4) | [Original](https://x.com/doctorwasif/status/2095373753983369666) | E8 |
 
 ## Derivation boundary
 
