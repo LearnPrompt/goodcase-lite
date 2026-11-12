@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 6 published Cases attributed to saniaspeaks_. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 7 published Cases attributed to saniaspeaks_. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -70,7 +70,40 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > 13–16s: Warm-up on old treadmill, natural front/side shots.
 > 16–19s: Simp…
 
-### E5 · 韩国偶像 VHS 美妆 Vlog
+### E5 · Seedance 2.5 韩国女生露营 vlog 30s
+
+- Creator: @saniaspeaks_
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-vlog-30s-06f6e3783a46) · [finished media](https://media.goodcase.ai/cases/a348c0daaf6f.mp4) · [poster](https://media.goodcase.ai/cases/f235f72f6399.jpg) · [original source](https://x.com/saniaspeaks_/status/2119291884556169419)
+- Summary: saniaspeaks_：韩国女生露营 vlog 30s 完整 Prompt。
+- Prompt excerpt:
+
+> Create a 30-second ultra-realistic 4K live-action travel vlog featuring three young Korean female friends camping in the beautiful mountains of South Korea. Authentic handheld camcorder footage, natural friendship moments and realistic activities.
+>
+> CHARACTERS:
+>
+> - Main girl: Shoulder-length dark brown hair, beige fleece jacket, white T-shirt, olive cargo pants and hiking shoes.
+> - Friend 1: Black ponytail, dusty blue outdoor jacket, black pants and hiking shoes.
+> - Friend 2: Medium-length brown hair, brown knitted sweater, dark jeans and hiking shoes.
+>
+> Keep all faces, hairstyles and outfits identical throughout.
+>
+> EXACT 10-SCENE SEQUENCE — 30 SECONDS
+>
+> 1. ROAD TRIP (0–3s): A car travels along a winding Korean mountain road. The main girl films the forest from the passenger seat while her two friends laugh in the back.
+>
+> 2. CAMPSITE ARRIVAL (3–5s): They park at a grassy campsite surrounded by pine trees and mountains, then unload their tent, backpacks and supplies.
+>
+> 3. SETTING UP TENT (5–9s): They spread the tent fabric, connect poles, raise the tent, secure stakes and attach the rain cover. Show the complete assembly naturally.
+>
+> 4. CAMPSITE SETUP (9–11s): They arrange camping chairs, a folding table, backpacks, vegetables, meat and cooking equipment.
+>
+> 5. BARBECUE (11–15s): One girl prepares the portable grill, another chops vegetables, and the main girl grills marinated meat. Realistic sizzling, smoke and cooking movements.
+>
+> 6. DINNER (15–18s): They enjoy Korean barbecue, lettuce wraps, rice and side dishes while laughing and sharing food.
+>
+> 7. CAMPFIRE (18–22s): At night, they si…
+
+### E6 · 韩国偶像 VHS 美妆 Vlog
 
 - Creator: @saniaspeaks_
 - Evidence: [GoodCase](https://goodcase.ai/cases/vhs-vlog-92566eb90120) · [finished media](https://media.goodcase.ai/cases/c3f74dcdc2f5.webm) · [poster](https://media.goodcase.ai/cases/b6975c0aebd6.jpg) · [original source](https://x.com/saniaspeaks_/status/2083043197937209852)
@@ -79,7 +112,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mirror-mounted vanity shots. CHASE, a Korean idol in her 20s with long black hair and dewy skin, casually picks up the fictional Lumina Velvet Lip Tint (frosted pink tube, gold cap) at a mall beauty store, saying, "Okay, everyone's talking about this shade." She heads home, opens and swatches the lipstick, applies it smoothly in warm vanity lighting, admires the glossy finish, smiles at the mirror, then looks into the camera for a glowing close-up reveal and says, "Okay wow... Lumina Velvet Lip Tint, you've got a new fan."
 
-### E6 · 东京手机美食 Vlog
+### E7 · 东京手机美食 Vlog
 
 - Creator: @saniaspeaks_
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2) · [finished media](https://media.goodcase.ai/media/video/vlog-b7d2a3d9d7f2.mp4) · [poster](https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg) · [original source](https://x.com/saniaspeaks_/status/2088605003112235033)
@@ -96,8 +129,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 东京巷弄草莓甜点探店 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/minimax-h3-both-minimax-h3-max-and-minimax-h3-currently-offer-unlimited-generations-on-a855c3e827df) | [Media](https://media.goodcase.ai/cases/b7093653fd81.mp4) | [Original](https://x.com/saniaspeaks_/status/2095470203576430875) | E2 |
 | 韩国女孩首次火车旅行自拍日志 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/saniaspeaks-seedance-ai-69dfe9e3c10e) | [Media](https://media.goodcase.ai/cases/c5a3649f1187.mp4) | [Original](https://x.com/saniaspeaks_/status/2094635608849166589) | E3 |
 | 千禧年初东京女孩的健身日常 | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-little-old-school-workout-session-0961a80c4b9b) | [Media](https://media.goodcase.ai/cases/0a4491314480.mp4) | [Original](https://x.com/saniaspeaks_/status/2106247874296062303) | E4 |
-| 韩国偶像 VHS 美妆 Vlog | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/vhs-vlog-92566eb90120) | [Media](https://media.goodcase.ai/cases/c3f74dcdc2f5.webm) | [Original](https://x.com/saniaspeaks_/status/2083043197937209852) | E5 |
-| 东京手机美食 Vlog | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2) | [Media](https://media.goodcase.ai/media/video/vlog-b7d2a3d9d7f2.mp4) | [Original](https://x.com/saniaspeaks_/status/2088605003112235033) | E6 |
+| Seedance 2.5 韩国女生露营 vlog 30s | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/seedance-2-5-vlog-30s-06f6e3783a46) | [Media](https://media.goodcase.ai/cases/a348c0daaf6f.mp4) | [Original](https://x.com/saniaspeaks_/status/2119291884556169419) | E5 |
+| 韩国偶像 VHS 美妆 Vlog | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/vhs-vlog-92566eb90120) | [Media](https://media.goodcase.ai/cases/c3f74dcdc2f5.webm) | [Original](https://x.com/saniaspeaks_/status/2083043197937209852) | E6 |
+| 东京手机美食 Vlog | @saniaspeaks_ | [GoodCase](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2) | [Media](https://media.goodcase.ai/media/video/vlog-b7d2a3d9d7f2.mp4) | [Original](https://x.com/saniaspeaks_/status/2088605003112235033) | E7 |
 
 ## Derivation boundary
 

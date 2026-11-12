@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 4 published Cases attributed to Aiwithmaha. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 5 published Cases attributed to Aiwithmaha. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -15,7 +15,16 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create a 45-second ultra-realistic cinematic action video set in a large shipping container port at dusk, with wet concrete reflecting dramatic blue-gray skies and industrial lights. A young woman with long dark hair, wearing a white sleeveless crop top, pink pants, and black boots, runs desperately through the empty container yard as a gigantic, terrifying dark dragon with enormous wings, sharp horns, glowing orange eyes, and fiery scales chases her. The dragon opens its massive jaws and unleashes a powerful stream of fire, creating a huge explosion of flames, sparks, smoke, and flying debris behind the running woman. Show her sprinting between tall shipping containers as the dragon swoops low, spreads its wings, and sends powerful gusts of wind and dust across the ground. Use dynamic tracking shots, low-angle close-ups of her running feet, dramatic side views, and wide cinematic shots revealing the dragon's enormous size. As the chase intensifies, show the dragon flying above the port while the woman runs through thick smoke and turns to look back in fear. In the final sequence, she stops in the open container yard and faces the flying dragon as it circles through the stormy sky, followed by a massive fiery explosion in the distance that illuminates the entire scene. Maintain consistent character appearance, realistic human movement, detailed dragon anatomy, physically accurate fire and smoke, cinematic motion blur, dramatic lighting, volumetric fog, and photorealistic 4K quality throughout the entire 45-second video, with no text, logos, or watermarks.
 
-### E2 · 红衣剑客夜战古村
+### E2 · 金辉森林中情侣以蓝能剑击败喷火巨狼
+
+- Creator: @Aiwithmaha
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-ultra-realistic-cinematic-fantasy-adventure-video-s-216121a59880) · [finished media](https://media.goodcase.ai/cases/7345eca5814f.mp4) · [poster](https://media.goodcase.ai/cases/4e6630a2d4c0.jpg) · [original source](https://x.com/Aiwithmaha/status/2119718595009884337)
+- Summary: Love, courage, and magic collide in an epic battle against a terrifying beast. Made using Seedance 2.5 on @CuddlerAI #Cuddler #CuddlerPartner #AIVideo Prompt: C…
+- Prompt excerpt:
+
+> Create an exactly 30-second ultra-realistic cinematic fantasy adventure video set in a beautiful enchanted forest during golden hour, featuring a handsome young man wearing a dark red shirt and a beautiful young woman with long dark hair wearing an elegant white dress. They are walking together peacefully when a giant terrifying black wolf with glowing red eyes suddenly appears from the dark forest. The wolf approaches them aggressively, and the man steps forward bravely, holding a glowing blue energy sword to protect the woman. Suddenly, the giant wolf attacks and breathes powerful flames toward them, but the man blocks the fire with a magical blue energy shield. The beautiful woman joins the battle and releases a powerful blue magical energy blast toward the monster. Show spectacular fire explosions, glowing sparks, dramatic slow-motion action and cinematic camera movements. The couple fights together and finally defeats the giant wolf, which falls to the ground. End with the man and woman standing together peacefully beside the defeated wolf under beautiful golden sunlight, maintaining consistent character faces, realistic movements and stunning cinematic visual effects throughout the entire video.
+
+### E3 · 红衣剑客夜战古村
 
 - Creator: @Aiwithmaha
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-wuxia-style-video-set-at-night-in-5d900610e1fc) · [finished media](https://media.goodcase.ai/cases/d30967b623d7.mp4) · [poster](https://media.goodcase.ai/cases/bb3e5d9a0d51.jpg) · [original source](https://x.com/Aiwithmaha/status/2105162931847807476)
@@ -24,7 +33,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Create a 30-second cinematic, ultra-realistic wuxia-style video set at night in an ancient Chinese village, with traditional wooden buildings, a stone-paved street, a small arched bridge, misty mountains in the background, and many glowing red lanterns hanging along the street. A beautiful young woman in an elegant flowing red traditional Chinese Hanfu walks calmly toward the camera, with long dark hair styled traditionally and a serious, confident expression. As she moves closer, the camera slowly pushes in and follows her naturally, capturing the lantern light, fabric movement, atmospheric mist, and realistic footsteps. Around the middle of the scene, she suddenly stops and confidently draws a glowing red magical sword, holding it horizontally in front of her while her expression becomes focused and powerful. The camera moves into a dramatic close-up of her face and sword, showing realistic skin texture, detailed hair, glowing reflections, and cinematic depth of field. Several mysterious black-clothed attackers appear around her, rushing toward her from different directions, creating a tense martial-arts atmosphere. She swiftly turns and performs powerful choreographed sword movements, blocking and striking the attackers with fast but believable movements while the glowing sword leaves subtle red light trails. The attackers are knocked down onto the stone street around her, while she remains standing confidently in the center with her sword raised, surrounded by red lanterns and light mist. End with a wide cinematic shot slowly pulling back to reveal the woman standing al…
 
-### E3 · 夕阳废墟中的水火女战士对决
+### E4 · 夕阳废墟中的水火女战士对决
 
 - Creator: @Aiwithmaha
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-15-second-cinematic-fantasy-battle-scene-in-a-ruined-ancient-city-at-9ad77dfe2b4e) · [finished media](https://media.goodcase.ai/cases/8b9743e9c46f.mp4) · [poster](https://media.goodcase.ai/cases/76038b16f9d4.jpg) · [original source](https://x.com/Aiwithmaha/status/2104754431434887271)
@@ -33,7 +42,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > Created a 15-second cinematic fantasy battle scene in a ruined ancient city at sunset, with dramatic golden skies, burning buildings, smoke, and destroyed stone structures. A powerful blue-clad female warrior with dark hair faces a fierce female fire warrior with pale pink hair and small red horns. The blue warrior controls massive waves of glowing water while the fire warrior creates intense orange flames around her hands and body. Show them charging toward each other with fast, dynamic combat movements, magical energy trails, flying sparks, smoke, and debris. Build the action from a close-up confrontation into a wide cinematic shot of both elemental powers colliding in the center of the battlefield. End with an enormous blue water wave crashing against a giant fire explosion, creating steam, glowing particles, and a spectacular energy shockwave. Use realistic cinematic lighting, detailed characters, smooth camera movement, epic fantasy atmosphere, high-quality VFX, dramatic depth of field, and a powerful movie-trailer style ending.
 
-### E4 · 粉发少女坠落后金瞳觉醒
+### E5 · 粉发少女坠落后金瞳觉醒
 
 - Creator: @Aiwithmaha
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-dramatic-top-down-shot-of-a-pink-haired-anime-style-girl-falling-thro-b2957665e618) · [finished media](https://media.goodcase.ai/cases/feaa7925fc10.mp4) · [poster](https://media.goodcase.ai/cases/542781a44581.jpg) · [original source](https://x.com/Aiwithmaha/status/2102572922674225517)
@@ -47,9 +56,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
 | 暮色集装箱港口的巨龙追逐 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14) | [Media](https://media.goodcase.ai/cases/6e8a1a82b0a4.mp4) | [Original](https://x.com/Aiwithmaha/status/2108380075796418791) | E1 |
-| 红衣剑客夜战古村 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-wuxia-style-video-set-at-night-in-5d900610e1fc) | [Media](https://media.goodcase.ai/cases/d30967b623d7.mp4) | [Original](https://x.com/Aiwithmaha/status/2105162931847807476) | E2 |
-| 夕阳废墟中的水火女战士对决 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-created-a-15-second-cinematic-fantasy-battle-scene-in-a-ruined-ancient-city-at-9ad77dfe2b4e) | [Media](https://media.goodcase.ai/cases/8b9743e9c46f.mp4) | [Original](https://x.com/Aiwithmaha/status/2104754431434887271) | E3 |
-| 粉发少女坠落后金瞳觉醒 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-created-a-dramatic-top-down-shot-of-a-pink-haired-anime-style-girl-falling-thro-b2957665e618) | [Media](https://media.goodcase.ai/cases/feaa7925fc10.mp4) | [Original](https://x.com/Aiwithmaha/status/2102572922674225517) | E4 |
+| 金辉森林中情侣以蓝能剑击败喷火巨狼 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-ultra-realistic-cinematic-fantasy-adventure-video-s-216121a59880) | [Media](https://media.goodcase.ai/cases/7345eca5814f.mp4) | [Original](https://x.com/Aiwithmaha/status/2119718595009884337) | E2 |
+| 红衣剑客夜战古村 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-wuxia-style-video-set-at-night-in-5d900610e1fc) | [Media](https://media.goodcase.ai/cases/d30967b623d7.mp4) | [Original](https://x.com/Aiwithmaha/status/2105162931847807476) | E3 |
+| 夕阳废墟中的水火女战士对决 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-created-a-15-second-cinematic-fantasy-battle-scene-in-a-ruined-ancient-city-at-9ad77dfe2b4e) | [Media](https://media.goodcase.ai/cases/8b9743e9c46f.mp4) | [Original](https://x.com/Aiwithmaha/status/2104754431434887271) | E4 |
+| 粉发少女坠落后金瞳觉醒 | @Aiwithmaha | [GoodCase](https://goodcase.ai/cases/seedance-created-a-dramatic-top-down-shot-of-a-pink-haired-anime-style-girl-falling-thro-b2957665e618) | [Media](https://media.goodcase.ai/cases/feaa7925fc10.mp4) | [Original](https://x.com/Aiwithmaha/status/2102572922674225517) | E5 |
 
 ## Derivation boundary
 
