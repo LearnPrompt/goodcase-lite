@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 10 published Cases across 9 creators.
+This workflow is derived from 9 published Cases across 8 creators.
 
 ## Operating rule
 
@@ -115,7 +115,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Claude Opus 5.5 - Grid Effect | @aimikoda | [GoodCase](https://goodcase.ai/cases/claude-opus-5-5-grid-effect) | [Media](https://media.goodcase.ai/cases/8ef94f514a3c.mp4) | [Original](https://x.com/aimikoda/status/2114167098284839305) | E7 |
 | 变身蜘蛛侠：单人照片生成超英变身长镜头 | 卡尔 | [GoodCase](https://goodcase.ai/cases/doc2-spiderman-transform) | [Media](https://media.goodcase.ai/supabase-legacy/case-media/carl/doc2-spiderman-transform.mp4) | [Original](https://x.com/aiwarts?gc=doc2-spiderman-transform) | E8 |
 | GPT Image 2 + MiniMax H3 球员数据面板开场动画 | @aimikoda | [GoodCase](https://goodcase.ai/cases/gpt-image-2-minimax-h3-f6dfbd41c76d) | [Media](https://media.goodcase.ai/cases/3baed4a81407.mp4) | [Original](https://x.com/aimikoda/status/2086122377633575169) | E— |
-| Seedance 2.5 生成 30 秒情侣卧室 POV：男友不会哄人只会捏脸 | 疯狂的田螺君 | [GoodCase](https://goodcase.ai/cases/seedance-25-couple-pov-bedroom-teasing-30s) | [Media](https://media.goodcase.ai/cases/17da6f8d68ca.mp4) | [Original](https://x.com/QtImVCr6WK56152/status/2106252278940541142) | E— |
 
 ## Derivation boundary
 

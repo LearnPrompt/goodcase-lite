@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 28 published Cases across 14 creators.
+This workflow is derived from 30 published Cases across 14 creators.
 
 ## Operating rule
 
@@ -209,9 +209,9 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Dora AI 摄影师作品集 | @Mr_AllenT | [GoodCase](https://goodcase.ai/cases/dora-ai-58f4cdc4795f) | [Media](https://media.goodcase.ai/media/video/dora-ai-58f4cdc4795f.mp4) | [Original](https://x.com/Mr_AllenT/status/1770409662405394767) | E— |
 | GLM 4.7 时尚品牌网站迭代 | @nummanali | [GoodCase](https://goodcase.ai/cases/glm-4-7-1245ae40d9bd) | [Media](https://media.goodcase.ai/media/video/glm-4-7-1245ae40d9bd.mp4) | [Original](https://x.com/nummanali/status/2006664848432673046) | E— |
 | HeroUI 电影导演作品集 | @EHuanglu | [GoodCase](https://goodcase.ai/cases/heroui-4d865532ebbb) | [Media](https://media.goodcase.ai/media/video/heroui-4d865532ebbb.mp4) | [Original](https://x.com/EHuanglu/status/1927257751480045778) | E— |
+| Laptop Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/laptop-portfolio) | [Media](https://media.goodcase.ai/cases/93acf4ff372a.mp4) | [Original](https://motionsites.ai/?prompt=laptop-portfolio) | E— |
 | Max Reed Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/max-reed-portfolio) | [Media](https://media.goodcase.ai/cases/345c1b608f88.webp) | [Original](https://motionsites.ai/?prompt=max-reed-portfolio) | E— |
 | Modern Agency | MotionSites | [GoodCase](https://goodcase.ai/cases/modern-agency) | [Media](https://media.goodcase.ai/cases/4782ee3ed985.webp) | [Original](https://motionsites.ai/?prompt=modern-agency) | E— |
-| Neo Brutalism 个人作品集 | @shushant_l | [GoodCase](https://goodcase.ai/cases/neo-brutalism-57ba09899348) | [Media](https://media.goodcase.ai/media/video/neo-brutalism-57ba09899348.mp4) | [Original](https://x.com/shushant_l/status/2064679099571089727) | E— |
 
 ## Derivation boundary
 

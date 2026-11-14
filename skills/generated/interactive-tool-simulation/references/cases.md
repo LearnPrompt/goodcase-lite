@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 6 published Cases across 6 creators.
+This workflow is derived from 7 published Cases across 7 creators.
 
 ## Operating rule
 
@@ -125,7 +125,35 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 
 > build a MuJoCo setup and write a controller to draw Picasso’s dove using a robot arm and a five-fingered hand
 
-### E6 · 一句话生成交通信号灯模拟
+### E6 · Video Editor
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/video-editor) · [finished media](https://media.goodcase.ai/cases/a872cb4a6ffb.mp4) · [poster](https://media.goodcase.ai/cases/2d0fa0f6e792.webp) · [original source](https://motionsites.ai/?prompt=video-editor)
+- Summary: 复制完整建站 Prompt 到 AI 编程工具（Cursor、v0、Claude 等）生成「Video Editor」对应的页面区块，替换文案、品牌与素材链接即可复用。 MotionSites 免费 Prompt 案例；站点不公开创作者，归属挂 MotionSites。
+- Prompt excerpt:
+
+> # Glaze — "Crafted for Motion": exact recreation brief
+>
+> Build a single-file landing page (one `index.html`, no build step) for **Glaze**, a fictional programmable video editor. It has three sections stacked vertically, plus a fixed header and a full-screen loader:
+>
+> 1. **Hero** — a pale blue-grey gradient screen with a large live 3D keychain hanging from the top centre (five charms on chains, real rigid-body physics, pushed by the mouse), a huge two-line headline "Crafted for / Motion" anchored bottom-left, and the subtitle with a black "Get Started" button anchored bottom-right.
+> 2. **Logo ticker** — a grey caption and an endlessly drifting row of invented wordmarks.
+> 3. **Timeline → statement** — a dark editor timeline with two video tracks (V1, V2) holding five motion-graphics clips, staggered in time, under a moving orange playhead; below it, a large centred three-line sentence with five empty inline slots. When the sentence scrolls into view while you scroll down, the five clips fly out of the timeline and land, small, inside the sentence. Scrolling back up sends them back onto their tracks.
+>
+> Everything below is exact. Follow it value for value.
+>
+> ---
+>
+> ## 1. Libraries and assets
+>
+> | What | Exact source |
+> |---|---|
+> | GSAP 3.12.5 (classic script) | `https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js` |
+> | ScrollTrigger 3.12.5 (classic script) | `https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js` |
+> | three.js 0.169.0 (ES module via import map, key `three`) | `https://cdn.jsdelivr.net/npm/three@0.169.0/build/three.module.js` |
+> | three addons (im…
+
+### E7 · 一句话生成交通信号灯模拟
 
 - Creator: @diegocabezas01
 - Evidence: [GoodCase](https://goodcase.ai/cases/youmind-traffic-light-simulation-python) · [finished media](https://media.goodcase.ai/media/video/youmind-traffic-light-simulation-python.mp4) · [poster](https://media.goodcase.ai/media/poster/youmind-traffic-light-simulation-python.jpg) · [original source](https://x.com/diegocabezas01/status/2064409084112044539)
@@ -143,7 +171,8 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Gemini Formula 1 动态数据面板 | @CryptoEights | [GoodCase](https://goodcase.ai/cases/gemini-formula-1-5fb69c5e1530) | [Media](https://media.goodcase.ai/media/video/gemini-formula-1-5fb69c5e1530.mp4) | [Original](https://x.com/CryptoEights/status/2026284847480918093) | E3 |
 | Lumi 租房真实成本计算器 | @lumidotnew | [GoodCase](https://goodcase.ai/cases/lumi-fcc36eede4ad) | [Media](https://media.goodcase.ai/media/video/lumi-fcc36eede4ad.mp4) | [Original](https://x.com/lumidotnew/status/2028713799533109599) | E4 |
 | 在 MuJoCo 中进行机器人绘图仿真 | @dimentary | [GoodCase](https://goodcase.ai/cases/mujoco-9c07f692fecb) | [Media](https://media.goodcase.ai/cases/5de72d97a8d2.jpg) | [Original](https://x.com/dimentary/status/2097141042214797801) | E5 |
-| 一句话生成交通信号灯模拟 | @diegocabezas01 | [GoodCase](https://goodcase.ai/cases/youmind-traffic-light-simulation-python) | [Media](https://media.goodcase.ai/media/video/youmind-traffic-light-simulation-python.mp4) | [Original](https://x.com/diegocabezas01/status/2064409084112044539) | E6 |
+| Video Editor | MotionSites | [GoodCase](https://goodcase.ai/cases/video-editor) | [Media](https://media.goodcase.ai/cases/a872cb4a6ffb.mp4) | [Original](https://motionsites.ai/?prompt=video-editor) | E6 |
+| 一句话生成交通信号灯模拟 | @diegocabezas01 | [GoodCase](https://goodcase.ai/cases/youmind-traffic-light-simulation-python) | [Media](https://media.goodcase.ai/media/video/youmind-traffic-light-simulation-python.mp4) | [Original](https://x.com/diegocabezas01/status/2064409084112044539) | E7 |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 72 published Cases across 46 creators.
+This workflow is derived from 73 published Cases across 46 creators.
 
 ## Operating rule
 
@@ -162,6 +162,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Elon Musk Starship Journey | @Amrutraj4 | [GoodCase](https://goodcase.ai/cases/elon-musk-starship-journey) | [Media](https://media.goodcase.ai/media/video/elon-musk-starship-journey.mp4) | [Original](https://x.com/Amrutraj4/status/2081432217482641861) | E— |
 | 韩国女子雨雪漫游伦敦巴黎莫斯科 | @HustleXR | [GoodCase](https://goodcase.ai/cases/hustlexr-seedance-ai-23a0d0b1e1ff) | [Media](https://media.goodcase.ai/cases/d1d0e766e8bc.mp4) | [Original](https://x.com/HustleXR/status/2092492677384437909) | E— |
 | 三位女孩漫游日本传统市场 | @Lianaalane | [GoodCase](https://goodcase.ai/cases/lianaalane-seedance-ai-57edf326d97f) | [Media](https://media.goodcase.ai/cases/e4a1743e7974.mp4) | [Original](https://x.com/Lianaalane/status/2093213626664706410) | E— |
+| Midjourney：不露脸，用2D卡通动画讲What If脑洞 | @daodao166888 | [GoodCase](https://goodcase.ai/cases/midjourney-2d-what-if-1b22977f2239) | [Media](https://media.goodcase.ai/cases/eec7c9b68de4.mp4) | [Original](https://x.com/daodao166888/status/2120458443777872170) | E— |
 | 夕阳海滩上戴墨镜的女子仰望天空 | KTCML | [GoodCase](https://goodcase.ai/cases/midjourney-detailed-prompt-best-for-midjourney-v6-dall-e-3-a-side-profile-shot-of-a-y-fcb55d576e6e) | [Media](https://media.goodcase.ai/cases/a11ccf92e1fc.mp4) | [Original](https://www.tiktok.com/@kyitharchanmyaelwinnn/video/7691970313613004063) | E— |
 | Midjourney：不露脸、用动画讲What If假设情景 | @daodao166888 | [GoodCase](https://goodcase.ai/cases/midjourney-what-if-19d148876c9a) | [Media](https://media.goodcase.ai/cases/f658b80b126a.mp4) | [Original](https://x.com/daodao166888/status/2117987979100914147) | E— |
 | 金色海岸漫步时光 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-cinematic-fashion-film-set-on-a-breathtaking-coastal-landscape-83b287d8aae4) | [Media](https://media.goodcase.ai/cases/577910827af2.mp4) | [Original](https://x.com/CaliraVal/status/2096833346555023816) | E— |
@@ -169,7 +170,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | 伊斯坦布尔旅拍漫游 | @Zyrellix | [GoodCase](https://goodcase.ai/cases/minimax-h3-a-continuous-4k-travel-vlog-video-featuring-a-young-east-asian-woman-with-long-763d933f6152) | [Media](https://media.goodcase.ai/cases/173f6dd36b17.mp4) | [Original](https://x.com/Zyrellix/status/2096817125864484954) | E— |
 | MiniMax H3 镜落 冰晶碎裂无缝循环特效视频 | @Cia0_exe | [GoodCase](https://goodcase.ai/cases/minimax-h3-be14aed5a842) | [Media](https://media.goodcase.ai/media/video/minimax-h3-be14aed5a842.mp4) | [Original](https://x.com/Cia0_exe/status/2082774526098874724) | E— |
 | 白衣女子的热带海岸漫步 | @CaliraVal | [GoodCase](https://goodcase.ai/cases/minimax-h3-created-with-minimax-h3-10c606612cf6) | [Media](https://media.goodcase.ai/cases/d621aec9e022.mp4) | [Original](https://x.com/CaliraVal/status/2104438855785136257) | E— |
-| MiniMax H3 GLACIA 冰晶网页交互演示视频 | @Cia0_exe | [GoodCase](https://goodcase.ai/cases/minimax-h3-glacia-2fde7e8c6f96) | [Media](https://media.goodcase.ai/media/video/minimax-h3-glacia-2fde7e8c6f96.mp4) | [Original](https://x.com/Cia0_exe/status/2083180088775045626) | E— |
 
 ## Derivation boundary
 

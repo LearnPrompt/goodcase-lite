@@ -52,21 +52,21 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 - Summary: Can we pretend we're DJs?, The worst best idea of the night. Three girls, one bench, and 50,000 people who never found o
 - Prompt excerpt:
 
-> Can we pretend we're DJs?, The worst best idea of the night.
+> CHARACTER SHEETS — FICTIONAL, TEXT-ONLY (NO PHOTO REFERENCE):
 >
-> Three girls, one bench, and 50,000 people who never found out they weren't supposed to be there.
+> MAYA: Spanish, mid-20s, around 5'6", slim build. Black hair, straight and glossy, worn in a slightly messy high ponytail with a few loose strands framing her face. Green eyes, straight dark eyebrows. Round glasses with a thin silver metal frame, always on. Small silver hoop earrings. Fair skin with natural texture and visible pores, a few faint freckles across the nose bridge only (much lighter than Sofia's). No tattoos, no visible marks or piercings beyond ears. Calm, dry facial expressions — she rarely smiles broadly, mostly small smirks.
 >
-> Made with Seedance 2.0 on @thankyouai_hq
+> NADIA: mid-20s, around 5'7", athletic build. Long, straight, electric-blue hair with visible dark roots, usually worn down and slightly tousled. Blue-grey eyes, strong dark eyebrows, full lips. Fair-to-olive skin, smooth, no visible tattoos. Minimal jewelry — small black stud earrings. Intense, guarded expression by default; rarely smiles, and when she does it's brief and subtle.
 >
-> 🎁 Want to try it yourself?
+> SOFIA: mid-20s, around 5'5", curvier build. Wavy, golden-blonde hair falling just past the shoulders, worn loose and natural. Blue-grey eyes, warm expressive eyebrows. Noticeable freckles scattered across her nose and both cheeks. Wide, easy, genuine smile — she's the most expressive and animated of the three. Gold small hoop earrings. Fair skin with a light golden undertone from sun exposure.
 >
-> Use my invitation code: 70WOYR and get 100 FREE credits to create your own AI videos.
+> EXCLUSIVE TRAITS — LOCKED, NEVER TRANSFER:
 >
-> Available for the first 99 users only!
+> Only Maya wears glasses and a high ponytail.
+> Only Nadia has blue hair.
+> Only Sofia has visible freckles and blonde hair.
 >
-> https://thankyouai.com/i/70WOYR
->
-> 👇 Prompt is in the comments!
+> THE FESTIVAL: Ibiza open-air electronic fe…
 
 ### E3 · Cyberpunk Holographic Dance Performance
 

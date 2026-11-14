@@ -1,38 +1,12 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 9 published Cases attributed to Zarnab_with_Ai. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 8 published Cases attributed to Zarnab_with_Ai. It is not an official Skill from that creator.
 
 ## Operating rule
 
 Choose one evidence card below as the anchor before drafting. Inspect its finished media, then state which traits will be preserved, replaced, and avoided. A title match alone is not evidence.
 
-### E1 · 孕肚里冒出打网球的卡通宝宝
-
-- Creator: @Zarnab_with_Ai
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d9a546c91842) · [finished media](https://media.goodcase.ai/cases/abd646af5aae.mp4) · [poster](https://media.goodcase.ai/cases/0a0347f9afe3.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2118533471786406031)
-- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, high-quality 3D animated cinematic comedy scene in a vertical 9:16 format. Scene 1: A beautiful pregnant young w…
-- Prompt excerpt:
-
-> Made with seedance 2.5
->
-> Prompt 👇
-> Create a cute, high-quality 3D animated cinematic comedy scene in a vertical 9:16 format.
->
-> Scene 1: A beautiful pregnant young woman with long, straight black hair, wearing a shiny pink satin two-piece outfit, is standing in a modern luxury kitchen, peacefully cutting fresh vegetables on a wooden chopping board. Warm lighting, elegant marble countertops, and realistic kitchen details.
->
-> Scene 2: Suddenly, a kitchen knife appears to float mysteriously in the air, creating a magical transition. Show a cinematic close-up of the woman's pregnant belly with soft, warm lighting.
->
-> Scene 3: Transition into a magical glowing tennis court with golden sparkling lights. An adorable little 3D cartoon baby boy with curly brown hair, a white headband, big expressive eyes, and a white tennis outfit appears holding a miniature tennis racket. He takes an energetic tennis stance and confidently prepares to hit a tennis ball.
->
-> Scene 4: Show the cute little tennis player running forward with an adorable but fierce expression, swinging his racket and hitting the ball with surprising power. Use dynamic camera movements and cinematic close-ups.
->
-> Scene 5: Return to the modern kitchen. The pregnant woman looks shocked and surprised. A handsome young man with curly brown hair, wearing a black sleeveless athletic shirt, appears beside her holding a tennis racket. He looks at her belly in amazement.
->
-> Scene 6: The man and woman exchange surprised expressions, then both burst into laughter, sharing a sweet and funny moment together.
->
-> Visual Style: Premium 3D Pixar-inspir…
-
-### E2 · 海滩上水獭为海龟叠石塔
+### E1 · 海滩上水獭为海龟叠石塔
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) · [finished media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-4baf2c6b5a8c.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2095823249968148533)
@@ -50,7 +24,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > End with a wide cinematic shot of the tiny turtle sitting beside the tall stack of smooth stones while the otter lies playfully on the sand. Cute comedic timing, expressive characters, soft rounded shapes, detailed fur, realistic sand and ocean textures, warm sunlight, gentle shadows, charming Pixar-like 3D animation, cinematic camera movement, shallow depth of field, high-quality character animation, wholesome and funny mood, smooth motion, vertical 9:16 composition, ultra-detailed 3D render, 4…
 
-### E3 · 沙发上相拥亲吻的萌兔
+### E2 · 沙发上相拥亲吻的萌兔
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) · [finished media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) · [poster](https://media.goodcase.ai/cases/ae82336c097b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2098728793703899603)
@@ -79,7 +53,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > VISUAL STYLE:
 > Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft…
 
-### E4 · 企鹅宝宝飞扑拥抱家人
+### E3 · 企鹅宝宝飞扑拥抱家人
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-b1495c3561d9) · [finished media](https://media.goodcase.ai/cases/13fffa5522fb.mp4) · [poster](https://media.goodcase.ai/cases/3ea9d5fc18dc.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2101989437181988957)
@@ -106,7 +80,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Scene 5 — Flying close-up:
 > Show the penguin floating above the camera with her wings fully extended. She looks down with a huge adorable smile, then moves closer toward the lens. Maintain consistent character design, pink bow, blue eyes, gray-white feath…
 
-### E5 · 母鸡护雏与老鹰夺粮
+### E4 · 母鸡护雏与老鹰夺粮
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d38a88505bc8) · [finished media](https://media.goodcase.ai/cases/c59715ae9b8d.mp4) · [poster](https://media.goodcase.ai/cases/aeba38bf8829.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2102580065972486422)
@@ -130,7 +104,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > Scene 4 — The nest:
 > Reveal a large nest made from branches on the mo…
 
-### E6 · 水獭伙伴的西瓜田夏日
+### E5 · 水獭伙伴的西瓜田夏日
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92) · [finished media](https://media.goodcase.ai/cases/22126411f4b5.mp4) · [poster](https://media.goodcase.ai/cases/d0d6ec323037.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2098952788835467439)
@@ -152,7 +126,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Cut to a relaxing scene where the character sits comfortably under a colorful beach umbrella on a small woven lounge chair, wearing a cute straw hat and enjoying the sunny afternoon. The atmosphere is peaceful, warm, playful, and…
 
-### E7 · 蓝围巾小水獭的飞越群山奇旅
+### E6 · 蓝围巾小水獭的飞越群山奇旅
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) · [finished media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) · [poster](https://media.goodcase.ai/cases/3bf9f7d54c88.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2096921381841813588)
@@ -186,7 +160,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Use a dramatic wide aerial shot showing the tiny character against the huge…
 
-### E8 · 小水獭与蓝色新朋友分享冰淇淋
+### E7 · 小水獭与蓝色新朋友分享冰淇淋
 
 - Creator: @Zarnab_with_Ai
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) · [finished media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) · [poster](https://media.goodcase.ai/cases/dd1c2293bbc7.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2097643808620196091)
@@ -210,19 +184,44 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >
 > Scene 5: The otter approaches the blue creature while holding its ice cream cone. They look at each other curiously and warmly. The otter happily offers th…
 
+### E8 · 害羞仓鼠捧玫瑰告白
+
+- Creator: @Zarnab_with_Ai
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-eec0708da6e5) · [finished media](https://media.goodcase.ai/cases/79470af69d95.mp4) · [poster](https://media.goodcase.ai/cases/683212be0052.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2101493389115953586)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated vertical video of a tiny fluffy golden-and-white hamster in a cozy war…
+- Prompt excerpt:
+
+> Made with seedance 2.5
+>
+> Prompt 👇
+> Create a cute, heartwarming, ultra-realistic 3D animated vertical video of a tiny fluffy golden-and-white hamster in a cozy warmly lit home interior.
+>
+> The hamster has extremely soft plush fur, huge glossy black eyes, rosy pink cheeks, a tiny pink nose, and an adorable innocent expression. It wears oversized pale-pink headphones, a large pink polka-dot bow on its head, and a delicate pink ribbon necklace with a tiny hanging name tag.
+>
+> Scene 1: The hamster slowly peeks from behind a white doorway, shyly looking toward the camera. It carefully steps out onto a polished warm wooden floor while maintaining eye contact with the viewer.
+>
+> Scene 2: The hamster walks forward toward the camera with tiny adorable steps and stops in the center of the room. Its ears and bow move naturally with each step. The background features a cozy wooden bookshelf, a warm table lamp, soft beige walls, and beautiful golden ambient lighting.
+>
+> Scene 3: The hamster looks directly into the camera with a sweet, innocent expression. After a brief moment, it gently reaches down and picks up a single beautiful red rose with its tiny paws.
+>
+> Scene 4: Holding the red rose in front of its body, the hamster smiles warmly at the camera. Its cheeks become slightly rosier, and it looks shy and affectionate.
+>
+> Final shot: The hamster closes its eyes with a big adorable smile while holding the red rose close to its chest. The moment feels wholesome, romantic, cute, and heartwarming.
+>
+> Camera: vertical 9:16, low eye-level camera angle, smooth slow camera movement, gentle push-in toward t…
+
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
 | --- | --- | --- | --- | --- | --- |
-| 孕肚里冒出打网球的卡通宝宝 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d9a546c91842) | [Media](https://media.goodcase.ai/cases/abd646af5aae.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2118533471786406031) | E1 |
-| 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E2 |
-| 沙发上相拥亲吻的萌兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) | [Media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | E3 |
-| 企鹅宝宝飞扑拥抱家人 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-b1495c3561d9) | [Media](https://media.goodcase.ai/cases/13fffa5522fb.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2101989437181988957) | E4 |
-| 母鸡护雏与老鹰夺粮 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d38a88505bc8) | [Media](https://media.goodcase.ai/cases/c59715ae9b8d.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2102580065972486422) | E5 |
-| 水獭伙伴的西瓜田夏日 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92) | [Media](https://media.goodcase.ai/cases/22126411f4b5.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098952788835467439) | E6 |
-| 蓝围巾小水獭的飞越群山奇旅 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) | [Media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2096921381841813588) | E7 |
-| 小水獭与蓝色新朋友分享冰淇淋 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) | [Media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097643808620196091) | E8 |
-| 害羞仓鼠捧玫瑰告白 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-eec0708da6e5) | [Media](https://media.goodcase.ai/cases/79470af69d95.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2101493389115953586) | E— |
+| 海滩上水獭为海龟叠石塔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c) | [Media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-4baf2c6b5a8c.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | E1 |
+| 沙发上相拥亲吻的萌兔 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) | [Media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | E2 |
+| 企鹅宝宝飞扑拥抱家人 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-b1495c3561d9) | [Media](https://media.goodcase.ai/cases/13fffa5522fb.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2101989437181988957) | E3 |
+| 母鸡护雏与老鹰夺粮 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d38a88505bc8) | [Media](https://media.goodcase.ai/cases/c59715ae9b8d.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2102580065972486422) | E4 |
+| 水獭伙伴的西瓜田夏日 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92) | [Media](https://media.goodcase.ai/cases/22126411f4b5.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2098952788835467439) | E5 |
+| 蓝围巾小水獭的飞越群山奇旅 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) | [Media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2096921381841813588) | E6 |
+| 小水獭与蓝色新朋友分享冰淇淋 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) | [Media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2097643808620196091) | E7 |
+| 害羞仓鼠捧玫瑰告白 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-eec0708da6e5) | [Media](https://media.goodcase.ai/cases/79470af69d95.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2101493389115953586) | E8 |
 
 ## Derivation boundary
 

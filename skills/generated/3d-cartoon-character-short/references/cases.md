@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 30 published Cases across 18 creators.
+This workflow is derived from 30 published Cases across 19 creators.
 
 ## Operating rule
 
@@ -140,12 +140,12 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Seedance 三十秒 3D 动画喜剧：妈妈断了 WiFi 之后 | @JuliaClarky | [GoodCase](https://goodcase.ai/cases/juliaclarky-seedance-ai-f648a434d526) | [Media](https://media.goodcase.ai/cases/8a80979ee021.mp4) | [Original](https://x.com/JuliaClarky/status/2089592644725043368) | E— |
 | 黏土动画讲述奥德修斯之旅 | @Caden_Flux | [GoodCase](https://goodcase.ai/cases/kling-asked-kling-ai-mcp-to-turn-a-simple-idea-into-a-claymation-explainer-0673dc5a6e22) | [Media](https://media.goodcase.ai/cases/45294dc44233.mp4) | [Original](https://x.com/Caden_Flux/status/2098097531851047001) | E— |
 | 黏土定格迷你能多益咖啡馆 | @MayaAiCreator | [GoodCase](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8) | [Media](https://media.goodcase.ai/cases/8c1002d79847.mp4) | [Original](https://x.com/MayaAiCreator/status/2091397686104588650) | E— |
+| Midjourney：不露脸，用2D卡通动画讲What If脑洞 | @daodao166888 | [GoodCase](https://goodcase.ai/cases/midjourney-2d-what-if-1b22977f2239) | [Media](https://media.goodcase.ai/cases/eec7c9b68de4.mp4) | [Original](https://x.com/daodao166888/status/2120458443777872170) | E— |
 | 黑色卡通霓虹巷战：兔子对决黑帮双煞 | @yourPlugAI | [GoodCase](https://goodcase.ai/cases/seedance-2-5-brawn-brawl-toon-noir-9ae09c32c6bf) | [Media](https://media.goodcase.ai/cases/5d7f359a929c.mp4) | [Original](https://x.com/yourPlugAI/status/2113995327183138938) | E— |
 | 暴雪中守护幼龙的金色猫咪骑士 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-breathtaking-24-second-live-action-fantasy-short-featuring-a-tiny-gold-8bc28535dc6b) | [Media](https://media.goodcase.ai/cases/e43fade1f805.mp4) | [Original](https://x.com/itxabdullaa/status/2110942575523922012) | E— |
 | 棕色黏土手工变身微缩海盗帆船 | @aynellex | [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-15-second-stop-motion-style-miniature-craft-c43cb05be517) | [Media](https://media.goodcase.ai/cases/7b913701291e.mp4) | [Original](https://x.com/aynellex/status/2109504237852139774) | E— |
 | 女子藏身地牢守护三只幼龙 | @Adnan_Ai2 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-66ee33ce05b6) | [Media](https://media.goodcase.ai/cases/8cbcfeb03aeb.mp4) | [Original](https://x.com/Adnan_Ai2/status/2113945930185732358) | E— |
 | 石屋炉火旁，女子悄悄喂养粉色幼龙 | @Adnan_Ai2 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-a5f5eb84df64) | [Media](https://media.goodcase.ai/cases/ed3b2e5bd263.mp4) | [Original](https://x.com/Adnan_Ai2/status/2113451899013996748) | E— |
-| 孕肚里冒出打网球的卡通宝宝 | @Zarnab_with_Ai | [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d9a546c91842) | [Media](https://media.goodcase.ai/cases/abd646af5aae.mp4) | [Original](https://x.com/Zarnab_with_Ai/status/2118533471786406031) | E— |
 | 宠物幼龙偷吃晚餐引发庭院闹剧 | @itxabdullaa | [GoodCase](https://goodcase.ai/cases/seedance-2-5-pure-cinematic-chaos-created-with-seedance-2-5-on-6d2ba401d257) | [Media](https://media.goodcase.ai/cases/76c9584a5d77.mp4) | [Original](https://x.com/itxabdullaa/status/2109603859513712776) | E— |
 | 石屋中少女秘密喂养粉色幼龙 | @SadiaMalik182 | [GoodCase](https://goodcase.ai/cases/seedance-2-5-she-raised-it-in-secret-fed-it-by-hand-968c74bd7401) | [Media](https://media.goodcase.ai/cases/175d30b71143.mp4) | [Original](https://x.com/SadiaMalik182/status/2113908264387981758) | E— |
 | Pixar 风格海盗厨师 ASMR 喜剧短片：Seedance 2.5 逐秒分镜 Prompt | @AiwithNomi | [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018) | [Media](https://media.goodcase.ai/cases/8815c71013d6.mp4) | [Original](https://x.com/AiwithNomi/status/2099872759866380704) | E— |
