@@ -1,6 +1,6 @@
 # Case evidence
 
-This workflow is derived from 106 published Cases across 56 creators.
+This workflow is derived from 103 published Cases across 55 creators.
 
 ## Operating rule
 
@@ -333,10 +333,10 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Bamboo Toy Car Transformation Vlog | @john87445528 | [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) | [Media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) | [Original](https://x.com/john87445528/status/2084644638724395138) | E— |
 | 电影感晨间健身日常 | @AIwithkhan | [GoodCase](https://goodcase.ai/cases/case-3bdeb046587d) | [Media](https://media.goodcase.ai/media/video/case-3bdeb046587d.mp4) | [Original](https://x.com/AIwithkhan/status/2081222954659234074) | E— |
 | 逼真的小狗睡衣自拍视频 | @winneravgwin | [GoodCase](https://goodcase.ai/cases/case-448c27e5bf12) | [Media](https://media.goodcase.ai/media/video/case-448c27e5bf12.mp4) | [Original](https://x.com/winneravgwin/status/2090631627844280421) | E— |
-| 沐浴后日常视频 | @liyue_ai | [GoodCase](https://goodcase.ai/cases/case-52df1b20ce74) | [Media](https://media.goodcase.ai/cases/67ced19a36df.mp4) | [Original](https://x.com/liyue_ai/status/2094773618685403149) | E— |
 | 写实男性网红故事板 | @Shorelyn_ | [GoodCase](https://goodcase.ai/cases/case-58e736edb65c) | [Media](https://media.goodcase.ai/media/video/case-58e736edb65c.mp4) | [Original](https://x.com/Shorelyn_/status/2079066277650600170) | E— |
 | 网红奢华别墅探店 | @techhalla | [GoodCase](https://goodcase.ai/cases/case-80317051f9f3) | [Media](https://media.goodcase.ai/media/video/case-80317051f9f3.mp4) | [Original](https://x.com/techhalla/status/2077516915195736088) | E— |
 | 超写实韩国河畔纪录片提示词 | @iamrealsnow | [GoodCase](https://goodcase.ai/cases/case-d346cb88c88e) | [Media](https://media.goodcase.ai/media/video/case-d346cb88c88e.mp4) | [Original](https://x.com/iamrealsnow/status/2080938085081403765) | E— |
+| 首尔秋日咖啡馆翻车Vlog | @Ciri_ai | [GoodCase](https://goodcase.ai/cases/ciri-ai-seedance-ai-516d7626ef5d) | [Media](https://media.goodcase.ai/cases/f3c8ca287810.mp4) | [Original](https://x.com/Ciri_ai/status/2094706780114952303) | E— |
 
 ## Derivation boundary
 

@@ -1,6 +1,6 @@
 # Case evidence
 
-This is an unofficial synthesis of a recurring method found in 11 published Cases attributed to MotionSites. It is not an official Skill from that creator.
+This is an unofficial synthesis of a recurring method found in 13 published Cases attributed to MotionSites. It is not an official Skill from that creator.
 
 ## Operating rule
 
@@ -179,7 +179,43 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 > ═══════════════════════════════════════
 > BACKGROUND VIDEO (exact URL…
 
-### E6 · Max Reed Portfolio
+### E6 · Laptop Portfolio
+
+- Creator: MotionSites
+- Evidence: [GoodCase](https://goodcase.ai/cases/laptop-portfolio) · [finished media](https://media.goodcase.ai/cases/93acf4ff372a.mp4) · [poster](https://media.goodcase.ai/cases/d1c4aa41b2e1.webp) · [original source](https://motionsites.ai/?prompt=laptop-portfolio)
+- Summary: 复制完整建站 Prompt 到 AI 编程工具（Cursor、v0、Claude 等）生成「Laptop Portfolio」对应的页面区块，替换文案、品牌与素材链接即可复用。 MotionSites 免费 Prompt 案例；站点不公开创作者，归属挂 MotionSites。
+- Prompt excerpt:
+
+> # Haldoren — "Laptop Dive" Portfolio Hero: Build Brief
+>
+> Build a single-file (`index.html`, inline CSS and JS, no frameworks, no build step) one-screen portfolio hero for a fictional motion designer, **Haldoren**.
+>
+> On load you see a photographic hero:
+> - a young man in a black leather jacket, white shirt and dark-red tie stands in a deep-green studio, holding a retro brick phone to his ear with his **right** hand and an open silver laptop in his **left**;
+> - a giant white "HALDOREN" wordmark sits *behind* him;
+> - a handwritten "motion-design" sits over the wordmark;
+> - a lanyard ID badge hangs from the top right.
+>
+> When you scroll, a 5-second AI camera move (played in ~1.7 s) pushes into the laptop. The laptop floats out of his hand, turns square to camera and fills the view. Then the laptop screen plays a portfolio case video, framed by a punched paper ticket card, a short description and round prev/next buttons. Cases switch in place. "my studio" eases back out to the hero.
+>
+> The page never scrolls. `html, body` are `height:100%; overflow:hidden`. Every interaction is captured (wheel, touch, keys, clicks).
+>
+> ---
+>
+> ## 1. Assets (use these exact URLs — do not download, re-host, crop or re-encode)
+>
+> All images go through the images.higgs.ai wrapper:
+>
+> ```
+> HX(u) = 'https://images.higgs.ai/?default=1&output=webp&url=' + encodeURIComponent(u) + '&w=2048&q=85'
+> CF    = 'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/'
+> ```
+>
+> | Key | Raw result URL (wrap with HX unless noted) | What it is |
+> |---|---|---|
+> | `plate` | `CF + 'hf_20261111_001031_a09dc558-2c69-4e05-83a4-5f01e…
+
+### E7 · Max Reed Portfolio
 
 - Creator: MotionSites
 - Evidence: [GoodCase](https://goodcase.ai/cases/max-reed-portfolio) · [finished media](https://media.goodcase.ai/cases/345c1b608f88.webp) · [original source](https://motionsites.ai/?prompt=max-reed-portfolio)
@@ -203,7 +239,7 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >   - 2023-Now · Freelance Creative · Solo Studio
 >   - 2020-2023 · Head of Brand Design · Rove…
 
-### E7 · Modern Agency
+### E8 · Modern Agency
 
 - Creator: MotionSites
 - Evidence: [GoodCase](https://goodcase.ai/cases/modern-agency) · [finished media](https://media.goodcase.ai/cases/4782ee3ed985.webp) · [original source](https://motionsites.ai/?prompt=modern-agency)
@@ -231,43 +267,6 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 >   - Clock icon (lucide, size 14) + live London time "{HH:MM} in London" (13px, text-gray-600)
 >   - CTA button: bg-gray-900, text-white, 13p…
 
-### E8 · Portfolio About
-
-- Creator: MotionSites
-- Evidence: [GoodCase](https://goodcase.ai/cases/portfolio-about) · [finished media](https://media.goodcase.ai/cases/64ad3c467e32.webp) · [original source](https://motionsites.ai/?prompt=portfolio-about)
-- Summary: 个人站的 About Me 区块，React + framer-motion，Kanit 字体全字重加载，#0C0C0C 暗底。
-- Prompt excerpt:
-
-> **Prompt:**
->
-> Create an "About Me" section using React, Tailwind CSS, and **framer-motion**. The site uses **Google Font "Kanit"** (weights 300-900) and a dark background `#0C0C0C`.
->
-> **Section layout:**
-> - Full-width section, `min-h-screen`, flexbox column, centered both axes
-> - Padding: `px-5 sm:px-8 md:px-10 py-20`
-> - Background: `#0C0C0C` (inherited from page)
-> - `position: relative` -- the section has 4 decorative floating images placed absolutely in the corners
->
-> **4 decorative corner images (absolute positioned, z-0):**
->
-> 1. **Top-left** -- Moon icon
->    - URL: `https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/moon_icon.11395d36.png`
->    - Position: `top-[4%] left-[1%] sm:left-[2%] md:left-[4%]`
->    - Size: `w-[120px] sm:w-[160px] md:w-[210px] h-auto`
->    - Fade-in animation: `delay: 0.1`, slides from left (`x: -80, y: 0`), `duration: 0.9`
->
-> 2. **Bottom-left** -- 3D object
->    - URL: `https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/p59_1.4659672e.png`
->    - Position: `bottom-[8%] left-[3%] sm:left-[6%] md:left-[10%]`
->    - Size: `w-[100px] sm:w-[140px] md:w-[180px] h-auto`
->    - Fade-in animation: `delay: 0.25`, slides from left (`x: -80, y: 0`), `duration: 0.9`
->
-> 3. **Top-right** -- Lego icon
->    - URL: `https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/lego_icon-1.703bb594.png`
->    - Position: `top-[4%] right-[1%] sm:right-[2%] md:right-[4%]`
->    - Size: `w-[120px] sm:w-[160px] md:w-[210px] h-auto`
->    - Fade-in animation: `delay: 0.15`, slides…
-
 ## Evidence index
 
 | Case | Creator | GoodCase evidence | Finished media | Original source | Card |
@@ -277,12 +276,14 @@ Choose one evidence card below as the anchor before drafting. Inspect its finish
 | Bold Studio | MotionSites | [GoodCase](https://goodcase.ai/cases/bold-studio) | [Media](https://media.goodcase.ai/cases/7f31efa5103a.webp) | [Original](https://motionsites.ai/?prompt=bold-studio) | E3 |
 | Creative Studio | MotionSites | [GoodCase](https://goodcase.ai/cases/creative-studio) | [Media](https://media.goodcase.ai/cases/165720a4ee9a.webp) | [Original](https://motionsites.ai/?prompt=creative-studio) | E4 |
 | Digital Director | MotionSites | [GoodCase](https://goodcase.ai/cases/digital-director) | [Media](https://media.goodcase.ai/cases/2b0c6f1dcdb5.mp4) | [Original](https://motionsites.ai/?prompt=digital-director) | E5 |
-| Max Reed Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/max-reed-portfolio) | [Media](https://media.goodcase.ai/cases/345c1b608f88.webp) | [Original](https://motionsites.ai/?prompt=max-reed-portfolio) | E6 |
-| Modern Agency | MotionSites | [GoodCase](https://goodcase.ai/cases/modern-agency) | [Media](https://media.goodcase.ai/cases/4782ee3ed985.webp) | [Original](https://motionsites.ai/?prompt=modern-agency) | E7 |
-| Portfolio About | MotionSites | [GoodCase](https://goodcase.ai/cases/portfolio-about) | [Media](https://media.goodcase.ai/cases/64ad3c467e32.webp) | [Original](https://motionsites.ai/?prompt=portfolio-about) | E8 |
+| Laptop Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/laptop-portfolio) | [Media](https://media.goodcase.ai/cases/93acf4ff372a.mp4) | [Original](https://motionsites.ai/?prompt=laptop-portfolio) | E6 |
+| Max Reed Portfolio | MotionSites | [GoodCase](https://goodcase.ai/cases/max-reed-portfolio) | [Media](https://media.goodcase.ai/cases/345c1b608f88.webp) | [Original](https://motionsites.ai/?prompt=max-reed-portfolio) | E7 |
+| Modern Agency | MotionSites | [GoodCase](https://goodcase.ai/cases/modern-agency) | [Media](https://media.goodcase.ai/cases/4782ee3ed985.webp) | [Original](https://motionsites.ai/?prompt=modern-agency) | E8 |
+| Portfolio About | MotionSites | [GoodCase](https://goodcase.ai/cases/portfolio-about) | [Media](https://media.goodcase.ai/cases/64ad3c467e32.webp) | [Original](https://motionsites.ai/?prompt=portfolio-about) | E— |
 | Portfolio Cosmic | MotionSites | [GoodCase](https://goodcase.ai/cases/portfolio-cosmic) | [Media](https://media.goodcase.ai/cases/cabdb2cf1961.gif) | [Original](https://motionsites.ai/?prompt=portfolio-cosmic-hero) | E— |
 | Prisma Creative Studio | MotionSites | [GoodCase](https://goodcase.ai/cases/prisma-creative-studio) | [Media](https://media.goodcase.ai/cases/ba4c62201b67.webp) | [Original](https://motionsites.ai/?prompt=prisma-landing) | E— |
 | Subscription Agency | MotionSites | [GoodCase](https://goodcase.ai/cases/subscription-agency) | [Media](https://media.goodcase.ai/cases/5762e3699e39.mp4) | [Original](https://motionsites.ai/?prompt=subscription-agency) | E— |
+| Video Studio | MotionSites | [GoodCase](https://goodcase.ai/cases/video-studio) | [Media](https://media.goodcase.ai/cases/f0d861adcff8.mp4) | [Original](https://motionsites.ai/?prompt=video-studio) | E— |
 
 ## Derivation boundary
 
